@@ -1,3 +1,6 @@
 node_modules/
 .env
 data/cache/
+
+# Catalog PDFs are too large for GitHub; only their extracted text goes into data/kb.json.
+catalogs/*.pdf

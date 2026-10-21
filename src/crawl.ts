@@ -1,14 +1,16 @@
 // Builds the knowledge base from the public parts of maverickled.com: the product feed and
 // product pages, collections, information pages, blog articles, and the PDFs they link to
-// (spec sheets, manuals, the catalog). Writes data/kb.json for the chat server and
-// data/kb.md for people to read. Fetches only paths robots.txt allows, one request at a time.
+// (spec sheets, manuals), plus the catalog PDFs in the catalogs folder. Writes data/kb.json for
+// the chat server and data/kb.md for people to read. Fetches only paths robots.txt allows,
+// one request at a time.
 import crypto from "node:crypto";
 import fs from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import * as cheerio from "cheerio";
 import { extractText, getDocumentProxy } from "unpdf";
-import { collectedOn, countByType, estimateTokens, type Doc, type KnowledgeBase } from "./kb.ts";
+import { readCatalogs } from "./catalogs.ts";
+import { countByType, estimateTokens, saveKnowledgeBase, type Doc, type KnowledgeBase } from "./kb.ts";
 
 const SITE = "https://maverickled.com";
 const USER_AGENT = "MaverickKB-Test/0.1 (internal knowledge-base prototype)";
@@ -402,22 +404,6 @@ function pdfName(ref: PdfRef): string {
 
 // ---------- Output ----------
 
-function toMarkdown(kb: KnowledgeBase): string {
-  const sections: [Doc["type"], string][] = [
-    ["product", "Products"],
-    ["collection", "Collections"],
-    ["page", "Pages"],
-    ["article", "Articles"],
-    ["pdf", "PDF documents"],
-  ];
-  const parts = [`# Maverick LED knowledge base\n\nSource: ${kb.source}, collected ${collectedOn(kb)}.`];
-  for (const [type, heading] of sections) {
-    const docs = kb.docs.filter((d) => d.type === type);
-    parts.push(`## ${heading} (${docs.length})`, ...docs.map((d) => `### ${d.title}\n\n${d.url}\n\n${d.text}`));
-  }
-  return `${parts.join("\n\n")}\n`;
-}
-
 async function main(): Promise<void> {
   console.log(`Building the knowledge base from ${SITE}`);
   await fs.mkdir(dataDir, { recursive: true });
@@ -425,21 +411,23 @@ async function main(): Promise<void> {
   const products = await crawlProducts(collections.byProduct);
   const pages = await crawlPages();
   const pdfDocs = await crawlPdfs();
+  console.log("Catalogs in the catalogs folder:");
+  const catalogPages = await readCatalogs(path.join(root, "catalogs"));
 
   const kb: KnowledgeBase = {
     source: SITE,
     builtAt: new Date().toISOString(),
-    docs: [...products, ...collections.docs, ...pages, ...pdfDocs],
+    docs: [...products, ...collections.docs, ...pages, ...pdfDocs, ...catalogPages],
   };
-  await fs.writeFile(path.join(dataDir, "kb.json"), JSON.stringify(kb, null, 1));
-  await fs.writeFile(path.join(dataDir, "kb.md"), toMarkdown(kb));
+  await saveKnowledgeBase(kb, dataDir);
 
   const counts = countByType(kb);
   const chars = kb.docs.reduce((sum, d) => sum + d.text.length, 0);
   console.log(
     `\nWrote data/kb.json and data/kb.md: ${kb.docs.length} documents ` +
       `(${counts.product} products, ${counts.collection} collections, ${counts.page} pages, ` +
-      `${counts.article} articles, ${counts.pdf} PDFs), about ${estimateTokens(chars).toLocaleString()} tokens.`,
+      `${counts.article} articles, ${counts.pdf} PDFs, ${counts.catalog} catalog pages), ` +
+      `about ${estimateTokens(chars).toLocaleString()} tokens.`,
   );
   if (warnings.length) console.log(`${warnings.length} warning(s):\n${warnings.map((w) => `  - ${w}`).join("\n")}`);
 }

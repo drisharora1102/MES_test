@@ -13,6 +13,7 @@ import http from "node:http";
 import os from "node:os";
 import path from "node:path";
 import readline from "node:readline";
+import { pipeline } from "node:stream/promises";
 import { fileURLToPath } from "node:url";
 import { promisify } from "node:util";
 import Anthropic from "@anthropic-ai/sdk";
@@ -91,7 +92,7 @@ How to reply:
 - When a request is vague, follow the product finder guide below: ask one short question at a time until you can name specific products. When a request is already specific, answer it directly.
 - Whenever you ask the person a question, end your message with a last line listing the likely answers, in exactly this form: [[options: Warehouse | Office | Parking lot | Not sure]]. Give two to six short answers. The chat shows them as buttons.
 - Use only facts from the product information. If it doesn't cover something, say you don't have that detail and suggest checking the spec sheet or asking the product team; never guess.
-- Link a product's page the first time you mention it, and a spec sheet when you quote from it. Use only URLs that appear in the product information; never make one up.
+- Link a product's page the first time you mention it, and the spec sheet or catalog page you quote from. Our printed catalog has products and ordering details the website may not. Use only URLs that appear in the product information; never make one up.
 - If two sources disagree in a way that matters for the question, such as a product page and an older spec sheet, say so in a sentence.
 - You have no prices, stock or lead times. Don't state or estimate them; point to NetSuite for those.
 - Keep formatting light: no headings, a short list only for three or more products, and a table only when someone asks for a comparison.
@@ -417,6 +418,7 @@ const server = http.createServer(async (req, res) => {
   try {
     if (req.method === "POST" && pathname === "/api/chat") return await handleChat(req, res);
     if (req.method === "GET" && pathname === "/api/info") return sendJson(res, 200, info);
+    if (req.method === "GET" && pathname.startsWith("/catalogs/")) return await sendCatalog(pathname, res);
     const asset = req.method === "GET" && Object.hasOwn(ASSETS, pathname) ? ASSETS[pathname] : undefined;
     if (!asset) throw new HttpError(404, "Not found");
     res.writeHead(200, {
@@ -434,6 +436,24 @@ const server = http.createServer(async (req, res) => {
     sendJson(res, 500, { error: "Server error" });
   }
 });
+
+/** A catalog PDF from the catalogs folder, so answers can link to a page (".../file.pdf#page=12"). */
+async function sendCatalog(pathname: string, res: http.ServerResponse): Promise<void> {
+  let file: string;
+  try {
+    file = path.basename(decodeURIComponent(pathname));
+  } catch {
+    throw new HttpError(404, "Not found");
+  }
+  const full = path.join(root, "catalogs", file);
+  if (!/\.pdf$/i.test(file) || !fs.existsSync(full)) throw new HttpError(404, "Not found");
+  res.writeHead(200, {
+    "Content-Type": "application/pdf",
+    "Content-Length": fs.statSync(full).size,
+    "X-Content-Type-Options": "nosniff",
+  });
+  await pipeline(fs.createReadStream(full), res);
+}
 
 function sendJson(res: http.ServerResponse, status: number, body: unknown): void {
   res.writeHead(status, { "Content-Type": "application/json; charset=utf-8" });
@@ -642,7 +662,8 @@ server.listen(PORT, HOST, () => {
   console.log(`Maverick KB chat: http://${HOST === "0.0.0.0" ? "localhost" : HOST}:${PORT}`);
   console.log(
     `Knowledge base: ${kb.docs.length} documents (${counts.product} products, ${counts.collection} collections, ` +
-      `${counts.page} pages, ${counts.article} articles, ${counts.pdf} PDFs), collected ${collectedOn(kb)}, ` +
+      `${counts.page} pages, ${counts.article} articles, ${counts.pdf} PDFs, ${counts.catalog} catalog pages), ` +
+      `collected ${collectedOn(kb)}, ` +
       `about ${kbTokens.toLocaleString()} tokens`,
   );
   console.log(

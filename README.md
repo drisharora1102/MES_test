@@ -43,6 +43,8 @@ The server runs Claude Code's command-line tool signed in as you. It finds the c
 - the information pages, policies and blog articles
 - the PDFs those pages link to: spec sheets and installation manuals
 
+It also reads every catalog PDF in the `catalogs/` folder, one document per page, so answers can link to the exact page. To add or replace a catalog without re-crawling the website, drop the PDF in `catalogs/` and run `npm run add-catalogs`, then restart the server. Catalog PDFs stay out of Git because they are too large for GitHub; their text goes into the knowledge base.
+
 It writes `data/kb.json` for the server, and `data/kb.md` with the same content as one readable document. Downloaded PDFs are cached in `data/cache/`. Run the crawl again whenever the website changes.
 
 The run on 20 Oct 2026 collected 302 documents (138 products, 54 collections, 16 pages, 39 articles and 55 PDFs), about 260,000 tokens.

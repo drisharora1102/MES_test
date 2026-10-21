@@ -9,6 +9,7 @@
   },
   "scripts": {
     "crawl": "node src/crawl.ts",
+    "add-catalogs": "node src/add-catalogs.ts",
     "start": "node src/server.ts",
     "typecheck": "tsc --noEmit"
   },

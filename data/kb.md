@@ -1,6 +1,6 @@
 # Maverick LED knowledge base
 
-Source: https://maverickled.com, collected 2026-10-21.
+Source: https://maverickled.com, collected 2026-10-20.
 
 ## Products (138)
 
@@ -11651,6 +11651,5504 @@ IES DATA
 Documents:
 - PDF: https://energyxperts.sharepoint.com/:b:/s/SalesDepartment/ERo58DsLqEFFgLp-elSOFlIBH6AZwdZmtIrSFHu8lHoRgA?e=6jdjLQ
 - PDF: https://cdn.shopify.com/s/files/1/2247/6187/files/LED_Magnetic_Strip_Retrofit_Choice_20201207.pdf?v=1608056069
+
+## Catalog pages (97)
+
+### 2026 MES Catalog, page 2
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=1
+
+From the 2026 MES Catalog, page 2.
+
+Est. in 2013, we manufacture high-performance commercial LED
+lighting, Lighting Controls, EV Chargers for businesses that expect
+more. Our energy-efficient solutions cut operating costs, unlock
+utility incentives, and support long-term sustainability. Designed to
+keep buildings future-ready, our modern and resilient products
+elevates every environment. We also equip channel partners with
+training and support, helping them deliver smarter energy solutions
+and grow their business.
+BUILDINGʼS LIFE COACHTM
+PHILOSOPHYABOUT US
+BUILDINGʼS LIFE COACHTM
+PHILOSOPHYWHY CHOOSE MES?
+EXTRA-MILE
+WARRANTY
+7-year in-house warranty
+outperforms competitors,
+backed by quick support
+and replacements to keep
+the site running without
+downtime.
+TRUSTED
+SUPPORT
+Our technical support includes
+dedicated in-field personnel
+who provide hands-on
+expertise, rapid troubleshooting,
+and on-site assistance to ensure
+proper installation, and minimal
+downtime across all project
+phases.
+PHOTOMETRICS
+Deliver photometric files
+fast 24 - 48 hours, helping
+you stay on schedule,
+respond quickly, and keep
+every project moving
+efficiently.
+QUICK
+TURNAROUND
+With 200,000 sq. ft. of
+warehouse space and
+$18M in ready-to-ship
+inventory, we deliver fast,
+reliable fulfillment with
+zero delays.
+COMMISSIONING
+Provide an integrated,
+end-to-end commissioning
+experience for Networked
+Lighting Controls (NLC) and EV
+chargers, ensuring system
+optimization in alignment with
+project-specific requirements.
+ALWAYS-ON
+SUPPORT
+Always-on support delivers
+continuous, reliable assistance
+through dedicated account
+managers and responsive service
+channels, ensuring uninterrupted
+operations, rapid issue resolution,
+and peace of mind.
+
+### 2026 MES Catalog, page 3
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=2
+
+From the 2026 MES Catalog, page 3.
+
+BUILDINGʼS LIFE COACHTM
+PHILOSOPHYBUILDINGʼS LIFE COACHTM PHILOSOPHY
+Cutting-Edge
+Technology
+Hassle-free
+Installation
+No Harmful
+Chemicals
+Low-emission
+Products
+Eco-friendly
+Packaging
+Federal Tax Credits
+Technical & Sales Training
+Long-term Growth Support
+Ongoing Technical Assistance
+Improved Building Performance
+Simplified Maintenance & Operations
+Utility Rebates
+State & Local Incentives
+Guided by the philosophy of a "Building's Life Coach," our strategic vision aims to markedly
+extend the building's lifespan through annual, incremental building upgrades. This tailored
+approach involves tapping into diverse resources-utility incentives, federal and state
+support, allocated budgets, and savings accrued from preceding years. The incorporation of
+energy-efficient technologies, fueled by utility incentives, not only curtails operational costs but
+also aligns the building with sustainable practices, minimizing its environmental impact.
+
+### 2026 MES Catalog, page 4
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=3
+
+From the 2026 MES Catalog, page 4.
+
+NETWORK LIGHTING CONTROL
+SYSTEM FUNCTIONALITY
+(NLC) systems are intelligent lighting system that connect luminaires, sensors, and controls into network, enabling
+automated operation, centralized management, energy optimization, code compliance, and real-time monitoring to
+improve efficiency, occupant comfort, and overall building performance across retail, commercial and industrial
+facilities.
+BLUETOOTH MESH
+Bluetooth Mesh is a secure,
+low-power wireless protocol
+enabling many-to-many
+communication between
+lighting devices, providing
+scalable, reliable, and resilient
+control across large facilities.
+DLC / NLC ROLE
+The DLC NLC role defines
+system requirements ensuring
+energy rebates eligibility,
+regulatory compliance, verified
+savings, and standardized
+networked lighting performance.
+HIGH-END TRIM
+High-End Trim sets a maximum
+light output limit in networked
+lighting controls, preventing
+over-illumination, reducing
+energy use, improving comfort,
+utility rebate requirements.
+DAYLIGHT HARVESTING
+Daylight harvesting
+automatically adjusts artificial
+lighting based on available
+natural light, maintaining
+illumination targets and reducing
+energy consumption.
+OCCUPANCY/VACANCY
+Occupancy/Vacancy uses sensors
+to automatically turn lights ON
+when spaces are occupied and
+OFF or dim when unoccupied,
+improving energy efficiency,
+comfort, and code compliance.
+PHOTOCELL CONTROL
+Photocell control
+automatically turns lighting on
+or off using ambient light
+levels for efficient exterior and
+perimeter lighting operation.
+BI-LEVEL DIMMING
+Bi-level dimming switches
+lighting between full and
+reduced levels based on
+occupancy, delivering energy
+savings and extended fixture
+life.
+SCHEDULING
+Scheduling programs lighting
+behavior by time and supporting
+work hours, overrides, and
+energy-efficient facility operation.
+ENERGY MONITORING
+Energy monitoring provides
+real-time and historical lighting
+consumption data enabling
+compliance verification,
+performance analysis, and
+continuous energy optimization.
+
+### 2026 MES Catalog, page 5
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=4
+
+From the 2026 MES Catalog, page 5.
+
+FIXTURE LOGO
+SENSOR LOGO
+WARRANT Y
+FIXTURE LOGO
+Selectable Wattage
+Selectable Wattage allows users to adjust a
+fixtureʼs power output to fine-tune brightness.
+Correlated Color Temp (CCT)
+CCT defines the color appearance of light,
+measured in Kelvin, from warm to cool.
+CCT
+TUNABLE
+High Lumen
+High Lumen refers to lighting with high
+brightness, delivering greater light output for
+large spaces.HIGH LUMEN
+Photocell
+A Photocell is a light sensor that automatically
+turns lighting on or off based on ambient
+daylight.PHOTOCELL
+Dark Sky Compliant
+Dark Sky Compliant lighting minimizes uplight
+and glare to reduce light pollution and protect
+night skies.
+DA R K S KY
+COMPLIANT
+Dimmable
+Dimmable means a lighting product can adjust
+brightness levels to match application needs and
+save energy.
+Sensor Ready
+Sensor Ready means the fixture is preconfigured
+to easily integrate lighting controls.
+SENSOR READY
+NEMA 4X
+NEMA 4X ratings indicate enclosures resist
+water, dust, corrosion, and harsh environmental
+conditions.
+IK Rating
+IK Rating measures a productʼs resistance to
+mechanical impact and physical damage.
+NSF
+NSF Certification confirms products meet strict
+public health and safety standards for
+sanitation-sensitive environments.IK 10
+Wet Location
+Wet Location means the product is safe for use
+where direct water exposure occurs.
+ETL Listed For Damp Location
+ETL Listed for Damp Location means the product
+is certified safe for humid, moisture-prone indoor
+environments.
+KV Surge Protection
+KV Surge Protection measures a deviceʼs ability
+to withstand high-voltage electrical surge
+events.
+Photocell Ready
+Photocell Ready means the fixture is pre-wired
+to easily add a photocell.PHOTOCELL
+READY
+QSR
+QSR allows fast, plug-and-play connection of
+compatible sensors, enabling quick lighting control
+installation without complex wiring or setup.
+SENSOR READY
+TECHNOLOGY
+ZSR
+An industry-standard receptacle enabling fast,
+plug-and-play integration of occupancy sensors,
+photocells, and NLC for 0–10V dimming fixtures.
+SENSOR READY
+TECHNOLOGY
+3PSR
+Connects through a 3Pin interface, enabling simple
+communication between the sensor & LED fixture for
+functions like occupancy detection or light control.
+SENSOR READY
+TECHNOLOGY
+PQSR
+PQSR refers to a sensorʼs ability to detect motion
+quickly and respond rapidly for immediate
+lighting control.
+SENSOR READY
+TECHNOLOGY
+5 Year Warranty
+Delivers protection for NLC controls, offering
+greater reliability, long-term assurance, and
+complete peace of mind.
+7 Year Warranty
+All fixtures include a best-in-class 7-year
+warranty for long-term reliability and peace of
+mind.
+10 Year Warranty
+Optional 10-year warranty available, covering
+both products and labor for extended
+protection.
+5 YEARS 10 YEARS7 YEARS
+UL Certified
+For over 100 years, UL has advanced public
+safety by setting standards and testing products
+for compliance.
+ETL Certified
+The ETL Mark confirms compliance with North
+American safety standards & is accepted by
+AHJs & code officials across the U.S. & Canada.
+DLC Listed Premium Certified
+Nonprofit advancing high-quality, energy-efficient
+lighting through collaboration with utilities,
+manufacturers, designers & government entities.PREMIUM
+DLCL I S T E D
+DLCTM
+NLC5 Certified
+Nonprofit advancing high-quality, energy-efficient
+lighting through collaboration with utilities,
+manufacturers, designers & government entities.
+FCC Certified
+FCC Certification confirms electronic products
+comply with U.S. electromagnetic interference
+and radio frequency regulations.
+Energy Star Certified
+ENERGY STAR is a U.S. program certifying
+energy-efficient products that reduce energy use
+and operating costs.
+CERTIFICATE
+
+### 2026 MES Catalog, page 6
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=5
+
+From the 2026 MES Catalog, page 6.
+
+AMAYA PRO NLC SYSTEM
+• PSA Level 3 Security
+• Clock-Dial Scheduling
+• Personalized Remote Control
+• IR Remote Based Commissioning
+• High Processing Gateway
+LED VOLUMETRIC TROFFER
+SYCAMORE GSR+ (2'x2' | 2'x4')
+• UL & DLC Premium
+• IP20 Rated
+• QSR & PQSR Sensor-Ready Design
+• High Output Panel 50W and 72W
+LED BACK-LIT FLAT PANEL
+BIRCH GSR+ (1'x4' | 2'x2' | 2'x4')
+• UL & DLC Premium
+• IP20 Rated
+• QSR & PQSR Sensor-Ready Design
+• High Output Panel 50W and 72W
+LED STRIP FIXTURE RETROFIT
+LILY GSR+ (4' | 8')
+• UL & DLC Premium
+• IP20 Rated
+• QSR & PQSR Sensor-Ready Design
+• Snap-On Retrofit Design
+LED MAGNETIC STRIP RETROFIT
+IRIS GSR (2' | 4')
+• ETL & DLC Premium
+• IP20 Rated
+• QSR Sensor-Ready Design
+• Strips & Driver are Magnetized
+NEW PRODUCTS
+Spec
+Sheet
+Spec
+Sheet
+Spec
+Sheet
+Spec
+Sheet
+Spec
+Sheet
+
+### 2026 MES Catalog, page 7: LED HIGH BAY LINEAR PINE SSR (400W)
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=6
+
+From the 2026 MES Catalog, page 7.
+
+NEW PRODUCTS
+LED BACK-LIT PANEL SNAP-FITTM
+LOTUS GSR+ (2'x2' | 2'x4')
+• UL & DLC Premium
+• IP20 Rated
+• QSR & PQSR Sensor-Ready Design
+• 150 LM/W Efficiency
+• Air Vent Return Option
+LED LINEAR HIGH BAY
+SEQUOIA GSR
+• UL & DLC Premium
+• IP20 Rated
+• ZSR Sensor-Ready Design
+• 10KV Surge Protection
+• 6FT Cord & Aircraft Cable Included
+LED AREA LIGHT
+WOLF GSR+
+• UL & DLC Premium
+• IP65 Rated
+• ZSR Sensor-Ready Design
+• 10KV Surge Protection
+• ONE-BOLT Mounting System
+LED HIGH BAY LINEAR
+PINE SSR (400W)
+• UL & DLC Premium
+• IP20 Rated
+• ZSR Sensor-Ready Design
+• 10KV Surge Protection
+• 6FT Cord & Aircraft Cable Included
+LED VOLUMETRIC TROFFER SNAP-FITTM
+LILAC GSR+ (2'x2' | 2'x4')
+• UL & DLC Premium
+• IP20 Rated
+• QSR & PQSR Sensor-Ready Design
+• 150 LM/W Efficiency
+• Air Vent Return Option
+Spec
+Sheet
+Spec
+Sheet
+Spec
+Sheet
+Spec
+Sheet
+Spec
+Sheet
+
+### 2026 MES Catalog, page 8
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=7
+
+From the 2026 MES Catalog, page 8.
+
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+TABLE OF CONTENT
+Emergency Drivers
+Energy Efficient Products
+Stand Alone Control
+Tenons & Mount
+Outdoor Fixtures
+High Bay Fixtures
+Indoor Fixtures
+Best Selling Products
+SnapFit Fixtures
+Retrofit Kits
+
+### 2026 MES Catalog, page 9: LED EMERGENCY DRIVER LED EMERGENCY DRIVER (HELIOS), LED EMERGENCY DRIVER (HELIOS)
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=8
+
+From the 2026 MES Catalog, page 9.
+
+LED EMERGENCY DRIVER
+LED EMERGENCY DRIVER (HELIOS)
+WITH LIFE P04 BATTERY
+8W - 06759
+LED EMERGENCY DRIVER
+(HELIOS) LINEAR
+15W - 06754
+LED EMERGENCY DRIVER
+(HELIOS) LINEAR
+20W - 06760
+25W - 06755
+LED EMERGENCY DRIVER
+(HELIOS) LINEAR
+40W - 06756
+LED EMERGENCY DRIVER
+(HELIOS) ROUND
+40W - 06758
+Spec Sheet
+Spec Sheet
+Spec Sheet
+Spec Sheet
+Spec Sheet
+
+### 2026 MES Catalog, page 10: LED TUBES (GLADIOLA FAMILY)
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=9
+
+From the 2026 MES Catalog, page 10.
+
+LED TUBES
+(GLADIOLA FAMILY)
+CERTIFICATIONS
+PRODUCT FEATURES
+Features:
+PREMIUM
+DLCL I S T E D
+0-10V
+DIMMABLE
+20
+• Shatter-Resistant Design: PET safety coating enhances
+durability for demanding commercial environments.
+• Flexible Line-Voltage Wiring: Supports both single-ended
+and double-ended 120–277V installations.
+• Dual-Mode Operation: Works with compatible fluorescent
+ballasts or direct-wire line voltage.
+• 4 CCT Selectable: Options available from 3500K, 4000K,
+5000K, or 6500K in one tube.
+• T8 Fluorescent Replacement: Direct upgrade for
+traditional 4 ft fluorescent T8 lamps.
+T8 Type B Dual End Bypass
+6W 1,080 LM09230 PQLGVYFU 180 LM/W4000K 120-277V White
+6W 1,080 LM09231 PRPF5H8T 180 LM/W5000K 120-277V White
+9W 1,650 LM09232 POSNMKKG 180 LM/W4000K 120-277V White
+9W 1,650 LM09233 P9IT03CA 180 LM/W5000K 120-277V White
+2ʼ
+2ʼ
+4ʼ
+4ʼ
+Ordering Code DLC ID# WattsSize CCT LM/Watt Total LM Voltage Color
+10 YEARS
+CCT
+TUNABLE
+PET COATING
+Spec
+Sheet
+
+### 2026 MES Catalog, page 11
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=10
+
+From the 2026 MES Catalog, page 11.
+
+T8 Type A+B Dual Mode
+4ʼ 1,620 LM09234 PRW779OB 180 LM/W4000K 120-277V White
+4ʼ
+9W
+9W 1,620 LM09235 PXPQDJHL 180 LM/W5000K 120-277V White
+4ʼ 2,250 LM02092 S-I6BS9E 150LM/W5000K 120-277V White
+4ʼ
+15W
+15W 2,250 LM02096 S-BIQ420 150LM/W4000K 120-277V White
+T8 U-Bend Type B Sinlge/Double End Bypass
+15W 2,250 LM02057 S-NK5YVZ 150 LM/W
+3500K
+4000K
+5000K
+120-277V White4ʼ
+Ordering Code DLC ID# WattsSize CCT LM/Watt Total LM Voltage Color
+Ordering Code DLC ID# WattsSize CCT LM/Watt Total LM Voltage Color
+Ordering Code DLC ID# WattsSize CCT LM/Watt Total LM Voltage Color
+15W 2,250 LM02113 S-L01BB1 150 LM/W
+3500K
+4000K
+5000K
+6500K
+120-277V White4ʼ
+24W 3,600 LM02114 S-Z73M1T 150 LM/W
+3500K
+4000K
+5000K
+6500K
+120-277V White4ʼ
+T5 Type B Dual End Bypass
+Ordering Code DLC ID# WattsSize CCT LM/Watt Total LM Voltage Color
+13.5W 2,025 LM02093 P430QK9E 150 LM/W4000K 120-277V White
+13.5W 2,025 LM02094 PTLIVQRW 150 LM/W5000K 120-277V White
+17W 2,550 LM02096 S-X64T81 150 LM/W4000K 120-277V White
+17W 2,550 LM02097 S-VVXQHQ 150 LM/W5000K 120-277V White
+24W 3,600 LM02099 S-GQKHYF 150 LM/W4000K 120-277V White
+24W 3,600 LM02112 S-8GONL6 150 LM/W5000K 120-277V White
+4ʼ
+4ʼ
+4ʼ
+4ʼ
+4ʼ
+4ʼ
+T8 Type B Dual End Bypass
+7 YEARS
+7 YEARS
+7 YEARS
+7 YEARS
+Spec
+Sheet
+Spec
+Sheet
+Spec
+Sheet
+Spec
+Sheet
+
+### 2026 MES Catalog, page 12
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=11
+
+From the 2026 MES Catalog, page 12.
+
+SENSOR INFORMATION
+BASIC LIGHTING CONTROL
+06269-01
+06247
+*On/Off Sensor
+06278
+NETWORK LIGHTING CONTROL
+0693006296
+(FIXTURE MOUNTED)
+
+### 2026 MES Catalog, page 13: LED T8 EMERGENCY TUBE TYPE B (GLADIOLA S)
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=12
+
+From the 2026 MES Catalog, page 13.
+
+LED T8 EMERGENCY TUBE TYPE B
+(GLADIOLA S)
+CERTIFICATIONS
+PRODUCT FEATURES
+Features:
+PREMIUM
+DLCL I S T E D
+• Fixture Compatibility: Suitable for enclosed fixtures in dry and
+damp locations.
+• Long Lifespan: 70,000-Hour LED Lifespan.
+• Emergency Runtime: 90 Minutes of Light at 680 Lumens.
+• Shatter-Resistant Design: PET safety coating enhances
+durability for demanding commercial environments.
+• Emergency Lighting: Built-in lithium batteries provide reliable
+emergency illumination.
+• Low Maintenance: Extended lifespan helps reduce
+maintenance frequency and costs.
+Ordering Code DLC ID# Watts CCT Total LM Battery
+15W 380 LM02115 LED15WT8/48/EM2S/3CCT-DBL
+3500K
+4000K
+5000K
+9.6V 600mAhLithium
+15W 680 LM02116 LED15WT8/48/EM5S/3CCT-DBL
+3500K
+4000K
+5000K
+16V 600mAhLithium
+Size
+4ʼ
+4ʼ
+Spec
+Sheet
+0-10V
+DIMMABLE
+20CCT
+TUNABLE
+PET COATING
+T8 Type B Dual End Bypass
+
+### 2026 MES Catalog, page 14: LED MAGNETIC STRIP RETROFIT (IRIS SSR)
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=13
+
+From the 2026 MES Catalog, page 14.
+
+LED MAGNETIC STRIP RETROFIT
+(IRIS SSR)
+CERTIFICATIONS
+PRODUCT FEATURES
+Features:
+PREMIUM
+DLCL I S T E D
+• Available Sizes: 2ʼ and 4ʼ for simplified inventory
+management.
+• Scalable Power: Use one strip for 24W or 40W per strip.
+• Quick Install: 5-Minute Setup with Magnetic Clips or Ears
+for self-tapping Screws.
+• Plug-and-Play Design: No Sockets or Rewiring Needed.
+• QSR Sensor-Ready: Driver supports PIR or OcuSense
+controls for quick installation of basic and NLC lighting
+systems.
+Ordering Code
+(No Lens)
+Ordering Code
+(Frosted) DLC ID# Strips#
+10081 S-09P746
+10082 S-1US02O
+1 Strip
+1 Strip
+10083 S-2PB8DJ 1 Strip
+10237
+10238
+10239
+WattsSize CCT LM/Watt Total LM Voltage
+2ʼ 2,400 LM160 LM/W3000K 120-277V
+2ʼ
+15W
+15W 2,400 LM160 LM/W4000K 120-277V
+2ʼ 2,400 LM160 LM/W5000K 120-277V15W
+0-10V
+DIMMABLESENSOR READY
+TECHNOLOGY
+20
+2' | 4'
+10108 S-8EM4FL
+10109 S-8FR9VZ
+1 Strip
+1 Strip
+10110 S-AGJ04M 1 Strip
+10264
+10265
+10266
+4ʼ 2,400 LM160 LM/W3000K 120-277V
+4ʼ
+15W
+15W 2,400 LM160 LM/W4000K 120-277V
+4ʼ 2,400 LM160 LM/W5000K 120-277V15W
+1 Strip
+Spec
+Sheet
+
+### 2026 MES Catalog, page 15
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=14
+
+From the 2026 MES Catalog, page 15.
+
+10100 S-0HE4GS
+10101
+10256
+10257 S-FLSI09
+2ʼ 6,400 LM160 LM/W4000K 120-277V
+2ʼ
+40W
+40W 6,400 LM160 LM/W5000K 120-277V
+3 Strip
+3 Strip
+Ordering Code
+(No Lens)
+Ordering Code
+(Frosted) DLC ID# Strips# WattsSize CCT LM/Watt Total LM Voltage
+10111 S-OMEHZ8 2 Strip
+10112 S-D61GE4
+10113 S-E8CVL6
+2 Strip
+2 Strip
+10267
+10268
+10269
+4ʼ 30W 4,800 LM160 LM/W3000K 120-277V
+4ʼ 4,800 LM160 LM/W4000K 120-277V
+4ʼ
+30W
+30W 4,800 LM160 LM/W5000K 120-277V
+10132 S-8EM4FL 2 Strip10288 4ʼ 30W 4,800 LM160 LM/W5000K 120-277V
+10122 S-0EX8K4 2 Strip
+10123 S-64EB50
+10124 S-2K7U8X
+2 Strip
+2 Strip
+10278
+10279
+10280
+4ʼ 30W 4,800 LM160 LM/W5000K 120-277V
+4ʼ 6,400 LM160 LM/W3500K 120-277V
+4ʼ
+40W
+40W 6,400 LM160 LM/W4000K 120-277V
+10125 S-H3IV75 2 Strip10281 4ʼ 40W 6,400 LM160 LM/W5000K 120-277V
+10126 S-UZWO35 2 Strip10282 4ʼ 60W 9,600 LM160 LM/W3500K 120-277V
+10127 S-XDUKZO 2 Strip10283 4ʼ 60W 9,600 LM160 LM/W4000K 120-277V
+10128 S-XY04LG 2 Strip
+10129 S-GF4VX2
+10130 S-NMAFHK
+2 Strip
+2 Strip
+10284
+10285
+10286
+4ʼ 60W 9,600 LM160 LM/W5000K 120-277V
+4ʼ 12,800 LM160 LM/W3500K 120-277V
+4ʼ
+80W
+80W 12,800 LM160 LM/W4000K 120-277V
+10131 S-ZKLP53 2 Strip10287 4ʼ 80W 12,800 LM160 LM/W5000K 120-277V
+10093 S-Q5LCIP 2 Strip
+10094 S-43AZ92
+10095 S-QJKOAD
+2 Strip
+2 Strip
+10249
+10250
+10251
+2ʼ 30W 4,800 LM160 LM/W3000K 120-277V
+2ʼ 4,800 LM160 LM/W4000K 120-277V
+2ʼ
+30W
+30W 4,800 LM160 LM/W5000K 120-277V
+10096 S-4M9P8K
+10097 S-47P8N9
+3 Strip
+3 Strip
+10098 S-54CET8
+10099
+10252
+10253
+10254
+10255 S-ZBMF8S
+2ʼ 4,800 LM160 LM/W3000K 120-277V
+2ʼ
+30W
+30W 4,800 LM160 LM/W4000K 120-277V
+2ʼ 4,800 LM160 LM/W5000K 120-277V
+2ʼ
+30W
+40W 6,400 LM160 LM/W3000K 120-277V
+3 Strip
+3 Strip
+2 Strip
+3 Strip
+
+### 2026 MES Catalog, page 16
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=15
+
+From the 2026 MES Catalog, page 16.
+
+10119 S-E8CVL6
+10120
+10275
+10276 S-SHN43W
+4ʼ 6,400 LM160 LM/W4000K 120-277V
+4ʼ
+40W
+40W 6,400 LM160 LM/W5000K 120-277V
+3 Strip
+3 Strip
+10121 10277 S-LQRCZK 4ʼ 40W 6,400 LM160 LM/W5000K 120-277V3 Strip
+10133 S-8FR9VZ
+10134 S-AGJ04M
+3 Strip
+3 Strip
+10117 S-OMEHZ8
+10118
+10289
+10290
+10273
+10274 S-D61GE4
+4ʼ 4,800 LM160 LM/W3000K 120-277V
+4ʼ
+30W
+30W 4,800 LM160 LM/W4000K 120-277V
+4ʼ 4,800 LM160 LM/W5000K 120-277V
+4ʼ
+30W
+40W 6,400 LM160 LM/W3000K 120-277V
+3 Strip
+3 Strip
+10141 S-ZXLS4O
+10142
+10297
+10298 S-YL8KT5
+4ʼ 9,600 LM160 LM/W3500K 120-277V
+4ʼ
+60W
+60W 9,600 LM160 LM/W4000K 120-277V
+3 Strip
+3 Strip
+10143 10299 S-4I15OZ 4ʼ 60W 9,600 LM160 LM/W5000K 120-277V3 Strip
+10138 S-F6Y7TB 3 Strip
+10139 S-J60LG1
+10140
+10294
+10295
+10296 S-AXVZ8B
+4ʼ 45W 7,200 LM160 LM/W3500K 120-277V
+4ʼ 7,200 LM160 LM/W4000K 120-277V
+4ʼ
+45W
+45W 7,200 LM160 LM/W5000K 120-277V
+3 Strip
+3 Strip
+10153 S-GF4VX2
+10154
+10309
+10310 S-NMAFHK
+4ʼ 12,800 LM160 LM/W3500K 120-277V
+4ʼ
+80W
+80W 12,800 LM160 LM/W4000K 120-277V
+4 Strip
+4 Strip
+10155 10311 S-ZKLP53 4ʼ 80W 12,800 LM160 LM/W5000K 120-277V4 Strip
+10150 S-UZWO35 4 Strip
+10151 S-XDUKZO
+10152
+10306
+10307
+10308 S-XY04LG
+4ʼ 60W 9,600 LM160 LM/W3500K 120-277V
+4ʼ 9,600 LM160 LM/W4000K 120-277V
+4ʼ
+60W
+60W 9,600 LM160 LM/W5000K 120-277V
+4 Strip
+4 Strip
+Ordering Code
+(No Lens)
+Ordering Code
+(Frosted) DLC ID# Strips# WattsSize CCT LM/Watt Total LM Voltage
+4 Strip
+
+### 2026 MES Catalog, page 17
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=16
+
+From the 2026 MES Catalog, page 17.
+
+SENSOR INFORMATION
+BASIC LIGHTING CONTROL
+06267-02 06278
+NETWORK LIGHTING CONTROL
+(PIR-QSR)
+(OcuSense-QSR)
+06282 06902
+06274 06291 06901
+06294
+
+### 2026 MES Catalog, page 18: LED MAGNETIC STRIP RETROFIT (IRIS GSR)
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=17
+
+From the 2026 MES Catalog, page 18.
+
+LED MAGNETIC STRIP RETROFIT
+(IRIS GSR)
+CERTIFICATIONS
+PRODUCT FEATURES
+Features:
+PREMIUM
+DLCL I S T E D
+• Available Sizes: 2ʼ and 4ʼ for simplified inventory
+management.
+• Scalable Power: Use one strip for 24W or 40W per strip.
+• CCT Tunable: Adjust color temperature from 35K to 50K.
+• Plug-and-Play Design: No Sockets or Rewiring Needed.
+• Quick Install: 5-Minute Setup with Magnetic Clips or Ears
+for self-tapping Screws.
+• QSR Sensor-Ready: Driver supports PIR or OcuSense
+controls for quick installation of basic and NLC lighting
+systems.
+Ordering Code DLC ID# Strips#
+10356 S-2PB8DJ 1 Strip
+WattsSize CCT LM/Watt Total LM Voltage
+2ʼ 2,400 LM160 LM/W
+3500K
+4000K
+5000K
+120-277V15W
+10361 S-AGJ04M 1 Strip 4ʼ 2,400 LM160 LM/W
+3500K
+4000K
+5000K
+120-277V15W
+10362 S-E8CVL6 1 Strip 4ʼ 3,840 LM160 LM/W
+3500K
+4000K
+5000K
+120-277V24W
+2' | 4'
+0-10V
+DIMMABLESENSOR READY
+TECHNOLOGY
+CCT
+TUNABLE 20
+1 Strip
+10357 S-QJKOAD 2 Strip 2ʼ 4,800 LM160 LM/W
+3500K
+4000K
+5000K
+120-277V30W
+10363 S-AGJ04M 2 Strip 4ʼ 2,400 LM160 LM/W
+3500K
+4000K
+5000K
+120-277V15W
+2 Strip
+Spec
+Sheet
+
+### 2026 MES Catalog, page 19
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=18
+
+From the 2026 MES Catalog, page 19.
+
+Ordering Code DLC ID# Strips# WattsSize CCT LM/Watt Total LM Voltage
+10365 S-0EX8K4 2 Strip 4ʼ 4,800 LM160 LM/W
+3500K
+4000K
+5000K
+120-277V30W
+10366 S-H3IV75 2 Strip 4ʼ 6,400 LM160 LM/W
+3500K
+4000K
+5000K
+120-277V40W
+10367 S-4I15OZ 2 Strip 4ʼ 9,600 LM160 LM/W
+3500K
+4000K
+5000K
+120-277V60W
+10358 S-54CET8 3 Strip 2ʼ 4,800 LM160 LM/W
+3500K
+4000K
+5000K 120-277V30W
+10359 S-FLSI09 3 Strip 2ʼ 6,400 LM160 LM/W
+3500K
+4000K
+5000K
+120-277V40W
+10368 S-AXVZ8B 3 Strip 4ʼ 7,200 LM160 LM/W
+3500K
+4000K
+5000K
+120-277V45W
+10369 S-4I15OZ 3 Strip 4ʼ 9,600 LM160 LM/W
+3500K
+4000K
+5000K
+120-277V60W
+3 Strip
+10364 S-E8CVL6 2 Strip 4ʼ 3,840 LM160 LM/W
+3500K
+4000K
+5000K
+120-277V24W
+SENSOR INFORMATION
+NETWORK LIGHTING CONTROL
+(PIR-QSR)
+(OcuSense-QSR)
+06282 06902
+06274 06291 06901
+06294
+
+### 2026 MES Catalog, page 20: LED T8 TUBE TYPE C (ORCHID BSR)
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=19
+
+From the 2026 MES Catalog, page 20.
+
+LED T8 TUBE TYPE C
+(ORCHID BSR)
+CERTIFICATIONS
+PRODUCT FEATURES
+Features:
+PREMIUM
+DLCL I S T E D
+• Available Sizes: 2ʼ and 4ʼ for simplified inventory
+management.
+• Multiple Wattage Options: Available in 9W, and 15W
+models for 1–4 lamp equivalents, with PET coating.
+• Approx 5-Minute Install: Harness + magnetic clips enable
+tool-light setup with just a screwdriver.
+• QSR Sensor Ready: Driver supports PIR or OcuSense
+controls for quick installation of basic and NLC lighting
+systems.
+65 0-10V
+DIMMABLE
+Ordering Code DLC ID# WattsSize CCT LM/Watt Total LM Voltage ColorTubes#
+2ʼ 1,080 LM13937 S-MFNTL0 180 LM/W4000K 120-277V White
+2ʼ
+6W
+6W 1,080 LM13938 S-S3CKZY 180 LM/W5000K 120-277V White
+1 Tube
+1 Tube
+4ʼ 1,620 LM13949 S-L4MV9L 180 LM/W4000K 120-277V White
+4ʼ
+9W
+9W 1,620 LM13950 S-4BYLYC 180 LM/W5000K 120-277V White
+1 Tube
+1 Tube
+4ʼ 2,100 LM13967 PS4JC44S 140 LM/W4000K 120-277V White
+4ʼ
+15W
+15W 2,100 LM13968 PBTMYMBR 140 LM/W5000K 120-277V White
+1 Tube
+1 Tube
+1 Tube
+Spec
+Sheet
+4ʼ 3,240 LM13953 S-6KM8MH 180 LM/W4000K 120-277V White18W2 Tube
+2ʼ 2,160LM13941 S-J589CB 180 LM/W4000K 120-277V White
+2ʼ
+12W
+12W 2,160 LM13942 S-NK10HL 180 LM/W5000K 120-277V White
+2 Tube
+2 Tube
+2 Tube
+SENSOR READY
+TECHNOLOGY PET COATING
+2' | 4'
+
+### 2026 MES Catalog, page 21
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=20
+
+From the 2026 MES Catalog, page 21.
+
+4ʼ 18W 3,240 LM13954 S-5GMYH4 180 LM/W5000K 120-277V White2 Tube
+4ʼ 1,620 LM13971 P0HF1TTU 140 LM/W4000K 120-277V White
+4ʼ
+30W
+30W 1,620 LM13972 PRJZO8M7 140 LM/W5000K 120-277V White
+2 Tube
+2 Tube
+4ʼ 4,860 LM13957 S-ZJFYSL 180 LM/W4000K 120-277V White
+4ʼ
+27W
+27W 4,860 LM13958 S-5H54F8 180 LM/W5000K 120-277V White
+3 Tube
+3 Tube
+4ʼ 6,300 LM13989 S-KD5Z8H 140 LM/W4000K 120-277V White
+4ʼ
+45W
+45W 6,300 LM13990 S-BZB4ML 140 LM/W5000K 120-277V White
+3 Tube
+3 Tube
+4ʼ 6,480 LM13961 S-VWWY2W 180 LM/W4000K 120-277V White
+4ʼ
+36W
+36W 6,480 LM13962 S-2NGX5W 180 LM/W5000K 120-277V White
+4 Tube
+4 Tube
+4ʼ 8,400 LM13975 PW5C7PIQ 140 LM/W4000K 120-277V White
+4ʼ
+60W
+60W 8,400 LM13976 PXGCBLLP 140 LM/W5000K 120-277V White
+4 Tube
+4 Tube
+2ʼ 3,240 LM13945 S-W52XNM 180 LM/W4000K 120-277V White
+2ʼ
+18W
+18W 3,240 LM13946 S-93XWMC 180 LM/W5000K 120-277V White
+3 Tube
+3 Tube
+Ordering Code DLC ID# WattsSize CCT LM/Watt Total LM Voltage ColorTubes#
+3 Tube
+4 Tube
+SENSOR INFORMATION
+NETWORK LIGHTING CONTROL
+(PIR-QSR)
+(OcuSense-QSR)
+06282 06902
+06274 06291 06901
+06294
+
+### 2026 MES Catalog, page 22: LED LINEAR INTEGRATED FIXTURE (ROSE G)
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=21
+
+From the 2026 MES Catalog, page 22.
+
+LED LINEAR INTEGRATED FIXTURE
+(ROSE G)
+CERTIFICATIONS
+PRODUCT FEATURES
+Features:
+PREMIUM
+DLCL I S T E D
+• Classic Look: Seamless design for high-end architectural
+aesthetics.
+• Power & Color Select: Select the ideal wattage and CCT to
+fine-tune brightness and tone.
+• Electrical: LED luminaire with dimmable driver and
+universal 120–277V.
+• Linkable Design: Connect up to 120V: 27 PCS & 277V: 54
+PCS lights using a small inline adapter.
+• Flexible Mounting: Install using screw clip-mounts or
+magnetic mounting for fast, tool-light setup.
+Ordering Code DLC ID#
+91006 S-110RSS
+Watts CCT LM/Watt Total LM Voltage Color
+3300 LM
+4782 LM
+5928 LM
+150 LM/W
+3500K
+4000K
+5000K
+5700K
+6500K
+120-277V White
+22W
+30W
+40W
+0-10V
+DIMMABLE
+CCT
+TUNABLE 20
+SENSOR INFORMATION
+Spec
+Sheet
+NETWORK LIGHTING CONTROL
+FIXTURE MOUNTED
+06269-01 0693006296
+
+### 2026 MES Catalog, page 23
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=22
+
+From the 2026 MES Catalog, page 23.
+
+HID OUTDOOR RETROFIT KIT
+(TULIP B)
+CERTIFICATIONS
+PRODUCT FEATURES
+Features:
+PREMIUM
+DLCL I S T E D
+• Multi-Angle Mounting: Adjustable brackets enable flexible
+aiming and positioning.
+• Electrical: LED luminaire with dimmable driver and
+universal 120–277V.
+• Universal Fit: Installs in most fixtures using a dedicated
+external driver.
+• External Driver & Active Cooling: Remote driver improves
+reliability, while the built-in fan reduces heat buildup.
+0-10V
+DIMMABLE
+IP40
+Spec
+Sheet
+Ordering Code DLC ID#
+06012 S-74NG85
+06013 PU9JP1EVP
+06008 R6J65ZR
+Watts CCT LM/Watt Total LM Color
+4,725 LM135 LM/W5000K Silver35W
+100W 13,500 LM135 LM/W5000K Silver
+20,250 LM135 LM/W5000K Silver150W
+06009 PO4DZIO0
+06010 PSTA2983
+27,000 LM135 LM/W5000K Silver200W
+240W 32,400 LM135 LM/W5000K Silver
+Voltage
+120-277V
+120-277V
+120-277V
+120-277V
+120-277V
+
+### 2026 MES Catalog, page 24: LED STRIP FIXTURE SNAP-FITTM (LILY FAMILY)
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=23
+
+From the 2026 MES Catalog, page 24.
+
+LED STRIP FIXTURE SNAP-FITTM
+(LILY FAMILY)
+CERTIFICATIONS
+PRODUCT FEATURES
+Features:
+(GSR)
+(GSR+ with PIR SR Port)
+PREMIUM
+DLCL I S T E D
+• Available Sizes: Comes in 4 ft and 8 ft length
+configurations.
+• Electrical: LED luminaire with dimmable driver and
+universal 120–277V.
+• QSR & PQSR Sensor-Ready: Driver supports PIR or
+OcuSense controls for quick installation of basic and NLC
+lighting systems.
+• Snap-On Retrofit Design: Updated design enables fast,
+tool-light installation onto existing fixtures.
+• Side Clip Mounting: Side clips attach directly to the fixture
+housing for a secure fit.
+• Fixed Lens: Sealed lens minimizes dust and insect
+intrusion.
+Ordering Code DLC ID#
+04008-02 S-74A3NL
+Watts CCT LM/Watt Total LM Voltage Color
+4,590 LM
+5,130 LM
+6,075 LM
+135 LM/W
+3500K
+4000K
+5000K
+120-277V White
+34W
+38W
+45W
+Size
+4ʼ
+04010-02 S-G2LU47
+8,775 LM
+10,125 LM
+12,150 LM
+135 LM/W
+3500K
+4000K
+5000K
+120-277V White
+65W
+75W
+90W
+8ʼ
+Ordering Code DLC ID#
+04008-03 S-74A3NL
+Watts CCT LM/Watt Total LM Voltage Color
+4,590 LM
+5,130 LM
+6,075 LM
+135 LM/W
+3500K
+4000K
+5000K
+120-277V White
+34W
+38W
+45W
+Size
+4ʼ
+04010-03 S-G2LU47
+8,775 LM
+10,125 LM
+12,150 LM
+135 LM/W
+3500K
+4000K
+5000K
+120-277V White
+65W
+75W
+90W
+8ʼ
+4' | 8'
+0-10V
+DIMMABLESENSOR READY
+TECHNOLOGY
+CCT
+TUNABLE 20 SENSOR READY
+TECHNOLOGY
+Spec
+Sheet
+Spec
+Sheet
+
+### 2026 MES Catalog, page 25
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=24
+
+From the 2026 MES Catalog, page 25.
+
+SENSOR INFORMATION
+BASIC LIGHTING CONTROL
+NETWORK LIGHTING CONTROL
+BASIC LIGHTING CONTROL
+NETWORK LIGHTING CONTROL
+(QSR)
+06904 06905
+(PQSR)
+06274 06291 06901
+06913
+06274 06291 06901
+06267-02 06278
+06267-02 06278
+(GSR)
+(GSR+)
+
+### 2026 MES Catalog, page 26: LED VOLUMETRIC TROFFER SNAP-FITTM (LILAC FAMILY)
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=25
+
+From the 2026 MES Catalog, page 26.
+
+LED VOLUMETRIC TROFFER SNAP-FITTM
+(LILAC FAMILY)
+CERTIFICATIONS
+PRODUCT FEATURES
+Features:
+PREMIUM
+DLCL I S T E D
+Ordering Code DLC ID# WattsSize CCT LM/Watt Total LM Voltage Color
+20W
+25W
+30W
+2,500 LM
+3,125 LM
+3,750 LM
+04064 S-YZGL1E 125 LM/W
+3500K
+4000K
+5000K
+120-277V White1ʼx4ʼ
+20W
+25W
+30W
+2,500 LM
+3,125 LM
+3,750 LM
+04065 01 S-Z1FVQP 125 LM/W
+3500K
+4000K
+5000K
+120-277V White2ʼx2ʼ
+25W
+30W
+35W
+3,200 LM
+3,840 LM
+4,480 LM
+04066 01 S-MZI57O 125 LM/W
+3500K
+4000K
+5000K
+120-277V White2ʼx4ʼ
+1'x4' | 2'x2' | 2'x4'
+0-10V
+DIMMABLESENSOR READY
+TECHNOLOGY
+CCT
+TUNABLE 20 SENSOR READY
+TECHNOLOGY HIGH LUMEN
+34W
+38W
+45W
+4,250 LM
+4,750 LM
+5,625 LM
+04067 01 S-V0KHFY 125 LM/W
+3500K
+4000K
+5000K
+120-277V White2ʼx4ʼ
+• Classic Look: Includes mounting brackets and beauty plates
+for a polished, professional appearance.
+• Low-Profile Design: Shallow depth installs over existing
+sockets or ballasts, reducing retrofit time.
+• Power & Color Select: Select the ideal wattage and CCT to
+fine-tune brightness and tone.
+• QSR & PQSR Sensor-Ready: Driver supports both PIR and
+OcuSense controls for quick installation of basic and NLC
+lighting systems.
+• Beam Angle: A wide 120° beam angle for broad, uniform
+illumination.
+• High Efficiency: Delivers up to 150 lumens per watt,
+maximizing energy savings while maintaining uniform
+illumination.
+• Air Vent Return Option: Air return capability reduces number
+of unsightly ceiling vents for a cleaner appearance.
+(GSR) Spec
+Sheet
+
+### 2026 MES Catalog, page 27
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=26
+
+From the 2026 MES Catalog, page 27.
+
+Ordering Code DLC ID# WattsSize CCT LM/Watt Total LM Voltage Color
+14W
+17W
+20W
+28W
+2,100 LM
+2,550 LM
+3,000 LM
+4,200 LM
+04065 03 S-VNWXDS 150 LM/W
+3000K
+3500K
+4000K
+5000K
+6500K
+120-277V White2ʼx2ʼ
+17W
+20W
+28W
+34W
+2,550 LM
+3,000 LM
+4,200 LM
+5,100 LM
+04066 03 S-P7L99J 150 LM/W
+3000K
+3500K
+4000K
+5000K
+6500K
+120-277V White2ʼx4ʼ
+(GSR+)
+SENSOR INFORMATION
+BASIC LIGHTING CONTROL
+06267-02 06320 06278
+NETWORK LIGHTING CONTROL
+ACCESSORIES
+04076
+Air Vent Bar (1'x4')
+04078
+Air Vent Bar (2'x4')
+04077
+Air Vent Bar (2'x2')
+(QSR)
+06275 06293 06903
+(PQSR)
+06274 06291 06901
+HIGH LUMEN
+Spec
+Sheet
+
+### 2026 MES Catalog, page 28: LED BACK-LIT PANEL SNAP-FITTM (LOTUS FAMILY)
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=27
+
+From the 2026 MES Catalog, page 28.
+
+LED BACK-LIT PANEL SNAP-FITTM
+(LOTUS FAMILY)
+CERTIFICATIONS
+PRODUCT FEATURES
+Features:
+PREMIUM
+DLCL I S T E D
+Ordering Code DLC ID# WattsSize CCT LM/Watt Total LM Voltage Color
+1ʼx4ʼ | 2'x2' | 2'x4'
+0-10V
+DIMMABLESENSOR READY
+TECHNOLOGY
+CCT
+TUNABLE 20 SENSOR READY
+TECHNOLOGY HIGH LUMEN
+• Clean Look: Includes brackets and beauty plates for a neat,
+finished appearance.
+• Low Profile: Installation of existing sockets or ballasts for
+faster retrofit.
+• QSR & PQSR Sensor-Ready: Driver supports both PIR and
+OcuSense controls for quick installation of basic and NLC
+lighting systems.
+• Beam Angle: A wide 120° beam angle for broad, uniform
+illumination.
+• High Efficiency: Delivers up to 150 lumens per watt (lm/W)
+for uniform illumination.
+• Air Vent Return Option: Air return capability reduces number
+of unsightly ceiling vents for a cleaner appearance.
+20W
+25W
+30W
+2,500 LM
+3,125 LM
+3,750 LM
+02843 S-RQSSDR 125 LM/W
+3500K
+4000K
+5000K
+120-277V White2ʼx2ʼ
+23W
+30W
+36W
+2,875 LM
+3,750 LM
+4,500 LM
+02845 S-PY5CZJ 125 LM/W
+3500K
+4000K
+5000K
+120-277V White2ʼx4ʼ
+35W
+40W
+46W
+4,375 LM
+5,000 LM
+5,750 LM
+02846 S-RSLRFK 125 LM/W
+3500K
+4000K
+5000K
+120-277V White2ʼx4ʼ
+(GSR)
+Spec
+Sheet
+ACCESSORIES
+04076
+Air Vent Bar (1'x4')
+04078
+Air Vent Bar (2'x4')
+04077
+Air Vent Bar (2'x2')
+
+### 2026 MES Catalog, page 29
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=28
+
+From the 2026 MES Catalog, page 29.
+
+Ordering Code DLC ID# WattsSize CCT LM/Watt Total LM Voltage Color
+14W
+17W
+20W
+28W
+2,100 LM
+2,550 LM
+3,000 LM
+4,200 LM
+02842 03 S-TH4BML 150 LM/W
+3000K
+3500K
+4000K
+5000K
+6500K
+120-277V White1ʼx4ʼ
+15W
+18W
+25W
+30W
+2,250 LM
+2,700 LM
+3,750 LM
+4,500 LM
+02843 03 S-L790P0 150 LM/W
+3000K
+3500K
+4000K
+5000K
+6500K
+120-277V White2ʼx2ʼ
+17W
+20W
+28W
+34W
+2,550 LM
+3,000 LM
+4,200 LM
+5,100 LM
+02845 03 S-Y0XM5Z 150 LM/W
+3000K
+3500K
+4000K
+5000K
+6500K
+120-277V White2ʼx4ʼ
+(GSR+ with PIR SR Port)
+SENSOR INFORMATION
+NETWORK LIGHTING CONTROL
+HIGH LUMEN
+(QSR)
+06275 06293 06903
+(PQSR)
+06274 06291 06901
+(QSR)
+06274 06291 06901
+(GSR+)
+(GSR)
+Spec
+Sheet
+
+### 2026 MES Catalog, page 30: LED CANOPY SOFFIT RETROFIT (JASMINE G)
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=29
+
+From the 2026 MES Catalog, page 30.
+
+LED CANOPY SOFFIT RETROFIT
+(JASMINE G)
+CERTIFICATIONS
+PRODUCT FEATURES
+Features:
+PREMIUM
+DLCL I S T E D
+• Clean Look: Clean design suitable for a wide range of
+canopy and awning spaces.
+• Power & Color Select: Select the ideal wattage and CCT to
+fine-tune brightness and tone.
+• Electrical: LED luminaire with dimmable driver and
+universal 120–277V.
+• IP65 Housing: IP65 LED provides superior protection
+against dust and water.
+• Easy Installation: Multiple plate sizes, colors, and housing
+options ensure a clean, easy fit.
+Ordering Code DLC ID#
+06100 - 01 S-OZAKDL
+Watts CCT LM/Watt Total LM Voltage Color
+2,800 LM
+4,200 LM
+5,600 LM
+140 LM/W
+3000K
+4000K
+5000K
+120-277V White
+20W
+30W
+40W
+0-10V
+DIMMABLE
+CCT
+TUNABLE
+Ordering Code Size Color
+06122 12ˮ×12ˮ Bronze
+06123 15ˮ×15ˮ Bronze
+06117 18ˮ×18ˮ Bronze
+Ordering Code Size Color
+06118 12ˮ×12ˮ White
+06119 15ˮ×15ˮ White
+06120 18ˮ×18ˮ White
+06121 22ˮ×22ˮ White
+06124 24ˮ×24ˮ White
+(PLATES)
+Spec
+Sheet
+Select Plate Size/Color NeededChoose Fixture +
+
+### 2026 MES Catalog, page 31: LED DOWNLIGHT (WILLOW G+)
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=30
+
+From the 2026 MES Catalog, page 31.
+
+LED DOWNLIGHT
+(WILLOW G+)
+CERTIFICATIONS
+PRODUCT FEATURES
+Features:
+Ordering Code Energy Star ID# WattsSize CCT LM/Watt Total LM Voltage Color
+6W
+8W
+10W
+12W
+16W
+720 LM
+960 LM
+1,200 LM
+1,200 LM
+1,920 LM
+02938 01 MES-DL254-4-12W-OAC3B 120 LM/W
+2700K
+3000K
+3500K
+4000K
+5000K
+120-277V White4ˮ
+12W
+16W
+22W
+26W
+30W
+1,200 LM
+1,920 LM
+2,640 LM
+2,640 LM
+3,600 LM
+02939 01 MES-DL254-6-16W-OAC3B 120 LM/W
+2700K
+3000K
+3500K
+4000K
+5000K
+120-277V White6ˮ
+16W
+22W
+26W
+30W
+35W
+1,920 LM
+2,640 LM
+2,640 LM
+3,600 LM
+4,200 LM
+02942 01 MES-DL254-8-22W-OAC3B 120 LM/W
+2700K
+3000K
+3500K
+4000K
+5000K
+120-277V White8ˮ
+4ˮ | 6ˮ | 8ˮ | 10ˮ
+0-10V
+DIMMABLE
+CCT
+TUNABLE
+54
+• Goof Ring Compatible: Offer clean coverage for retrofit
+openings.
+• Power & Color Select: Select the ideal wattage and CCT to
+fine-tune brightness and tone.
+• Electrical: LED luminaire with dimmable driver and universal
+120–277V.
+• Built-In Driver: No external driver required for simplified
+setup.
+• Electrical Whip Included: Ready-to-wire connection for
+faster installation.
+22W
+26W
+30W
+35W
+40W
+2,640 LM
+2,640 LM
+3,600 LM
+4,200 LM
+4,800 LM
+02944 01 MES-DL254-10-40W-5CCT 120 LM/W
+2700K
+3000K
+3500K
+4000K
+5000K
+120-277V White10ˮ
+Spec
+Sheet
+
+### 2026 MES Catalog, page 32: LED VOLUMETRIC TROFFER SNAP-FITTM LILAC (GSR), LED T8 TUBE TYPE C (ORCHID BSR), LED BACK-LIT FLAT PANEL SPRUCE (GSR+)
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=31
+
+From the 2026 MES Catalog, page 32.
+
+BEST SELLING
+Spec
+Sheet
+Spec
+Sheet
+Spec
+Sheet
+Spec
+Sheet
+Spec
+Sheet
+LED VOLUMETRIC TROFFER SNAP-FITTM
+LILAC (GSR) 2'x4'
+• UL & DLC Premium
+• IP20 Rated
+• PQSR & QSR Sensor-Ready Design
+• 120ᵒ Beam Angle
+LED T8 TUBE TYPE C
+(ORCHID BSR)
+• UL & DLC Premium
+• QSR Sensor-Ready Design
+• Harness + Magnetic Clip Installation
+• PET Coated
+LED MAGNETIC STRIP RETROFIT
+IRIS SSR (2' | 4')
+• ETL & DLC Premium
+• IP20 Rated
+• QSR Sensor-Ready Design
+• Strips & Driver are Mangnetized
+LED BACK-LIT FLAT PANEL
+SPRUCE (GSR+) 2'x4'
+• UL & DLC Premium
+• IP20 Rated
+• QSR Sensor-Ready Design
+• PMMA Optical Lens
+LED HIGH BAY LINEAR
+PINE SSR+ (FAMILY)
+• UL & DLC Premium
+• IP20 Rated
+• ZSR Sensor-Ready Design
+• 6FT Cord & Aircraft Cable Included
+
+### 2026 MES Catalog, page 33: LED CANOPY SOFFIT RETROFIT (JASMINE GSR)
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=32
+
+From the 2026 MES Catalog, page 33.
+
+BEST SELLING
+JUNIPER GSR+
+LED COVERED STRIP FIXTURE (4')
+• UL & DLC Premium
+• IP20 Rated
+• QSR & ZSR Sensor-Ready Design
+• 150 LM/W Efficiency
+LILY GSR
+LED COVERED STRIP FIXTURE (8')
+• UL & DLC Premium
+• IP20 Rated
+• QSR Sensor-Ready Design
+• Snap-On Retrofit Design
+LED CANOPY SOFFIT RETROFIT
+(JASMINE GSR)
+• UL & DLC Premium
+• IP65 Rated
+• Multiple Plates and Sizes are available
+• 3PSR Sensor Ready Design
+WOLF GSR
+LED AREA LIGHT
+• UL & DLC Premium
+• IP65 Rated
+• ZSR Sensor-Ready Design
+• Rotatable Arm-Mount
+• 10KV Surge Protection
+TIGER GSR
+LED WALL PACK STANDARD
+• UL & DLC Premium
+• IP65 Rated
+• ZSR Sensor-Ready Design
+• Built-in Photocell
+Spec
+Sheet
+Spec
+Sheet
+Spec
+Sheet
+Spec
+Sheet
+Spec
+Sheet
+
+### 2026 MES Catalog, page 34: LED ARCHITECTURAL LINEAR LIGHT (ASPEN G)
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=33
+
+From the 2026 MES Catalog, page 34.
+
+LED ARCHITECTURAL LINEAR LIGHT
+(ASPEN G)
+CERTIFICATIONS
+PRODUCT FEATURES
+Features:
+LED L Shape Architectural (Up / Down)
+PREMIUM
+DLCL I S T E D
+• Available Colors: Offered in elegant Black and White
+finishes.
+• Power & Color Select: Select the ideal wattage and CCT to
+fine-tune brightness and tone.
+• Dual-Direction Lighting: Provides balanced illumination by
+directing light both upward and downward.
+• Expandable System: Link up to 10 fixtures for more
+extensive coverage.
+• Independent Power: Each fixture needs its own power
+connection.
+4'
+0-10V
+DIMMABLE
+20CCT
+TUNABLE
+Ordering Code DLC ID# WattsSize CCT LM/Watt Total LM Voltage Color
+30W
+40W
+50W
+3,930 LM
+5,240 LM
+6,550 LM
+02565 S-A4K532 131 LM/W
+3500K
+4000K
+5000K
+120-277V White4ʼ
+30W
+40W
+50W
+3,930 LM
+5,240 LM
+6,550 LM
+02566 S-TK53QF 131 LM/W
+3500K
+4000K
+5000K
+120-277V Black4ʼ
+Ordering Code WattsSize CCT LM/Watt Total LM Voltage Color
+30W 3,930 LM02567 131 LM/W
+3500K
+4000K
+5000K
+120-277V WhiteL
+30W 3,930 LM02568 131 LM/W
+3500K
+4000K
+5000K
+120-277V BlackL
+Spec
+Sheet
+
+### 2026 MES Catalog, page 35
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=34
+
+From the 2026 MES Catalog, page 35.
+
+LED X Shape Architectural (Up / Down)
+Ordering Code WattsSize CCT LM/Watt Total LM Voltage Color
+30W
+40W
+50W
+3,930 LM
+5,240 LM
+6,550 LM
+02569 131 LM/W
+3500K
+4000K
+5000K
+120-277V WhiteX
+30W
+40W
+50W
+3,930 LM
+5,240 LM
+6,550 LM
+02570 131 LM/W
+3500K
+4000K
+5000K
+120-277V BlackX
+Ordering Code Description Watts Voltage Color
+Canopy Suspension Kit
+(Mounts)
+Ordering Code Description Color
+Silver02571
+Linkable Kits Silver02572
+Wall Mount Kits Silver02573
+SENSOR INFORMATION
+BASIC LIGHTING CONTROL
+06269-01
+06247
+*On/Off Sensor
+06278
+NETWORK LIGHTING CONTROL
+06246
+PIR 3-in-1 Sensor
+0693006296
+(FIXTURE MOUNTED)
+
+### 2026 MES Catalog, page 36: LED BACK-LIT FLAT PANEL (SPRUCE GSR+)
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=35
+
+From the 2026 MES Catalog, page 36.
+
+LED BACK-LIT FLAT PANEL
+(SPRUCE GSR+)
+CERTIFICATIONS
+PRODUCT FEATURES
+Features:
+Ordering Code DLC ID# WattsSize CCT LM/Watt Total LM Voltage Color
+15W
+20W
+25W
+30W
+40W
+1,965 LM
+2,620 LM
+3,275 LM
+3,930 LM
+5,240 LM
+02838-03 PLYIUCDY7TUR 131 LM/W
+3000K
+3500K
+4000K
+5000K
+6500K
+120-277V White1ʼx4ʼ
+15W
+20W
+25W
+30W
+40W
+1,965 LM
+2,620 LM
+3,275 LM
+3,930 LM
+5,240 LM
+02839-03 S-PAFGX0 131 LM/W
+3000K
+3500K
+4000K
+5000K
+6500K
+120-277V White2ʼx2ʼ
+23W
+30W
+35W
+40W
+50W
+3,013 LM
+3,930 LM
+4,585 LM
+5,240 LM
+6,550 LM
+02841-03 S-KGZ5HN 131 LM/W
+3000K
+3500K
+4000K
+5000K
+6500K
+120-277V White2ʼx4ʼ
+30W
+40W
+50W
+60W
+72W
+3,930 LM
+5,240 LM
+6,550 LM
+7,860 LM
+9,432 LM
+02841-05 S-DNPR2K 131 LM/W
+3000K
+3500K
+4000K
+5000K
+6500K
+120-277V White2ʼx4ʼ
+1ʼx4ʼ | 2ʼx2ʼ | 2ʼx4ʼ
+• High-Quality Design: Provides excellent light diffusion,
+optical clarity, and resists yellowing or UV damage.
+• Power & Color Select: Select the ideal wattage and CCT to
+fine-tune brightness and tone.
+• Electrical: LED luminaire with dimmable driver and universal
+120–277V.
+• QSR Sensor-Ready: Driver supports OcuSense controls for
+quick installation of basic and NLC lighting systems.
+• High Output Panel: 2×4 panel 50W and 72W for strong,
+uniform illumination.
+PREMIUM
+DLCL I S T E D
+0-10V
+DIMMABLESENSOR READY
+TECHNOLOGY
+CCT
+TUNABLE 20
+Spec
+Sheet
+
+### 2026 MES Catalog, page 37
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=36
+
+From the 2026 MES Catalog, page 37.
+
+SENSOR INFORMATION
+BASIC LIGHTING CONTROL
+06267-02 06278
+NETWORK LIGHTING CONTROL
+QSR
+ACCESSORIES
+02894
+Surface
+Mount Kit 1'x4'
+02886
+Aircraft Cable
+02883
+Flange Kit 1'x4'
+02884
+Flange Kit 2'x2'
+02885
+Flange Kit 2'x4'
+02895
+Surface
+Mount Kit 2'x2'
+02896
+Surface
+Mount Kit 2'x4'
+06274 06291 06901
+
+### 2026 MES Catalog, page 38: LED BACK-LIT FLAT PANEL (BIRCH GSR+)
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=37
+
+From the 2026 MES Catalog, page 38.
+
+LED BACK-LIT FLAT PANEL
+(BIRCH GSR+)
+Features:
+Ordering Code DLC ID# WattsSize CCT LM/Watt Total LM Voltage Color
+15W
+20W
+25W
+30W
+40W
+1,965 LM
+2,620 LM
+3,275 LM
+3,930 LM
+5,240 LM
+02850 131 LM/W
+3500K
+4000K
+5000K
+120-277V White1ʼx4ʼ
+15W
+20W
+25W
+30W
+40W
+1,965 LM
+2,620 LM
+3,275 LM
+3,930 LM
+5,240 LM
+02851 131 LM/W
+3500K
+4000K
+5000K
+120-277V White2ʼx2ʼ
+23W
+30W
+35W
+40W
+50W
+3,013 LM
+3,930 LM
+4,585 LM
+5,240 LM
+6,550 LM
+02852 131 LM/W
+3500K
+4000K
+5000K
+120-277V White2ʼx4ʼ
+1ʼx4ʼ | 2ʼx2ʼ | 2ʼx4ʼ
+• High-Quality Design: Provides excellent light diffusion,
+optical clarity, and resists yellowing or UV damage.
+• Power & Color Select: Select the ideal wattage and CCT to
+fine-tune brightness and tone.
+• Electrical: LED luminaire with dimmable driver and universal
+120–277V.
+• QSR & PQSR Sensor-Ready: Driver supports both PIR and
+OcuSense controls for quick installation of basic and NLC
+lighting systems.
+• High Output Panel: 2×4 panel 50W and 72W for strong,
+uniform illumination.
+CERTIFICATIONS
+PRODUCT FEATURES
+PREMIUM
+DLCL I S T E D
+0-10V
+DIMMABLESENSOR READY
+TECHNOLOGY
+CCT
+TUNABLE 20 SENSOR READY
+TECHNOLOGY
+30W
+40W
+50W
+60W
+72W
+3,930 LM
+5,240 LM
+6,550 LM
+7,860 LM
+9,432 LM
+02853 131 LM/W
+3500K
+4000K
+5000K
+120-277V White2ʼx4ʼ
+Spec
+Sheet
+S-VXCG57
+S-07BNK0
+S-5NRHF2
+S-5BQDDX
+
+### 2026 MES Catalog, page 39
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=38
+
+From the 2026 MES Catalog, page 39.
+
+SENSOR INFORMATION
+BASIC LIGHTING CONTROL
+06320 06278
+NETWORK LIGHTING CONTROL
+06267-02
+ACCESSORIES
+02894 02886
+02883
+Flange Kit 1'x4'
+02884
+Flange Kit 2'x2'
+02885
+Flange Kit 2'x4'
+02895 02896
+Surface
+Mount Kit 1'x4' Aircraft Cable
+Surface
+Mount Kit 2'x2'
+Surface
+Mount Kit 2'x4'
+(QSR)
+(PQSR)
+06274 06291 06901
+06275 06293 06903
+
+### 2026 MES Catalog, page 40: LED VOLUMETRIC TROFFER (REDWOOD GSR+)
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=39
+
+From the 2026 MES Catalog, page 40.
+
+LED VOLUMETRIC TROFFER
+(REDWOOD GSR+)
+Features:
+Ordering Code DLC ID# WattsSize CCT LM/Watt Total LM Voltage Color
+15W
+20W
+25W
+30W
+40W
+1,965 LM
+2,620 LM
+3,275 LM
+3,930 LM
+5,240 LM
+02675 03 S-D2VX7R 131 LM/W
+3500K
+4000K
+5000K
+120-277V White2ʼx2ʼ
+23W
+30W
+35W
+40W
+50W
+3,013 LM
+3,930 LM
+4,585 LM
+5,240 LM
+6,550 LM
+02676 03 S-J9QRG7 131 LM/W
+3500K
+4000K
+5000K
+120-277V White2ʼx4ʼ
+30W
+40W
+50W
+60W
+72W
+3,930 LM
+5,240 LM
+6,550 LM
+7,860 LM
+9,432 LM
+02676 05 S-R1N2QG 131 LM/W
+3500K
+4000K
+5000K
+120-277V White2ʼx4ʼ
+2ʼx2ʼ | 2ʼx4ʼ
+• Illumination: Delivers soft, flicker-free lighting ideal for
+workspaces and indoor areas.
+• Power & Color Select: Select the ideal wattage and CCT to
+fine-tune brightness and tone.
+• Electrical: LED luminaire with dimmable driver and universal
+120–277V.
+• QSR Sensor-Ready: Driver supports OcuSense controls for
+quick installation of basic and NLC lighting systems.
+• High Output Panel: 2×4 panel 50W and 72W for strong,
+uniform illumination.
+CERTIFICATIONS
+PRODUCT FEATURES
+PREMIUM
+DLCL I S T E D
+0-10V
+DIMMABLESENSOR READY
+TECHNOLOGY
+CCT
+TUNABLE 20
+Spec
+Sheet
+
+### 2026 MES Catalog, page 41
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=40
+
+From the 2026 MES Catalog, page 41.
+
+ACCESSORIES
+02886
+Aircraft Cable
+02895
+Surface
+Mount Kit 2'x2'
+02896
+Surface
+Mount Kit 2'x4'
+SENSOR INFORMATION
+BASIC LIGHTING CONTROL
+06267-02 06278
+NETWORK LIGHTING CONTROL
+QSR
+06274 06291 06901
+
+### 2026 MES Catalog, page 42: LED VOLUMETRIC TROFFER (SYCAMORE GSR+)
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=41
+
+From the 2026 MES Catalog, page 42.
+
+LED VOLUMETRIC TROFFER
+(SYCAMORE GSR+)
+Features:
+Ordering Code DLC ID# WattsSize CCT LM/Watt Total LM Voltage Color
+15W
+20W
+25W
+30W
+40W
+1,965 LM
+2,620 LM
+3,275 LM
+3,930 LM
+5,240 LM
+02677 S-D2VX7R 131 LM/W
+3500K
+4000K
+5000K
+120-277V White2ʼx2ʼ
+23W
+30W
+35W
+40W
+50W
+3,013 LM
+3,930 LM
+4,585 LM
+5,240 LM
+6,550 LM
+02678 S-J9QRG7 131 LM/W
+3500K
+4000K
+5000K
+120-277V White2ʼx4ʼ
+30W
+40W
+50W
+60W
+72W
+3,930 LM
+5,240 LM
+6,550 LM
+7,860 LM
+9,432 LM
+02679 S-R1N2QG 131 LM/W
+3500K
+4000K
+5000K
+120-277V White2ʼx4ʼ
+2ʼx2ʼ | 2ʼx4ʼ
+• Illumination: Delivers soft, flicker-free lighting ideal for
+workspaces and indoor areas.
+• Power & Color Select: Select the ideal wattage and CCT to
+fine-tune brightness and tone.
+• Electrical: LED luminaire with dimmable driver and universal
+120–277V.
+• QSR & PQSR Sensor-Ready: Driver supports both PIR and
+OcuSense controls for quick installation of basic and NLC
+lighting systems.
+• High Output Panel: 2×4 panel 50W and 72W for strong,
+uniform illumination.
+CERTIFICATIONS
+PRODUCT FEATURES
+PREMIUM
+DLCL I S T E D
+0-10V
+DIMMABLESENSOR READY
+TECHNOLOGY
+CCT
+TUNABLE 20 SENSOR READY
+TECHNOLOGY
+Spec
+Sheet
+
+### 2026 MES Catalog, page 43
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=42
+
+From the 2026 MES Catalog, page 43.
+
+SENSOR INFORMATION
+BASIC LIGHTING CONTROL
+06267-02 06320 06278
+NETWORK LIGHTING CONTROL
+ACCESSORIES
+02886
+Aircraft Cable
+02895
+Surface
+Mount Kit 2'x2'
+02896
+Surface
+Mount Kit 2'x4'
+(QSR)
+(PQSR)
+06274 06291 06901
+06275 06293 06903
+
+### 2026 MES Catalog, page 44: LED COVERED STRIP FIXTURE (JUNIPER GSR+)
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=43
+
+From the 2026 MES Catalog, page 44.
+
+LED COVERED STRIP FIXTURE
+(JUNIPER GSR+)
+Features:
+Ordering Code DLC ID# WattsSize CCT LM/Watt Total LM Voltage Color
+21W
+26W
+34W
+40W
+3,150 LM
+3,900 LM
+5,100 LM
+6,000 LM
+02381 04 S-0LBWFG 150 LM/W
+3000K
+3500K
+4000K
+5000K
+6500K
+120-277V White4ʼ
+40W
+47W
+52W
+68W
+6,000 LM
+7,050 LM
+7,800 LM
+10,200 LM
+02381 05 S-7GZ1QP 150 LM/W
+3000K
+3500K
+4000K
+5000K
+6500K
+120-277V White4ʼ
+34W
+42W
+52W
+68W
+5,100 LM
+6,300 LM
+7,800 LM
+10,200 LM
+02382 04 S-RMHHJZ 150 LM/W
+3000K
+3500K
+4000K
+5000K
+6500K
+120-277V White8ʼ
+4ʼ | 8ʼ
+• Available Sizes: Comes in 4 ft and 8 ft length configurations.
+• Power & Color Select: Select the ideal wattage and CCT to
+fine-tune brightness and tone.
+• Electrical: LED luminaire with dimmable driver and universal
+120–277V.
+• Easy Wiring: Simple, Quick Connection for fast installation.
+• QSR & PQSR Sensor-Ready: Driver supports both PIR and
+OcuSense controls for quick installation of basic and NLC
+lighting systems.
+• Secure Lens: Two-hand press design ensures stable lens
+attachment.
+CERTIFICATIONS
+PRODUCT FEATURES
+0-10V
+DIMMABLESENSOR READY
+TECHNOLOGY
+CCT
+TUNABLE 20 SENSOR READY
+TECHNOLOGY
+PREMIUM
+DLCL I S T E D
+40W
+53W
+68W
+80W
+6,000 LM
+7,950 LM
+10,200 LM
+12,000 LM
+02382 05 S-BHJRLR 150 LM/W
+3000K
+3500K
+4000K
+5000K
+6500K
+120-277V White8ʼ
+80W
+94W
+106W
+136W
+12,000 LM
+14,100 LM
+15,900 LM
+20,400 LM
+02382 06 S-32DLZX 150 LM/W
+3000K
+3500K
+4000K
+5000K
+6500K
+120-277V White8ʼ
+Spec
+Sheet
+
+### 2026 MES Catalog, page 45
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=44
+
+From the 2026 MES Catalog, page 45.
+
+SENSOR INFORMATION
+BASIC LIGHTING CONTROL
+06267-02 06320 06278
+NETWORK LIGHTING CONTROL
+(QSR)
+(PQSR)
+06274 06291 06901
+06275 06293 06903
+
+### 2026 MES Catalog, page 46: LED WRAPAROUND CLASSIC (LAUREL FAMILY)
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=45
+
+From the 2026 MES Catalog, page 46.
+
+LED WRAPAROUND CLASSIC
+(LAUREL FAMILY)
+Features:
+(GSR)
+(GSR+)
+Ordering Code DLC ID# WattsSize CCT LM/Watt Total LM Voltage Color
+24W
+31W
+38W
+46W
+3,000 LM
+3,875 LM
+4,750 LM
+5,750 LM
+19489 02 S-8G8WHC 125 LM/W
+3000K
+3500K
+4000K
+5000K
+6500K
+120-277V White4ʼ
+12W
+16W
+20W
+25W
+1,740 LM
+2,320 LM
+2,900 LM
+3,625 LM
+19488 03 S-BJZ8Z5 145 LM/W
+3000K
+3500K
+4000K
+5000K
+6500K
+120-277V White2ʼ
+17W
+24W
+31W
+38W
+2,465 LM
+3,480 LM
+4,495 LM
+5,510 LM
+19490 03 S-KSG5P2 145 LM/W
+3000K
+3500K
+4000K
+5000K
+6500K
+120-277V White4ʼ
+2ʼ | 4ʼ
+• Modern Look: Sleek, modern design available in 2ft and 4ft
+lengths for versatile applications.
+• Power & Color Select: Select the ideal wattage and CCT to
+fine-tune brightness and tone.
+• Electrical: LED luminaire with dimmable driver and universal
+120–277V.
+• Easy Wiring: Simple, quick electrical connection for fast
+installation.
+• QSR & PQSR Sensor-Ready: Driver supports both PIR and
+OcuSense controls for quick installation of basic and NLC
+lighting systems.
+• High Efficiency: Delivers up to 150 lumens per watt (lm/W)
+for uniform illumination.
+CERTIFICATIONS
+PRODUCT FEATURES
+0-10V
+DIMMABLESENSOR READY
+TECHNOLOGY
+CCT
+TUNABLE 20 SENSOR READY
+TECHNOLOGY HIGH LUMEN
+PREMIUM
+DLCL I S T E D
+HIGH LUMEN
+Spec
+Sheet
+Spec
+Sheet
+
+### 2026 MES Catalog, page 47
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=46
+
+From the 2026 MES Catalog, page 47.
+
+SENSOR INFORMATION
+BASIC LIGHTING CONTROL
+06267-02 06320 06278
+NETWORK LIGHTING CONTROL
+(QSR)
+(PQSR)
+06274 06291 06901
+06275 06293 06903
+
+### 2026 MES Catalog, page 48: LED WRAPAROUND CURVED (OLIVE FAMILY)
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=47
+
+From the 2026 MES Catalog, page 48.
+
+LED WRAPAROUND CURVED
+(OLIVE FAMILY)
+Features:
+(GSR 14-inch Profile)
+(GSR+ 10-inch Profile)
+Ordering Code DLC ID# WattsSize CCT LM/Watt Total LM Voltage Color
+30W
+40W
+50W
+3,900 LM
+5,200 LM
+6,500 LM
+02472 S-A4K532 130 LM/W
+3500K
+4000K
+5000K
+120-277V White4ʼ
+21W
+26W
+34W
+40W
+3,150 LM
+3,900 LM
+5,100 LM
+6,000 LM
+02471 01 S-96Z91V 150 LM/W
+3000K
+3500K
+4000K
+5000K
+6500K
+120-277V White4ʼ
+4ʼ
+• Standardized Width Design: Featuring a unique modern
+curved profile in 10-inch and 14-inch.
+• Power & Color Select: Select the ideal wattage and CCT to
+fine-tune brightness and tone.
+• Electrical: LED luminaire with dimmable driver and universal
+120–277V.
+• Easy Wiring: Simple, quick electrical connection for fast
+installation.
+• QSR & ZSR Sensor-Ready: Driver supports OcuSense & PIR
+with L-Adaptor controls for quick installation of basic and
+NLC lighting systems.
+• High Efficiency: Delivers up to 150 lumens per watt (lm/W)
+for uniform illumination.
+CERTIFICATIONS
+PRODUCT FEATURES
+0-10V
+DIMMABLESENSOR READY
+TECHNOLOGY
+CCT
+TUNABLE 20 SENSOR READY
+TECHNOLOGY HIGH LUMEN
+PREMIUM
+DLCL I S T E D
+HIGH LUMEN
+Spec
+Sheet
+Spec
+Sheet
+
+### 2026 MES Catalog, page 49
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=48
+
+From the 2026 MES Catalog, page 49.
+
+SENSOR INFORMATION
+BASIC LIGHTING CONTROL
++
+0627806251-0206301-0106267-02
+NETWORK LIGHTING CONTROL
+(QSR)
+(ZSR)
+06301-01 06290-01
++
+06270-0206301-01
++
+06301-01 06906
++
+06274 06291 06901
+
+### 2026 MES Catalog, page 50: LED STAIRWELL LINEAR FIXTURE (CHERRY GSR+)
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=49
+
+From the 2026 MES Catalog, page 50.
+
+LED STAIRWELL LINEAR FIXTURE
+(CHERRY GSR+)
+Features:
+Ordering Code DLC ID# WattsSize CCT LM/Watt Total LM Voltage Color
+13W
+17W
+21W
+26W
+1,950 LM
+2,550 LM
+3,150 LM
+3,900 LM
+02361 150 LM/W
+2700K
+3000K
+3500K
+4000K
+5000K
+120-277V White2ʼ
+21W
+26W
+34W
+40W
+3,150 LM
+3,900 LM
+5,100 LM
+6,000 LM
+02362 150 LM/W
+2700K
+3000K
+3500K
+4000K
+5000K
+120-277V White4ʼ
+2ʼ | 4ʼ
+• Available Sizes: Comes in 2 ft and 4 ft length configurations.
+• Power & Color Select: Select the ideal wattage and CCT to
+fine-tune brightness and tone.
+• Electrical: LED luminaire with dimmable driver and universal
+120–277V
+• Easy Wiring: Simple, quick electrical connection for fast
+installation.
+• PQSR Sensor-Ready: Driver supports both PIR controls for
+quick installation of basic and NLC lighting systems.
+• High Efficiency: Delivers up to 150 lumens per watt (lm/W)
+for uniform illumination.
+CERTIFICATIONS
+PRODUCT FEATURES
+0-10V
+DIMMABLE
+CCT
+TUNABLE 20 SENSOR READY
+TECHNOLOGY HIGH LUMEN
+PREMIUM
+DLCL I S T E D
+Spec
+Sheet
+S-400BX6
+S-72YM6G
+
+### 2026 MES Catalog, page 51
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=50
+
+From the 2026 MES Catalog, page 51.
+
+SENSOR INFORMATION
+BASIC LIGHTING CONTROL
+06267-02 06320 06278
+NETWORK LIGHTING CONTROL
+(PQSR)
+06275 06293 06903
+
+### 2026 MES Catalog, page 52: LED VAPOR TIGHT FIXTURE (HAZEL GSR)
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=51
+
+From the 2026 MES Catalog, page 52.
+
+LED VAPOR TIGHT FIXTURE
+(HAZEL GSR)
+Features:
+Ordering Code DLC ID# WattsSize CCT LM/Watt Total LM Voltage Color
+35W
+45W
+60W
+4,900 LM
+6,300 LM
+8,400 LM
+02508 S-TF1SHN 140 LM/W
+3500K
+4000K
+5000K
+120-277V Gray4ʼ
+55W
+65W
+75W
+90W
+7,700 LM
+9,100 LM
+10,500 LM
+12,600 LM
+02509 S-68O7H1 140 LM/W
+3500K
+4000K
+5000K
+120-277V Gray8ʼ
+4ʼ | 8ʼ
+• Available Sizes: Comes in 4 ft and 8 ft length configurations.
+• Power & Color Select: Select the ideal wattage and CCT to
+fine-tune brightness and tone.
+• Rugged & Certified: NSF and IK10 certified for impact
+resistance and safety.
+• QSR & ZSR Sensor-Ready: Driver supports OcuSense and
+PIR with L-Adaptor controls for quick installation of basic and
+NLC lighting systems.
+• High Output Performance: Enhanced lumen output delivers
+brighter, energy-efficient illumination.
+CERTIFICATIONS
+PRODUCT FEATURES
+PREMIUM
+DLCL I S T E D
+0-10V
+DIMMABLE
+IK 10
+CCT
+TUNABLE
+67
+SENSOR READY
+TECHNOLOGY
+SENSOR READY
+TECHNOLOGY
+Spec
+Sheet
+
+### 2026 MES Catalog, page 53
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=52
+
+From the 2026 MES Catalog, page 53.
+
+SENSOR INFORMATION
+BASIC LIGHTING CONTROL
++
+0627806251-0206301-0106267-02
+NETWORK LIGHTING CONTROL
+(QSR)
+(ZSR)
+06301-01 06290-01
++
+06270-0206301-01
++
+06301-01 06906
++
+06274 06291 06901
+
+### 2026 MES Catalog, page 54: LED ROUND HIGH BAY (ASH GSR+)
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=53
+
+From the 2026 MES Catalog, page 54.
+
+LED ROUND HIGH BAY
+(ASH GSR+)
+Features:
+Ordering Code DLC ID# Watts CCT LM/Watt Total LM Voltage Color
+60W
+80W
+100W
+9,300 LM
+12,400 LM
+15,500 LM
+03065-02 S-VEMO4W 155 LM/W
+3500K
+4000K
+5000K
+120-277V Black
+110W
+130W
+150W
+17,050 LM
+20,150 LM
+23,250 LM
+03066-02 S-BIV8AP 155 LM/W
+3500K
+4000K
+5000K
+120-277V Black
+200W
+220W
+240W
+31,000 LM
+34,100 LM
+37,200 LM
+03068-02 S-KCLWZG 155 LM/W
+3500K
+4000K
+5000K
+120-277V Black
+200W
+240W
+300W
+31,000 LM
+34,100 LM
+37,200 LM
+03083 S-SWWLNG 155 LM/W
+3500K
+4000K
+5000K
+120-277V Black
+110W
+130W
+150W
+17,050 LM
+20,150 LM
+23,250 LM
+03081-02 S-BIV8AP 155 LM/W
+3500K
+4000K
+5000K
+120-277V White
+• High Efficiency: Delivers 155–160 lumens per watt (lm/W) for
+uniform illumination.
+• IP65 Housing: Waterproof Design for outdoor and harsh
+environments.
+• 6KV Surge Protection: Protects the fixture against voltage
+spikes and electrical surges.
+• 6-Foot Cord: Provides extended reach and flexibility during
+installation.
+• ZSR Sensor-Ready: Driver supports PIR controls for quick
+installation of basic and NLC lighting systems.
+• Flexible Mounting: Supports hook, pendant, and surface
+mount options for quick installation in various settings.
+CERTIFICATIONS
+PRODUCT FEATURES
+PREMIUM
+DLCL I S T E D
+0-10V
+DIMMABLE
+CCT
+TUNABLE 65
+SENSOR READY
+TECHNOLOGY HIGH LUMEN
+Spec
+Sheet
+200W
+220W
+240W
+31,000 LM
+34,100 LM
+37,200 LM
+03082-02 S-KCLWZG 155 LM/W
+3500K
+4000K
+5000K
+120-277V White
+
+### 2026 MES Catalog, page 55
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=54
+
+From the 2026 MES Catalog, page 55.
+
+110W
+130W
+150W
+17,050 LM
+20,150 LM
+23,250 LM
+03079-02 S-BIV8AP 155 LM/W
+3500K
+4000K
+5000K
+277-480V Black
+200W
+220W
+240W
+31,000 LM
+34,100 LM
+37,200 LM
+03080-02 S-KCLWZG 155 LM/W
+3500K
+4000K
+5000K
+277-480V Black
+SENSOR INFORMATION
+BASIC LIGHTING CONTROL
+0627806251
+NETWORK LIGHTING CONTROL
+06270-02 06290-01 06906
+ACCESSORIES
+110W-150W - 03047
+200W - 240W - 03046
+Surface Mount
+110W-150W - 03045
+200W - 240W - 03044
+Arcylic Reflector
+110W-150W - 03049
+200W - 240W - 03048
+Wireguard
+09458
+Pendant Mount
+Ordering Code DLC ID# Watts CCT LM/Watt Total LM Voltage Color
+
+### 2026 MES Catalog, page 56: LED HIGH BAY LINEAR (PINE FAMILY)
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=55
+
+From the 2026 MES Catalog, page 56.
+
+Ordering Code DLC ID# WattsSize CCT LM/Watt Total LM Voltage Color
+Ordering Code DLC ID# WattsSize CCT LM/Watt Total LM Voltage Color
+220W
+280W
+320W
+360W
+400W
+30,800 LM
+39,200 LM
+44,800 LM
+50,400 LM
+56,000 LM
+09249 TBD 140 LM/W5000K 120-277V White4ʼ
+LED HIGH BAY LINEAR
+(PINE FAMILY)
+Features:
+(SSR)
+110W
+165W
+220W
+300W
+17,380 LM
+26,070 LM
+34,760 LM
+47,400 LM
+09247 - 01 PALLZTQ9 158 LM/W
+3000K
+4000K
+5000K
+120-277V White3ʼ
+(GSR)
+CERTIFICATIONS
+PRODUCT FEATURES
+PREMIUM
+DLCL I S T E D
+0-10V
+DIMMABLE
+CCT
+TUNABLE 20 SENSOR READY
+TECHNOLOGY
+• Available Sizes: Comes in 3 ft and 4 ft length.
+• High Efficiency: Delivers 140-160 lumens per watt (lm/W) for
+uniform illumination.
+• 10KV Surge Protection: Protects the fixture against voltage
+spikes and electrical surges.
+• ZSR Sensor-Ready: Driver supports PIR controls for quick
+installation of basic and NLC lighting systems.
+• 6-Foot Power Cord: Provides extended reach and added
+flexibility during installation.
+• Aircraft Cable Mounting: Enables quick, secure, and easy
+installation.
+Spec
+Sheet
+Spec
+Sheet
+
+### 2026 MES Catalog, page 57
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=56
+
+From the 2026 MES Catalog, page 57.
+
+SENSOR INFORMATION
+BASIC LIGHTING CONTROL
+0627806251
+NETWORK LIGHTING CONTROL
+ACCESSORIES
+PINE (GSR)
+03497
+Pendant Mount
+03489
+Surface Mount
+03498
+Wireguard
+06270-02 06290-01 06906
+
+### 2026 MES Catalog, page 58: LED HIGH BAY LINEAR (PINE SSR+)
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=57
+
+From the 2026 MES Catalog, page 58.
+
+Ordering Code DLC ID# WattsSize CCT LM/Watt Total LM Voltage Color
+50W
+60W
+70W
+90W
+110W
+8,100 LM
+9,720 LM
+11,340 LM
+14,580 LM
+17,820 LM
+09240-03 S-BXIQWY 162 LM/W5000K 120-277V White2ʼ
+90W
+110W
+130W
+150W
+165W
+14,580 LM
+17,820 LM
+21,060 LM
+24,300 LM
+26,730 LM
+09241-03 S-GNIPZJ 162 LM/W5000K 120-277V White2ʼ
+150W
+165W
+180W
+200W
+220W
+24,300 LM
+26,730 LM
+29,160 LM
+32,400 LM
+35,640 LM
+09242-03 S-DSX36M 162 LM/W5000K 120-277V White2ʼ
+LED HIGH BAY LINEAR
+(PINE SSR+)
+Features:
+• High Efficiency: Delivers 160 lumens per watt (lm/W) for
+uniform illumination.
+• Rotatable Wings: Adjustable wing design allows customized
+light direction and coverage.
+• 10KV Surge Protection: Protects the fixture against voltage
+spikes and electrical surges.
+• 6-Foot Power Cord: Provides extended reach and added
+flexibility during installation.
+• Aircraft Cable Mounting: Enables quick, secure, and easy
+installation.
+• ZSR Sensor-Ready: Driver supports PIR controls for quick
+installation of basic and NLC lighting systems.
+CERTIFICATIONS
+PRODUCT FEATURES
+PREMIUM
+DLCL I S T E D
+0-10V
+DIMMABLE
+20 SENSOR READY
+TECHNOLOGY HIGH LUMEN
+Spec
+Sheet
+
+### 2026 MES Catalog, page 59
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=58
+
+From the 2026 MES Catalog, page 59.
+
+90W
+110W
+130W
+150W
+165W
+14,580 LM
+17,820 LM
+21,060 LM
+24,300 LM
+26,730 LM
+09245 S-TICMN7 162 LM/W5000K 277-480V White2ʼ
+150W
+165W
+180W
+200W
+220W
+24,300 LM
+26,730 LM
+29,160 LM
+32,400 LM
+35,640 LM
+09246 S-VCNHUF 162 LM/W5000K 277-480V White2ʼ
+SENSOR INFORMATION
+BASIC LIGHTING CONTROL
+0627806251
+NETWORK LIGHTING CONTROL
+ACCESSORIES
+03484 03485 03486 03487
+110W | 165W 220W
+Pendant Mount Surface Mount Wireguard Wireguard
+06270-02 06290-01 06906
+Ordering Code DLC ID# WattsSize CCT LM/Watt Total LM Voltage Color
+
+### 2026 MES Catalog, page 60: LED HIGH BAY LINEAR (SEQUOIA GSR)
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=59
+
+From the 2026 MES Catalog, page 60.
+
+Ordering Code DLC ID# Watts CCT LM/Watt Total LM Voltage Color
+50W
+60W
+70W
+90W
+105W
+8,000 LM
+9,600 LM
+11,200LM
+14,400 LM
+16,800 LM
+09646 S-TL57P4 160 LM/W
+3500K
+4000K
+5000K
+120-347V White
+90W
+110W
+130W
+150W
+165W
+11,200 LM
+17,600 LM
+20,800 LM
+24,000 LM
+26,400 LM
+09647 S-7RF0YG 160 LM/W
+3500K
+4000K
+5000K
+120-347V White
+90W
+110W
+130W
+150W
+165W
+26,400 LM
+28,800 LM
+32,000 LM
+35,200 LM
+38,400 LM
+09648 S-MD10F1 160 LM/W
+3500K
+4000K
+5000K
+120-347V White
+LED HIGH BAY LINEAR
+(SEQUOIA GSR)
+Features:
+(Sequoia GSR)
+• Die-Cast Aluminum Housing: Heavy-duty construction with
+robust heat dissipation for long-term performance.
+• High Efficiency: Delivers 160 lumens per watt (lm/W) for
+uniform illumination.
+• 10KV Surge Protection: Safeguards the fixture against
+voltage spikes and electrical surges.
+• 6-Foot Power Cord: Provides extended reach and added
+flexibility during installation.
+• Aircraft Cable Mounting: Enables quick, secure, and easy
+installation.
+• ZSR Sensor-Ready: Driver supports PIR controls for quick
+installation of basic and NLC lighting systems.
+CERTIFICATIONS
+PRODUCT FEATURES
+PREMIUM
+DLCL I S T E D
+0-10V
+DIMMABLE
+CCT
+TUNABLE 20 SENSOR READY
+TECHNOLOGY HIGH LUMEN
+240W
+260W
+280W
+300W
+320W
+38,400 LM
+41,600 LM
+44,800 LM
+48,000 LM
+51,200 LM
+09649 S-DXS3W1 160 LM/W
+3500K
+4000K
+5000K
+120-347V White
+Spec
+Sheet
+
+### 2026 MES Catalog, page 61
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=60
+
+From the 2026 MES Catalog, page 61.
+
+(Sequoia GSR)
+280W
+320W
+360W
+400W
+46,480 LM
+53,120 LM
+59,760 LM
+66,400 LM
+09650 S-X2M63V 166 LM/W
+3000K
+4000K
+5000K
+120-277V White
+SENSOR INFORMATION
+BASIC LIGHTING CONTROL
+0627806251
+NETWORK LIGHTING CONTROL
+06270-02 06290-01 06906
+Ordering Code DLC ID# Watts CCT LM/Watt Total LM Voltage Color
+Spec
+Sheet
+
+### 2026 MES Catalog, page 62: LED VAPOR TIGHT HIGH BAY (HAZEL GSR)
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=61
+
+From the 2026 MES Catalog, page 62.
+
+LED VAPOR TIGHT HIGH BAY
+(HAZEL GSR)
+Features:
+Ordering Code DLC ID# WattsSize CCT LM/Watt Total LM Voltage Color
+105W
+135W
+155W
+180W
+15,750 LM
+20,250 LM
+23,250 LM
+27,000 LM
+02510 02 S-E47LDJ 150 LM/W
+3500K
+4000K
+5000K
+120-277V White4ʼ
+4ʼ
+• Multiple Size Options: Available in 4 ft and 8 ft
+configurations.
+• Power & Color Select: Select the ideal wattage and CCT to
+fine-tune brightness and tone.
+• Rugged & Certified: NSF and IK10 certified for impact
+resistance and safety.
+• ZSR Sensor-Ready: Driver supports PIR with L-Adaptor
+controls for quick installation of basic and NLC lighting
+systems.
+• High Output Performance: Enhanced lumen output delivers
+brighter, energy-efficient illumination.
+CERTIFICATIONS
+PRODUCT FEATURES
+PREMIUM
+DLCL I S T E D
+0-10V
+DIMMABLE
+IK 10
+CCT
+TUNABLE 67
+SENSOR READY
+TECHNOLOGY
+Spec
+Sheet
+SENSOR INFORMATION
+NETWORK LIGHTING CONTROL
++
+06301-01
++
+06301-01 06290-0106270-02
++
+06301-01 06906
+
+### 2026 MES Catalog, page 63: LED BACK-LIT PANEL HIGH BAY (ELM GSR+)
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=62
+
+From the 2026 MES Catalog, page 63.
+
+LED BACK-LIT PANEL HIGH BAY
+(ELM GSR+)
+Features:
+Ordering Code DLC ID# Watts CCT LM/Watt Total LM Voltage Color
+100W
+150W
+210W
+16,000 LM
+24,000 LM
+33,600 LM
+02861 S-2F9672 160 LM/W
+4000K
+5000K 120-277V White
+180W
+260W
+325W
+28,800 LM
+41,600 LM
+52,000 LM
+02862 S-6TCJ9V 160 LM/W
+4000K
+5000K 120-277V White
+Size
+2ʼx2ʼ
+2ʼx4ʼ
+• Aircraft Cable Suspension: The Optional Aircraft Cable Kit
+offers flexible suspended mounting.
+• ZSR Sensor Ready: Driver supports PIR controls for quick
+installation of basic and NLC lighting systems.
+CERTIFICATIONS
+PRODUCT FEATURES
+PREMIUM
+DLCL I S T E D
+0-10V
+DIMMABLE
+CCT
+TUNABLE 20 SENSOR READY
+TECHNOLOGY
+Spec
+Sheet
+• High-Quality Lens: Provides excellent light diffusion, optical
+clarity, and resists yellowing or UV damage.
+• Surface Mount Kit Options: Ensure secure ceiling
+installation without needing recessed infrastructure.
+SENSOR INFORMATION
+NETWORK LIGHTING CONTROL
+06270-02 06290-01 06906
+
+### 2026 MES Catalog, page 64: LED WALL PACK SECURITY (CHEETAH G/FOX G)
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=63
+
+From the 2026 MES Catalog, page 64.
+
+LED WALL PACK SECURITY
+(CHEETAH G/FOX G)
+Features:
+(FOX G)
+(CHEETAH G)
+Ordering Code DLC ID# Watts CCT LM/Watt Total LM Voltage Color
+10W
+15W
+20W
+1,470 LM
+2,205 LM
+2,940 LM
+05059 S-0L6ZV8 147 LM/W
+3500K
+4000K
+5000K
+120-277V Bronze
+10W
+15W
+20W
+1,470 LM
+2,205 LM
+2,940 LM
+05058 S-0L6ZV8 147 LM/W
+3500K
+4000K
+5000K
+120-277V White
+10W
+15W
+30W
+1,950 LM
+2,600 LM
+3,900 LM
+05060 S-N32S34 130 LM/W
+3000K
+4000K
+5000K
+120-277V Bronze
+• Available Colors: Offered in Elegant Bronze & White finish.
+• Power & Color Select: Select the ideal wattage and CCT to
+fine-tune brightness and tone.
+• Electrical: LED luminaire with dimmable driver and universal
+120–277V.
+• Built-In Photocell: Automatically turns the fixture on or off
+based on daylight conditions.
+CERTIFICATIONS
+PRODUCT FEATURES
+PREMIUM
+DLCL I S T E D
+0-10V
+DIMMABLE
+CCT
+TUNABLE
+PHOTOCELL
+Spec
+Sheet
+Spec
+Sheet
+
+### 2026 MES Catalog, page 65: LED WALL PACK SLIM CUTOFF (VIPER GSR)
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=64
+
+From the 2026 MES Catalog, page 65.
+
+Ordering Code DLC ID# Watts CCT LM/Watt Total LM Voltage Color
+10W
+20W
+30W
+40W
+1,400 LM
+2,800 LM
+4,200 LM
+5,600 LM
+05108 - 01 S-FX4BF9 140 LM/W
+3000K
+4000K
+5000K
+120-277V Bronze
+20W
+40W
+60W
+80W
+2,800 LM
+5,600 LM
+8,400 LM
+11,200 LM
+05109 - 01 S-RXTXGT 140 LM/W
+3000K
+4000K
+5000K
+120-277V Bronze
+LED WALL PACK SLIM CUTOFF
+(VIPER GSR)
+Features:
+• Rotatable Head: Adjustable up-and-down design allows
+precise light direction and coverage.
+• Power & Color Select: Select the ideal wattage and CCT to
+fine-tune brightness and tone.
+• Electrical: LED luminaire with dimmable driver and universal
+120–277V.
+• ZSR Sensor-Ready: Driver supports PIR with L-Adaptor
+controls for quick installation of basic and NLC lighting
+systems.
+• Built-In Photocell: Provides automatic dusk-to-dawn
+operation for improved energy efficiency.
+CERTIFICATIONS
+PRODUCT FEATURES
+PREMIUM
+DLCL I S T E D
+CCT
+TUNABLE
+PHOTOCELL
+DA R K S KY
+COMPLIANT
+SENSOR READY
+TECHNOLOGY
+Spec
+Sheet
+
+### 2026 MES Catalog, page 66: LED WALL PACK STANDARD (TIGER GSR)
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=65
+
+From the 2026 MES Catalog, page 66.
+
+Ordering Code DLC ID# Watts CCT LM/Watt Total LM Voltage Color
+10W
+20W
+30W
+40W
+1,300 LM
+2,600 LM
+3,900 LM
+5,200 LM
+05252-01 S-PLWIQ3 130 LM/W
+3000K
+4000K
+5000K
+120-277V Bronze
+20W
+40W
+60W
+80W
+2,700 LM
+5,400 LM
+8,100 LM
+10,800 LM
+05255-01 S-LKJEUV 135 LM/W
+3000K
+4000K
+5000K
+120-277V Bronze
+30W
+60W
+90W
+120W
+4,050 LM
+8,100 LM
+12,150 LM
+16,200 LM
+05256-01 S-SWFBX3 135 LM/W
+3000K
+4000K
+5000K
+120-277V Bronze
+LED WALL PACK STANDARD
+(TIGER GSR)
+Features:
+• Optics: Features durable, high-quality glass for clear and
+uniform illumination.
+• Available Colors: Offered in elegant Bronze and White
+finishes.
+• Power & Color Select: Select the ideal wattage and CCT to
+fine-tune brightness and tone.
+• ZSR Sensor-Ready: Driver supports PIR with L-Adaptor
+controls for quick installation of basic and NLC lighting
+systems.
+• Built-In Photocell: Provides automatic dusk-to-dawn
+operation for improved energy efficiency.
+CERTIFICATIONS
+PRODUCT FEATURES
+PREMIUM
+DLCL I S T E D
+CCT
+TUNABLE
+PHOTOCELL
+DA R K S KY
+COMPLIANT
+SENSOR READY
+TECHNOLOGY
+20W
+40W
+60W
+80W
+2,700 LM
+5,400 LM
+8,100 LM
+10,800 LM
+05260-01 S-LKJEUV 135 LM/W
+3000K
+4000K
+5000K
+120-277V White
+30W
+60W
+90W
+120W
+4,050 LM
+8,100 LM
+12,150 LM
+16,200 LM
+05259-01 S-SWFBX3 135 LM/W
+3000K
+4000K
+5000K
+120-277V White
+Spec
+Sheet
+
+### 2026 MES Catalog, page 67: LED WALL PACK SLIM STANDARD (RAPTOR GSR)
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=66
+
+From the 2026 MES Catalog, page 67.
+
+Ordering Code DLC ID# Watts CCT LM/Watt Total LM Voltage Color
+10W
+20W
+30W
+40W
+1,350 LM
+2,700 LM
+4,050 LM
+5,400 LM
+05265 S-76ZVOK 130 LM/W
+3000K
+4000K
+5000K
+120-277V Bronze
+20W
+40W
+60W
+80W
+2,700 LM
+5,400 LM
+8,100 LM
+10,800 LM
+05261 S-INHY9M 135 LM/W
+3000K
+4000K
+5000K
+120-277V Bronze
+30W
+60W
+90W
+120W
+4,050 LM
+8,100 LM
+12,150 LM
+16,200 LM
+05263 S-NT8Q0O 135 LM/W
+3000K
+4000K
+5000K
+120-277V Bronze
+LED WALL PACK SLIM STANDARD
+(RAPTOR GSR)
+Features:
+• Optics: Features durable, high-quality glass for clear and
+uniform illumination.
+• Available Colors: Offered in elegant Bronze and White
+finishes.
+• Power & Color Select: Select the ideal wattage and CCT to
+fine-tune brightness and tone.
+• ZSR Sensor-Ready: Driver supports PIR with L-Adaptor
+controls for quick installation of basic and NLC lighting
+systems.
+• Built-In Photocell: Provides automatic dusk-to-dawn
+operation for improved energy efficiency.
+CERTIFICATIONS
+PRODUCT FEATURES
+PREMIUM
+DLCL I S T E D
+CCT
+TUNABLE
+PHOTOCELL
+DA R K S KY
+COMPLIANT
+SENSOR READY
+TECHNOLOGY
+20W
+40W
+60W
+80W
+2,700 LM
+5,400 LM
+8,100 LM
+10,800 LM
+05262 S-INHY9M 135 LM/W
+3000K
+4000K
+5000K
+120-277V White
+30W
+60W
+90W
+120W
+4,050 LM
+8,100 LM
+12,150 LM
+16,200 LM
+05264 S-NT8Q0O 135 LM/W
+3000K
+4000K
+5000K
+120-277V White
+Spec
+Sheet
+
+### 2026 MES Catalog, page 68: LED WALL PACK FULL CUTOFF (JAGUAR GSR)
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=67
+
+From the 2026 MES Catalog, page 68.
+
+Ordering Code DLC ID# Watts CCT LM/Watt Total LM Voltage Color
+20W
+40W
+60W
+80W
+1,350 LM
+2,700 LM
+4,050 LM
+5,400 LM
+05126-02 S-MITGPO 135 LM/W
+3000K
+4000K
+5000K
+120-277V Bronze
+30W
+60W
+90W
+120W
+2,700 LM
+5,400 LM
+8,100 LM
+10,800 LM
+05129-02 S-6L81FM 135 LM/W
+3000K
+4000K
+5000K
+120-277V Bronze
+20W
+40W
+60W
+80W
+4,050 LM
+8,100 LM
+12,150 LM
+16,200 LM
+05128-02 S-MITGPO 135 LM/W
+3000K
+4000K
+5000K
+120-277V White
+LED WALL PACK FULL CUTOFF
+(JAGUAR GSR)
+Features:
+• Optics: Durable PC lens maintains long-term clarity and
+resists fading.
+• Available Colors: Offered in elegant Bronze and White
+finishes.
+• Power & Color Select: Select the ideal wattage and CCT to
+fine-tune brightness and tone.
+• ZSR Sensor-Ready: Driver supports PIR with L-Adaptor
+controls for quick installation of basic and NLC lighting
+systems.
+• Built-In Photocell: Provides automatic dusk-to-dawn
+operation for improved energy efficiency.
+CERTIFICATIONS
+PRODUCT FEATURES
+PREMIUM
+DLCL I S T E D
+CCT
+TUNABLE
+PHOTOCELL
+DA R K S KY
+COMPLIANT
+SENSOR READY
+TECHNOLOGY
+30W
+60W
+90W
+120W
+4,050 LM
+8,100 LM
+12,150 LM
+16,200 LM
+05130-02 S-6L81FM 135 LM/W
+3000K
+4000K
+5000K
+120-277V White
+Spec
+Sheet
+
+### 2026 MES Catalog, page 69: LED WALL PACK FULL CUTOFF UP/DOWN (JAGUAR GSR+)
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=68
+
+From the 2026 MES Catalog, page 69.
+
+Ordering Code DLC ID# Watts CCT LM/Watt Total LM Voltage Color
+10W
+20W
+30W
+40W
+1,500 LM
+3,000 LM
+4,500 LM
+6,000 LM
+05126 03 PLWNWFZSS7JT 150 LM/W
+3000K
+4000K
+5000K
+120-277V Bronze
+20W
+40W
+60W
+80W
+3,000 LM
+6,000 LM
+9,000 LM
+12,000 LM
+05126 04 S-MITGPO 150 LM/W
+3000K
+4000K
+5000K
+120-277V Bronze
+30W
+60W
+90W
+120W
+4,500 LM
+9,000 LM
+13,500 LM
+18,000 LM
+05126 05 S-6L81FM 150 LM/W
+3000K
+4000K
+5000K
+120-277V Bronze
+LED WALL PACK FULL CUTOFF
+UP/DOWN (JAGUAR GSR+)
+Features:
+• Dark Sky Compliant Certification: Certified Dark Sky
+Compliant to minimize light pollution and ensure eco-friendly.
+• Dual-Direction Lighting: Provides balanced illumination by
+directing light both upward and downward.
+• Power & Color Select: Select the ideal wattage and CCT to
+fine-tune brightness and tone.
+• ZSR Sensor-Ready: Driver supports PIR with L-Adaptor
+controls for quick installation of basic and NLC lighting
+systems.
+• Built-In Photocell: Provides automatic dusk-to-dawn
+operation for improved energy efficiency.
+CERTIFICATIONS
+PRODUCT FEATURES
+PREMIUM
+DLCL I S T E D
+CCT
+TUNABLE
+PHOTOCELL
+DA R K S KY
+COMPLIANT
+SENSOR READY
+TECHNOLOGY
+Spec
+Sheet
+
+### 2026 MES Catalog, page 70: LED WALL PACK HALF MOON (HYENA GSR)
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=69
+
+From the 2026 MES Catalog, page 70.
+
+Ordering Code DLC ID# Watts CCT LM/Watt Total LM Voltage Color
+10W
+20W
+30W
+40W
+1,500 LM
+3,000 LM
+4,500 LM
+6,000 LM
+05131 PLWNWFZSS7JT 150 LM/W
+3000K
+4000K
+5000K
+120-277V Bronze
+20W
+40W
+60W
+80W
+3,000 LM
+6,000 LM
+9,000 LM
+12,000 LM
+05132 S-MITGPO 150 LM/W
+3000K
+4000K
+5000K
+120-277V Bronze
+30W
+60W
+90W
+120W
+4,500 LM
+9,000 LM
+13,500 LM
+18,000 LM
+05133 S-6L81FM 150 LM/W
+3000K
+4000K
+5000K
+120-277V Bronze
+LED WALL PACK HALF MOON
+(HYENA GSR)
+Features:
+CERTIFICATIONS
+PRODUCT FEATURES
+PREMIUM
+DLCL I S T E D
+CCT
+TUNABLE
+PHOTOCELL
+DA R K S KY
+COMPLIANT
+SENSOR READY
+TECHNOLOGY
+• Dark Sky Compliant Certification: Certified Dark Sky
+Compliant to minimize light pollution and ensure eco-friendly.
+• Versatile Performance: Ideal for exterior walls, pathways, and
+architectural lighting.
+• Power & Color Select: Select the ideal wattage and CCT to
+fine-tune brightness and tone.
+• ZSR Sensor-Ready: Driver supports PIR with L-Adaptor
+controls for quick installation of basic and NLC lighting
+systems.
+• Built-In Photocell: Provides automatic dusk-to-dawn
+operation for improved energy efficiency.
+Spec
+Sheet
+
+### 2026 MES Catalog, page 71
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=70
+
+From the 2026 MES Catalog, page 71.
+
+NLC FOR WALLPACKS
+06301-01 06302-0106270-04
++ +
+06290-0406301-01 06302-01
+06921
++
+06301-01 06302-01
+
+### 2026 MES Catalog, page 72: LED CANOPY SOFFIT FIXTURE (BOBCAT G)
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=71
+
+From the 2026 MES Catalog, page 72.
+
+Ordering Code DLC ID# Watts CCT LM/Watt Total LM Voltage Color
+13W
+15W
+20W
+1,729 LM
+1,995 LM
+2,660 LM
+06102 S-MNXDUL 133 LM/W
+3500K
+4000K
+5000K
+120-277V White
+36W
+45W
+55W
+4,788 LM
+5,985 LM
+7,315 LM
+06103 S-DQVRCW 133 LM/W
+3500K
+4000K
+5000K
+120-277V White
+LED CANOPY SOFFIT FIXTURE
+(BOBCAT G)
+Features:
+• Classic Look: Clean, timeless design suitable for a wide
+range of spaces.
+• Power & Color Select: Select the ideal wattage and CCT to
+fine-tune brightness and tone.
+• Electrical: LED luminaire with dimmable driver and universal
+120–277V.
+• Universal Mounting: Installs on virtually any surface; box or
+hole size is not a limitation.
+CERTIFICATIONS
+PRODUCT FEATURES
+0-10V
+DIMMABLE
+CCT
+TUNABLE
+PREMIUM
+DLCL I S T E D
+13W
+15W
+20W
+1,729 LM
+1,995 LM
+2,660 LM
+06104 S-MNXDUL 133 LM/W
+3500K
+4000K
+5000K
+120-277V Bronze
+36W
+45W
+55W
+4,788 LM
+5,985 LM
+7,315 LM
+06105 S-DQVRCW 133 LM/W
+3500K
+4000K
+5000K
+120-277V Bronze
+Spec
+Sheet
+
+### 2026 MES Catalog, page 73
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=72
+
+From the 2026 MES Catalog, page 73.
+
+SENSOR INFORMATION
+NETWORK LIGHTING CONTROL
+BASIC LIGHTING CONTROL
+06246
+PIR 3-in-1 Sensor
+06247
+*On/Off Sensor
+06278
+06269-01 0693006296
+
+### 2026 MES Catalog, page 74: LED CANOPY GARAGE (LEO GSR)
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=73
+
+From the 2026 MES Catalog, page 74.
+
+Ordering Code DLC ID# Watts CCT LM/Watt Total LM Voltage Color
+20W
+30W
+40W
+2,700 LM
+4,050 LM
+5,400 LM
+05825-02 S-5EL7F8 135 LM/W
+3500K
+4000K
+5000K 120-277V Bronze
+20W
+40W
+60W
+80W
+2,700 LM
+5,400 LM
+8,100 LM
+10,800 LM
+05823-02 S-2Y7V9U 135 LM/W
+3500K
+4000K
+5000K
+120-277V Bronze
+20W
+30W
+40W
+2,700 LM
+4,050 LM
+5,400 LM
+05826-02 S-5EL7F8 135 LM/W
+3500K
+4000K
+5000K
+120-277V White
+LED CANOPY GARAGE
+(LEO GSR)
+Features:
+• Available Colors: Offered in elegant Bronze and White
+finishes.
+• Power & Color Select: Select the ideal wattage and CCT to
+fine-tune brightness and tone.
+• Electrical: LED luminaire with dimmable driver and universal
+120–277V.
+• ZSR Sensor-Ready: Driver supports PIR controls for quick
+installation of basic and NLC lighting systems.
+• Knockouts: Piping knockouts on all four sides provide
+flexible wiring options.
+• Easy Installation: A simple mounting bracket allows quick
+and hassle-free setup.
+CERTIFICATIONS
+PRODUCT FEATURES
+PREMIUM
+DLCL I S T E D
+0-10V
+DIMMABLE
+CCT
+TUNABLE
+SENSOR READY
+TECHNOLOGY
+20W
+40W
+60W
+80W
+2,700 LM
+5,400 LM
+8,100 LM
+10,800 LM
+05824-02 S-2Y7V9U 135 LM/W
+3500K
+4000K
+5000K
+120-277V White
+Spec
+Sheet
+
+### 2026 MES Catalog, page 75
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=74
+
+From the 2026 MES Catalog, page 75.
+
+SENSOR INFORMATION
+NETWORK LIGHTING CONTROL
+06270-04 06290-04 06921
+
+### 2026 MES Catalog, page 76: LED CANOPY PETROLEUM LIGHT (LYNX GSR)
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=75
+
+From the 2026 MES Catalog, page 76.
+
+Ordering Code DLC ID# Watts CCT LM/Watt Total LM Voltage Color
+100W
+120W
+150W
+14,000 LM
+16,800 LM
+21,000 LM
+05858 S-MG8GJJ 140 LM/W
+4000K
+5000K
+5700K
+120-277V Bronze
+LED CANOPY PETROLEUM LIGHT
+(LYNX GSR)
+Features:
+• Optics: Crafted from high-grade material that resists
+blackening and maintains long-term clarity.
+• Power & Color Select: Select the ideal wattage and CCT to
+fine-tune brightness and tone.
+• Electrical: LED luminaire with dimmable driver and universal
+120–277V.
+• ZSR Sensor-Ready: Driver supports PIR controls for quick
+installation of basic and NLC lighting systems.
+• Extended Wiring: Comes with a long, flexible wire for quick
+and easy installation.
+CERTIFICATIONS
+PRODUCT FEATURES
+PREMIUM
+DLCL I S T E D
+SENSOR INFORMATION
+NETWORK LIGHTING CONTROL
+0-10V
+DIMMABLE
+CCT
+TUNABLE
+SENSOR READY
+TECHNOLOGY
+Spec
+Sheet
+06270-04 06290-04 06921
+
+### 2026 MES Catalog, page 77: LED CANOPY FIXTURE (HERCULES GSR)
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=76
+
+From the 2026 MES Catalog, page 77.
+
+Ordering Code DLC ID# Watts CCT LM/Watt Total LM Voltage Color
+100W
+120W
+150W
+13,000 LM
+15,600 LM
+19,500 LM
+05822 PL2F6ZV4HPJ4 130 LM/W
+3000K
+4000K
+5000K
+120-277V White
+LED CANOPY FIXTURE
+(HERCULES GSR)
+Features:
+• Heavy-Duty Design: Built with robust materials to ensure
+dependable operation in demanding environments.
+• Power Wash Fixture: Built to withstand high-pressure
+washing, ensuring long-lasting durability and performance.
+• Rugged & Certified: NSF and IK10 certified for impact
+resistance and safety.
+• Electrical: LED luminaire with dimmable driver and universal
+120–277V.
+• ZSR Sensor-Ready: Driver supports PIR controls for quick
+installation of basic and NLC lighting systems.
+• Knockouts: Piping knockouts on all four sides provide
+flexible wiring options.
+CERTIFICATIONS
+PRODUCT FEATURES
+PREMIUM
+DLCL I S T E D
+0-10V
+DIMMABLE
+IP69KCCT
+TUNABLE
+IK 10
+SENSOR READY
+TECHNOLOGY
+Spec
+Sheet
++ + +
+SENSOR INFORMATION
+NETWORK LIGHTING CONTROL
+06270-0406302-01 06290-0406302-01 06302-01 06921
+
+### 2026 MES Catalog, page 78: LED DUSK-TO-DAWN LIGHT (BENGAL G)
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=77
+
+From the 2026 MES Catalog, page 78.
+
+Ordering Code DLC ID# Watts CCT LM/Watt Total LM Voltage Color
+40W
+50W
+60W
+6,040 LM
+7,550 LM
+9,060 LM
+05005 S-Y5J3G7 151 LM/W
+3000K
+4000K
+5000K
+120-277V Silver
+LED DUSK-TO-DAWN LIGHT
+(BENGAL G)
+Features:
+• Power & Color Select: Select the ideal wattage and CCT to
+fine-tune brightness and tone.
+• Electrical: LED luminaire with dimmable driver and universal
+120–277V.
+• Wide Beam Coverage: Delivers a 140º x 140º beam angle,
+ensuring broad, even light distribution for different areas.
+• Photocell Ready: Comes with Pre-Installed Shorting Cap to
+add on-demand Photocell.
+CERTIFICATIONS
+PRODUCT FEATURES
+PREMIUM
+DLCL I S T E D
+CCT
+TUNABLE
+PHOTOCELL
+0-10V
+DIMMABLE
+SENSOR INFORMATION
+BASIC LIGHTING CONTROL
+05714 05030
+Spec
+Sheet
+
+### 2026 MES Catalog, page 79: LED FLOOD LIGHT (PUMA G)
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=78
+
+From the 2026 MES Catalog, page 79.
+
+Ordering Code DLC ID# Watts CCT LM/Watt Total LM Voltage Color
+25W
+45W
+60W
+3,875 LM
+6,975 LM
+9,300 LM
+05346 S-XYQ8PV 155 LM/W
+3000K
+4000K
+5000K
+120-277V Bronze
+LED FLOOD LIGHT
+(PUMA G)
+Features:
+• Modern Look: Clean design suitable for a wide range of
+spaces.
+• Power & Color Select: Select the ideal wattage and CCT to
+fine-tune brightness and tone.
+• High Efficiency: Delivers 155 lumens per watt (lm/W) for
+uniform illumination.
+• Electrical: LED luminaire with dimmable driver and universal
+120–277V.
+• Built-In Photocell: Provides automatic dusk-to-dawn
+operation for improved energy efficiency.
+• Easy Installation: Comes with pre-install Knuckle mount for
+fast, hassle-free setup.
+CERTIFICATIONS
+PRODUCT FEATURES
+PREMIUM
+DLCL I S T E D
+CCT
+TUNABLE
+PHOTOCELL
+0-10V
+DIMMABLE
+HIGH LUMEN
+Spec
+Sheet
+
+### 2026 MES Catalog, page 80: LED BOLLARD LIGHT (GIRAFFE G)
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=79
+
+From the 2026 MES Catalog, page 80.
+
+Ordering Code DLC ID# Watts CCT LM/Watt Total LM Voltage Color
+12W
+16W
+22W
+1,680 LM
+2,240 LM
+3,080 LM
+04800 PGPGZOIT 140 LM/W
+3000K
+4000K
+5000K
+120-277V Bronze
+12W
+16W
+22W
+1,680 LM
+2,240 LM
+3,080 LM
+04801 P2LKOUDL 140 LM/W
+3000K
+4000K
+5000K
+120-277V Bronze
+12W
+16W
+22W
+1,680 LM
+2,240 LM
+3,080 LM
+04802 01 PQZ6T5N4 140 LM/W
+3000K
+4000K
+5000K
+120-277V White
+LED BOLLARD LIGHT
+(GIRAFFE G)
+Features:
+• Classic Look: Clean, timeless design suitable for a wide
+range of spaces.
+• Available Colors: Offered in elegant Bronze and White
+finishes.
+• Power & Color Select: Select the ideal wattage and CCT to
+fine-tune brightness and tone.
+• Unique Two-Piece Design: Distinctive look with
+interchangeable components for customizable styling.
+• Electrical: LED luminaire with dimmable driver and universal
+120–277V.
+• Built-In Photocell: Provides automatic dusk-to-dawn
+operation for improved energy efficiency.
+CERTIFICATIONS
+PRODUCT FEATURES
+PREMIUM
+DLCL I S T E D
+CCT
+TUNABLE 0-10V
+DIMMABLE
+IK 10 PHOTOCELL
+Spec
+Sheet
+
+### 2026 MES Catalog, page 81
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=80
+
+From the 2026 MES Catalog, page 81.
+
+Bollard Base
+Bronze - 04803 01
+Mounting Hardware
+04805
+
+### 2026 MES Catalog, page 82: LED AREA LIGHT (LION FAMILY)
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=81
+
+From the 2026 MES Catalog, page 82.
+
+Ordering Code DLC ID# Watts CCT LM/Watt Total LM Voltage Color
+380W
+400W
+450W
+53,200 LM
+56,000 LM
+63,000 LM
+10400 S-Y1QJFC 140 LM/W5000K 120-277V Bronze
+380W
+400W
+450W
+53,200 LM
+56,000 LM
+63,000 LM
+10402 S-Y1QJFC 140 LM/W5000K 120-277V White
+380W
+400W
+450W
+53,200 LM
+56,000 LM
+63,000 LM
+10401 S-Y1QJFC 140 LM/W5000K 277-480V Bronze
+LED AREA LIGHT
+(LION FAMILY)
+Features:
+(SSR)
+• Available Colors: Offered in elegant Bronze, Black, White,
+and Silver finishes.
+• Power & Color Select: Select the ideal wattage and CCT to
+fine-tune brightness and tone.
+• High Efficiency: Delivers 155 lumens per watt (lm/W) for
+uniform illumination.
+• 10KV Surge Protection: Protects the fixture against voltage
+spikes and electrical surges.
+• ZSR Sensor-Ready: Driver supports PIR controls for quick
+installation of basic and NLC lighting systems.
+• Easy Installation: Features a ONE-BOLT mounting system
+for fast, hassle-free setup.
+• Rotatable ARM-Mount: Adjustable up-and-down rotation for
+precise light direction.
+CERTIFICATIONS
+PRODUCT FEATURES
+PHOTOCELL
+0-10V
+DIMMABLE SENSOR READY
+TECHNOLOGY
+PREMIUM
+DLCL I S T E D
+380W
+400W
+450W
+53,200 LM
+56,000 LM
+63,000 LM
+10403 S-Y1QJFC 140 LM/W5000K 277-480V White
+60W
+75W
+90W
+9,600 LM
+12,000 LM
+14,400 LM
+05376 S-Z2HJBK 160 LM/W
+3000K
+4000K
+5000K
+120-277V Bronze
+120W
+135W
+150W
+19,200 LM
+21,600 LM
+24,000 LM
+05377 S-7970YD 160 LM/W
+3000K
+4000K
+5000K
+120-277V Bronze
+(GSR)
+Spec
+Sheet
+Spec
+Sheet
+
+### 2026 MES Catalog, page 83
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=82
+
+From the 2026 MES Catalog, page 83.
+
+Ordering Code DLC ID# Watts CCT LM/Watt Total LM Voltage Color
+200W
+220W
+240W
+32,000 LM
+35,200 LM
+38,400 LM
+05378 S-B340XQ 160 LM/W
+3000K
+4000K
+5000K
+120-277V Bronze
+260W
+280W
+300W
+41,600 LM
+44,800 LM
+48,000 LM
+05379 S-TDR8LR 160 LM/W
+3000K
+4000K
+5000K
+120-277V Bronze
+120W
+135W
+150W
+19,200 LM
+21,600 LM
+24,000 LM
+05380 S-7970YD 160 LM/W
+3000K
+4000K
+5000K
+120-277V White
+260W
+280W
+300W
+41,600 LM
+44,800 LM
+48,000 LM
+05382 S-TDR8LR 160 LM/W
+3000K
+4000K
+5000K
+120-277V White
+120W
+135W
+150W
+19,200 LM
+21,600 LM
+24,000 LM
+05397 S-7970YD 160 LM/W
+3000K
+4000K
+5000K
+120-277V Silver
+120W
+135W
+150W
+19,200 LM
+21,600 LM
+24,000 LM
+05390 S-6MG5X6 160 LM/W
+3000K
+4000K
+5000K
+277V-480V Bronze
+200W
+220W
+240W
+32,000 LM
+35,200 LM
+38,400 LM
+05391 S-6NZL6V 160 LM/W
+3000K
+4000K
+5000K
+277V-480V Bronze
+120W
+135W
+150W
+19,200 LM
+21,600 LM
+24,000 LM
+05393 S-6MG5X6 160 LM/W
+3000K
+4000K
+5000K
+277V-480V White
+200W
+220W
+240W
+32,000 LM
+35,200 LM
+38,400 LM
+05394 S-6NZL6V 160 LM/W
+3000K
+4000K
+5000K
+277V-480V White
+260W
+280W
+300W
+41,600 LM
+44,800 LM
+48,000 LM
+05395 S-99T51X 160 LM/W
+3000K
+4000K
+5000K
+277V-480V White
+SENSOR INFORMATION
+NETWORK LIGHTING CONTROL
+Bronze - 05700
+White - 05701
+Silver - 05792
+Universal Arm MountSlipfitter Mount Trunnion Mount
+Bronze - 05706
+White - 05707
+Silver - 05794
+Bronze - 05703
+White - 05704
+Silver - 05793
+ACCESSORIES
+06270-04 06290-04 06921
+
+### 2026 MES Catalog, page 84: LED AREA LIGHT (WOLF GSR)
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=83
+
+From the 2026 MES Catalog, page 84.
+
+Ordering Code DLC ID# Watts CCT LM/Watt Total LM Voltage Color
+60W
+80W
+100W
+9,600 LM
+12,800 LM
+16,000 LM
+05970 S-G5836R 160 LM/W
+3000K
+4000K
+5000K
+120-277V Bronze
+120W
+135W
+150W
+19,200 LM
+21,600 LM
+24,000 LM
+05971 S-WGK601 160 LM/W
+3000K
+4000K
+5000K
+120-277V Bronze
+200W
+220W
+240W
+32,000 LM
+35,200 LM
+38,400 LM
+05972 S-ERNBKM 160 LM/W
+3000K
+4000K
+5000K
+120-277V Bronze
+LED AREA LIGHT
+(WOLF GSR)
+Features:
+• Available Colors: Offered in elegant Bronze, Black, White,
+and Silver finishes.
+• Power & Color Select: Select the ideal wattage and CCT to
+fine-tune brightness and tone.
+• High Efficiency: Delivers 155 lumens per watt (lm/W) for
+uniform illumination.
+• 10KV Surge Protection: Protects the fixture against voltage
+spikes and electrical surges.
+• ZSR Sensor-Ready: Driver supports PIR controls for quick
+installation of basic and NLC lighting systems.
+• Easy Installation: Features a ONE-BOLT mounting system
+for fast, hassle-free setup.
+• Rotatable ARM-Mount: Adjustable up-and-down rotation for
+precise light direction.
+CERTIFICATIONS
+PRODUCT FEATURES
+PREMIUM
+DLCL I S T E D
+PHOTOCELL
+SENSOR READY
+TECHNOLOGY
+CCT
+TUNABLE
+Spec
+Sheet
+260W
+280W
+300W
+41,600 LM
+44,800 LM
+48,000 LM
+05973 S-AW6CQF 160 LM/W
+3000K
+4000K
+5000K
+120-277V Bronze
+120W
+135W
+150W
+19,200 LM
+21,600 LM
+24,000 LM
+05980 S-WGK601 160 LM/W
+3000K
+4000K
+5000K
+120-277V Black
+200W
+220W
+240W
+32,000 LM
+35,200 LM
+38,400 LM
+05981 S-ERNBKM 160 LM/W
+3000K
+4000K
+5000K
+120-277V Black
+
+### 2026 MES Catalog, page 85
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=84
+
+From the 2026 MES Catalog, page 85.
+
+120W
+135W
+150W
+18,600 LM
+20,925 LM
+23,250 LM
+05985 S-WGK601 160 LM/W
+3000K
+4000K
+5000K
+120-277V Silver
+200W
+220W
+240W
+31,000 LM
+34,100 LM
+37,200 LM
+05983 S-ERNBKM 160 LM/W
+3000K
+4000K
+5000K
+120-277V Silver
+260W
+280W
+300W
+41,600 LM
+44,800 LM
+48,000 LM
+05984 S-AW6CQF 160 LM/W
+3000K
+4000K
+5000K
+120-277V Silver
+120W
+135W
+150W
+19,200 LM
+21,600 LM
+24,000 LM
+05974 S-JZOFTS 160 LM/W
+3000K
+4000K
+5000K
+277V-480V Bronze
+260W
+280W
+300W
+41,600 LM
+44,800 LM
+48,000 LM
+05975 S-FE2JLN 160 LM/W
+3000K
+4000K
+5000K
+277V-480V Bronze
+260W
+280W
+300W
+41,600 LM
+44,800 LM
+48,000 LM
+05982 S-AW6CQF 160 LM/W
+3000K
+4000K
+5000K
+120-277V Black
+SENSOR INFORMATION
+NETWORK LIGHTING CONTROL
+ACCESSORIES
+Bronze - 05756
+Black - 05762
+Sliver - 05765
+Universal Arm MountSlipfitter Mount Trunnion Mount
+Bronze - 05764
+Black - 05765
+Sliver - 05766
+Bronze - 05755
+Black - 05761
+Sliver - 05764
+06270-04 06290-04 06921
+Ordering Code DLC ID# Watts CCT LM/Watt Total LM Voltage Color
+
+### 2026 MES Catalog, page 86: LED ROUND AREA (EAGLE GSR)
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=85
+
+From the 2026 MES Catalog, page 86.
+
+LED ROUND AREA
+(EAGLE GSR)
+Features:
+• Power & Color Select: Select the ideal Wattage and CCT to
+fine-tune brightness and tone.
+• High Efficiency: Delivers 150 Lumens per watt (LM/W) for
+uniform illumination.
+• Electrical: LED luminaire with Dimmable Driver and Universal
+120–277V.
+• ZSR Sensor Ready: Driver supports PIR controls for quick
+installation of basic and NLC Lighting Systems.
+• Photocell Ready: Comes with Pre-Installed Shorting Cap to
+add on-demand Photocell.
+• Built for Outdoor Durability: Rugged construction withstands
+harsh weather and daily wear, ideal for long-term use.
+CERTIFICATIONS
+PRODUCT FEATURES
+PREMIUM
+DLCL I S T E D
+Spec
+Sheet
+Ordering Code DLC ID# Watts CCT LM/Watt Total LM Voltage Color
+60W
+80W
+100W
+135W
+9,000 LM
+12,000 LM
+15,000 LM
+20,250 LM
+05905 S-GC34QQ 150 LM/W
+3000K
+4000K
+5000K
+120-277V Bronze
+ZSR Sensor
+(Optional)
+Built-In Photocell
+SENSOR INFORMATION
+NETWORK LIGHTING CONTROL
+06270-04 06290-04 06921
+0-10V
+DIMMABLE
+CCT
+TUNABLE
+PHOTOCELL
+SENSOR READY
+TECHNOLOGY
+
+### 2026 MES Catalog, page 88: LED POST TOP (EAGLE GSR)
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=87
+
+From the 2026 MES Catalog, page 88.
+
+Ordering Code DLC ID# Watts CCT LM/Watt Total LM Voltage Color
+60W
+80W
+100W
+135W
+9,000 LM
+12,000 LM
+15,000 LM
+20,250 LM
+05905 S-GC34QQ 150 LM/W
+3000K
+4000K
+5000K
+120-277V Bronze
+LED POST TOP
+(EAGLE GSR)
+Features:
+CERTIFICATIONS
+PRODUCT FEATURES
+PREMIUM
+DLCL I S T E D
+SENSOR INFORMATION
+• Power & Color Select: Select the ideal Wattage and CCT to
+fine-tune brightness and tone.
+• High Efficiency: Delivers 150 Lumens per watt (LM/W) for
+uniform illumination.
+• Electrical: LED luminaire with Dimmable Driver and Universal
+120–277V.
+• ZSR Sensor Ready: Driver supports PIR controls for quick
+installation of basic and NLC Lighting Systems.
+• Photocell Ready: Comes with Pre-Installed Shorting Cap to
+add on-demand Photocell.
+• Built for Outdoor Durability: Rugged construction withstands
+harsh weather and daily wear, ideal for long-term use.
+NETWORK LIGHTING CONTROL
+06270-04 06290-04 06921
+Spec
+Sheet
+ZSR Sensor
+(Optional)
+0-10V
+DIMMABLE
+CCT
+TUNABLE
+PHOTOCELL
+SENSOR READY
+TECHNOLOGY
+Built-In Photocell
+
+### 2026 MES Catalog, page 89: LED STREET LIGHT (COUGAR SSR)
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=88
+
+From the 2026 MES Catalog, page 89.
+
+Ordering Code DLC ID# Watts CCT LM/Watt Total LM Voltage Color
+150W
+200W
+240W
+20,550 LM
+27,400 LM
+32,880 LM
+05372 S-E7IM91 137 LM/W5000K 120-277V Silver
+LED STREET LIGHT
+(COUGAR SSR)
+Features:
+• Versatile Application: Can be used effectively as an area
+light for wide coverage.
+• Power & Color Select: Select the ideal wattage and CCT to
+fine-tune brightness and tone.
+• Electrical: LED luminaire with dimmable driver and universal
+120–277V.
+• ZSR Sensor-Ready: Driver supports PIR controls for quick
+installation of basic and NLC lighting systems.
+• Photocell Ready: Comes with Pre-Installed Shorting Cap to
+add on-demand Photocell.
+CERTIFICATIONS
+PRODUCT FEATURES
+PREMIUM
+DLCL I S T E D
+PHOTOCELL
+SENSOR READY
+TECHNOLOGY
+0-10V
+DIMMABLE
++
+06270-0406288
+SENSOR INFORMATION
+NETWORK LIGHTING CONTROL
+06288
++
+06290-04 06288
++
+06921
+Spec
+Sheet
+
+### 2026 MES Catalog, page 90: LED SPORTS LIGHT (COYOTE SSR)
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=89
+
+From the 2026 MES Catalog, page 90.
+
+Ordering Code DLC ID# Watts CCT LM/Watt Total LM Voltage Color
+300W
+400W
+500W
+46,500LM
+62,000 LM
+77,500 LM
+05954 S-EO1WFH 155 LM/W5000K 120-480V Black
+500W
+600W
+750W
+77,500 LM
+93,000 LM
+116,250 LM
+05955 S-6FPQGT 155 LM/W5000K 120-480V Black
+800W
+1000W
+1200W
+124,000 LM
+155,000 LM
+186,000 LM
+05956 S-WKONP7 155 LM/W5000K 120-480V Black
+LED SPORTS LIGHT
+(COYOTE SSR)
+Features:
+• High Efficiency: Delivers 155-160 lumens per watt (lm/W) for
+uniform illumination.
+• Lens Options: Multiple lens choices for customized lighting
+coverage.
+• 20KV Surge Protection: Protects the fixture against voltage
+spikes and electrical surges.
+• Universal Voltage: Supports 120V–480V with compatible
+120–277V or 277–480V drivers for flexible installation.
+• Adjustable Mounting: Flexible design allows easy
+positioning for optimal light distribution.
+• ZSR Sensor-Ready: Driver supports PIR controls for quick
+installation of basic and NLC lighting systems.
+CERTIFICATIONS
+PRODUCT FEATURES
+PREMIUM
+DLCL I S T E D
+PHOTOCELL
+SENSOR READY
+TECHNOLOGY
+0-10V
+DIMMABLE
+Spec
+Sheet
+Ordering Code Description Watts Voltage Color
+300W
+400W
+600W
+05957 LED Stadium Light (Coyote SSR) Driver 120 - 277V Black
+500W
+600W
+750W
+05959 LED Stadium Light (Coyote SSR) Driver 120 - 277V Black
+800W
+1000W
+1200W
+05961 LED Stadium Light (Coyote SSR) Driver 120 - 277V Black
+(Drivers)
+120 - 277V
+Select DriverChoose Fixture +
+
+### 2026 MES Catalog, page 91
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=90
+
+From the 2026 MES Catalog, page 91.
+
+300W
+400W
+600W
+05958 LED Stadium Light (Coyote SSR) Driver 277 - 480V Black
+500W
+600W
+750W
+05960 LED Stadium Light (Coyote SSR) Driver 277 - 480V Black
+800W
+1000W
+1200W
+05962 LED Stadium Light (Coyote SSR) Driver 277 - 480V Black
+Ordering Code Description Watts Voltage Color
+LED Stadium Light (Coyote SSR) 20 degree lens
+(Lenses)
+Ordering Code Description Watts
+600W
+750W
+05969
+LED Stadium Light (Coyote SSR) 20 degree lens 1000W
+1200W
+05978
+LED Stadium Light (Coyote SSR) 40 degree lens 1000W
+1200W
+05979
+LED Stadium Light (Coyote SSR) 60 degree lens 400W
+500W
+05966
+LED Stadium Light (Coyote SSR) 60 degree lens 600W
+750W
+05976
+LED Stadium Light (Coyote SSR) 80 degree lens 400W
+500W
+05967
+LED Stadium Light (Coyote SSR) 80 degree lens 600W
+750W
+05976
+LED Stadium Light (Coyote SSR) 120 degree lens 400W
+500W
+05968
+400W-500W - 05963
+600W-750W - 05964
+1000W-1200W -05965
+Slipfitter Mount Laser
+400W-500W - 05944
+600W-750W - 05945
+1000W-1200W -05946
+ACCESSORIES
+NETWORK LIGHTING CONTROL
+ACCESSORIES
+SENSOR INFORMATIONSENSOR INFORMATION
+06270-04 06290-04 06921
+
+### 2026 MES Catalog, page 92
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=91
+
+From the 2026 MES Catalog, page 92.
+
+TENONS & MOUNTS
+L-SHAPE WALL MOUNT BRACKET
+• Construction: Carbon steel with powder coat finish
+• Installation: Wall, L Bracket
+• Weight: 3.4 lbs
+• Available Colors: Bronze, Black
+SIDE TENON MOUNT FOR SQUARE POLE
+• Construction: Carbon steel with powder coat finish
+• Installation: Square Pole
+• Weight: 3.2 lbs
+• Available Colors: Bronze
+STRAIGHT WALL MOUNT BRACKET
+• Construction: Carbon steel with powder coat finish
+• Installation: Square Pole
+• Weight: 2.2 lbs
+• Available Colors: Bronze, Black
+4ˮ VERTICAL TENON ADAPTER
+• Construction: Carbon steel with powder coat finish
+• Installation: Square Pole (Inside of pole),
+• Round Pole (outside of pole)
+• Weight: 7.2 lbs
+• Available Colors: Bronze, Black
+4" SQUARE HORIZONTAL TENON ADAPTOR
+• Construction: Carbon steel with powder coat finish
+• Installation: Square Pole
+• Available Colors: Bronze, White
+Spec
+Sheet
+Spec
+Sheet
+Spec
+Sheet
+Spec
+Sheet
+Spec
+Sheet
+
+### 2026 MES Catalog, page 93
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=92
+
+From the 2026 MES Catalog, page 93.
+
+4ˮ SQUARE SHORT 90º TRIPLE TENON
+• Construction: Carbon steel with powder coat finish
+• Installation: Square Pole (Inside of pole),
+• Round Pole (outside of pole)
+• Weight: 7.9 lbs
+• Available Colors: Bronze, Black
+4ˮ SQUARE SHORT 90º TWIN TENON
+• Construction: Carbon steel with powder coat finish
+• Installation: Square Pole (inside of
+• pole), Round Pole (outside of pole)
+• Weight: 7.5 lbs
+• Available Colors: Bronze, Black
+4ˮ SHORT SQUARE 90º QUAD TENON
+• Construction: Carbon steel with powder coat finish
+• Installation: Square Pole (inside of
+• pole), Round Pole (outside of pole)
+• Weight: 8.8 lbs
+• Available Colors: Bronze, Black
+4ˮ SQUARE LOW PROFILE 180º TRIPLE TENON
+• Construction: Carbon steel with powder coat finish
+• Installation: Square Pole
+• Weight: 56 lbs
+• Available Colors: Bronze
+4ˮ SQUARE LOW PROFILE 180º DUAL TENON
+• Construction: Carbon steel with powder coat finish
+• Installation: Square Pole
+• Weight: 24 lbs
+• Available Colors: Bronze
+4ˮ SQUARE LOW PROFILE 180º QUAD TENON
+• Construction: Carbon steel with powder coat finish
+• Installation: Square Pole
+• Weight: 56.6 lbs
+• Available Colors: Bronze
+TENONS & MOUNTS
+4ˮ SQUARE SHORT 180º TWIN TENON
+• Construction: Carbon steel with powder coat finish
+• Installation: Square Pole (inside of pole),
+• Round Pole (outside of pole)
+• Weight: 6.4 lbs
+• Available Colors: Bronze, Black
+Spec
+Sheet
+Spec
+Sheet
+Spec
+Sheet
+Spec
+Sheet
+Spec
+Sheet
+Spec
+Sheet
+Spec
+Sheet
+
+### 2026 MES Catalog, page 94
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=93
+
+From the 2026 MES Catalog, page 94.
+
+STAND ALONE CONTROLS
+SWIVEL PHOTOCELL
+09172
+BUTTON PHOTOCELL
+06451
+06504
+WALL OCCUPANCY SENSOR
+WITH NEUTRAL
+TWIST LOCK
+PHOTOCELL
+05714
+120-277 V
+TWIST LOCK
+PHOTOCELL
+05715
+277-480 V
+Spec Sheet
+Spec Sheet
+Spec Sheet
+Spec Sheet
+Spec Sheet
+
+### 2026 MES Catalog, page 95
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=94
+
+From the 2026 MES Catalog, page 95.
+
+STAND ALONE CONTROLS
+PIR ON/OFF
+OCC SENSOR
+06251
+DC POWERED PIR 3-IN-1
+MOTION SENSOR
+PIR 3-IN-1
+OCC SENSOR
+06246
+06243-01
+19FT: 06245
+39FT: 06247
+DC POWERED OCUSENSE 3-IN-1
+MOTION SENSOR
+06267
+DC POWERED OCUSENSE 3-IN-1
+MOTION SENSOR
+06254
+DC POWERED PIR 3-IN-1
+MOTION SENSOR
+Spec Sheet
+Spec Sheet
+Spec Sheet
+Spec Sheet
+Spec Sheet
+Spec Sheet
+
+### 2026 MES Catalog, page 96
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=95
+
+From the 2026 MES Catalog, page 96.
+
+EXIT/ EMERGENCY LIGHTS
+EMERGENCY BUG
+EYE 2 HEADS
+06654
+EXIT SIGN RETROFIT KIT
+(CITY OF CHICAGO APPROVED)
+06106
+06651
+EMERGENCY BUG EYE 2 HEADS
+(CITY OF CHICAGO APPROVED)
+EXIT SIGN WITH BATTERY
+BACKUP 90 MIN
+19455
+EXIT SIGN WITH BATTERY BACKUP 90
+MIN (CITY OF CHICAGO APPROVED)
+06600
+Spec Sheet
+Spec Sheet
+Spec Sheet
+Spec Sheet
+Spec Sheet
+
+### 2026 MES Catalog, page 97
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=96
+
+From the 2026 MES Catalog, page 97.
+
+EXIT/ EMERGENCY LIGHTS
+EXIT SIGN
+RECESSED EDGELIT
+06700
+EXIT SIGN COMBO
+(CITY OF CHICAGO APPROVED)
+EXIT SIGN COMBO
+06721
+06702Spec Sheet
+Spec Sheet
+Spec Sheet
+
+### 2026 MES Catalog, page 98
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=97
+
+From the 2026 MES Catalog, page 98.
+
+ENERGY EFFICIENT PRODUCTS
+SMART STRIP
+06555
+08240
+ZERO LOSS
+CONDENSATE DRAIN
+HAND DRYERS
+19974
+SMART THERMOSTAT
+12050
+AIR NOZZLE
+08200
+Spec Sheet
+Spec Sheet
+Spec Sheet
+Spec Sheet
+Spec Sheet
+
+### 2026 MES Catalog, page 99
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=98
+
+From the 2026 MES Catalog, page 99.
+
+ENERGY EFFICIENT PRODUCTS
+DOOR SWEEPS
+08225
+DUAL THREAD FAUCET
+AERATOR
+SHOWER HEAD
+08226
+PRE-RINSE SPRAY VALVE
+08227
+2-1/4 36IN - 09206
+1-1/4 48IN - 09204
+SILVER
+2-1/4 36IN - 09207
+1-1/4 48IN - 09205
+BRONZE
+Spec Sheet
+Spec Sheet
+Spec Sheet
+Spec Sheet
 
 ## Collections (54)
 

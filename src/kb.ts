@@ -1,6 +1,7 @@
 import fs from "node:fs/promises";
 
-export type DocType = "product" | "collection" | "page" | "article" | "pdf";
+/** "catalog" is one page of a catalog PDF from the catalogs folder. */
+export type DocType = "product" | "collection" | "page" | "article" | "pdf" | "catalog";
 
 export interface Doc {
   type: DocType;
@@ -15,7 +16,7 @@ export interface KnowledgeBase {
   docs: Doc[];
 }
 
-const TYPE_ORDER: DocType[] = ["product", "collection", "page", "article", "pdf"];
+const TYPE_ORDER: DocType[] = ["product", "catalog", "collection", "page", "article", "pdf"];
 
 export async function loadKnowledgeBase(file: string): Promise<KnowledgeBase> {
   return JSON.parse(await fs.readFile(file, "utf8")) as KnowledgeBase;
@@ -59,7 +60,41 @@ export function renderCatalog(kb: KnowledgeBase): string {
   const lines = [...groups.entries()]
     .sort(([a], [b]) => a.localeCompare(b))
     .map(([collection, names]) => `${collection}: ${names.sort().join("; ")}`);
+  // Catalog PDFs can list products the website doesn't have yet.
+  const fromCatalogs = [...new Set(kb.docs.filter((d) => d.type === "catalog").flatMap((d) => catalogProductNames(d.text)))];
+  if (fromCatalogs.length) lines.push(`In our printed catalogs: ${fromCatalogs.sort().join("; ")}`);
   return `<product_catalog products="${products.length}">\n${lines.join("\n")}\n</product_catalog>`;
+}
+
+/** Product names as catalogs print them, such as "LED VOLUMETRIC TROFFER (SYCAMORE GSR+)". */
+export function catalogProductNames(text: string): string[] {
+  // A name often wraps onto two lines in a PDF, so line breaks count as spaces.
+  const names = [...text.matchAll(/\b(?:LED|EV)[A-Z0-9\s&'’./-]{2,60}\([A-Z0-9 +&./-]{1,30}\)/g)];
+  return [...new Set(names.map((m) => m[0].replace(/\s+/g, " ").trim()))];
+}
+
+/** The same content as one readable Markdown document, for people to read or upload elsewhere. */
+export function renderMarkdown(kb: KnowledgeBase): string {
+  const sections: [DocType, string][] = [
+    ["product", "Products"],
+    ["catalog", "Catalog pages"],
+    ["collection", "Collections"],
+    ["page", "Pages"],
+    ["article", "Articles"],
+    ["pdf", "PDF documents"],
+  ];
+  const parts = [`# Maverick LED knowledge base\n\nSource: ${kb.source}, collected ${collectedOn(kb)}.`];
+  for (const [type, heading] of sections) {
+    const docs = kb.docs.filter((d) => d.type === type);
+    parts.push(`## ${heading} (${docs.length})`, ...docs.map((d) => `### ${d.title}\n\n${d.url}\n\n${d.text}`));
+  }
+  return `${parts.join("\n\n")}\n`;
+}
+
+/** Writes data/kb.json for the server and data/kb.md for people. */
+export async function saveKnowledgeBase(kb: KnowledgeBase, dataDir: string): Promise<void> {
+  await fs.writeFile(`${dataDir}/kb.json`, JSON.stringify(kb, null, 1));
+  await fs.writeFile(`${dataDir}/kb.md`, renderMarkdown(kb));
 }
 
 /** Selected documents only, in the order given, each cut to at most `maxChars` characters. */
@@ -92,7 +127,7 @@ export function estimateTokens(characters: number): number {
 }
 
 export function countByType(kb: KnowledgeBase): Record<DocType, number> {
-  const counts: Record<DocType, number> = { product: 0, collection: 0, page: 0, article: 0, pdf: 0 };
+  const counts: Record<DocType, number> = { product: 0, collection: 0, page: 0, article: 0, pdf: 0, catalog: 0 };
   for (const doc of kb.docs) counts[doc.type]++;
   return counts;
 }
