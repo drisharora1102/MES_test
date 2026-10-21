@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Maverick LED Assistant</title>
+    <link
+      rel="icon"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Ccircle cx='8' cy='6.5' r='5' fill='%23f2b705'/%3E%3Crect x='5.5' y='12' width='5' height='3' rx='1' fill='%23667085'/%3E%3C/svg%3E"
+    />
+    <link rel="stylesheet" href="/styles.css" />
+    <script type="module" src="/app.js"></script>
+  </head>
+  <body>
+    <header class="top">
+      <div>
+        <h1>Maverick LED Assistant</h1>
+        <p id="kb-info" class="muted">Loading the knowledge base…</p>
+      </div>
+      <button id="new-chat" type="button" class="secondary">New chat</button>
+    </header>
+    <p id="mode-banner" class="banner" hidden></p>
+
+    <main id="conversation" class="conversation">
+      <section id="welcome" class="welcome">
+        <h2>Hi! What can I help you find?</h2>
+        <p class="muted">Ask me about anything on maverickled.com: products, specs, controls, warranties.</p>
+        <div class="suggestions">
+          <button type="button" class="chip">Help me find the right fixture for a customer</button>
+          <button type="button" class="chip">Customer has a 30 ft warehouse with old metal halides. What should I quote?</button>
+          <button type="button" class="chip">Which of our high bays run on 480V?</button>
+          <button type="button" class="chip">Do we have exit signs that pass Chicago inspection?</button>
+          <button type="button" class="chip">Anything for walk-in freezers?</button>
+        </div>
+      </section>
+    </main>
+
+    <form id="composer" class="composer">
+      <label for="question" class="visually-hidden">Your question</label>
+      <textarea id="question" rows="1" placeholder="Ask about a product, spec or application…"></textarea>
+      <button id="send" type="submit">Send</button>
+      <button id="stop" type="button" class="secondary" hidden>Stop</button>
+    </form>
+    <p class="footnote muted">
+      Answers can be wrong: check the linked spec sheet before quoting a customer. The website lists no prices.
+    </p>
+    <p id="announcer" class="visually-hidden" aria-live="polite"></p>
+  </body>
+</html>
