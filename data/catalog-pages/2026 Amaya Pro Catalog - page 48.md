@@ -1,0 +1,35 @@
+**Dimensions and mounting**
+- Mounting height: up to 13 FT
+- Ceiling-mounted detector. Bend the springs up and push the detector through a hole in the ceiling. When it is fully inserted, the springs snap back and hold the device in place. To avoid injury, take care when bending the springs.
+- Room illustration: about 2.8m mounting height and about 8m coverage diameter at floor level.
+- Coverage side view:
+  - Vertical axis: 0m, 2.5m/8.2ft, 3.0m/10ft, 3.7m/12ft
+  - Horizontal axis: 6m – 4m – 2m – 0 – 2m – 4m – 6m
+- Coverage top view:
+  - Grid runs from 8m to 0 to 8m on both axes, with 16m total marked.
+- The cutout diameter for the ceiling hole is not printed.
+
+**Other**
+- No product name, model number or ordering code is printed on this page. Check the facing or previous page for these.
+- Technical specifications:
+  - Input voltage: 12-24V
+  - Max communication distance: 150 FT
+  - Communication protocol: Bluetooth Mesh
+  - Life span: >70,000 Hours
+  - Operating temperature: -4°F to 140°F
+  - IP rating: IP20 (printed as text, not as an icon)
+- Wiring diagram:
+  - L and N go to the Dimming Driver.
+  - The Driver's − and + go to the LED (+ line drawn in red).
+  - Three wires run from the Driver to the sensor: DIM+ (purple), DIM− (pink) and VCC (yellow).
+  - The terminal labels printed on the sensor body are too small to read.
+- Warnings:
+  - DO NOT install with power applied to device.
+  - DO NOT expose the device to moisture.
+- Sensor coverage: "The detection area for movement sensor can be roughly divided into two parts."
+  - Dark shading: slow movement (person moving < 1.0'/s or 0.3m/s)
+  - Light shading: quick movement (person moving > 1.3'/s or 0.4m/s)
+- Contact:
+  - Phone: (302)-391-6444
+  - Email: support@amayapro.com
+  - Web: www.amayapro.com

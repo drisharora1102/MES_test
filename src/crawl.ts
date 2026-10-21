@@ -412,7 +412,7 @@ async function main(): Promise<void> {
   const pages = await crawlPages();
   const pdfDocs = await crawlPdfs();
   console.log("Catalogs in the catalogs folder:");
-  const catalogPages = await readCatalogs(path.join(root, "catalogs"));
+  const catalogPages = await readCatalogs(path.join(root, "catalogs"), path.join(dataDir, "catalog-pages"));
 
   const kb: KnowledgeBase = {
     source: SITE,

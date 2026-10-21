@@ -43,7 +43,7 @@ The server runs Claude Code's command-line tool signed in as you. It finds the c
 - the information pages, policies and blog articles
 - the PDFs those pages link to: spec sheets and installation manuals
 
-It also reads every catalog PDF in the `catalogs/` folder, one document per page, so answers can link to the exact page. To add or replace a catalog without re-crawling the website, drop the PDF in `catalogs/` and run `npm run add-catalogs`, then restart the server. Catalog PDFs stay out of Git because they are too large for GitHub; their text goes into the knowledge base.
+It also reads every catalog PDF in the `catalogs/` folder, one document per page, so answers can link to the exact page. To add or replace a catalog without re-crawling the website, drop the PDF in `catalogs/` and run `npm run describe-catalogs`, then restart the server. That command has Claude Code (on your Claude plan) look at each new page as an image and save what the text misses: certification logos, feature icons, ordering tables, compatible sensors and dimensions. The descriptions are plain text in `data/catalog-pages/`, one file per page; pages already described are skipped. After correcting a description by hand, run `npm run add-catalogs` and restart the server. Catalog PDFs stay out of Git because they are too large for GitHub; their text goes into the knowledge base.
 
 It writes `data/kb.json` for the server, and `data/kb.md` with the same content as one readable document. Downloaded PDFs are cached in `data/cache/`. Run the crawl again whenever the website changes.
 

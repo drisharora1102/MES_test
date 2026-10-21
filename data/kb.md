@@ -11652,7 +11652,6905 @@ Documents:
 - PDF: https://energyxperts.sharepoint.com/:b:/s/SalesDepartment/ERo58DsLqEFFgLp-elSOFlIBH6AZwdZmtIrSFHu8lHoRgA?e=6jdjLQ
 - PDF: https://cdn.shopify.com/s/files/1/2247/6187/files/LED_Magnetic_Strip_Retrofit_Choice_20201207.pdf?v=1608056069
 
-## Catalog pages (97)
+## Catalog pages (172)
+
+### 2026 Amaya Pro Catalog, page 1
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=1
+
+From the 2026 Amaya Pro Catalog, page 1.
+
+What the page shows, read from the page image:
+**Products**
+- AMAYA PRO™ CONTROL PLATFORM. The description reads: "Configure, Commission, Monitor and Manage Connected Lighting Systems from a unified Web and Mobile Application."
+
+**Features shown as icons**
+
+Platform Benefits:
+- COMMISSION: Rapid device setup, grouping and system configuration.
+- AUTOMATIC: Schedule, scenes, occupancy response and daylight control.
+- MONITOR: Real-time device status, alerts and energy performance.
+- MANAGE: Users, sites, permissions & firmware updates.
+
+Bottom icon row:
+- WEB PORTAL: Secure access from any browser.
+- MOBILE APP: One app with complete access.
+- BLUETOOTH MESH: Reliable scalable mesh network.
+- MULTI-SITE MANAGEMENT: Control single sites or large portfolios.
+
+**Other**
+- There is a "Download App" QR code with the Amaya "A" logo in the center. The page does not print a URL or app store name.
+- The page shows screenshots of the web dashboard on a laptop and the mobile app on a phone.
+  - Web dashboard sidebar menus: Dashboards (Main Dashboard, Project Dashboard, Location Dashboard), Create, Quick Actions, Network, Reports, Partners, Maintenance, Energy, Library, System.
+  - Main Dashboard tiles: Active Locations, Ongoing Projects, Active Devices and Open Alerts. The numbers in these tiles (18, 03, 342/350, 03) look like sample screen data, not product specs.
+  - Mobile app: an AMAYA PRO login screen with fields for Username or Email and Password, plus "Remember me", "Forgot password?" and a LOGIN button.
+
+The page's raw text:
+AMAYA PROTM
+CONTROL PLATFORM
+Configure, Commission, Monitor and Manage
+Connected Lighting Systems from a unified
+Web and Mobile Application.
+PLATFORM BENEFITS
+Rapid device setup,
+grouping and system
+configuration.
+COMMISSION
+Schedule, scenes,
+occupancy response
+and daylight control.
+AUTOMATIC
+Real-time device status,
+alerts and energy
+performance.
+MONITOR
+Users, sites,
+permissions & firmware
+updates.
+MANAGE
+Secure access from
+any browser
+WEB PORTAL
+One app with
+complete access
+MOBILE APP
+Reliable scalable
+mesh network
+BLUETOOTH MESH
+Control single sites
+or large portfolios
+MULTI-SITE
+MANAGEMENT
+Download App
+
+### 2026 Amaya Pro Catalog, page 2
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=2
+
+From the 2026 Amaya Pro Catalog, page 2.
+
+What the page shows, read from the page image:
+**Products**
+- Amaya Pro (named as a system that "Connects Luminaries, Sensors, Switches and Gateways through a scalable Bluetooth Network"). No individual luminaire models are named on this page.
+
+**Features shown as icons**
+Ecosystem flow, shown as four steps with arrows:
+1. SENSE & CONTROL: Occupancy, Daylight and Manual Input. The circle graphic is blank and shows no image.
+2. CONNECT: Reliable many-to-many Mesh Communication. The image shows a Bluetooth logo with mesh nodes.
+3. ACCESS REMOTELY: Gateway-based Site Connectivity. The circle graphic is blank and shows no image.
+4. MANAGE & OPTIMIZE: Scheduling, Monitoring, Reporting and Updates. The image shows a laptop and a phone. The phone screen appears to show an "AMAYA" app logo, but it is too small to read with certainty.
+
+**Other**
+- Headline: "SMARTER CONTROL ACROSS EVERY SPACE". It has callout labels for Office, Conference Room, Loading Area, Warehouse, Outdoor Lighting and Parking Area. The labels are very faint (white on light background), and the area they point to has no visible image. It looks like a background photo or illustration is missing from this render.
+- Headline: "ONE CONNECTED LIGHTING ECOSYSTEM".
+- "DESIGNED FOR" applications: Retail Stores, Garages, Warehouses, Schools, Convenience Stores, Offices, Shopping Malls, Hospitals, Gas Stations, "Many More…".
+
+The page's raw text:
+SMARTER CONTROL
+ACROSS EVERY SPACE
+ONE CONNECTED
+LIGHTING ECOSYSTEM
+Amaya Pro Connects Luminaries, Sensors, Switches
+and Gateways through a scalable Bluetooth Network.
+Occupancy, Daylight
+and Manual Input
+SENSE & CONTROL
+Reliable many-to-many
+Mesh Communication
+CONNECT
+Gateway-based
+Site Connectivity
+ACCESS REMOTELY
+Scheduling, Monitoring,
+Reporting and Updates
+MANAGE & OPTIMIZE
+DESIGNED FOR
+Shopping
+Malls
+Hospitals
+Many More...
+Warehouses SchoolsRetail Stores Garages Gas StationsOfficesConvenience
+Stores
+WAREHOUSE
+PARKING AREA
+LOADING AREA
+OUTDOOR
+LIGHTING
+CONFERENCE
+ROOM
+OFFICE
+
+### 2026 Amaya Pro Catalog, page 3
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=3
+
+From the 2026 Amaya Pro Catalog, page 3.
+
+What the page shows, read from the page image:
+**Products**
+No product names are printed on this page. The page has two certification sections:
+- CERTIFICATION FOR INDOOR PRODUCTS
+- CERTIFICATION FOR OUTDOOR PRODUCTS
+
+**Certifications**
+- Indoor products: DesignLights Consortium. The page shows the DLC logo and a "DLC LISTED" badge. QPL: Networked Lighting Controls.
+- Outdoor products: DesignLights Consortium. The page shows the DLC logo and a "DLC LISTED" badge. QPL: Networked Lighting Controls.
+
+**Other**
+
+Indoor products: DLC listing details
+- Manufacturer: Maverick Energy Solutions International, Inc
+- Product Website: "View Website" (a hyperlink; the URL is not printed on the page)
+- QPL: Networked Lighting Controls
+- Product ID: N-Q0TFLJ (the second character could be a zero or the letter O; it looks like a zero)
+- Listing Status: Listed
+- Date Qualified: 2025-12-10
+- Technical Support Phone: +1 (630) 381-0494
+- Standard Warranty Length: 5 (no unit is printed)
+
+Outdoor products: DLC listing details
+- Manufacturer: Maverick Energy Solutions International, Inc
+- Product Website: "View Website" (a hyperlink; the URL is not printed on the page)
+- QPL: Networked Lighting Controls
+- Product ID: N-KGDT1F
+- Listing Status: Listed
+- Date Qualified: 2026-01-28
+- Technical Support Phone: +1 (630) 381-0494
+- Standard Warranty Length: 5 (no unit is printed)
+
+The page's raw text:
+DesignLights Consortium
+Manufacturer Maverick Energy Solutions International, Inc
+Product Website View Website
+QPL Networked Lighting Controls
+Product ID N-Q0TFLJ
+Listing Status Listed
+Date Qualified 2025-12-10
+Technical Support Phone +1 (630) 381-0494
+Standard Warranty
+Length 5
+DesignLights Consortium
+Manufacturer Maverick Energy Solutions International, Inc
+Product Website View Website
+QPL Networked Lighting Controls
+Product ID N-KGDT1F
+Listing Status Listed
+Date Qualified 2026-01-28
+Technical Support Phone +1 (630) 381-0494
+Standard Warranty
+Length 5
+CERTIFICATION FOR INDOOR PRODUCTS
+CERTIFICATION FOR OUTDOOR PRODUCTS
+
+### 2026 Amaya Pro Catalog, page 4
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=4
+
+From the 2026 Amaya Pro Catalog, page 4.
+
+What the page shows, read from the page image:
+**Other:**
+- Branding: Amaya Pro logo ("AMAYA PRO" with a circled "A" mark and a ™ symbol)
+- Page title: TABLE OF CONTENTS
+- Catalog sections, numbered as printed (no page numbers are shown next to the sections):
+  - 01 Indoor
+  - 02 Node
+  - 03 Fixture Mounted
+  - 04 Ceiling Mounted
+  - 05 Outdoor
+  - 06 Wall Outlet
+  - 07 Long Range Extenders
+  - 08 Wall Switches
+  - 09 Gateways
+
+The page has no products, certifications, feature icons, ordering table, compatible sensors or controls, or dimensions and mounting information.
+
+The page's raw text:
+TABLE OF CONTENTS
+01
+02
+03
+04
+05
+06
+07
+08
+Indoor
+Wall Switches
+Long Range Extenders
+09 Gateways
+Wall Outlet
+Outdoor
+Ceiling Mounted
+Fixture Mounted
+Node
+
+### 2026 Amaya Pro Catalog, page 5
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=5
+
+From the 2026 Amaya Pro Catalog, page 5.
+
+What the page shows, read from the page image:
+**Products**
+- DC POWERED BLE CONTROLS OcuSense (order code 06901)
+
+**Certifications**
+- DLC NLC5
+- FCC
+- A "QSR" logo is also printed. It is not one of the standard certification marks, and the page does not say what it stands for.
+
+**Features shown as icons**
+- Bluetooth
+- High-End Trim
+- Occupancy Sensor
+- Bi-Level Dimming
+- Scheduling
+- Daylight Harvesting Sensor
+
+**Ordering table**
+- Order Info: 06901
+- No other columns are printed: no DLC ID, watts, CCT, lumens per watt, lumens, voltage or color.
+
+**Dimensions and mounting**
+- Top view:
+  - Overall length: 2.57"
+  - Segments marked along the length: 0.80" and 1.44". Together these make 2.24". The remaining length to 2.57" is not labeled.
+  - Overall width: 0.80"
+  - Inner width: 0.76"
+- Side view: heights of 0.62", 0.57" and 0.23"
+- Mounting height: up to 13 ft (from the Overview)
+
+**Other**
+- Application: Indoor
+- Warranty: 10 Years (badge)
+- Overview:
+  - OcuSense detection
+  - Wide detection coverage
+  - Office/Low-bay application ready
+  - Mounting height up to 13 ft
+  - Bluetooth Mesh Connectivity
+  - 360° Coverage Pattern
+  - Technology Partner Amaya Pro™
+- Product Features:
+  - Wireless communication ranges up to 150 ft.
+  - PSA Level 3 security, delivering the highest-grade, military-level data protection.
+  - Clock-dial scheduling for precise time-based control and automation.
+  - Personalized remote control enabling user-specific lighting preferences.
+  - Automatic health status updates are continuously reported to the server.
+  - All luminaires on the 0–10V control line can be broadcast-controlled via a mobile application.
+  - Built-in 20mA 0–10V analog signal output for reliable dimming control.
+  - Magnetic reset enabled by touching the top of the sensor for 5 seconds.
+  - Programming of controls via commissioning remote.
+  - Handheld remote available for on demand custom user preference.
+  - Robust online portal for pre planning, pre & post programming, controls of the locations and energy data.
+- Amaya Pro™ System – Web/App:
+  - Desktop Friendly
+  - Mobile App
+  - A "Download App" QR code is printed.
+
+The page's raw text:
+Dimensions Diagram:
+Order Info:
+06901
+2.57ˮ
+1.44ˮ0.80ˮ
+0.80ˮ
+0.76ˮ
+0.62ˮ
+0.57ˮ
+0.23ˮ
+Product Features:
+Overview:
+• Wireless communication ranges up to 150 ft.
+• PSA Level 3 security, delivering the highest-grade,
+military-level data protection.
+• Clock-dial scheduling for precise time-based control and
+automation.
+• Personalized remote control enabling user-specific lighting
+preferences.
+• Automatic health status updates are continuously reported
+to the server.
+• All luminaires on the 0–10V control line can be
+broadcast-controlled via a mobile application.
+• Built-in 20mA 0–10V analog signal output for reliable
+dimming control.
+• Magnetic reset enabled by touching the top of the sensor
+for 5 seconds.
+• Programming of controls via commissioning remote.
+• Handheld remote available for on demand custom user
+preference.
+• Robust online portal for pre planning, pre & post
+programming, controls of the locations and energy data.
+• OcuSense detection.
+• Wide detection coverage.
+• Office/Low-bay application ready.
+• Mounting height up to 13 ft.
+• Bluetooth Mesh Connectivity.
+• 360° Coverage Pattern.
+• Technology Partner Amaya ProTM.
+BLUETOOTH
+BI-LEVEL
+DIMMING
+HIGH-END
+TRIM
+OCCUPANCY
+SENSOR
+DAYLIGHT
+HARVESTING
+SENSOR
+SCHEDULING
+DC POWERED
+BLE CONTROLS OcuSense
+10 YEARS
+Mobile App
+Desktop Friendly
+Amaya ProTM System – Web/App
+Download App
+INDOOR
+
+### 2026 Amaya Pro Catalog, page 6
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=6
+
+From the 2026 Amaya Pro Catalog, page 6.
+
+What the page shows, read from the page image:
+**Dimensions and mounting**
+- Mounting Height: Up to 13 FT
+- Sensor coverage drawing: "Height of installation 8-12FT", with an 8–12FT dimension from the unit to the floor. This differs from the "Up to 13 FT" mounting height in the spec table.
+- Detection range drawing: "(Height of installation 8FT) Detection range". Max: 17FT on each side.
+- Detection angle drawing: 360. The caption is printed as "Detection Angel".
+
+**Wiring diagram**
+- L and N lines run into the "Dimming Driver".
+- Driver output: – (black) goes to LED –, and + (red) goes to LED +.
+- Three leads run from the driver to a small control/sensor module (no name or code is printed):
+  - (YELLOW) VCC
+  - (PINK) DIM-
+  - (PURPLE) DIM+
+
+**Other – Technical Specifications**
+- Input Voltage: 10-14V
+- Max Communication Distance: 150 FT
+- Communication Protocol: Bluetooth Mesh
+- Life Span: >70,000 Hours
+- Operating Temperature: -40°F to 158°F
+- IP Rating: IP20
+
+**Other – Contact**
+- Phone: (302)-391-6444
+- Email: support@amayapro.com
+- Web: www.amayapro.com
+
+**Other – Not on this page**
+- No product name, model code, certification logos, feature icons or ordering table.
+
+The page's raw text:
+Technical Specifications
+Input Voltage:
+10-14V
+Mounting Height:
+Up to 13 FT
+Communication Protocol:
+Bluetooth Mesh
+IP Rating:
+IP20
+Max Communication Distance:
+150 FT
+Operating Temperature:
+-40°F to 158°F
+Life Span:
+>70,000 Hours
+Wiring Diagram
+(YELLOW)VCC
+Dimming Driver
+L
+N
+LED
+(PINK)DIM-
+(PURPLE)DIM+
+Sensor Coverage
+8-12FT
+Max: 17FT Max: 17FT
+Height of installation 8-12FT (Height of installation 8FT)
+Detection range
+Detection Angel
+www.amayapro.com
+support@amayapro.com
+(302)-391-6444
+Contact Us:
+
+### 2026 Amaya Pro Catalog, page 7
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=7
+
+From the 2026 Amaya Pro Catalog, page 7.
+
+What the page shows, read from the page image:
+**Products**
+- DC POWERED BLE CONTROLS PIR (Amaya Pro™), category tag: INDOOR
+
+**Certifications**
+- DLC NLC5
+- FCC
+
+**Features shown as icons**
+- Bluetooth
+- High-End Trim
+- Occupancy Sensor
+- Bi-Level Dimming
+- Scheduling
+- Daylight Harvesting Sensor
+- QSR logo (no explanation printed)
+- 10 Years Warranty badge
+
+**Ordering table**
+- Order Info: 06902 (no other columns printed: no DLC ID, wattage, CCT, lumens, voltage, or color)
+
+**Compatible sensors and controls**
+- Not listed on this page. The product itself is the control. It works with the Amaya Pro™ System Web/App (Desktop Friendly and Mobile App) and has a "Download App" QR code.
+
+**Dimensions and mounting**
+- Top view: overall length 2.57″. Segments 0.78″ (end to sensor housing) and 1.44″ (sensor housing). Width 0.80″ overall, 0.76″ inner.
+- Side view: overall height 0.84″, 0.61″, and 0.23″ (raised sections, not further labeled). There is a dome lens on top.
+- Mounting height up to 13 ft.
+- Top view shows a mounting hole at each end.
+
+**Other**
+- Overview:
+  - PIR motion detection
+  - Wide detection coverage
+  - Office/Low-bay application ready
+  - Mounting height up to 13 ft.
+  - Bluetooth Mesh Connectivity
+  - Trim, zoning & bi-level dimming
+  - Technology Partner Amaya Pro™
+- Product Features:
+  - Wireless communication ranges up to 150 ft.
+  - PSA Level 3 security, delivering the highest-grade, military-level data protection.
+  - Clock-dial scheduling for precise time-based control and automation.
+  - Personalized remote control enabling user-specific lighting preferences.
+  - Automatic health status updates are continuously reported to the server.
+  - All luminaires on the 0–10V control line can be broadcast-controlled via a mobile application.
+  - Built-in 20mA 0–10V analog signal output for reliable dimming control.
+  - Programming of controls via commissioning remote.
+  - Handheld remote available for on demand custom user preference.
+  - Robust online portal for pre planning, pre & post programming, controls of the locations and energy data.
+- App/System: Amaya Pro™ System – Web/App. The page shows a desktop ("Desktop Friendly"), a mobile login screen ("Mobile App"), and a "Download App" QR code. The text on the phone screen is too small to read reliably.
+
+The page's raw text:
+Dimensions Diagram:
+Order Info:
+06902
+DC POWERED
+BLE CONTROLS PIR
+0.84ˮ
+0.61ˮ
+0.23ˮ
+2.57ˮ
+1.44ˮ0.78ˮ
+0.80ˮ
+0.76ˮ
+Product Features:
+Overview:
+• Wireless communication ranges up to 150 ft.
+• PSA Level 3 security, delivering the highest-grade,
+military-level data protection.
+• Clock-dial scheduling for precise time-based control and
+automation.
+• Personalized remote control enabling user-specific lighting
+preferences.
+• Automatic health status updates are continuously reported
+to the server.
+• All luminaires on the 0–10V control line can be
+broadcast-controlled via a mobile application.
+• Built-in 20mA 0–10V analog signal output for reliable
+dimming control.
+• Programming of controls via commissioning remote.
+• Handheld remote available for on demand custom user
+preference.
+• Robust online portal for pre planning, pre & post
+programming, controls of the locations and energy data.
+• PIR motion detection.
+• Wide detection coverage.
+• Office/Low-bay application ready.
+• Mounting height up to 13 ft.
+• Bluetooth Mesh Connectivity.
+• Trim, zoning & bi-level dimming.
+• Technology Partner Amaya ProTM.
+BLUETOOTH
+BI-LEVEL
+DIMMING
+HIGH-END
+TRIM
+OCCUPANCY
+SENSOR
+DAYLIGHT
+HARVESTING
+SENSOR
+SCHEDULING
+10 YEARS
+Mobile App
+Desktop Friendly
+Amaya ProTM System – Web/App
+Download App
+INDOOR
+
+### 2026 Amaya Pro Catalog, page 8
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=8
+
+From the 2026 Amaya Pro Catalog, page 8.
+
+What the page shows, read from the page image:
+**Products**
+No product name is printed on this page. The page shows specs, wiring and coverage for a sensor (wired to a dimming driver, Bluetooth Mesh communication), but the model name and code do not appear.
+
+**Features shown as icons**
+None. Features are given as text in the specifications below.
+
+**Dimensions and mounting**
+- Mounting height: up to 13 FT.
+- Sensor coverage, side view: installation height 8–12 FT, with a cone-shaped detection pattern below the sensor.
+- Detection range at 8 FT installation height: max 17 FT on each side (left and right labels both read "Max: 17FT").
+- Detection angle: 360° (the diagram caption is printed as "Detection Angel").
+- The drawing shows a rectangular sensor body with two screw holes, a round lens and three small indicators or buttons. No dimensions are given.
+
+**Other**
+Technical specifications:
+- Input voltage: 10–14V
+- Max communication distance: 150 FT
+- Communication protocol: Bluetooth Mesh
+- Life span: >70,000 hours
+- Operating temperature: -4°F to 104°F
+- IP rating: IP20
+
+Wiring diagram:
+- L and N go to the dimming driver input.
+- Driver output (–) goes to LED (–).
+- Driver output (+) goes to LED (+), drawn as a red wire.
+- Driver to sensor, three wires:
+  - (YELLOW) VCC
+  - (PINK) DIM–
+  - (PURPLE) DIM+
+
+Contact:
+- Phone: (302)-391-6444
+- Email: support@amayapro.com
+- Web: www.amayapro.com
+
+Not on this page: certification logos, an ordering table, and named compatible sensor or control brands and codes.
+
+The page's raw text:
+Input Voltage:
+10-14V
+Mounting Height:
+Up to 13 FT
+Communication Protocol:
+Bluetooth Mesh
+IP Rating:
+IP20
+Max Communication Distance:
+150 FT
+Operating Temperature:
+-4°F to 104°F
+Life Span:
+>70,000 Hours
+(YELLOW)VCC
+Dimming Driver
+L
+N
+LED
+(PINK)DIM-
+(PURPLE)DIM+
+8-12FT
+Max: 17FT Max: 17FT
+Height of installation 8-12FT (Height of installation 8FT)
+Detection range
+Detection Angel
+Technical Specifications
+Wiring Diagram
+Sensor Coverage
+www.amayapro.com
+support@amayapro.com
+(302)-391-6444
+Contact Us:
+
+### 2026 Amaya Pro Catalog, page 9
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=9
+
+From the 2026 Amaya Pro Catalog, page 9.
+
+What the page shows, read from the page image:
+**Products**
+- AMAYA PRO™ DC POWERED BLE CONTROLS PIR
+- Category tab: INDOOR
+
+**Certifications**
+- DLC NLC5
+- FCC
+- A "PQSR" logo is also shown, with a wireless/signal symbol under the "S". The page does not say what it stands for.
+
+**Features shown as icons**
+- BLUETOOTH and HIGH-END TRIM: the label "BLUETOOTH" sits above a yellow bar icon, and "HIGH-END TRIM" sits below it. It is unclear whether this is one feature or two.
+- OCCUPANCY SENSOR
+- BI-LEVEL DIMMING
+- SCHEDULING
+- DAYLIGHT HARVESTING SENSOR
+- 10 YEARS WARRANTY seal
+
+**Ordering table**
+- Order Info: 06903
+- No other columns are printed (no DLC ID, watts, CCT, lumens, voltage or color).
+
+**Compatible sensors and controls**
+- This product is itself a sensor/control.
+- Overview lists "Technology Partner Amaya Pro™" and "Bluetooth Mesh Connectivity".
+- No other brands or codes are listed.
+
+**Dimensions and mounting**
+- Front view: 2.42" long × 0.96" high (oval housing with round PIR lens and three small indicator/button openings)
+- Side view: 0.85" overall height including lens; 0.51" body height; 2.16" base length
+- End view: 0.79" height; 0.031" (top dimension); 0.33" (bottom dimension). A small inner dimension appears to read 0.23", but it is very small and hard to read.
+- Back view: connector labeled PH2.0-4P
+- Mounting height up to 13 ft.
+
+**Other**
+- Overview:
+  - PIR motion detection
+  - Wide detection coverage
+  - Office/Low-bay application ready
+  - Mounting height up to 13 ft
+  - Bluetooth Mesh Connectivity
+  - 360° Coverage Pattern
+  - Technology Partner Amaya Pro™
+- Product Features:
+  - Wireless communication ranges up to 150 ft.
+  - PSA Level 3 security, delivering the highest-grade, military-level data protection.
+  - Clock-dial scheduling for precise time-based control and automation.
+  - Personalized remote control enabling user-specific lighting preferences.
+  - Automatic health status updates are continuously reported to the server.
+  - All luminaires on the 0–10V control line can be broadcast-controlled via a mobile application.
+  - Built-in 20mA 0–10V analog signal output for reliable dimming control.
+  - Button reset (5-second press) and remote reset via RESET + ON/OFF.
+  - Programming of controls via commissioning remote.
+  - Handheld remote available for on demand custom user preference.
+  - Robust online portal for pre planning, pre & post programming, controls of the locations and energy data.
+- Amaya Pro™ System – Web/App:
+  - "Desktop Friendly" (monitor image)
+  - "Mobile App" (phone showing the Amaya Pro login screen)
+  - "Download App" QR code
+- Catalog reference: page 9, 2026 Amaya Pro Catalog
+
+The page's raw text:
+Dimensions Diagram:
+Order Info:
+06903
+0.85ˮ
+2.16ˮ
+0.031ˮ
+0.79ˮ
+0.33ˮ 0.23ˮ
+0.51ˮ
+Product Features:
+Overview:
+PH2.0-4P
+• Wireless communication ranges up to 150 ft.
+• PSA Level 3 security, delivering the highest-grade,
+military-level data protection.
+• Clock-dial scheduling for precise time-based control and
+automation.
+• Personalized remote control enabling user-specific lighting
+preferences.
+• Automatic health status updates are continuously reported
+to the server.
+• All luminaires on the 0–10V control line can be
+broadcast-controlled via a mobile application.
+• Built-in 20mA 0–10V analog signal output for reliable
+dimming control.
+• Button reset (5-second press) and remote reset via RESET
++ ON/OFF.
+• Programming of controls via commissioning remote.
+• Handheld remote available for on demand custom user
+preference.
+• Robust online portal for pre planning, pre & post
+programming, controls of the locations and energy data.
+• PIR motion detection.
+• Wide detection coverage.
+• Office/Low-bay application ready.
+• Mounting height up to 13 ft.
+• Bluetooth Mesh Connectivity.
+• 360° Coverage Pattern.
+• Technology Partner Amaya ProTM.
+BLUETOOTH
+BI-LEVEL
+DIMMING
+HIGH-END
+TRIM
+OCCUPANCY
+SENSOR
+DAYLIGHT
+HARVESTING
+SENSOR
+SCHEDULING
+2.42ˮ
+0.96ˮ
+10 YEARS
+Mobile App
+Desktop Friendly
+Amaya ProTM System – Web/App
+Download App
+INDOOR
+DC POWERED
+BLE CONTROLS PIR
+
+### 2026 Amaya Pro Catalog, page 10
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=10
+
+From the 2026 Amaya Pro Catalog, page 10.
+
+What the page shows, read from the page image:
+**Dimensions and mounting**
+- Mounting Height: Up to 13 FT
+- No dimension drawings on this page.
+
+**Compatible sensors and controls**
+- The wiring diagram shows an oval sensor module with a PH2.0-4P connector. No brand or code is printed for it.
+
+**Other**
+
+*Technical Specifications* (the page does not name the product they apply to):
+- Input Voltage: 10-14V
+- Max Communication Distance: 150 FT
+- Communication Protocol: Bluetooth Mesh
+- Life Span: >70,000 Hours
+- Operating Temperature: -4°F to 140°F
+- IP Rating: IP20
+
+*Wiring Diagram:*
+- L and N connect to the Dimming Driver.
+- Driver output goes to the LED: "-" to "-" (black) and "+" to "+" (red).
+- Four leads run from the driver to the PH2.0-4P connector on the sensor module:
+  - (PINK)GND
+  - (PINK)DIM-
+  - (YELLOW)VCC
+  - (PURPLE)DIM+
+
+*Sensor Coverage:*
+- **Left diagram:** It is labeled "Coverage Top View" but appears to be a side view.
+  - Vertical axis: 0' to 13. No foot mark is visible after the 13.
+  - Horizontal marks: 15', 7', 5', 3', 0', 3', 5', 7', 15'.
+  - Darker beams fall within about 7' of center. Lighter beams extend to about 15'.
+- **Right diagram:** "Coverage Top View" on a grid.
+  - Both axes run from 15' to 0' to 15', marked every 5'.
+  - The overall dimension is 30'. The label is partly cut off at the edge but appears to read 30'.
+  - Radial beams: darker (Minor Motion) near the center, lighter (Major Motion) extending to about 15' radius.
+- **Legend:** dark gray = Minor Motion; light gray = Major Motion.
+
+*Contact Us:*
+- (302)-391-6444
+- support@amayapro.com
+- www.amayapro.com
+
+The page's raw text:
+Input Voltage:
+10-14V
+Mounting Height:
+Up to 13 FT
+Communication Protocol:
+Bluetooth Mesh
+IP Rating:
+IP20
+Max Communication Distance:
+150 FT
+Operating Temperature:
+-4°F to 140°F
+Life Span:
+>70,000 Hours
+(YELLOW)VCC
+Dimming Driver
+(PURPLE)DIM+
+(PINK)DIM-
+(PINK)GND
+PH2.0-4P
+Minor Motion
+Coverage Top View
+Coverage Top View
+Major Motion
+Technical Specifications
+Wiring Diagram
+Sensor Coverage
+www.amayapro.com
+support@amayapro.com
+(302)-391-6444
+Contact Us:
+
+### 2026 Amaya Pro Catalog, page 11
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=11
+
+From the 2026 Amaya Pro Catalog, page 11.
+
+What the page shows, read from the page image:
+## Products
+- DC POWERED BLE CONTROLS PIR (Amaya Pro™)
+- Marked "INDOOR"
+
+## Certifications
+- DLC NLC5
+- FCC
+- PQSR logo is also printed (left side). The page does not say what it stands for.
+
+## Features shown as icons
+- "BLUETOOTH" label printed above the icon group
+- High-End Trim
+- Occupancy Sensor
+- Bi-Level Dimming
+- Scheduling
+- Daylight Harvesting Sensor
+- 10 Years Warranty badge
+
+## Ordering table
+- Order Info: 06904
+- No other columns are printed (no DLC ID, watts, CCT, lumens, voltage or color).
+
+## Compatible sensors and controls
+- Amaya Pro™ System – Web/App, labeled "Desktop Friendly" and "Mobile App"
+- "Download App" QR code is printed. The QR content can't be read from the page.
+- Commissioning remote for programming controls (no code given)
+- Handheld remote for on-demand custom user preference (no code given)
+
+## Dimensions and mounting
+- The drawing shows a threaded cylindrical body with a domed front lens.
+- Main view:
+  - Overall length 1.31"
+  - Body length 1.02"
+  - Dome diameter 1.18"
+  - Threaded body 1.00"
+  - Inner body 0.81"
+- Side view: 0.69"
+- Recommended mounting height up to 15 ft (low-bay application ready)
+
+## Other
+**Overview**
+- PIR motion detection
+- Wide detection coverage
+- Low-bay application ready
+- Mounting height up to 15 ft
+- Bluetooth Mesh Connectivity
+- 360° coverage pattern
+- Technology Partner Amaya Pro™
+
+**Product Features**
+- Wireless communication ranges up to 150 ft.
+- PSA Level 3 security, delivering the highest-grade, military-level data protection.
+- Clock-dial scheduling for precise time-based control and automation.
+- Personalized remote control enabling user-specific lighting preferences.
+- Automatic health status updates are continuously reported to the server.
+- All luminaires on the 0–10V control line can be broadcast-controlled via a mobile application.
+- Built-in 20mA 0–10V analog signal output for reliable dimming control.
+- Magnetic reset by touching the side of the sensor for 5 seconds.
+- Programming of controls via commissioning remote.
+- Handheld remote available for on demand custom user preference.
+- Robust online portal for pre planning, pre & post programming, controls of the locations and energy data.
+
+The page's raw text:
+Dimensions Diagram:
+Order Info:
+06904 1.18ˮ
+0.81ˮ
+0.66ˮ
+1.00ˮ
+1.31ˮ
+1.02ˮ
+Product Features:
+Overview:
+• Wireless communication ranges up to 150 ft.
+• PSA Level 3 security, delivering the highest-grade,
+military-level data protection.
+• Clock-dial scheduling for precise time-based control and
+automation.
+• Personalized remote control enabling user-specific lighting
+preferences.
+• Automatic health status updates are continuously reported
+to the server.
+• All luminaires on the 0–10V control line can be
+broadcast-controlled via a mobile application.
+• Built-in 20mA 0–10V analog signal output for reliable
+dimming control.
+• Magnetic reset by touching the side of the sensor for 5
+seconds.
+• Programming of controls via commissioning remote.
+• Handheld remote available for on demand custom user
+preference.
+• Robust online portal for pre planning, pre & post
+programming, controls of the locations and energy data.
+• PIR motion detection.
+• Wide detection coverage.
+• Low-bay application ready.
+• Mounting height up to 15 ft.
+• Bluetooth Mesh Connectivity.
+• 360° Coverage Pattern.
+• Technology Partner Amaya ProTM.
+BLUETOOTH
+BI-LEVEL
+DIMMING
+HIGH-END
+TRIM
+OCCUPANCY
+SENSOR
+DAYLIGHT
+HARVESTING
+SENSOR
+SCHEDULING
+10 YEARS
+Mobile App
+Desktop Friendly
+Amaya ProTM System – Web/App
+Download App
+INDOOR
+DC POWERED
+BLE CONTROLS PIR
+
+### 2026 Amaya Pro Catalog, page 12
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=12
+
+From the 2026 Amaya Pro Catalog, page 12.
+
+What the page shows, read from the page image:
+**Features shown as icons**
+- None. Ratings appear only as text (see Other).
+
+**Dimensions and mounting**
+- Mounting height: Up to 13 FT
+- The wiring diagram shows a round, dome-faced device with a threaded body, which suggests a threaded or knockout mount. No dimensions or mounting notes are printed.
+
+**Other**
+- **Product name:** None is printed on this page. The specs and diagrams probably belong to the sensor or control on the facing page.
+- **Technical specifications:**
+  - Input Voltage: 10-14V
+  - Max Communication Distance: 150 FT
+  - Communication Protocol: Bluetooth Mesh
+  - Life Span: >70,000 Hours
+  - Mounting Height: Up to 13 FT
+  - Operating Temperature: -4°F to 140°F
+  - IP Rating: IP20
+- **Wiring diagram:**
+  - L and N connect to the Dimming Driver.
+  - Driver "–" connects to LED "–", and driver "+" connects to LED "+" (red wire).
+  - Driver to sensor terminals:
+    - (PURPLE) DIM+ to D+
+    - (PINK) GND to GND
+    - (YELLOW) VCC to VCC
+- **Sensor coverage, left diagram:**
+  - Titled "Coverage Top View" as printed, although the drawing looks like a side or elevation view.
+  - Vertical axis runs 0' to 12'.
+  - Horizontal marks read 15', 7', 5', 3', 0', 3', 5', 7', 15'.
+- **Sensor coverage, right diagram:**
+  - Titled "Coverage Top View."
+  - Both axes run 15' to 0' to 15', with grid marks at 5' and 10'.
+  - An overall dimension of 30' is shown. The apostrophe is partly cut off but reads as 30'.
+  - Legend: dark gray = Minor Motion, light gray = Major Motion.
+- **Contact:**
+  - (302)-391-6444
+  - support@amayapro.com
+  - www.amayapro.com
+
+The page's raw text:
+Input Voltage:
+10-14V
+Mounting Height:
+Up to 13 FT
+Communication Protocol:
+Bluetooth Mesh
+IP Rating:
+IP20
+Max Communication Distance:
+150 FT
+Operating Temperature:
+-4°F to 140°F
+Life Span:
+>70,000 Hours
+(YELLOW)VCC
+Dimming Driver
+(PURPLE)DIM+
+D+
+GND
+VCC
+(PINK)GND
+Minor Motion
+Coverage Top View
+Coverage Top View
+Major Motion
+Technical Specifications
+Wiring Diagram
+Sensor Coverage
+www.amayapro.com
+support@amayapro.com
+(302)-391-6444
+Contact Us:
+
+### 2026 Amaya Pro Catalog, page 13
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=13
+
+From the 2026 Amaya Pro Catalog, page 13.
+
+What the page shows, read from the page image:
+**Products**
+- AMAYA PRO™ DC POWERED BLE CONTROLS PIR (page tag: INDOOR)
+
+**Certifications**
+- DLC NLC5
+- FCC
+- PQSR logo (printed on the left side of the page; it is not identified further)
+
+**Features shown as icons**
+- Bluetooth
+- High-End Trim (the yellow bar icon sits between the "BLUETOOTH" and "HIGH-END TRIM" labels, so it is unclear which label it belongs to)
+- Occupancy Sensor
+- Bi-Level Dimming
+- Scheduling
+- Daylight Harvesting Sensor
+
+**Ordering table**
+- No ordering table is printed. The only ordering code is under "Order Info": 06905.
+- The page does not show DLC ID, watts, CCT, lumens per watt, total lumens, voltage or color.
+
+**Compatible sensors and controls**
+- No separate list of compatible sensors or controls is printed. The product is itself a PIR sensor and control.
+- The page references:
+  - A commissioning remote
+  - A handheld remote
+  - The Amaya Pro™ System, Web/App (with a "Download App" QR code, labeled "Desktop Friendly" and "Mobile App")
+
+**Dimensions and mounting**
+- Overall length: 2.28″
+- Threaded body length: 1.18″
+- Body diameter: 0.82″ in the side view, 0.66″ in the second side view (this label is printed rotated)
+- Face or flange diameter: Ø2.16″
+- Lens: L8 Lens
+- Mounting height: up to 40 ft (from the Overview)
+- High-bay application ready
+
+**Other**
+- Warranty: 10 Years (badge)
+- Overview:
+  - PIR motion detection
+  - Wide detection coverage
+  - High-bay application ready
+  - Mounting height up to 40 ft
+  - Bluetooth Mesh Connectivity
+  - 360° coverage pattern
+  - Technology Partner Amaya Pro™
+- Product Features:
+  - Wireless communication ranges up to 150 ft.
+  - PSA Level 3 security, delivering the highest-grade, military-level data protection.
+  - Clock-dial scheduling for precise time-based control and automation.
+  - Personalized remote control enabling user-specific lighting preferences.
+  - Automatic health status updates are continuously reported to the server.
+  - All luminaires on the 0–10V control line can be broadcast-controlled via a mobile application.
+  - Built-in 20mA 0–10V analog signal output for reliable dimming control.
+  - Magnetic reset by touching the side of the sensor for 5 seconds.
+  - Programming of controls via commissioning remote.
+  - Handheld remote available for on demand custom user preference.
+  - Robust online portal for pre planning, pre & post programming, controls of the locations and energy data.
+- Power: DC powered (from the product title)
+
+The page's raw text:
+Dimensions Diagram:
+Order Info:
+06905
+Ø2.16ˮ
+0.66ˮ
+0.82ˮ
+2.28ˮ
+1.18ˮ L8 Lens
+Product Features:
+Overview:
+• Wireless communication ranges up to 150 ft.
+• PSA Level 3 security, delivering the highest-grade,
+military-level data protection.
+• Clock-dial scheduling for precise time-based control and
+automation.
+• Personalized remote control enabling user-specific lighting
+preferences.
+• Automatic health status updates are continuously reported
+to the server.
+• All luminaires on the 0–10V control line can be
+broadcast-controlled via a mobile application.
+• Built-in 20mA 0–10V analog signal output for reliable
+dimming control.
+• Magnetic reset by touching the side of the sensor for 5
+seconds.
+• Programming of controls via commissioning remote.
+• Handheld remote available for on demand custom user
+preference.
+• Robust online portal for pre planning, pre & post
+programming, controls of the locations and energy data.
+• PIR motion detection.
+• Wide detection coverage.
+• High-bay application ready.
+• Mounting height up to 40 ft.
+• Bluetooth Mesh Connectivity.
+• 360° Coverage Pattern.
+• Technology Partner Amaya ProTM.
+BLUETOOTH
+BI-LEVEL
+DIMMING
+HIGH-END
+TRIM
+OCCUPANCY
+SENSOR
+DAYLIGHT
+HARVESTING
+SENSOR
+SCHEDULING
+10 YEARS
+Mobile App
+Desktop Friendly
+Amaya ProTM System – Web/App
+Download App
+INDOOR
+DC POWERED
+BLE CONTROLS PIR
+
+### 2026 Amaya Pro Catalog, page 14
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=14
+
+From the 2026 Amaya Pro Catalog, page 14.
+
+What the page shows, read from the page image:
+**Products**
+No product name is printed on this page. The specs, wiring diagram and drawings appear to belong to a sensor product introduced on an earlier page.
+
+**Dimensions and mounting**
+- Diameter: Ø2.16"
+- Height: 1.02"
+- Mounting height: up to 40 FT
+- The side drawing shows a threaded body that inserts through a mounting surface, with a dome lens on the face.
+- The rear view shows the 4-pin connector socket.
+
+**Other**
+
+*Technical specifications*
+- Input Voltage: 10-14V
+- Max Communication Distance: 150 FT
+- Communication Protocol: Bluetooth Mesh
+- Life Span: >70,000 Hours
+- Mounting Height: Up to 40 FT
+- Operating Temperature: -4°F to 140°F
+- IP Rating: IP20
+
+*Wiring diagram*
+- L and N feed the Dimming Driver.
+- Dimming Driver − and + connect to LED − and +.
+- Four wires run from the Dimming Driver to a PH2.0-4P connector on the sensor:
+  - (PINK) GND
+  - (PINK) DIM−
+  - (YELLOW) VCC
+  - (PURPLE) DIM+
+
+*Sensor coverage*
+- Side-profile chart (labeled "Coverage Top View" on the page):
+  - Height axis: 0' to 40'
+  - Horizontal spread: 30', 23', 14', 8', 3', 0', 3', 8', 14', 23', 30'
+- Top-view grid (labeled "Coverage Top View"):
+  - Coverage area: 60 FT, shown as 30' each side of center
+  - Grid marks: 30', 27', 20', 12', 6', 3', 0'
+  - These axis labels are printed very small. They appear as listed but are hard to read with certainty.
+- Legend:
+  - Minor Motion (dark grey)
+  - Major Motion (light grey)
+
+*Contact*
+- Phone: (302)-391-6444
+- Email: support@amayapro.com
+- Web: www.amayapro.com
+
+No certification logos, feature icons, ordering table, or compatible sensor or control codes appear on this page.
+
+The page's raw text:
+Input Voltage:
+10-14V
+Mounting Height:
+Up to 40 FT
+Communication Protocol:
+Bluetooth Mesh
+IP Rating:
+IP20
+Max Communication Distance:
+150 FT
+Operating Temperature:
+-4°F to 140°F
+Life Span:
+>70,000 Hours
+Ø2.16ˮ
+1.02ˮ
+Coverage Top View
+Coverage Top View
+Minor Motion
+Major Motion
+(YELLOW)VCC
+Dimming Driver LED
+(PURPLE)DIM+
+(PINK)DIM-
+(PINK)GND PH2.0-4P
+60 FT
+Technical Specifications
+Wiring Diagram
+Sensor Coverage
+www.amayapro.com
+support@amayapro.com
+(302)-391-6444
+Contact Us:
+
+### 2026 Amaya Pro Catalog, page 15
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=15
+
+From the 2026 Amaya Pro Catalog, page 15.
+
+What the page shows, read from the page image:
+## Products
+- AMAYA PRO™ DC POWERED BLE CONTROLS PIR (category tab: INDOOR)
+
+## Certifications
+- DLC NLC5
+- FCC
+
+## Features shown as icons
+- BLUETOOTH (label printed above a yellow vertical bar icon)
+- HIGH-END TRIM (label printed under the same yellow bar icon)
+- OCCUPANCY SENSOR
+- BI-LEVEL DIMMING
+- SCHEDULING
+- DAYLIGHT HARVESTING SENSOR
+
+## Ordering table
+- Order Info: 06914
+- No other columns (DLC ID, watts, CCT, lumens, voltage, color) are printed on this page.
+
+## Compatible sensors and controls
+- The page shows no separate compatible sensor or control codes. The product is itself a control/sensor.
+- Amaya Pro™ System – Web/App:
+  - "Desktop Friendly" (monitor graphic)
+  - "Mobile App" (phone graphic showing an Amaya Pro login screen)
+  - "Download App" QR code
+
+## Dimensions and mounting
+Units for the inch values are printed (″). The small detail drawings show no units and are likely mm, but this is not stated.
+
+- **Front view:** 2.44″ long × 0.75″ high. The face shows a lock symbol, a small circle, and a large round lens.
+- **Side view:** 0.53″, 0.51″, 0.79″ and 1.32″ (overall). A dome lens is on top and a connector/stem projects below.
+- **Cutout/top detail:** 24.1 wide × 16.2 high, R7 radius.
+- **Clip/side detail:** 10 ±0.1
+- **End detail:** 15 ±0.1 (top width), 2.5, 1, 23 (height), 7.4 ±0.2 (bottom width)
+- **Mounting height:** up to 13 ft (from Overview).
+
+## Other
+**Overview:**
+- PIR motion detection.
+- Wide detection coverage.
+- Office/Low-bay application ready.
+- Mounting height up to 13 ft.
+- Bluetooth Mesh Connectivity.
+- 360° Coverage Pattern.
+- Technology Partner Amaya Pro™.
+
+**Product Features:**
+- Wireless communication ranges up to 150 ft.
+- PSA Level 3 security, delivering the highest-grade, military-level data protection.
+- Clock-dial scheduling for precise time-based control and automation.
+- Personalized remote control enabling user-specific lighting preferences.
+- Automatic health status updates are continuously reported to the server.
+- All luminaires on the 0–10V control line can be broadcast-controlled via a mobile application.
+- Built-in 20mA 0–10V analog signal output for reliable dimming control.
+- Magnetic reset (5-second press) and remote reset via RESET + ON/OFF.
+- Programming of controls via commissioning remote.
+- Handheld remote available for on demand custom user preference.
+- Robust online portal for pre planning, pre & post programming, controls of the locations and energy data.
+
+**Warranty:** 10 YEARS WARRANTY seal.
+
+**Logos:** An "ASR" logo with a wireless/signal symbol appears at the left. Its meaning is not explained on the page.
+
+The page's raw text:
+Dimensions Diagram:
+Order Info:
+06914
+Product Features:
+Overview:
+2.44ˮ
+0.75ˮ
+0.53ˮ
+0.51ˮ
+0.79ˮ
+1.32ˮ
+• Wireless communication ranges up to 150 ft.
+• PSA Level 3 security, delivering the highest-grade,
+military-level data protection.
+• Clock-dial scheduling for precise time-based control and
+automation.
+• Personalized remote control enabling user-specific lighting
+preferences.
+• Automatic health status updates are continuously reported
+to the server.
+• All luminaires on the 0–10V control line can be
+broadcast-controlled via a mobile application.
+• Built-in 20mA 0–10V analog signal output for reliable
+dimming control.
+• Magnetic reset (5-second press) and remote reset via
+RESET + ON/OFF.
+• Programming of controls via commissioning remote.
+• Handheld remote available for on demand custom user
+preference.
+• Robust online portal for pre planning, pre & post
+programming, controls of the locations and energy data.
+• PIR motion detection.
+• Wide detection coverage.
+• Office/Low-bay application ready.
+• Mounting height up to 13 ft.
+• Bluetooth Mesh Connectivity.
+• 360° Coverage Pattern.
+• Technology Partner Amaya ProTM.
+BLUETOOTH
+BI-LEVEL
+DIMMING
+HIGH-END
+TRIM
+OCCUPANCY
+SENSOR
+DAYLIGHT
+HARVESTING
+SENSOR
+SCHEDULING
+Mobile App
+Desktop Friendly
+Amaya ProTM System – Web/App
+Download App
+INDOOR
+DC POWERED
+BLE CONTROLS PIR
+10 YEARS
+
+### 2026 Amaya Pro Catalog, page 16
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=16
+
+From the 2026 Amaya Pro Catalog, page 16.
+
+What the page shows, read from the page image:
+**Dimensions and mounting**
+- Mounting height: Up to 13 FT
+- Sensor coverage drawing: "Height of installation 8-13FT" (side view shows the unit ceiling-mounted with a downward cone; dimension marked 8-13FT)
+- Detection range: "(Height of installation 8FT) Detection range", marked Max: 17FT on each side
+- Detection angle: 360 (printed as "Detection Angel")
+- No product dimensions are printed.
+
+**Other**
+- The page prints no product name or ordering code. The specs and wiring diagram appear to describe a Bluetooth Mesh sensor/control unit, but the page does not name the product.
+- Technical specifications:
+  - Input Voltage: 10-14V
+  - Max Communication Distance: 150 FT
+  - Communication Protocol: Bluetooth Mesh
+  - Life Span: >70,000 Hours
+  - Operating Temperature: -4°F to 140°F
+  - IP Rating: IP20 (printed as a spec, not as an icon)
+- Wiring diagram:
+  - L and N connect to the Dimming Driver.
+  - The driver's – and + outputs connect to the LED.
+  - The sensor unit connects to the driver with three wires: (YELLOW) VCC, (PINK) DIM-, (PURPLE) DIM+.
+- Contact: (302)-391-6444 · support@amayapro.com · www.amayapro.com
+
+The page's raw text:
+Input Voltage:
+10-14V
+Mounting Height:
+Up to 13 FT
+Communication Protocol:
+Bluetooth Mesh
+IP Rating:
+IP20
+Max Communication Distance:
+150 FT
+Operating Temperature:
+-4°F to 140°F
+Life Span:
+>70,000 Hours
+(YELLOW)VCC
+Dimming Driver
+L
+N
+LED
+(PINK)DIM-
+(PURPLE)DIM+
+8-13FT
+Max: 17FT Max: 17FT
+Height of installation 8-13FT (Height of installation 8FT)
+Detection range
+Detection Angel
+Technical Specifications
+Wiring Diagram
+Sensor Coverage
+www.amayapro.com
+support@amayapro.com
+(302)-391-6444
+Contact Us:
+
+### 2026 Amaya Pro Catalog, page 17
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=17
+
+From the 2026 Amaya Pro Catalog, page 17.
+
+What the page shows, read from the page image:
+**Products**
+- DC POWERED INDOOR BLE CONTROLS PIR (category tab: INDOOR)
+- Brand: AMAYA PRO™
+
+**Certifications**
+- DLC NLC5
+- FCC
+
+**Features shown as icons**
+- Bluetooth
+- High-End Trim
+- Occupancy Sensor
+- Bi-Level Dimming
+- Scheduling
+- Daylight Harvesting Sensor
+
+**Ordering table**
+The page has no ordering table. It prints only:
+- Order Info: 06906
+
+No DLC ID, wattage, CCT, lumens, voltage or color is printed.
+
+**Compatible sensors and controls**
+This product is itself a control. No other sensor or control brands or codes are listed.
+
+**Dimensions and mounting**
+- Overview note: mounting height up to 40 ft.
+- Side-view dimension labels: 1.70″, 1.68″, 1.29″ (heights), Ø2.16″ and Ø1.51″ (diameters).
+- The side-view drawing itself does not appear on the page. Only the labels are visible, so it is unclear which feature each measurement belongs to.
+- Plan-view (top/bottom) drawing: Ø1.19″ and Ø1.43″. The inner ring is marked with the numbers 2, 3 and 4.
+
+**Other**
+- Overview:
+  - PIR motion detection
+  - Wide detection coverage
+  - High-bay application ready
+  - Mounting height up to 40 ft.
+  - Bluetooth Mesh Connectivity
+  - 360° Coverage Pattern
+  - Technology Partner Amaya Pro™
+- Product Features:
+  - Wireless communication ranges up to 150 ft.
+  - PSA Level 3 security, delivering the highest-grade, military-level data protection.
+  - Clock-dial scheduling for precise time-based control and automation.
+  - Personalized remote control enabling user-specific lighting preferences.
+  - Automatic health status updates are continuously reported to the server.
+  - All luminaires on the 0–10V control line can be broadcast-controlled via a mobile application.
+  - Built-in 20mA 0–10V analog signal output for reliable dimming control.
+  - Button reset (5-second press) and remote reset via RESET + ON/OFF.
+  - Programming of controls via commissioning remote.
+  - Handheld remote available for on-demand custom user preference.
+  - Robust online portal for pre planning, pre & post programming, controls of the locations and energy data.
+- Warranty badge: 10 YEARS WARRANTY.
+- A "ZSR" logo appears at the left of the page. Its meaning is not explained on the page.
+- Amaya Pro™ System – Web/App:
+  - Shown as "Desktop Friendly" and "Mobile App."
+  - A "Download App" QR code is printed. Its link cannot be read from the page.
+- No product photo appears in the main image area. That space is blank.
+
+The page's raw text:
+Dimensions Diagram:
+Order Info:
+06906
+Product Features:
+Overview:
+• Wireless communication ranges up to 150 ft.
+• PSA Level 3 security, delivering the highest-grade,
+military-level data protection.
+• Clock-dial scheduling for precise time-based control and
+automation.
+• Personalized remote control enabling user-specific lighting
+preferences.
+• Automatic health status updates are continuously reported
+to the server.
+• All luminaires on the 0–10V control line can be
+broadcast-controlled via a mobile application.
+• Built-in 20mA 0–10V analog signal output for reliable
+dimming control.
+• Button reset (5-second press) and remote reset via RESET
++ ON/OFF.
+• Programming of controls via commissioning remote.
+• Handheld remote available for on demand custom user
+preference.
+• Robust online portal for pre planning, pre & post
+programming, controls of the locations and energy data.
+• PIR motion detection.
+• Wide detection coverage.
+• High-bay application ready.
+• Mounting height up to 40 ft.
+• Bluetooth Mesh Connectivity.
+• 360° Coverage Pattern.
+• Technology Partner Amaya ProTM.
+Ø1.43ˮØ1.19ˮØ2.16ˮ
+Ø1.51ˮ
+1.29ˮ
+1.68ˮ
+1.70ˮ
+BLUETOOTH
+BI-LEVEL
+DIMMING
+HIGH-END
+TRIM
+OCCUPANCY
+SENSOR
+DAYLIGHT
+HARVESTING
+SENSOR
+SCHEDULING
+DC POWERED
+INDOOR BLE CONTROLS PIR
+10 YEARS
+Mobile App
+Desktop Friendly
+Amaya ProTM System – Web/App
+Download App
+INDOOR
+
+### 2026 Amaya Pro Catalog, page 18
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=18
+
+From the 2026 Amaya Pro Catalog, page 18.
+
+What the page shows, read from the page image:
+**Compatible sensors and controls**
+- The page is a sensor/control spec sheet, but no product name, brand or model code is printed on it.
+- Communication protocol: Bluetooth Mesh
+
+**Dimensions and mounting**
+- Mounting height: up to 50 FT
+- No dimension drawings are shown.
+
+**Other**
+
+*Technical specifications*
+- Input voltage: 12-24V
+- Max communication distance: 150 FT
+- Communication protocol: Bluetooth Mesh
+- Life span: >70,000 Hours
+- Mounting height: up to 50 FT
+- Operating temperature: -4°F to 140°F
+- IP rating: IP65 (printed as text, not as an icon)
+
+*Wiring diagram*
+The diagram shows a round 4-pin connector with pins numbered 1–4. The legend reads:
+- Port 1: 12-24VDC
+- Port 2: DIM-/GND
+- Port 3: DIM +
+- Port 4: DIM+
+
+Ports 3 and 4 are both labelled as DIM+. Check with Amaya Pro which one is correct.
+
+*Sensor coverage*
+- **"Coverage Side View" chart:** the vertical axis runs 0' to 40' in 10' steps. The horizontal axis reads 30', 20', 12', 6', 0', 6', 12', 20', 30'.
+- **Second chart (untitled, likely a top view):** both axes read 30', 27', 20', 12', 6', 3', 0', 3', 6', 12', 20', 27', 30'. A "60FT" label is printed to the right.
+- Only the axis labels appear in both charts. The coverage patterns are not visible on the page, so the coverage area can't be read from them.
+
+*Contact*
+- Phone: (302)-391-6444
+- Email: support@amayapro.com
+- Web: www.amayapro.com
+
+The page's raw text:
+Input Voltage:
+12-24V
+Mounting Height:
+Up to 50 FT
+Communication Protocol:
+Bluetooth Mesh
+IP Rating:
+IP65
+Max Communication Distance:
+150 FT
+Operating Temperature:
+-4°F to 140°F
+Life Span:
+>70,000 Hours
+-Port 1: 12-24VDC
+-Port 2: DIM-/GND
+-Port 3: DIM +
+-Port 4: DIM+
+Coverage Side View
+0ʼ
+10ʼ
+20ʼ
+30ʼ
+40ʼ 30ʼ
+30ʼ
+27ʼ
+30ʼ 20ʼ
+20ʼ
+12ʼ
+6ʼ
+3ʼ
+0ʼ
+3ʼ
+6ʼ
+6ʼ6ʼ 3ʼ
+12ʼ
+12ʼ12ʼ
+20ʼ
+20ʼ20ʼ
+27ʼ
+27ʼ 27ʼ
+30ʼ
+30ʼ 30ʼ
+60FT
+20ʼ 12ʼ12ʼ 6ʼ6ʼ 0ʼ 0ʼ
+Technical Specifications
+Wiring Diagram
+Sensor Coverage
+www.amayapro.com
+support@amayapro.com
+(302)-391-6444
+Contact Us:
+
+### 2026 Amaya Pro Catalog, page 19
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=19
+
+From the 2026 Amaya Pro Catalog, page 19.
+
+What the page shows, read from the page image:
+**Products**
+- AMAYA PRO™ DC POWERED BLE CONTROLS PIR
+- Order Info: 06907
+
+**Certifications**
+- DLC NLC5
+- FCC
+
+**Features shown as icons**
+- Bluetooth
+- High-End Trim
+- Occupancy Sensor
+- Bi-Level Dimming
+- Scheduling
+- Daylight Harvesting Sensor
+
+**Ordering table**
+- No ordering table on this page. The only code printed is 06907, under "Order Info." No watts, CCT, lumens, voltage or color are listed.
+
+**Compatible sensors and controls**
+- Amaya Pro™ System – Web/App: desktop ("Desktop Friendly") and mobile app ("Mobile App")
+- "Download App" QR code is printed. The link it points to cannot be read from the page.
+- A commissioning remote and a handheld remote are mentioned in the features, but no model codes are given.
+- A "ZSR" logo appears with a wireless-signal mark under the "S." The page does not say what it stands for or what it relates to.
+
+**Dimensions and mounting**
+- Top view: Ø2.14"
+- Bottom/connector view: Ø1.19" (inner) and Ø1.43". Four terminals are marked 1, 2, 3, 4.
+- Side view: overall height 1.84", upper body height 1.46", base diameter Ø1.43"
+- Mounting height up to 50 ft (high-bay application ready)
+
+**Other**
+- Category tag: INDOOR
+- 10 Years Warranty (badge)
+- Overview:
+  - PIR motion detection
+  - Wide detection coverage
+  - High-bay application ready
+  - Mounting height up to 50 ft
+  - Bluetooth Mesh connectivity
+  - 360° coverage pattern
+  - Technology Partner Amaya Pro™
+- Product Features:
+  - Wireless communication range up to 150 ft
+  - PSA Level 3 security, described as "highest-grade, military-level data protection"
+  - Clock-dial scheduling for precise time-based control and automation
+  - Personalized remote control for user-specific lighting preferences
+  - Automatic health status updates reported continuously to the server
+  - All luminaires on the 0–10V control line can be broadcast-controlled via a mobile application
+  - Built-in 20mA 0–10V analog signal output for dimming control
+  - Reset by button (5-second press) or by remote using RESET + ON/OFF
+  - Controls programmed via a commissioning remote
+  - Handheld remote available for on-demand custom user preference
+  - Online portal for pre-planning, pre- and post-programming, location controls and energy data
+- The mobile app image shows an Amaya Pro login screen ("Welcome," username/email, password, LOGIN). The smaller text on it is too small to read reliably.
+
+The page's raw text:
+Dimensions Diagram:
+Order Info:
+06907
+Ø2.14ˮ Ø1.43ˮ
+Ø1.43ˮ
+1.46ˮ
+1.84ˮ
+Ø1.19ˮ
+Product Features:
+Overview:
+• Wireless communication ranges up to 150 ft.
+• PSA Level 3 security, delivering the highest-grade,
+military-level data protection.
+• Clock-dial scheduling for precise time-based control and
+automation.
+• Personalized remote control enabling user-specific lighting
+preferences.
+• Automatic health status updates are continuously reported
+to the server.
+• All luminaires on the 0–10V control line can be
+broadcast-controlled via a mobile application.
+• Built-in 20mA 0–10V analog signal output for reliable
+dimming control.
+• Button reset (5-second press) and remote reset via RESET
++ ON/OFF.
+• Programming of controls via commissioning remote.
+• Handheld remote available for on demand custom user
+preference.
+• Robust online portal for pre planning, pre & post
+programming, controls of the locations and energy data.
+• PIR motion detection.
+• Wide detection coverage.
+• High-bay application ready.
+• Mounting height up to 50 ft.
+• Bluetooth Mesh Connectivity.
+• 360° Coverage Pattern.
+• Technology Partner Amaya ProTM.
+BLUETOOTH
+BI-LEVEL
+DIMMING
+HIGH-END
+TRIM
+OCCUPANCY
+SENSOR
+DAYLIGHT
+HARVESTING
+SENSOR
+SCHEDULING
+10 YEARS
+Mobile App
+Desktop Friendly
+Amaya ProTM System – Web/App
+Download App
+INDOOR
+DC POWERED
+BLE CONTROLS PIR
+
+### 2026 Amaya Pro Catalog, page 20
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=20
+
+From the 2026 Amaya Pro Catalog, page 20.
+
+What the page shows, read from the page image:
+**Products**
+- No product name or model code is printed on this page. Based on the specs and wiring, it appears to be a Bluetooth Mesh sensor or control module, but the page does not name it.
+
+**Dimensions and mounting**
+- Mounting Height: Up to 50 FT
+- Wiring Diagram (4-port round connector, ports numbered ① to ④ with arrows):
+  - Port 1: 12-24VDC
+  - Port 2: DIM-/GND
+  - Port 3: DIM +
+  - Port 4: DIM+
+  - Note: Ports 3 and 4 are both printed as DIM+ ("DIM +" and "DIM+"). This looks like a possible typo; confirm with Amaya Pro before quoting.
+- Sensor Coverage charts:
+  - Left chart: The vertical axis runs 0' to 50' (mounting height). The horizontal axis runs 30' to 0' to 30', with marks at 6', 10', 20' and 30'. The outer (light grey) zones reach about 20' each side at 40'. The darker zones reach about 10' each side at 50'.
+  - Right chart: A radial pattern with both axes running 30' to 0' to 30', marked at 6', 10', 20' and 30'. The outer zones extend to about 20' radius. A dimension of "60ft" is printed beside the chart.
+  - The caption "Coverage Top View" is printed above the left chart's area. However, the right (radial) chart appears to be the actual top view, so it is unclear which chart the caption refers to.
+
+**Other**
+- Technical Specifications:
+  - Input Voltage: 12-24V
+  - Max Communication Distance: 150 FT
+  - Communication Protocol: Bluetooth Mesh
+  - Life Span: >70,000 Hours
+  - Operating Temperature: -4°F to 140°F
+  - IP Rating: IP65 (printed as text, not as an icon)
+- Contact Us:
+  - Phone: (302)-391-6444
+  - Email: support@amayapro.com
+  - Web: www.amayapro.com
+
+The page's raw text:
+Input Voltage:
+12-24V
+Mounting Height:
+Up to 50 FT
+Communication Protocol:
+Bluetooth Mesh
+IP Rating:
+IP65
+Max Communication Distance:
+150 FT
+Operating Temperature:
+-4°F to 140°F
+Life Span:
+>70,000 Hours
+Coverage Top View
+-Port 1: 12-24VDC
+-Port 2: DIM-/GND
+-Port 3: DIM +
+-Port 4: DIM+
+Technical Specifications
+Wiring Diagram
+Sensor Coverage
+www.amayapro.com
+support@amayapro.com
+(302)-391-6444
+Contact Us:
+
+### 2026 Amaya Pro Catalog, page 21
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=21
+
+From the 2026 Amaya Pro Catalog, page 21.
+
+What the page shows, read from the page image:
+**Products**
+- AMAYA PRO™ DC POWERED BLE CONTROLS OcuSense (marked INDOOR)
+
+**Certifications**
+- DLC NLC5
+- FCC
+- A logo reading "ZSR" with wireless-signal arcs under the S. It is not a standard certification mark, and the page does not explain what it means.
+
+**Features shown as icons**
+- Bluetooth
+- High-End Trim. The "BLUETOOTH" label sits above a yellow bar icon, and "HIGH-END TRIM" sits below it. It is unclear whether these are one feature or two.
+- Occupancy Sensor
+- Bi-Level Dimming
+- Scheduling
+- Daylight Harvesting Sensor
+- IP65
+
+**Ordering table**
+- Order code: 06908
+- No DLC ID, wattage, CCT, lumen, voltage or color columns are printed on this page.
+
+**Compatible sensors and controls**
+- This product is the control or sensor itself. No separate compatible sensor brands or codes are listed.
+- The following are mentioned:
+  - Amaya Pro™ System (Web/App)
+  - Commissioning remote
+  - Handheld remote
+
+**Dimensions and mounting**
+- Top/bottom view diameters: Ø1.18", Ø1.96", Ø0.17". The view has positions numbered 1, 2, 3 and 4.
+- Side view:
+  - Overall height 1.35"
+  - Lower section 0.2"
+  - Width 1.51"
+- Mounting height: up to 40 ft (from the Overview).
+
+**Other**
+- Warranty: 10 years (badge).
+- Overview:
+  - OcuSense motion detection
+  - Wide detection coverage
+  - High-bay application ready
+  - Mounting height up to 40 ft
+  - Bluetooth Mesh connectivity
+  - 360° coverage pattern
+  - Technology Partner Amaya Pro™
+- Product features:
+  - Wireless communication range up to 150 ft
+  - PSA Level 3 security ("highest-grade, military-level data protection")
+  - Clock-dial scheduling for time-based control and automation
+  - Personalized remote control for user-specific lighting preferences
+  - Automatic health status updates reported continuously to the server
+  - All luminaires on the 0–10V control line can be broadcast-controlled from a mobile app
+  - Built-in 20mA 0–10V analog signal output for dimming control
+  - Magnetic reset (5-second touch), plus remote reset via RESET + ON/OFF
+  - Controls can be programmed with a commissioning remote
+  - Handheld remote available for on-demand custom user preference
+  - Online portal for pre-planning, pre- and post-programming, location controls and energy data
+- Amaya Pro™ System, Web/App:
+  - Desktop friendly
+  - Mobile app
+  - "Download App" QR code is printed. Its link cannot be read from the image.
+
+The page's raw text:
+Dimensions Diagram:
+Order Info:
+06908
+DC POWERED
+BLE CONTROLS OcuSense
+Ø1.18ˮ
+1.51ˮ
+1.35ˮ
+0.2ˮ
+Ø1.96ˮ
+Ø0.17ˮ
+Product Features:
+Overview:
+BLUETOOTH
+BI-LEVEL
+DIMMING
+HIGH-END
+TRIM
+OCCUPANCY
+SENSOR
+DAYLIGHT
+HARVESTING
+SENSOR
+SCHEDULING
+• Wireless communication ranges up to 150 ft.
+• PSA Level 3 security, delivering the highest-grade,
+military-level data protection.
+• Clock-dial scheduling for precise time-based control and
+automation.
+• Personalized remote control enabling user-specific lighting
+preferences.
+• Automatic health status updates are continuously reported
+to the server.
+• All luminaires on the 0–10V control line can be
+broadcast-controlled via a mobile application.
+• Built-in 20mA 0–10V analog signal output for reliable
+dimming control.
+• Magnetic reset (5-second touch) and remote reset via
+RESET + ON/OFF.
+• Programming of controls via commissioning remote.
+• Handheld remote available for on demand custom user
+preference.
+• Robust online portal for pre planning, pre & post
+programming, controls of the locations and energy data.
+• OcuSense motion detection.
+• Wide detection coverage.
+• High-bay application ready.
+• Mounting height up to 40 ft.
+• Bluetooth Mesh Connectivity.
+• 360° Coverage Pattern.
+• Technology Partner Amaya ProTM.
+IP65
+Mobile App
+Desktop Friendly
+Amaya ProTM System – Web/App
+Download App
+INDOOR
+10 YEARS
+
+### 2026 Amaya Pro Catalog, page 22
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=22
+
+From the 2026 Amaya Pro Catalog, page 22.
+
+What the page shows, read from the page image:
+**Products**
+No product name or model number is printed on this page. The specs (Bluetooth Mesh, sensor coverage) suggest a Bluetooth Mesh sensor/controller, but the product needs to be confirmed from the preceding page.
+
+**Dimensions and mounting**
+- Mounting height: Up to 40 FT
+- Sensor coverage drawing: "Height of installation 13-40FT", with a vertical dimension of 13-40FT
+- Polar coverage chart:
+  - Radius markings: 6', 13', 20', 26' (both sides of center)
+  - Zone labels: 20%, 50%, 75%, 100%
+- No physical product dimensions are printed.
+
+**Other**
+Technical specifications:
+- Input Voltage: 12-24V
+- Max Communication Distance: 150 FT
+- Communication Protocol: Bluetooth Mesh
+- Life Span: >70,000 Hours
+- Operating Temperature: -4°F to 140°F
+- IP Rating: IP65 (printed as a spec line, not as an icon)
+
+Wiring diagram (4-port round connector):
+- Port 1: 12-24VDC
+- Port 2: DIM-/GND
+- Port 3: DIM +
+- Port 4: DIM+
+
+Note: Ports 3 and 4 are both printed as DIM+. This may be a catalog error, so confirm with Amaya Pro before quoting wiring.
+
+Contact:
+- Phone: (302)-391-6444
+- Email: support@amayapro.com
+- Web: www.amayapro.com
+
+The page's raw text:
+Input Voltage:
+12-24V
+Mounting Height:
+Up to 40 FT
+Communication Protocol:
+Bluetooth Mesh
+IP Rating:
+IP65
+Max Communication Distance:
+150 FT
+Operating Temperature:
+-4°F to 140°F
+Life Span:
+>70,000 Hours
+Height of installation 13-40FT
+13-40FT
+-Port 1: 12-24VDC
+-Port 2: DIM-/GND
+-Port 3: DIM +
+-Port 4: DIM+
+Technical Specifications
+Wiring Diagram
+Sensor Coverage
+www.amayapro.com
+support@amayapro.com
+(302)-391-6444
+Contact Us:
+
+### 2026 Amaya Pro Catalog, page 23
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=23
+
+From the 2026 Amaya Pro Catalog, page 23.
+
+What the page shows, read from the page image:
+**Products:**
+- AMAYA PRO™ DC POWERED BLE CONTROLS PIR (category tab: INDOOR)
+- Order Info: 06909
+
+**Certifications:**
+- DLC NLC5
+- FCC
+
+**Features shown as icons:**
+- Bluetooth
+- High-End Trim
+- Occupancy Sensor
+- Bi-Level Dimming
+- Scheduling
+- Daylight Harvesting Sensor
+- 10 Years Warranty (badge)
+- 3pSR logo (meaning not explained on the page)
+
+**Ordering table:**
+- No ordering table on this page. The only ordering code shown is 06909.
+
+**Compatible sensors and controls:**
+- Amaya Pro™ System – Web/App. It works on desktop ("Desktop Friendly") and through a "Mobile App," and there is a "Download App" QR code.
+- Commissioning remote and handheld remote are mentioned in the features. No model codes are given.
+
+**Dimensions and mounting:**
+- Outer diameter: Ø2.14"
+- Overall height: 1.76". Body height: 1.33".
+- Thread: G1/2. Thread diameter: Ø0.92".
+- Smaller labels below the body: 0.35", 0.22", plus two very small labels that look like 0.11" and 0.23". The two small ones are hard to read, so please check them against the original.
+- Mounting height: up to 40 ft (high-bay ready).
+
+**Other:**
+
+Overview:
+- PIR motion detection
+- Wide detection coverage
+- High-bay application ready
+- Mounting height up to 40 ft
+- Bluetooth Mesh Connectivity
+- 360° coverage pattern
+- Technology Partner Amaya Pro™
+
+Product features:
+- Wireless communication range up to 150 ft.
+- PSA Level 3 security, described as "highest-grade, military-level data protection."
+- Clock-dial scheduling for precise time-based control and automation.
+- Personalized remote control for user-specific lighting preferences.
+- Automatic health status updates are continuously reported to the server.
+- All luminaires on the 0–10V control line can be broadcast-controlled from a mobile app.
+- Built-in 20mA 0–10V analog signal output for dimming control.
+- Reset options: magnetic reset (5-second touch) and remote reset via RESET + ON/OFF.
+- Controls can be programmed with a commissioning remote.
+- A handheld remote is available for on-demand custom user preferences.
+- Online portal for pre-planning, pre- and post-programming, location controls and energy data.
+
+The page's raw text:
+Dimensions Diagram:
+Order Info:
+06909
+Product Features:
+Overview:
+Ø2.14ˮ
+1.76ˮ
+0.11ˮ
+0.23ˮ
+G1/2
+Ø0.92ˮ
+0.22ˮ
+1.33ˮ
+0.35ˮ
+• Wireless communication ranges up to 150 ft.
+• PSA Level 3 security, delivering the highest-grade,
+military-level data protection.
+• Clock-dial scheduling for precise time-based control and
+automation.
+• Personalized remote control enabling user-specific lighting
+preferences.
+• Automatic health status updates are continuously reported
+to the server.
+• All luminaires on the 0–10V control line can be
+broadcast-controlled via a mobile application.
+• Built-in 20mA 0–10V analog signal output for reliable
+dimming control.
+• Magnetic reset (5-second touch) and remote reset via
+RESET + ON/OFF.
+• Programming of controls via commissioning remote.
+• Handheld remote available for on demand custom user
+preference.
+• Robust online portal for pre planning, pre & post
+programming, controls of the locations and energy data.
+• PIR motion detection.
+• Wide detection coverage.
+• High-bay application ready.
+• Mounting height up to 40 ft.
+• Bluetooth Mesh Connectivity.
+• 360° Coverage Pattern.
+• Technology Partner Amaya ProTM.
+BLUETOOTH
+BI-LEVEL
+DIMMING
+HIGH-END
+TRIM
+OCCUPANCY
+SENSOR
+DAYLIGHT
+HARVESTING
+SENSOR
+SCHEDULING
+10 YEARS
+Mobile App
+Desktop Friendly
+Amaya ProTM System – Web/App
+Download App
+INDOOR
+DC POWERED
+BLE CONTROLS PIR
+
+### 2026 Amaya Pro Catalog, page 24
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=24
+
+From the 2026 Amaya Pro Catalog, page 24.
+
+What the page shows, read from the page image:
+**Products**
+- No product name or ordering code is printed on this page. The drawing shows a dome-top sensor with a threaded base, so the product is probably named on a nearby page.
+
+**Dimensions and mounting**
+- Mounting height: Up to 40 FT
+- Wiring diagram: the sensor has a threaded base with three leads labeled **GND, DIM+, 12V**.
+- No physical dimensions are shown.
+
+**Other**
+- Technical specifications:
+  - Input Voltage: 12-24V
+  - Max Communication Distance: 150 FT
+  - Communication Protocol: Bluetooth Mesh
+  - Operating Temperature: -4°F to 140°F
+  - IP Rating: IP65
+  - Life Span: >70,000 Hours
+- Sensor coverage:
+  - Coverage side view: height axis runs 0' to 40'; width axis runs 30' to 0' to 30' (marks at 6', 12', 20', 30' on each side).
+  - Top view: radial coverage pattern labeled **60 ft** across; axes run 30' to 0' to 30' (marks at 3', 6', 12', 20', 27', 30').
+- Contact:
+  - Phone: (302)-391-6444
+  - Email: support@amayapro.com
+  - Web: www.amayapro.com
+
+The page's raw text:
+Input Voltage:
+12-24V
+Mounting Height:
+Up to 40 FT
+Communication Protocol:
+Bluetooth Mesh
+IP Rating:
+IP65
+Max Communication Distance:
+150 FT
+Operating Temperature:
+-4°F to 140°F
+Life Span:
+>70,000 Hours
+GND DIM+ 12V
+Coverage Side View
+Technical Specifications
+Wiring Diagram
+Sensor Coverage
+www.amayapro.com
+support@amayapro.com
+(302)-391-6444
+Contact Us:
+
+### 2026 Amaya Pro Catalog, page 25
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=25
+
+From the 2026 Amaya Pro Catalog, page 25.
+
+What the page shows, read from the page image:
+**Products**
+- AMAYA PRO™ DC POWERED BLE CONTROLS PIR (marked "INDOOR")
+
+**Certifications**
+- DLC NLC5
+- FCC
+
+**Features shown as icons**
+- Bluetooth
+- High-End Trim
+- Occupancy Sensor
+- Bi-Level Dimming
+- Scheduling
+- Daylight Harvesting Sensor
+
+**Ordering table**
+- Order Info: 06910
+- The page has no ordering table with DLC ID, watts, CCT, lumens, voltage or color.
+
+**Dimensions and mounting**
+- Front view: Ø2.14"
+- Side view: overall length 2.12"
+- Side view: 0.66" and 0.58" (stepped dimensions at the threaded/stem end)
+- Side view vertical dimensions: 0.11" and 0.23"
+- Side view horizontal dimension at the bottom: 0.23"
+- Mounting height up to 50 ft (from Overview)
+- The page has no written mounting notes.
+
+**Other**
+- Warranty: 10 Years warranty badge.
+- A "3pSR" logo appears at left. It is a stylized mark, and the page does not say what it stands for.
+- Overview:
+  - PIR motion detection.
+  - Wide detection coverage.
+  - High-bay application ready.
+  - Mounting height up to 50 ft.
+  - Bluetooth Mesh Connectivity.
+  - 360° Coverage Pattern.
+  - Technology Partner Amaya Pro™.
+- Product Features:
+  - Wireless communication ranges up to 150 ft.
+  - PSA Level 3 security, delivering the highest-grade, military-level data protection.
+  - Clock-dial scheduling for precise time-based control and automation.
+  - Personalized remote control enabling user-specific lighting preferences.
+  - Automatic health status updates are continuously reported to the server.
+  - All luminaires on the 0–10V control line can be broadcast-controlled via a mobile application.
+  - Built-in 20mA 0–10V analog signal output for reliable dimming control.
+  - Magnetic reset (5-second touch) and remote reset via RESET + ON/OFF.
+  - Programming of controls via commissioning remote.
+  - Handheld remote available for on-demand custom user preference.
+  - Robust online portal for pre-planning, pre- and post-programming, controls of the locations and energy data.
+- Amaya Pro™ System – Web/App:
+  - Desktop Friendly (shown with a monitor image).
+  - Mobile App (shown with a phone login screen).
+  - "Download App" QR code.
+
+The page's raw text:
+Dimensions Diagram:
+Order Info:
+06910
+Product Features:
+Overview:
+Ø2.14ˮ
+2.12ˮ
+0.11ˮ
+0.23ˮ
+0.23ˮ
+0.66ˮ
+0.58ˮ
+• Wireless communication ranges up to 150 ft.
+• PSA Level 3 security, delivering the highest-grade,
+military-level data protection.
+• Clock-dial scheduling for precise time-based control and
+automation.
+• Personalized remote control enabling user-specific lighting
+preferences.
+• Automatic health status updates are continuously reported
+to the server.
+• All luminaires on the 0–10V control line can be
+broadcast-controlled via a mobile application.
+• Built-in 20mA 0–10V analog signal output for reliable
+dimming control.
+• Magnetic reset (5-second touch) and remote reset via
+RESET + ON/OFF.
+• Programming of controls via commissioning remote.
+• Handheld remote available for on demand custom user
+preference.
+• Robust online portal for pre planning, pre & post
+programming, controls of the locations and energy data.
+• PIR motion detection.
+• Wide detection coverage.
+• High-bay application ready.
+• Mounting height up to 50 ft.
+• Bluetooth Mesh Connectivity.
+• 360° Coverage Pattern.
+• Technology Partner Amaya ProTM.
+BLUETOOTH
+BI-LEVEL
+DIMMING
+HIGH-END
+TRIM
+OCCUPANCY
+SENSOR
+DAYLIGHT
+HARVESTING
+SENSOR
+SCHEDULING
+10 YEARS
+Mobile App
+Desktop Friendly
+Amaya ProTM System – Web/App
+Download App
+INDOOR
+DC POWERED
+BLE CONTROLS PIR
+
+### 2026 Amaya Pro Catalog, page 26
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=26
+
+From the 2026 Amaya Pro Catalog, page 26.
+
+What the page shows, read from the page image:
+## Products
+- No product name or ordering code is printed on this page. The wiring diagram shows a cylindrical sensor/control module, but it is not labeled.
+
+## Dimensions and mounting
+- **Mounting height:** Up to 50 FT
+- **Wiring diagram:** The drawing shows a cylindrical housing with a threaded stem underneath and three pins. The pins are labeled **GND, DIM+, 12V**. No physical dimensions are printed.
+
+## Other
+**Technical specifications**
+- Input Voltage: 12-24V
+- Max Communication Distance: 150 FT
+- Communication Protocol: Bluetooth Mesh
+- Operating Temperature: -4°F to 140°F
+- IP Rating: IP65 (printed as a text spec, not an icon)
+- Life Span: >70,000 Hours
+
+**Sensor coverage diagrams**
+- **Coverage Side View:**
+  - The vertical axis runs from 0' to 50' (marked at 10' steps).
+  - The horizontal axis is marked 30', 20', 10', 6', 0', 6', 10', 20', 30'.
+  - All zones fan out from a single point at the top center.
+  - The outer light-gray zones reach about 20' each side at the 40' line.
+  - The darker gray zones reach about 10' each side at the 50' line.
+  - The black center zone is narrow, within a few feet of 0' at 50'.
+  - These widths are read from the chart, not printed values.
+- **Top view (unlabeled):**
+  - Both axes run 30' to 0' to 30', marked at 30', 20', 10', 6', 0'.
+  - A vertical bracket is labeled **60ft**.
+  - The radial pattern has three bands: light-gray outer zones reaching roughly 20', darker gray mid zones reaching roughly 10', and a small black center.
+
+**Contact**
+- Phone: (302)-391-6444
+- Email: support@amayapro.com
+- Web: www.amayapro.com
+
+The page's raw text:
+Input Voltage:
+12-24V
+Mounting Height:
+Up to 50 FT
+Communication Protocol:
+Bluetooth Mesh
+IP Rating:
+IP65
+Max Communication Distance:
+150 FT
+Operating Temperature:
+-4°F to 140°F
+Life Span:
+>70,000 Hours
+Coverage Side View
+GND DIM+ 12V
+Technical Specifications
+Wiring Diagram
+Sensor Coverage
+www.amayapro.com
+support@amayapro.com
+(302)-391-6444
+Contact Us:
+
+### 2026 Amaya Pro Catalog, page 27
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=27
+
+From the 2026 Amaya Pro Catalog, page 27.
+
+What the page shows, read from the page image:
+## Products
+- DC POWERED BLE CONTROLS OcuSense (Amaya Pro™)
+- Category tag: INDOOR
+
+## Certifications
+- DLC NLC5
+- FCC
+- A "3pSR" logo appears on the left side of the page. The page does not say what it means.
+- 10 Years Warranty badge
+
+## Features shown as icons
+- Bluetooth
+- High-End Trim
+- Occupancy Sensor
+- Bi-Level Dimming
+- Scheduling
+- Daylight Harvesting Sensor
+
+## Ordering table
+- Order Info: 06911
+
+The page has no other ordering columns: no DLC ID, watts, CCT, lumens, voltage or color.
+
+## Compatible sensors and controls
+- This product is itself a sensor/control in the Amaya Pro™ system.
+- The page lists no other sensor or control brands or codes.
+- Controls mentioned: commissioning remote and handheld remote (no codes given).
+- Amaya Pro™ System – Web/App:
+  - "Desktop Friendly" web portal
+  - Mobile App, with a "Download App" QR code
+
+## Dimensions and mounting
+- Diameter: Ø2.14"
+- Overall height: 1.55"
+- Upper body height: 1.12"
+- Thread: G1/2
+- Thread section: 0.35"
+- Pin/terminal length: 0.22"
+- Thread diameter: Ø0.92"
+- Two very small labels near the pins: one reads 0.23". The other is printed vertically and is too small to read reliably.
+- Mounting height up to 40 ft (from Overview).
+
+## Other
+**Overview:**
+- OcuSense motion detection
+- Wide detection coverage
+- High-bay application ready
+- Mounting height up to 40 ft.
+- Bluetooth Mesh Connectivity
+- 360° Coverage Pattern
+- Technology Partner Amaya Pro™
+
+**Product Features:**
+- Wireless communication ranges up to 150 ft.
+- PSA Level 3 security, delivering the highest-grade, military-level data protection.
+- Clock-dial scheduling for precise time-based control and automation.
+- Personalized remote control enabling user-specific lighting preferences.
+- Automatic health status updates are continuously reported to the server.
+- All luminaires on the 0–10V control line can be broadcast-controlled via a mobile application.
+- Built-in 20mA 0–10V analog signal output for reliable dimming control.
+- Magnetic reset (5-second touch) and remote reset via RESET + ON/OFF.
+- Programming of controls via commissioning remote.
+- Handheld remote available for on demand custom user preference.
+- Robust online portal for pre planning, pre & post programming, controls of the locations and energy data.
+
+The page's raw text:
+Dimensions Diagram:
+Order Info:
+06911
+Product Features:
+Overview:
+Ø2.14ˮ
+1.55ˮ
+1.12ˮ
+0.35ˮ G1/2
+0.11ˮ
+0.23ˮ
+0.22ˮ
+Ø0.92ˮ
+• Wireless communication ranges up to 150 ft.
+• PSA Level 3 security, delivering the highest-grade,
+military-level data protection.
+• Clock-dial scheduling for precise time-based control and
+automation.
+• Personalized remote control enabling user-specific lighting
+preferences.
+• Automatic health status updates are continuously reported
+to the server.
+• All luminaires on the 0–10V control line can be
+broadcast-controlled via a mobile application.
+• Built-in 20mA 0–10V analog signal output for reliable
+dimming control.
+• Magnetic reset (5-second touch) and remote reset via
+RESET + ON/OFF.
+• Programming of controls via commissioning remote.
+• Handheld remote available for on demand custom user
+preference.
+• Robust online portal for pre planning, pre & post
+programming, controls of the locations and energy data.
+• OcuSense motion detection.
+• Wide detection coverage.
+• High-bay application ready.
+• Mounting height up to 40 ft.
+• Bluetooth Mesh Connectivity.
+• 360° Coverage Pattern.
+• Technology Partner Amaya ProTM.
+BLUETOOTH
+BI-LEVEL
+DIMMING
+HIGH-END
+TRIM
+OCCUPANCY
+SENSOR
+DAYLIGHT
+HARVESTING
+SENSOR
+SCHEDULING
+10 YEARS
+Mobile App
+Desktop Friendly
+Amaya ProTM System – Web/App
+Download App
+DC POWERED
+BLE CONTROLS OcuSense
+INDOOR
+
+### 2026 Amaya Pro Catalog, page 28
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=28
+
+From the 2026 Amaya Pro Catalog, page 28.
+
+What the page shows, read from the page image:
+**Dimensions and mounting**
+- Mounting height (spec): Up to 40 FT
+- Sensor coverage side view: vertical dimension labeled "13-40FT", caption "Height of installation 13-40FT"
+- Wiring diagram: the sensor has a threaded base with 3 pins, labeled left to right **GND, DIM+, 12V**. No thread size or body dimensions are printed.
+- Sensor coverage pattern (top view):
+  - Radius markings: 6', 13', 20', 26' on each side of center
+  - Coverage rings: 20%, 50%, 75%, 100%
+  - The page does not state which mounting height this pattern applies to.
+
+**Other**
+- Technical specifications:
+  - Input Voltage: 12-24V
+  - Max Communication Distance: 150 FT
+  - Communication Protocol: Bluetooth Mesh
+  - Life Span: >70,000 Hours
+  - Operating Temperature: -40°F to 158°F
+  - IP Rating: IP65 (printed as a spec value, not as an icon)
+- No product name, model number or ordering code is printed on this page. Based on the drawings and specs, it appears to be a plug-in Bluetooth Mesh sensor/control module. The product name is probably on the facing or previous page.
+- Contact:
+  - Phone: (302)-391-6444
+  - Email: support@amayapro.com
+  - Website: www.amayapro.com
+
+The page's raw text:
+Input Voltage:
+12-24V
+Mounting Height:
+Up to 40 FT
+Communication Protocol:
+Bluetooth Mesh
+IP Rating:
+IP65
+Max Communication Distance:
+150 FT
+Operating Temperature:
+-40°F to 158°F
+Life Span:
+>70,000 Hours
+Height of installation 13-40FT
+GND DIM+ 12V
+13-40FT
+Technical Specifications
+Wiring Diagram
+Sensor Coverage
+www.amayapro.com
+support@amayapro.com
+(302)-391-6444
+Contact Us:
+
+### 2026 Amaya Pro Catalog, page 29
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=29
+
+From the 2026 Amaya Pro Catalog, page 29.
+
+What the page shows, read from the page image:
+**Products**
+- AMAYA PRO™ DC POWERED BLE CONTROLS PIR (tagged INDOOR)
+
+**Certifications**
+- DLC NLC5
+- FCC
+- A logo reading "ASR" with a wireless or signal symbol beneath it. The page doesn't say what it stands for.
+
+**Features shown as icons**
+- Bluetooth
+- High-End Trim
+- Occupancy Sensor
+- Bi-Level Dimming
+- Scheduling
+- Daylight Harvesting Sensor
+- 10 Years Warranty badge
+
+**Ordering table**
+No full table is printed. The only entry is:
+- Order Info: 06915
+
+**Compatible sensors and controls**
+This product is itself the control: a PIR motion sensor with Bluetooth Mesh. The page lists no other sensor or control brands or codes.
+
+**Dimensions and mounting**
+- Top view: Ø2.16"
+- Side view, vertical dimensions: 2.18", 1.90", 1.32", 1.03" and 0.55". The 2.18" appears to be overall height, but which part each other number measures isn't clearly labeled.
+- Threaded mount: G1/2
+- Mounting height up to 40 ft (from the Overview)
+
+**Other**
+
+Overview:
+- PIR motion detection
+- Wide detection coverage
+- High-bay application ready
+- Mounting height up to 40 ft.
+- Bluetooth Mesh Connectivity
+- 360° Coverage Pattern
+- Technology Partner Amaya Pro™
+
+Product Features:
+- Wireless communication ranges up to 150 ft.
+- PSA Level 3 security, delivering the highest-grade, military-level data protection.
+- Clock-dial scheduling for precise time-based control and automation.
+- Personalized remote control enabling user-specific lighting preferences.
+- Automatic health status updates are continuously reported to the server.
+- All luminaires on the 0–10V control line can be broadcast-controlled via a mobile application.
+- Built-in 20mA 0–10V analog signal output for reliable dimming control.
+- Magnetic reset (5-second press) and remote reset via RESET + ON/OFF.
+- Programming of controls via commissioning remote.
+- Handheld remote available for on demand custom user preference.
+- Robust online portal for pre planning, pre & post programming, controls of the locations and energy data.
+
+Amaya Pro™ System – Web/App:
+- "Desktop Friendly" (pictured on a monitor)
+- "Mobile App" (pictured on a phone showing a login screen)
+- "Download App" QR code is printed. Its link can't be read from the image.
+
+The page's raw text:
+Dimensions Diagram:
+Order Info:
+06915
+Ø2.16ˮ
+2.18ˮ
+1.90ˮ
+1.32ˮ
+1.03ˮ
+0.55ˮ
+G1/2
+Product Features:
+Overview:
+• Wireless communication ranges up to 150 ft.
+• PSA Level 3 security, delivering the highest-grade,
+military-level data protection.
+• Clock-dial scheduling for precise time-based control and
+automation.
+• Personalized remote control enabling user-specific lighting
+preferences.
+• Automatic health status updates are continuously reported
+to the server.
+• All luminaires on the 0–10V control line can be
+broadcast-controlled via a mobile application.
+• Built-in 20mA 0–10V analog signal output for reliable
+dimming control.
+• Magnetic reset (5-second press) and remote reset via
+RESET + ON/OFF.
+• Programming of controls via commissioning remote.
+• Handheld remote available for on demand custom user
+preference.
+• Robust online portal for pre planning, pre & post
+programming, controls of the locations and energy data.
+• PIR motion detection.
+• Wide detection coverage.
+• High-bay application ready.
+• Mounting height up to 40 ft.
+• Bluetooth Mesh Connectivity.
+• 360° Coverage Pattern.
+• Technology Partner Amaya ProTM.
+BLUETOOTH
+BI-LEVEL
+DIMMING
+HIGH-END
+TRIM
+OCCUPANCY
+SENSOR
+DAYLIGHT
+HARVESTING
+SENSOR
+SCHEDULING
+10 YEARS
+Mobile App
+Desktop Friendly
+Amaya ProTM System – Web/App
+Download App
+INDOOR
+DC POWERED
+BLE CONTROLS PIR
+
+### 2026 Amaya Pro Catalog, page 30
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=30
+
+From the 2026 Amaya Pro Catalog, page 30.
+
+What the page shows, read from the page image:
+**Products**
+No product name is printed on this page. It continues a sensor product's spec sheet that starts on an earlier page.
+
+**Dimensions and mounting**
+- Mounting Height: Up to 40 FT
+- The wiring diagram includes a line drawing of the sensor. It has a threaded stem with a plug connector and a dome lens. No dimensions are printed on the drawing.
+- Coverage Side View diagram:
+  - The sensor sits at 0' at the top.
+  - The vertical axis runs 0' to 40' (marked 0', 10', 20', 30', 40').
+  - The horizontal axis is marked 30', 20', 12', 6', 0', 6', 12', 20', 30'.
+  - The detection zones spread out from the sensor to about 30' on each side at 40'.
+- Top-view coverage diagram:
+  - Both axes are marked 30', 27', 20', 12', 6', 3', 0', 3', 6', 12', 20', 27', 30'.
+  - The overall coverage is labeled "60 ft".
+
+**Other**
+
+Technical Specifications:
+- Input Voltage: 12-24V
+- Max Communication Distance: 150 FT
+- Communication Protocol: Bluetooth Mesh
+- Life Span: >70,000 Hours
+- Mounting Height: Up to 40 FT
+- Operating Temperature: -4°F to 140°F
+- IP Rating: IP65
+
+Wiring Diagram:
+- L and N connect to the input side of the Dimming Driver.
+- The Dimming Driver's – and + outputs connect to the LED's – and +.
+- The sensor connects to the driver with three leads:
+  - (YELLOW) VCC
+  - (PINK) DIM-
+  - (PURPLE) DIM+
+
+Contact Us:
+- Phone: (302)-391-6444
+- Email: support@amayapro.com
+- Web: www.amayapro.com
+
+The page's raw text:
+Input Voltage:
+12-24V
+Mounting Height:
+Up to 40 FT
+Communication Protocol:
+Bluetooth Mesh
+IP Rating:
+IP65
+Max Communication Distance:
+150 FT
+Operating Temperature:
+-4°F to 140°F
+Life Span:
+>70,000 Hours
+(YELLOW)VCC
+Dimming Driver
+L
+N
+LED
+(PINK)DIM-
+(PURPLE)DIM+
+Technical Specifications
+Wiring Diagram
+Sensor Coverage
+www.amayapro.com
+support@amayapro.com
+(302)-391-6444
+Contact Us:
+
+### 2026 Amaya Pro Catalog, page 31
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=31
+
+From the 2026 Amaya Pro Catalog, page 31.
+
+What the page shows, read from the page image:
+## Products
+- AMAYA PRO™ DC POWERED BLE CONTROLS NODE (category tab: NODE)
+
+## Certifications
+- DLC NLC5
+- FCC
+- PQSR logo is shown on the page. It is not stated whether this is a certification.
+
+## Features shown as icons
+- BLUETOOTH
+- HIGH-END TRIM (yellow bar icon, printed under the "BLUETOOTH" label; it is unclear which label the icon belongs to)
+- BI-LEVEL DIMMING (icon shows a person/motion figure)
+- SCHEDULING (clock and bulb icon)
+- 10 YEARS WARRANTY badge
+
+## Ordering table
+Order Info: 06913
+
+No other columns are printed. There is no DLC ID, wattage, CCT, lumens, voltage or color on the page.
+
+## Compatible sensors and controls
+- Amaya Pro™ System – Web/App:
+  - Download App (QR code shown)
+  - "Desktop Friendly" (desktop portal)
+  - Mobile App (login screen shown)
+- Commissioning remote (programming of controls)
+- Handheld remote, available for on-demand custom user preference
+
+No brand or code is given for either remote.
+
+## Dimensions and mounting
+- Top view: Ø1.25″
+- Side view: overall height 1.58″; body height 1.29″; body width 0.66″
+- Second side view: Ø0.81″ and Ø0.99″ (threaded body)
+- No mounting notes are printed.
+
+## Other
+**Overview (as printed):**
+- Bluetooth node to be paired with full control.
+- Wide detection coverage.
+- High-bay application ready.
+- Max Bluethooth Range 100 ft. (spelling as printed)
+- Bluetooth Mesh Connectivity.
+- 360° Coverage Pattern.
+- Technology Partner Amaya Pro™.
+
+**Product Features (as printed):**
+- Wireless communication ranges up to 150 ft. Note that this conflicts with "Max Bluetooth Range 100 ft." in the Overview.
+- PSA Level 3 security, delivering the highest-grade, military-level data protection.
+- Clock-dial scheduling for precise time-based control and automation.
+- Personalized remote control enabling user-specific lighting preferences.
+- Automatic health status updates are continuously reported to the server.
+- All luminaires on the 0–10V control line can be broadcast-controlled via a mobile application.
+- Built-in 20mA 0–10V analog signal output for reliable dimming control.
+- Button reset (5-second press) and remote reset via RESET + ON/OFF.
+- Programming of controls via commissioning remote.
+- Handheld remote available for on demand custom user preference.
+- Robust online portal for pre planning, pre & post programming, controls of the locations and energy data.
+
+**Warranty:** 10 years.
+
+The page's raw text:
+Dimensions Diagram:Order Info:
+06913
+DC POWERED
+BLE CONTROLS NODE
+Ø1.25ˮ
+Ø0.81ˮ
+Ø0.99ˮ
+1.58ˮ
+1.29ˮ
+0.66ˮ
+Product Features:
+Overview:
+• Wireless communication ranges up to 150 ft.
+• PSA Level 3 security, delivering the highest-grade,
+military-level data protection.
+• Clock-dial scheduling for precise time-based control and
+automation.
+• Personalized remote control enabling user-specific lighting
+preferences.
+• Automatic health status updates are continuously reported
+to the server.
+• All luminaires on the 0–10V control line can be
+broadcast-controlled via a mobile application.
+• Built-in 20mA 0–10V analog signal output for reliable
+dimming control.
+• Button reset (5-second press) and remote reset via RESET
++ ON/OFF.
+• Programming of controls via commissioning remote.
+• Handheld remote available for on demand custom user
+preference.
+• Robust online portal for pre planning, pre & post
+programming, controls of the locations and energy data.
+• Bluetooth node to be paired with full control.
+• Wide detection coverage.
+• High-bay application ready.
+• Max Bluethooth Range 100 ft.
+• Bluetooth Mesh Connectivity.
+• 360° Coverage Pattern.
+• Technology Partner Amaya ProTM.
+BLUETOOTH
+BI-LEVEL
+DIMMING
+HIGH-END
+TRIM SCHEDULING
+Mobile App
+Desktop Friendly
+Amaya ProTM System – Web/App
+Download App
+10 YEARS
+NODE
+
+### 2026 Amaya Pro Catalog, page 32
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=32
+
+From the 2026 Amaya Pro Catalog, page 32.
+
+What the page shows, read from the page image:
+**Products**
+- No product name is printed on this page. It continues a product's spec page. The device appears to be a Bluetooth Mesh dimming control or sensor module with an XH2.54-3P connector.
+
+**Features shown as icons**
+- No feature icons are shown. Features listed as text:
+  - IP Rating: IP65
+  - Communication Protocol: Bluetooth Mesh
+
+**Other**
+- Technical Specifications:
+  - Input Voltage: 10-14V
+  - Max Bluetooth Range: 100 FT
+  - Max Communication Distance: 150 FT
+  - Operating Temperature: -4°F to 140°F
+  - Communication Protocol: Bluetooth Mesh
+  - IP Rating: IP65
+  - Life Span: >70,000 Hours
+- Wiring Diagram:
+  - L and N lines go into the Dimming Driver.
+  - The Dimming Driver connects to the LED through – (black line) and + (red line).
+  - Three wires run from the Dimming Driver to the module through an XH2.54-3P connector:
+    - (PURPLE) DIM+
+    - (PINK) GND
+    - (YELLOW) VCC
+- Contact Us:
+  - Phone: (302)-391-6444
+  - Email: support@amayapro.com
+  - Web: www.amayapro.com
+
+**Dimensions and mounting**
+- The drawing shows the module from the side and from the front. It has a threaded body, which suggests a threaded or snap-in mount through a hole. A rear connector port is visible.
+- No dimensions are printed.
+
+The page's raw text:
+Input Voltage:
+10-14V
+Max Bluetooth Range:
+100 FT
+Communication Protocol:
+Bluetooth Mesh
+IP Rating:
+IP65
+Max Communication Distance:
+150 FT
+Operating Temperature:
+-4°F to 140°F
+Life Span:
+>70,000 Hours
+(YELLOW )VCC
+(PURPLE) DIM+
+(PINK) GND
+XH2.54-3P
+Technical Specifications
+Wiring Diagram
+www.amayapro.com
+support@amayapro.com
+(302)-391-6444
+Contact Us:
+
+### 2026 Amaya Pro Catalog, page 33
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=33
+
+From the 2026 Amaya Pro Catalog, page 33.
+
+What the page shows, read from the page image:
+**Products**
+- AMAYA PRO™ AC POWERED BLE POWER PACK NODE (tab label: "NODE")
+
+**Certifications**
+- UL logo
+- DLC NLC5
+- FCC
+- The Overview text also says "UL Listed, Category: PAZX (Management Equipment, Energy)" and "UL 2043 Plenum Rated."
+
+**Features shown as icons**
+- Bluetooth
+- High-End Trim
+- Scheduling
+- IP20
+- 10 Years Warranty badge
+
+**Ordering table**
+- Order Info: 06934
+- The page has no other ordering columns (no DLC ID, watts, CCT, lumens or voltage).
+
+**Compatible sensors and controls**
+- The page names no specific sensor or control brands or codes.
+- It mentions support for Kinetic Energy Switches, a commissioning remote, and a handheld remote, but gives no codes for them.
+
+**Dimensions and mounting**
+- Overall length: 4.28"
+- Side view, end on the left (labels are small and printed sideways, so they may be misread):
+  - 2.39"
+  - 0.88"
+  - 0.81"
+  - 0.72"
+  - G1/2 thread
+- Side view, end on the right:
+  - 0.81"
+  - 0.72"
+  - G1/2 thread
+- End view: 1.48"
+- Callouts on the drawing: "Optional" and "Reset" (the reset button)
+
+**Other**
+- Overview:
+  - Power Pack Node
+  - Wide detection coverage
+  - High-bay application ready
+  - Bluetooth Mesh connectivity
+  - 360° coverage pattern
+  - Built-in 20mA 0-10V signal output, with 20A relay
+  - Supports Kinetic Energy Switches
+  - UL Listed, Category: PAZX (Management Equipment, Energy)
+  - UL 2043 Plenum Rated
+  - IPEX antenna
+  - Technology Partner Amaya Pro™
+- Product Features:
+  - Wireless communication range up to 150 ft.
+  - PSA Level 3 security, described as "highest-grade, military-level data protection."
+  - Clock-dial scheduling for precise time-based control and automation.
+  - Personalized remote control enabling user-specific lighting preferences.
+  - Automatic health status updates are continuously reported to the server.
+  - All luminaires on the 0–10V control line can be broadcast-controlled via a mobile application.
+  - Built-in 20mA 0–10V analog signal output for reliable dimming control.
+  - Button reset (5-second press) and remote reset via RESET + ON/OFF.
+  - Programming of controls via commissioning remote.
+  - Handheld remote available for on-demand custom user preference.
+  - Online portal for pre-planning, pre- and post-programming, controls of the locations, and energy data.
+- Amaya Pro™ System – Web/App:
+  - Shown as "Desktop Friendly" and "Mobile App."
+  - A "Download App" QR code is printed; its link cannot be read from the image.
+
+The page's raw text:
+Dimensions Diagram:Order Info:
+06934
+4.28ˮ
+0.81ˮ
+1.48ˮ
+0.72ˮ
+0.72ˮ
+0.81ˮ
+0.88ˮ
+2.39ˮ
+G1/2
+G1/2
+ResetOptional
+Product Features:
+Overview:
+• Wireless communication ranges up to 150 ft.
+• PSA Level 3 security, delivering the highest-grade,
+military-level data protection.
+• Clock-dial scheduling for precise time-based control and
+automation.
+• Personalized remote control enabling user-specific lighting
+preferences.
+• Automatic health status updates are continuously reported
+to the server.
+• All luminaires on the 0–10V control line can be
+broadcast-controlled via a mobile application.
+• Built-in 20mA 0–10V analog signal output for reliable
+dimming control.
+• Button reset (5-second press) and remote reset via RESET
++ ON/OFF.
+• Programming of controls via commissioning remote.
+• Handheld remote available for on demand custom user
+preference.
+• Robust online portal for pre planning, pre & post
+programming, controls of the locations and energy data.
+• Power Pack Node.
+• Wide detection coverage.
+• High-bay application ready.
+• Bluetooth Mesh connectivity.
+• 360° Coverage Pattern.
+• Built-in 20mA 0-10V Signal Output, with 20A relay.
+• Supporting Kinetic Energy Switches.
+• UL Listed, Category: PAZX
+(Management Equipment, Energy).
+• UL 2043 Plenum Rated
+• IPEX Antenna
+• Technology Partner Amaya ProTM.
+BLUETOOTH
+HIGH-END
+TRIM SCHEDULING
+IP20
+10 YEARS
+Mobile App
+Desktop Friendly
+Amaya ProTM System – Web/App
+Download App
+NODE
+AC POWERED
+BLE POWER PACK NODE
+
+### 2026 Amaya Pro Catalog, page 34
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=34
+
+From the 2026 Amaya Pro Catalog, page 34.
+
+What the page shows, read from the page image:
+## Products
+- BRI-PP08-RY-SR (printed only as a label in the application diagrams; the page doesn't print a product title or description)
+
+## Features shown as icons
+None on this page. The page lists IP rating only as text under Technical Specifications.
+
+## Technical Specifications
+- Input Voltage: 120-347V
+- Max Communication Distance: 150 FT
+- Communication Protocol: Bluetooth Mesh
+- Life Span: >70,000 Hours
+- Mounting Height: NA
+- Operating Temperature: 32°F to 104°F
+- IP Rating: IP20
+
+## Compatible sensors and controls
+- The second diagram shows a generic "Occupancy Sensor" and a "Switch." The page doesn't print a brand or model code for either.
+
+## Dimensions and mounting
+None on this page.
+
+## Other
+**Application Diagram 1: Local Switch Only**
+- Line side: N connects to the White lead. L connects to the Black lead.
+- Two Blue leads go to two LOADs. The loads are also connected back to N.
+- Low-voltage leads on the line side are labeled 12VDC, DIM+, DIM- and CCT.
+- Leads on the switch side are Brown, Red, Purple, Yellow and Pink. Brown and Yellow run to the Switch.
+
+**Application Diagram 2: Manual ON/Auto OFF with Local Switch**
+- Line side and load wiring are the same as Diagram 1, with two LOADs.
+- The Occupancy Sensor has Red, Yellow and Pink leads. These appear to connect to the pack's Red, Yellow and Pink leads.
+- Brown and Yellow also run to the Switch.
+- The diagram text is small, so check exact splice points against the product's installation instructions.
+
+**Note printed under both diagrams:** "Power Pack and the load switched by the power pack MUST be fed from the same phase."
+
+**Contact information**
+- Phone: (302)-391-6444
+- Email: support@amayapro.com
+- Website: www.amayapro.com
+
+The page's raw text:
+Input Voltage:
+120-347V
+Mounting Height:
+Communication Protocol:
+Bluetooth Mesh
+IP Rating:
+IP20
+Max Communication Distance:
+150 FT
+Operating Temperature:
+32°F to 104°F
+NA
+Life Span:
+Local Switch Only
+Manual ON/Auto OFF with Local Switch
+>70,000 Hours
+Application Diagram
+Technical Specifications
+www.amayapro.com
+support@amayapro.com
+(302)-391-6444
+Contact Us:
+
+### 2026 Amaya Pro Catalog, page 35
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=35
+
+From the 2026 Amaya Pro Catalog, page 35.
+
+What the page shows, read from the page image:
+**Products**
+- BRI-PP08-RY-SR (power pack, shown in wiring diagrams)
+
+**Dimensions and mounting**
+
+The page shows two wiring diagrams under the heading "Technical Specifications". There are no dimension drawings.
+
+*Auto ON/Auto OFF with Local Switch*
+- One BRI-PP08-RY-SR switches two LOADs.
+- Line side of the power pack: Blue, White, Black, Blue leads, connected to N and L.
+- Low-voltage leads on the line side: 12VDC (yellow), DIM+ (purple), DIM- (pink), CCT (blue).
+- Load-side leads: Brown, Red, Purple, Yellow, Pink.
+- One Occupancy Sensor connects through its Purple, Yellow and Pink leads to the matching Purple, Yellow and Pink leads of the power pack.
+- One Switch connects to the Brown lead and to the Yellow lead.
+- Note on the diagram: "Power Pack and the load switched by the power pack MUST be fed from the same phase."
+
+*Manual ON/Auto OFF with Local Switch*
+- Two BRI-PP08-RY-SR power packs. The upper pack drives two LOADs.
+- Three Occupancy Sensors are wired in parallel. Their Purple, Yellow and Pink leads are bussed together and tie to the Purple, Yellow and Pink leads of both power packs.
+- The Brown and Red leads on both packs are shown with no connection.
+- The lower pack's Blue leads end at terminal dots. No load is drawn on the lower pack.
+- The page names this mode "with Local Switch", but this diagram does not show a switch.
+- Same note, printed in bold: "Power Pack and the load switched by the power pack MUST be fed from the same phase."
+
+**Other**
+- Contact: (302)-391-6444
+- Email: support@amayapro.com
+- Website: www.amayapro.com
+
+The page's raw text:
+Auto ON/Auto OFF with Local Switch
+Manual ON/Auto OFF with Local Switch
+Technical Specifications
+www.amayapro.com
+support@amayapro.com
+(302)-391-6444
+Contact Us:
+
+### 2026 Amaya Pro Catalog, page 36
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=36
+
+From the 2026 Amaya Pro Catalog, page 36.
+
+What the page shows, read from the page image:
+**Products**
+No product names are printed on this page. The page is titled "Technical Specifications" with the subsection "Junction Box Installation."
+
+**Dimensions and mounting**
+Four installation diagrams for a small wired module (the device itself is not named). No dimensions are given.
+
+- **Figure 1 – Mounts outside junction box:** The module is attached to the outside of the junction box. The Class 2 wires exit the module's outer end. The Line Voltage Wires go into the junction box.
+- **Figure 2 – Mounts inside junction box:** The module sits inside the junction box. The Line Voltage Wires and Class 2 Wires are both labeled.
+- **Figure 3A – Mounts inside Fixture:** The module mounts in the fixture's Ballast Cavity, next to the Ballast. The Line Voltage Wires run toward the ballast. The Class 2 Wires exit through a Nipple Adapter.
+- **Figure 3B – Mounts outside Fixture:** The module is on the outside of the Ballast Cavity. The Line Voltage Wires go into the cavity toward the Ballast. The Class 2 Wires stay outside.
+
+**Other**
+Contact Us:
+- Phone: (302)-391-6444
+- Email: support@amayapro.com
+- Web: www.amayapro.com
+
+The page's raw text:
+Junction Box Installation
+Figure 1 Figure 2
+Figure 3A Figure 3B
+Technical Specifications
+www.amayapro.com
+support@amayapro.com
+(302)-391-6444
+Contact Us:
+
+### 2026 Amaya Pro Catalog, page 37
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=37
+
+From the 2026 Amaya Pro Catalog, page 37.
+
+What the page shows, read from the page image:
+**Products**
+- AC POWERED BLE POWER PACK NODE (Amaya Pro; page tab reads "NODE")
+
+**Certifications**
+- UL
+- DLC NLC5
+- FCC
+
+**Features shown as icons**
+- Bluetooth
+- High-End Trim
+- Scheduling
+- IP20
+- 10 Years Warranty (badge)
+
+**Ordering table**
+- No ordering table is printed. Order Info: 06935
+
+**Compatible sensors and controls**
+- None listed by brand or code. The page mentions a commissioning remote and a handheld remote, but gives no codes for them.
+
+**Dimensions and mounting**
+- Overall length: 4.28"
+- Height (side view): 2.39"
+- Other side-view dimensions: 0.88", 0.81", 0.72" (left end); 0.81", 0.72" (right end)
+- End view: 1.48"
+- Threaded connections on both ends labeled G1/2
+- Labeled callouts: "Optional" and "Reset" (button)
+
+**Other**
+- Overview:
+  - Power Pack Node
+  - Wide detection coverage
+  - High-bay application ready
+  - Bluetooth Mesh connectivity
+  - 360° coverage pattern
+  - Phase Cut TRIAC dimming to a connected lighting load
+  - Dimming: Forward/Reverse Phase
+  - Technology Partner Amaya Pro™
+- Product Features:
+  - Wireless communication ranges up to 100 ft.
+  - PSA Level 3 security, described as highest-grade, military-level data protection
+  - Personalized remote control for user-specific lighting preferences
+  - Automatic health status updates are continuously reported to the server
+  - All luminaires on the 0–10V control line can be broadcast-controlled via a mobile application
+  - Built-in 20mA 0–10V analog signal output for dimming control
+  - Button reset (5-second press) and remote reset via RESET + ON/OFF
+  - Programming of controls via commissioning remote
+  - Handheld remote available for on-demand custom user preference
+  - Online portal for pre-planning, pre- and post-programming, controls of the locations, and energy data
+- Amaya Pro™ System – Web/App: desktop-friendly web portal and mobile app. A "Download App" QR code is printed; its content cannot be read from the image.
+
+The page's raw text:
+Dimensions Diagram:
+Order Info:
+06935
+4.28ˮ
+0.81ˮ
+0.81ˮ
+1.48ˮ
+0.72ˮ
+0.72ˮ
+0.88ˮ
+2.39ˮ
+G1/2
+G1/2
+ResetOptional
+Product Features:
+Overview:
+• Wireless communication ranges up to 100 ft.
+• PSA Level 3 security, delivering the highest-grade,
+military-level data protection.
+• Personalized remote control enabling user-specific lighting
+preferences.
+• Automatic health status updates are continuously reported
+to the server.
+• All luminaires on the 0–10V control line can be
+broadcast-controlled via a mobile application.
+• Built-in 20mA 0–10V analog signal output for reliable
+dimming control.
+• Button reset (5-second press) and remote reset via RESET
++ ON/OFF.
+• Programming of controls via commissioning remote.
+• Handheld remote available for on demand custom user
+preference.
+• Robust online portal for pre planning, pre & post
+programming, controls of the locations and energy data.
+• Power Pack Node.
+• Wide detection coverage.
+• High-bay application ready.
+• Bluetooth Mesh connectivity.
+• 360° Coverage Pattern.
+• Phase Cut TRIAC Dimming to a
+connected lighting load.
+• Dimming: Forward/Reverse Phase
+• Technology Partner Amaya ProTM.
+BLUETOOTH
+HIGH-END
+TRIM SCHEDULING
+IP20
+Mobile App
+Desktop Friendly
+Amaya ProTM System – Web/App
+Download App
+NODE
+AC POWERED
+BLE POWER PACK NODE
+10 YEARS
+
+### 2026 Amaya Pro Catalog, page 38
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=38
+
+From the 2026 Amaya Pro Catalog, page 38.
+
+What the page shows, read from the page image:
+**Products**
+No product name is printed on this page.
+
+**Certifications**
+No certification logos are shown on this page.
+
+**Features shown as icons**
+No feature icons are shown on this page. IP20 appears only as text in the spec list below.
+
+**Ordering table**
+No ordering table is on this page.
+
+**Technical specifications (as printed)**
+- Input Voltage: 120-277V
+- Max Communication Distance: 100 FT
+- Communication Protocol: Bluetooth Mesh
+- Life Span: >70,000 Hours
+- Mounting Height: NA
+- Operating Temperature: 32°F to 104°F
+- IP Rating: IP20
+
+**Compatible sensors and controls**
+- "Bluetooth® Sensor (Optional)": no brand or code is printed.
+- "Phase Cut (TRIAC) Dimmable LED Driver" is shown in the wiring diagram. The mounting drawings label it "TRIAC Dimming Driver." No brand or code is printed.
+
+**Wiring diagram**
+- Black (HOT) goes to L.
+- White (Neutral) goes to N and also to the Phase Cut (TRIAC) Dimmable LED Driver.
+- Red (HOT) goes from the module to the Phase Cut (TRIAC) Dimmable LED Driver.
+- The optional Bluetooth® sensor connects with three small wires. The labels are printed sideways in very small text and read as VCC (YELLOW), GND (PINK) and DIM+ (PURPLE).
+
+**Dimensions and mounting**
+- Under the heading "Easy Mounting," two options are shown:
+  - "Mounts inside fixture": the module sits inside the fixture housing next to the TRIAC Dimming Driver.
+  - "Mounts Outside fixture": the module attaches to the outside of the fixture with a "Nipple Adapter," and the TRIAC Dimming Driver stays inside.
+- No dimensions are printed.
+
+**Other**
+- Contact Us:
+  - Phone: (302)-391-6444
+  - Email: support@amayapro.com
+  - Website: www.amayapro.com
+
+The page's raw text:
+Input Voltage:
+120-277V
+Mounting Height:
+Communication Protocol:
+Bluetooth Mesh
+IP Rating:
+IP20
+Max Communication Distance:
+100 FT
+Operating Temperature:
+32°F to 104°F
+Life Span:
+Easy Mounting
+>70,000 Hours
+NA
+Technical Specifications
+Wiring Diagram
+www.amayapro.com
+support@amayapro.com
+(302)-391-6444
+Contact Us:
+
+### 2026 Amaya Pro Catalog, page 39
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=39
+
+From the 2026 Amaya Pro Catalog, page 39.
+
+What the page shows, read from the page image:
+**Products**
+- AMAYA PRO™ AC POWERED BLE CONTROLS PIR
+- Tag: FIXTURE MOUNTED
+
+**Certifications**
+- UL
+- DLC NLC5
+- FCC
+
+**Features shown as icons**
+- Bluetooth
+- High-End Trim
+- Occupancy Sensor
+- Bi-Level Dimming
+- Scheduling
+- Daylight Harvesting Sensor
+- 10 Years Warranty badge
+
+**Ordering table**
+- Order Info: 06930. No other columns (DLC ID, watts, CCT, lumens, voltage, color) are printed.
+
+**Compatible sensors and controls**
+None listed. This page covers the sensor/control itself.
+
+**Dimensions and mounting**
+- Side view: height 1.70″
+- Top view: overall width with fitting 4.01″, body width 3.18″, body depth 3.18″
+- Fitting thread: G1/2
+- Fixture mounted
+- A small boxed area has the labels "L1 (Low bay)" and "L2 (High bay)". It has no other content and may be an image placeholder.
+
+**Other**
+
+*Overview:*
+- PIR motion detection
+- Wide detection coverage
+- High-bay application ready
+- Mounting height up to 40 ft.
+- Bluetooth Mesh Connectivity
+- 360° Coverage Pattern
+- Technology Partner Amaya Pro™
+
+*Product Features:*
+- Wireless communication ranges up to 150 ft.
+- PSA Level 3 security, delivering the highest-grade, military-level data protection.
+- Clock-dial scheduling for precise time-based control and automation.
+- Personalized remote control enabling user-specific lighting preferences.
+- Automatic health status updates are continuously reported to the server.
+- All luminaires on the 0–10V control line can be broadcast-controlled via a mobile application.
+- Built-in 20mA 0–10V analog signal output for reliable dimming control.
+- Magnetic reset (5-second press) and remote reset via RESET + ON/OFF.
+- Programming of controls via commissioning remote.
+- Handheld remote available for on-demand custom user preference.
+- Robust online portal for pre-planning, pre and post programming, controls of the locations and energy data.
+
+*Amaya Pro™ System – Web/App:*
+- "Desktop Friendly" (monitor image)
+- "Mobile App" (phone image showing the Amaya Pro login screen)
+- "Download App" QR code. The link it points to is not printed on the page.
+
+The page's raw text:
+Dimensions Diagram:
+Order Info:
+06930
+AC POWERED
+BLE CONTROLS PIR
+1.70ˮ
+3.18ˮ
+3.18ˮ
+4.01ˮ
+G1/2
+Product Features:
+Overview:
+• Wireless communication ranges up to 150 ft.
+• PSA Level 3 security, delivering the highest-grade,
+military-level data protection.
+• Clock-dial scheduling for precise time-based control and
+automation.
+• Personalized remote control enabling user-specific lighting
+preferences.
+• Automatic health status updates are continuously reported
+to the server.
+• All luminaires on the 0–10V control line can be
+broadcast-controlled via a mobile application.
+• Built-in 20mA 0–10V analog signal output for reliable
+dimming control.
+• Magnetic reset (5-second press) and remote reset via
+RESET + ON/OFF.
+• Programming of controls via commissioning remote.
+• Handheld remote available for on demand custom user
+preference.
+• Robust online portal for pre planning, pre & post
+programming, controls of the locations and energy data.
+• PIR motion detection.
+• Wide detection coverage.
+• High-bay application ready.
+• Mounting height up to 40 ft.
+• Bluetooth Mesh Connectivity.
+• 360° Coverage Pattern.
+• Technology Partner Amaya ProTM.
+BLUETOOTH
+BI-LEVEL
+DIMMING
+HIGH-END
+TRIM
+OCCUPANCY
+SENSOR
+DAYLIGHT
+HARVESTING
+SENSOR
+SCHEDULING
+Mobile App
+Desktop Friendly
+Amaya ProTM System – Web/App
+Download App
+FIXTURE MOUNTED
+10 YEARS
+
+### 2026 Amaya Pro Catalog, page 40
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=40
+
+From the 2026 Amaya Pro Catalog, page 40.
+
+What the page shows, read from the page image:
+**Dimensions and mounting**
+- Mounting height: Up to 40 FT
+- The sensor drawing has no dimensions printed.
+
+**Other**
+
+*Technical Specifications*
+- Input Voltage: 120-277V
+- Max Communication Distance: 150 FT
+- Communication Protocol: Bluetooth Mesh
+- Life Span: >70,000 Hours
+- Operating Temperature: -40°F to 167°F
+- IP Rating: IP20
+
+*Wiring Diagram*
+- Power comes from Hot (Black) and Neutral (White).
+- The sensor's Black lead connects to Hot (Black).
+- The sensor's White lead connects to Neutral (White).
+- The sensor's Load (Red) lead connects to the Dimming Driver's Black input.
+- The sensor's VIOLET(+) and PINK(-) leads connect to the Dimming Driver's dimming inputs.
+- The Dimming Driver's White input connects to Neutral (White).
+- The Dimming Driver's LED+ and LED- outputs connect to the LED.
+
+*Sensor Coverage*
+- Low Bay 360°
+- Top view: the coverage pattern is circular, with distances marked at 3.0m (10 ft), 6.1m (20 ft) and 9.1m (30 ft) from center in each direction.
+- Side view:
+  - Height marks: 0, 2.4m (8 ft), 6.1m (20 ft) and 7.6m (25 ft).
+  - Width marks: 3.0m (10 ft), 6.1m (20 ft) and 9.1m (30 ft) on each side of center.
+
+*Contact Us*
+- Phone: (302)-391-6444
+- Email: support@amayapro.com
+- Web: www.amayapro.com
+
+*Not printed on this page*
+- No product name, model number or ordering code.
+- No certification logos.
+- No feature icons.
+- No ordering table.
+- No compatible sensor or control codes.
+
+The page's raw text:
+Input Voltage:
+120-277V
+Mounting Height:
+Up to 40 FT
+Communication Protocol:
+Bluetooth Mesh
+IP Rating:
+IP20
+Max Communication Distance:
+150 FT
+Operating Temperature:
+-40°F to 167°F
+Life Span:
+>70,000 Hours
+Neutral
+Technical Specifications
+Wiring Diagram
+Sensor Coverage
+www.amayapro.com
+support@amayapro.com
+(302)-391-6444
+Contact Us:
+
+### 2026 Amaya Pro Catalog, page 41
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=41
+
+From the 2026 Amaya Pro Catalog, page 41.
+
+What the page shows, read from the page image:
+**Products**
+- AMAYA PRO™ AC POWERED BLE CONTROLS PIR (header tab: FIXTURE MOUNTED)
+
+**Certifications**
+- UL
+- DLC NLC5
+- FCC
+
+**Features shown as icons**
+- Bluetooth
+- High-End Trim (the "BLUETOOTH" label sits above a yellow bar icon and "HIGH-END TRIM" sits below it, so it is unclear whether this is one icon or two)
+- Occupancy Sensor
+- Bi-Level Dimming
+- Scheduling
+- Daylight Harvesting Sensor
+- 10 Years Warranty badge
+
+**Ordering table**
+- No ordering table on this page.
+- Order Info: 06931
+
+**Compatible sensors and controls**
+- Amaya Pro™ System – Web/App:
+  - Desktop Friendly
+  - Mobile App
+  - QR code labeled "Download App"
+- Commissioning remote and handheld remote are mentioned in the features. No model codes are given.
+
+**Dimensions and mounting**
+- Side view:
+  - Widths: 3.5″ overall, 3.2″, and 2.4″
+  - Heights: 1.7″ total, 0.5″ upper section, 0.7″ threaded section
+  - Thread: 1.29″, G1
+- Front view: widths 1.6″ and 1.4″
+- Mounting: fixture mounted via the threaded (G1) base
+- Overview: mounting height up to 40 ft; high-bay application ready
+
+**Other**
+- Overview:
+  - PIR motion detection
+  - Wide detection coverage
+  - High-bay application ready
+  - Mounting height up to 40 ft.
+  - Bluetooth Mesh Connectivity
+  - 360° Coverage Pattern
+  - Technology Partner Amaya Pro™
+- Product Features:
+  - Wireless communication ranges up to 150 ft.
+  - PSA Level 3 security, delivering the highest-grade, military-level data protection
+  - Clock-dial scheduling for precise time-based control and automation
+  - Personalized remote control enabling user-specific lighting preferences
+  - Automatic health status updates are continuously reported to the server
+  - All luminaires on the 0–10V control line can be broadcast-controlled via a mobile application
+  - Built-in 20mA 0–10V analog signal output for reliable dimming control
+  - Magnetic reset (5-second press) and remote reset via RESET + ON/OFF
+  - Programming of controls via commissioning remote
+  - Handheld remote available for on demand custom user preference
+  - Robust online portal for pre planning, pre & post programming, controls of the locations and energy data
+- An image placeholder box is labeled "L3 (High bay)" and "L4 (Low bay)". It contains no visible image or further detail.
+
+The page's raw text:
+Dimensions Diagram:
+Order Info:
+06931
+1.6ˮ3.5ˮ
+3.2ˮ
+2.4ˮ
+1.29ˮ
+0.5ˮ0.7ˮ
+1.7ˮ
+G1
+1.4ˮ
+Product Features:
+Overview:
+• Wireless communication ranges up to 150 ft.
+• PSA Level 3 security, delivering the highest-grade,
+military-level data protection.
+• Clock-dial scheduling for precise time-based control and
+automation.
+• Personalized remote control enabling user-specific lighting
+preferences.
+• Automatic health status updates are continuously reported
+to the server.
+• All luminaires on the 0–10V control line can be
+broadcast-controlled via a mobile application.
+• Built-in 20mA 0–10V analog signal output for reliable
+dimming control.
+• Magnetic reset (5-second press) and remote reset via
+RESET + ON/OFF.
+• Programming of controls via commissioning remote.
+• Handheld remote available for on demand custom user
+preference.
+• Robust online portal for pre planning, pre & post
+programming, controls of the locations and energy data.
+• PIR motion detection.
+• Wide detection coverage.
+• High-bay application ready.
+• Mounting height up to 40 ft.
+• Bluetooth Mesh Connectivity.
+• 360° Coverage Pattern.
+• Technology Partner Amaya ProTM.
+BLUETOOTH
+BI-LEVEL
+DIMMING
+HIGH-END
+TRIM
+OCCUPANCY
+SENSOR
+DAYLIGHT
+HARVESTING
+SENSOR
+SCHEDULING
+Mobile App
+Desktop Friendly
+Amaya ProTM System – Web/App
+Download App
+AC POWERED
+BLE CONTROLS PIR
+FIXTURE MOUNTED
+10 YEARS
+
+### 2026 Amaya Pro Catalog, page 42
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=42
+
+From the 2026 Amaya Pro Catalog, page 42.
+
+What the page shows, read from the page image:
+**Dimensions and mounting**
+- Mounting height: Up to 40 FT
+- Sensor drawing (top view): 61mm / Ø2.4" diameter
+- Sensor drawing (side view): 19.2mm / 0.8" height. This label is small and rotated, so please check it against the source.
+- Housing drawing in the wiring diagram: rectangular sensor body with four screw points. No dimensions are given for it.
+
+**Other**
+- No product name, ordering table, certification logos, feature icons or compatible-sensor codes appear on this page. It looks like a continuation page for a Bluetooth Mesh sensor or control, whose name is probably on the previous page.
+- Technical specifications:
+  - Input Voltage: 120-277V
+  - Max Communication Distance: 150 FT
+  - Communication Protocol: Bluetooth Mesh
+  - Life Span: >70,000 Hours
+  - Operating Temperature: -40°F to 158°F
+  - IP Rating: IP65 (printed as text, not as an icon)
+- Wire connection diagram (sensor to Dimming Driver):
+  - NEUTRAL (White): from the supply to the sensor. It is joined with NEUTRAL (White) to the Dimming Driver.
+  - LINE (Black): from the supply to the sensor.
+  - LOAD (Red): from the sensor to the Dimming Driver.
+  - PINK (-) and PURPLE (+): dimming leads from the sensor to the Dimming Driver.
+- Sensor coverage, side view:
+  - Mounting height marks: 0', 27' and 40'.
+  - Horizontal coverage marks: 0', 6', 12', 20' and 30' on each side.
+- Sensor coverage, top view:
+  - Coverage extends 30' in each direction from center, with marks at 0', 15' and 30'.
+  - Total span: 60'.
+- Contact:
+  - Phone: (302)-391-6444
+  - Email: support@amayapro.com
+  - Website: www.amayapro.com
+
+The page's raw text:
+Input Voltage:
+120-277V
+Mounting Height:
+Up to 40 FT
+Communication Protocol:
+Bluetooth Mesh
+IP Rating:
+IP65
+Max Communication Distance:
+150 FT
+Operating Temperature:
+-40°F to 158°F
+Life Span:
+>70,000 Hours
+Wire Connection Diagram
+Sensor Coverage
+Technical Specifications
+www.amayapro.com
+support@amayapro.com
+(302)-391-6444
+Contact Us:
+
+### 2026 Amaya Pro Catalog, page 43
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=43
+
+From the 2026 Amaya Pro Catalog, page 43.
+
+What the page shows, read from the page image:
+**Products:**
+- AMAYA PRO™ AC POWERED BLE CONTROLS PIR (labeled "FIXTURE MOUNTED")
+
+**Certifications:**
+- UL
+- DLC NLC5
+- FCC
+
+**Features shown as icons:**
+- Bluetooth
+- High-End Trim
+- Occupancy Sensor
+- Bi-Level Dimming
+- Scheduling
+- Daylight Harvesting Sensor
+- IP65
+- 10 Years Warranty (badge)
+
+**Ordering table:**
+- No ordering table on this page. Order Info: 06932
+
+**Dimensions and mounting:**
+- Front view: 4.1" diameter, 2.21" (shown at the top), 0.38" (threaded nipple/stem)
+- Side view: 2.35" height
+- Fixture mounted
+- Mounting height up to 40 ft.
+
+**Other:**
+- Overview:
+  - PIR motion detection.
+  - Wide detection coverage.
+  - High-bay application ready.
+  - Mounting height up to 40 ft.
+  - Bluetooth Mesh Connectivity.
+  - 360° Coverage Pattern.
+  - Technology Partner Amaya Pro™.
+- Product Features:
+  - Wireless communication ranges up to 150 ft.
+  - PSA Level 3 security, delivering the highest-grade, military-level data protection.
+  - Clock-dial scheduling for precise time-based control and automation.
+  - Personalized remote control enabling user-specific lighting preferences.
+  - Automatic health status updates are continuously reported to the server.
+  - All luminaires on the 0–10V control line can be broadcast-controlled via a mobile application.
+  - Built-in 20mA 0–10V analog signal output for reliable dimming control.
+  - Magnetic reset (5-second press) and remote reset via RESET + ON/OFF.
+  - Programming of controls via commissioning remote.
+  - Handheld remote available for on demand custom user preference.
+  - Robust online portal for pre planning, pre & post programming, controls of the locations and energy data.
+- Amaya Pro™ System – Web/App:
+  - Desktop Friendly
+  - Mobile App
+  - "Download App" QR code is printed. Its target can't be read from the page.
+
+The page's raw text:
+Dimensions Diagram:
+Order Info:
+06932
+2.21ˮ
+2.35ˮ
+0.38ˮ
+4.1ˮ
+Product Features:
+Overview:
+• Wireless communication ranges up to 150 ft.
+• PSA Level 3 security, delivering the highest-grade,
+military-level data protection.
+• Clock-dial scheduling for precise time-based control and
+automation.
+• Personalized remote control enabling user-specific lighting
+preferences.
+• Automatic health status updates are continuously reported
+to the server.
+• All luminaires on the 0–10V control line can be
+broadcast-controlled via a mobile application.
+• Built-in 20mA 0–10V analog signal output for reliable
+dimming control.
+• Magnetic reset (5-second press) and remote reset via
+RESET + ON/OFF.
+• Programming of controls via commissioning remote.
+• Handheld remote available for on demand custom user
+preference.
+• Robust online portal for pre planning, pre & post
+programming, controls of the locations and energy data.
+• PIR motion detection.
+• Wide detection coverage.
+• High-bay application ready.
+• Mounting height up to 40 ft.
+• Bluetooth Mesh Connectivity.
+• 360° Coverage Pattern.
+• Technology Partner Amaya ProTM.
+BLUETOOTH
+BI-LEVEL
+DIMMING
+HIGH-END
+TRIM
+OCCUPANCY
+SENSOR
+DAYLIGHT
+HARVESTING
+SENSOR
+SCHEDULING
+10 YEARS
+Mobile App
+Desktop Friendly
+Amaya ProTM System – Web/App
+Download App
+AC POWERED
+BLE CONTROLS PIR
+FIXTURE MOUNTED
+
+### 2026 Amaya Pro Catalog, page 44
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=44
+
+From the 2026 Amaya Pro Catalog, page 44.
+
+What the page shows, read from the page image:
+**Dimensions and mounting**
+- Mounting height: up to 40 FT
+- Coverage side view: grid shows 0' to 40' height, with detection extending 30' to each side of center (60' across at 40')
+- Coverage top view: grid runs 30' to 30' on each axis, labeled "60 ft" overall diameter
+
+**Other**
+- No product name, model code, certification logos, feature icons or ordering table are printed on this page. It shows specifications for a sensor, so check the facing or previous page to identify the product.
+- Technical specifications:
+  - Input voltage: 120-480V
+  - Max communication distance: 150 FT
+  - Communication protocol: Bluetooth Mesh
+  - Life span: >70,000 Hours
+  - Operating temperature: -40°F to 158°F
+  - IP rating: IP65
+- Wire connection diagram:
+  - Supply: AC (L1) and AC (L2), 120~480VAC
+  - Black#1 connects to AC (L1)
+  - Black#2 connects to AC (L2)
+  - VIOLET (+) connects to the Dimming Driver
+  - PINK (-) connects to the Dimming Driver
+  - Red#1 connects to the Dimming Driver
+  - Red#2 connects to the Dimming Driver
+  - The Dimming Driver outputs LED+ and LED- to the LED
+  - The L1 and L2 lines continue past the sensor connections (shown with arrows)
+- Contact:
+  - Phone: (302)-391-6444
+  - Email: support@amayapro.com
+  - Web: www.amayapro.com
+
+The page's raw text:
+Input Voltage:
+120-480V
+Mounting Height:
+Up to 40 FT
+Communication Protocol:
+Bluetooth Mesh
+IP Rating:
+IP65
+Max Communication Distance:
+150 FT
+Operating Temperature:
+-40°F to 158°F
+Life Span:
+>70,000 Hours
+Wire Connection Diagram
+Sensor Coverage
+Technical Specifications
+www.amayapro.com
+support@amayapro.com
+(302)-391-6444
+Contact Us:
+
+### 2026 Amaya Pro Catalog, page 45
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=45
+
+From the 2026 Amaya Pro Catalog, page 45.
+
+What the page shows, read from the page image:
+**Products:**
+- AMAYA PRO™ AC POWERED BLE CONTROLS PIR (tagged "FIXTURE MOUNTED")
+
+**Certifications:**
+- UL logo
+- DLC NLC5
+- FCC
+
+**Features shown as icons:**
+- Bluetooth
+- High-End Trim
+- Occupancy Sensor
+- Bi-Level Dimming
+- Scheduling
+- Daylight Harvesting Sensor
+- IP65
+- 10 Years Warranty badge
+
+**Ordering table:**
+- Order Info: 06933. No other ordering columns are printed (no DLC ID, watts, CCT, lumens, voltage or color).
+- A small image box shows the labels "L3 (High bay)" and "L4 (Low bay)". These look like lens options, but the page does not say what they mean or give separate codes for them.
+
+**Compatible sensors and controls:**
+- Amaya Pro™ System – Web/App. It is shown as "Desktop Friendly" and as a "Mobile App", with a "Download App" QR code. No other brands or sensor codes are listed.
+
+**Dimensions and mounting:**
+- Side view: overall length 6.67″, inner length 5.88″, height 4.50″
+- Front view: width 2.44″, inner width 1.26″
+- Thread connection: G1/2
+- Mounting height up to 40 ft (from the Overview)
+
+**Other:**
+Overview:
+- PIR motion detection
+- Wide detection coverage
+- High-bay application ready
+- Mounting height up to 40 ft.
+- Bluetooth Mesh connectivity
+- 360° coverage pattern
+- Technology Partner Amaya Pro™
+
+Product Features:
+- Wireless communication ranges up to 328 ft.
+- PSA Level 3 security, delivering the highest-grade, military-level data protection.
+- Clock-dial scheduling for precise time-based control and automation.
+- Personalized remote control enabling user-specific lighting preferences.
+- Automatic health status updates are continuously reported to the server.
+- All luminaires on the 0–10V control line can be broadcast-controlled via a mobile application.
+- Built-in 20mA 0–10V analog signal output for reliable dimming control.
+- Magnetic reset (5-second press) and remote reset via RESET + ON/OFF.
+- Programming of controls via commissioning remote.
+- Handheld remote available for on demand custom user preference.
+- Robust online portal for pre planning, pre & post programming, controls of the locations and energy data.
+
+The page's raw text:
+Dimensions Diagram:
+Order Info:
+06933
+2.44ˮ
+6.67ˮ
+G1/2
+5.88ˮ
+4.50ˮ
+1.26ˮ
+Product Features:
+Overview:
+• Wireless communication ranges up to 328 ft.
+• PSA Level 3 security, delivering the highest-grade,
+military-level data protection.
+• Clock-dial scheduling for precise time-based control and
+automation.
+• Personalized remote control enabling user-specific lighting
+preferences.
+• Automatic health status updates are continuously reported
+to the server.
+• All luminaires on the 0–10V control line can be
+broadcast-controlled via a mobile application.
+• Built-in 20mA 0–10V analog signal output for reliable
+dimming control.
+• Magnetic reset (5-second press) and remote reset via
+RESET + ON/OFF.
+• Programming of controls via commissioning remote.
+• Handheld remote available for on demand custom user
+preference.
+• Robust online portal for pre planning, pre & post
+programming, controls of the locations and energy data.
+• PIR motion detection.
+• Wide detection coverage.
+• High-bay application ready.
+• Mounting height up to 40 ft.
+• Bluetooth Mesh connectivity.
+• 360° Coverage Pattern.
+• Technology Partner Amaya ProTM.
+BLUETOOTH
+BI-LEVEL
+DIMMING
+HIGH-END
+TRIM
+OCCUPANCY
+SENSOR
+DAYLIGHT
+HARVESTING
+SENSOR
+SCHEDULING
+10 YEARS
+Mobile App
+Desktop Friendly
+Amaya ProTM System – Web/App
+Download App
+AC POWERED
+BLE CONTROLS PIR
+FIXTURE MOUNTED
+
+### 2026 Amaya Pro Catalog, page 46
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=46
+
+From the 2026 Amaya Pro Catalog, page 46.
+
+What the page shows, read from the page image:
+**Features shown as icons**
+- None. Specs are given as text only (see Other).
+
+**Dimensions and mounting**
+- Sensor head (top-view drawing): 61mm / Ø2.4". The text is small but appears to read this way.
+- Sensor head (side-profile drawing): 19.2mm / 0.8". The text is small, rotated and somewhat hard to read.
+- Mounting height: up to 40 FT.
+- The wiring drawing shows the sensor attached by a threaded nipple with a lock nut to a bracket on the fixture housing.
+
+**Other**
+- No product name, logo or ordering code is printed on this page. The specs below likely belong to a Bluetooth Mesh sensor from an earlier page.
+- Technical specifications:
+  - Input Voltage: 120-277V
+  - Max Communication Distance: 328 FT
+  - Communication Protocol: Bluetooth Mesh
+  - Life Span: >70,000 Hours
+  - Mounting Height: Up to 40 FT
+  - Operating Temperature: -40°F to 158°F
+  - IP Rating: IP65
+- Wire connection diagram (sensor to dimming driver):
+  - LOAD (Red): from sensor to dimming driver
+  - NEUTRAL (White): to dimming driver, joined with the supply neutral
+  - NEUTRAL (White): supply
+  - LINE (Black): supply to sensor
+  - PINK (-): sensor to dimming driver
+  - PURPLE (+): sensor to dimming driver
+- Sensor coverage:
+  - 360° Coverage
+  - Side view:
+    - Heights marked: 0', 27', 40'
+    - Horizontal marks: 30', 20', 12', 6', 0', 6', 12', 20', 30'
+  - Top view:
+    - 60' total coverage diameter
+    - Grid marks: 30', 15', 0', 15', 30'
+- Contact:
+  - Phone: (302)-391-6444
+  - Email: support@amayapro.com
+  - Website: www.amayapro.com
+
+The page's raw text:
+Input Voltage:
+120-277V
+Mounting Height:
+Up to 40 FT
+Communication Protocol:
+Bluetooth Mesh
+IP Rating:
+IP65
+Max Communication Distance:
+328 FT
+Operating Temperature:
+-40°F to 158°F
+Life Span:
+>70,000 Hours
+Wire Connection Diagram
+Sensor Coverage
+Technical Specifications
+www.amayapro.com
+support@amayapro.com
+(302)-391-6444
+Contact Us:
+
+### 2026 Amaya Pro Catalog, page 47
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=47
+
+From the 2026 Amaya Pro Catalog, page 47.
+
+What the page shows, read from the page image:
+**Products**
+- DC POWERED BLE CONTROLS PIR (AMAYA PRO™; category tab: CEILING MOUNTED)
+
+**Certifications**
+- DLC NLC5
+- FCC
+
+**Features shown as icons**
+- BLUETOOTH (text label, printed directly above the High-End Trim icon)
+- HIGH-END TRIM
+- OCCUPANCY SENSOR
+- BI-LEVEL DIMMING
+- SCHEDULING
+- DAYLIGHT HARVESTING SENSOR
+- IP20
+- 10 YEARS WARRANTY (badge)
+
+**Ordering table**
+- Order Info: 06936 (no other columns printed: no DLC ID, watts, CCT, lumens, voltage or color)
+
+**Dimensions and mounting**
+- Top view: Ø3.46"
+- Side view: heights 3.46", 1.81" and 1.20"; bottom diameter Ø2.44"
+- Overview: mounting height up to 13 ft.
+- Category: ceiling mounted
+
+**Other**
+- Overview:
+  - PIR motion detection
+  - Wide detection coverage
+  - Office/Low-bay application ready
+  - Bluetooth Mesh connectivity
+  - 360° Coverage Pattern
+  - Technology Partner Amaya Pro™
+- Product Features:
+  - Wireless communication ranges up to 150 ft.
+  - PSA Level 3 security, delivering the highest-grade, military-level data protection.
+  - Clock-dial scheduling for precise time-based control and automation.
+  - Personalized remote control enabling user-specific lighting preferences.
+  - Automatic health status updates are continuously reported to the server.
+  - All luminaires on the 0–10V control line can be broadcast-controlled via a mobile application.
+  - Built-in 20mA 0–10V analog signal output for reliable dimming control.
+  - Magnetic reset (5-second press) and remote reset via RESET + ON/OFF.
+  - Programming of controls via commissioning remote.
+  - Handheld remote available for on demand custom user preference.
+  - Robust online portal for pre planning, pre & post programming, controls of the locations and energy data.
+- Amaya Pro™ System – Web/App: "Desktop Friendly" and "Mobile App" images, plus a "Download App" QR code. The QR code's target is not printed as text.
+
+The page's raw text:
+Dimensions Diagram:
+Order Info:
+06936
+3.46ˮ
+1.81ˮ
+1.20ˮ
+Ø2.44ˮ
+Ø3.46ˮ
+Product Features:
+Overview:
+• Wireless communication ranges up to 150 ft.
+• PSA Level 3 security, delivering the highest-grade,
+military-level data protection.
+• Clock-dial scheduling for precise time-based control and
+automation.
+• Personalized remote control enabling user-specific lighting
+preferences.
+• Automatic health status updates are continuously reported
+to the server.
+• All luminaires on the 0–10V control line can be
+broadcast-controlled via a mobile application.
+• Built-in 20mA 0–10V analog signal output for reliable
+dimming control.
+• Magnetic reset (5-second press) and remote reset via
+RESET + ON/OFF.
+• Programming of controls via commissioning remote.
+• Handheld remote available for on demand custom user
+preference.
+• Robust online portal for pre planning, pre & post
+programming, controls of the locations and energy data.
+• PIR motion detection.
+• Wide detection coverage.
+• Office/Low-bay application ready.
+• Mounting height up to 13 ft.
+• Bluetooth Mesh connectivity.
+• 360° Coverage Pattern.
+• Technology Partner Amaya ProTM.
+BLUETOOTH
+BI-LEVEL
+DIMMING
+HIGH-END
+TRIM
+OCCUPANCY
+SENSOR
+DAYLIGHT
+HARVESTING
+SENSOR
+SCHEDULING
+IP20
+10 YEARS
+Mobile App
+Desktop Friendly
+Amaya ProTM System – Web/App
+Download App
+DC POWERED
+BLE CONTROLS PIR
+CEILING MOUNTED
+
+### 2026 Amaya Pro Catalog, page 48
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=48
+
+From the 2026 Amaya Pro Catalog, page 48.
+
+What the page shows, read from the page image:
+**Dimensions and mounting**
+- Mounting height: up to 13 FT
+- Ceiling-mounted detector. Bend the springs up and push the detector through a hole in the ceiling. When it is fully inserted, the springs snap back and hold the device in place. To avoid injury, take care when bending the springs.
+- Room illustration: about 2.8m mounting height and about 8m coverage diameter at floor level.
+- Coverage side view:
+  - Vertical axis: 0m, 2.5m/8.2ft, 3.0m/10ft, 3.7m/12ft
+  - Horizontal axis: 6m – 4m – 2m – 0 – 2m – 4m – 6m
+- Coverage top view:
+  - Grid runs from 8m to 0 to 8m on both axes, with 16m total marked.
+- The cutout diameter for the ceiling hole is not printed.
+
+**Other**
+- No product name, model number or ordering code is printed on this page. Check the facing or previous page for these.
+- Technical specifications:
+  - Input voltage: 12-24V
+  - Max communication distance: 150 FT
+  - Communication protocol: Bluetooth Mesh
+  - Life span: >70,000 Hours
+  - Operating temperature: -4°F to 140°F
+  - IP rating: IP20 (printed as text, not as an icon)
+- Wiring diagram:
+  - L and N go to the Dimming Driver.
+  - The Driver's − and + go to the LED (+ line drawn in red).
+  - Three wires run from the Driver to the sensor: DIM+ (purple), DIM− (pink) and VCC (yellow).
+  - The terminal labels printed on the sensor body are too small to read.
+- Warnings:
+  - DO NOT install with power applied to device.
+  - DO NOT expose the device to moisture.
+- Sensor coverage: "The detection area for movement sensor can be roughly divided into two parts."
+  - Dark shading: slow movement (person moving < 1.0'/s or 0.3m/s)
+  - Light shading: quick movement (person moving > 1.3'/s or 0.4m/s)
+- Contact:
+  - Phone: (302)-391-6444
+  - Email: support@amayapro.com
+  - Web: www.amayapro.com
+
+The page's raw text:
+Input Voltage:
+12-24V
+Mounting Height:
+Up to 13 FT
+Communication Protocol:
+Bluetooth Mesh
+IP Rating:
+IP20
+Max Communication Distance:
+150 FT
+Operating Temperature:
+-4°F to 140°F
+Life Span:
+>70,000 Hours
+Technical Specifications
+Wiring Diagram
+Sensor Coverage
+www.amayapro.com
+support@amayapro.com
+(302)-391-6444
+Contact Us:
+
+### 2026 Amaya Pro Catalog, page 49
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=49
+
+From the 2026 Amaya Pro Catalog, page 49.
+
+What the page shows, read from the page image:
+**Products**
+- AMAYA PRO™ (brand header). No separate model name is printed.
+- Product description as printed: "AC POWERED BLE CONTROLS PIR/ULTRASONIC"
+- Category tab: "CEILING MOUNTED"
+
+**Certifications**
+- UL (circle logo with "UL" only; no "c" or "US" marks are visible)
+- DLC NLC5
+- FCC
+
+**Features shown as icons**
+- BLUETOOTH (label above the sensor icons)
+- OCCUPANCY SENSOR
+- DAYLIGHT HARVESTING SENSOR
+- SCHEDULING
+- IP20
+- 10 YEARS WARRANTY (badge)
+
+**Ordering table**
+- No ordering table is printed. The only ordering information is:
+  - Order Info: 06937
+- No DLC ID, wattage, CCT, lumens, voltage or color is printed. The header says "AC POWERED" but gives no voltage value.
+
+**Compatible sensors and controls**
+- The page is the control/sensor itself, and no other compatible brands or codes are listed.
+- It references the Amaya Pro™ System – Web/App:
+  - "Desktop Friendly" (desktop portal)
+  - "Mobile App" (phone screen shows an AMAYA PRO login)
+  - "Download App" QR code
+
+**Dimensions and mounting**
+- Front view: Ø4.51"
+- Back view: Ø3.54", 3.74", 2.73", 2.92"
+- Side view: 1.43", 1.91", 2.09" (the 2.09" is printed rotated below the side view, and the drawing does not clearly show what it measures)
+- Mounting options: 4 Square Junction Box with Double Gang Mudring; 4-inch Octagonal Junction Box
+- Mounting height: up to 13 ft.
+
+**Other**
+
+*Overview (as printed):*
+- PIR/Ultrasonic (Dual) motion detection.
+- Wide detection coverage.
+- Ultrasonic Frequency of 40kHZ
+- Office/Low-bay application ready.
+- Mounting height up to 13 ft.
+- Bluetooth Mesh connectivity.
+- 360° Coverage Pattern.
+- Technology Partner Amaya Pro™.
+
+*Product Features (as printed):*
+- Wireless communication ranges up to 150 ft.
+- Time Delays: 5, 10, 15, 20, 25 or 30 minutes, test-mode.
+- Sensitivity Adjustment: High/Low (for PIR sensitivity). Ultrasonic Sensitivity is variable with trimpot.
+- Built-in light level sensor: works from 10 to 300 footcandles (107.6 to 3,229.2 lux).
+- PSA Level 3 security, delivering the highest-grade, military-level data protection.
+- Personalized remote control enabling user-specific lighting preferences.
+- Automatic health status updates are continuously reported to the server.
+- Button reset (5-second press) and remote reset via RESET + ON/OFF.
+- Programming of controls via commissioning remote.
+- Handheld remote available for on demand custom user preference.
+- Robust online portal for pre planning, pre & post programming, controls of the locations and energy data.
+
+The page's raw text:
+Dimensions Diagram:
+Order Info:
+06937
+AC POWERED
+BLE CONTROLS PIR/ULTRASONIC
+Product Features:
+Overview:
+Ø4.51ˮ
+2.92ˮ
+2.73ˮ
+Ø3.54ˮ
+3.74ˮ
+1.91ˮ
+2.09ˮ
+1.43ˮ
+• Wireless communication ranges up to 150 ft.
+• Time Delays: 5, 10, 15, 20, 25 or 30 minutes, test-mode.
+• Sensitivity Adjustment: High/Low (for PIR sensitivity);
+Ultrasonic Sensitivity is variable with trimpot.
+• Built-in light level sensor - works from 10 to 300 footcandles
+(107.6 to 3,229.2 lux)
+• PSA Level 3 security, delivering the highest-grade,
+military-level data protection.
+• Personalized remote control enabling user-specific lighting
+preferences.
+• Automatic health status updates are continuously reported to
+the server.
+• Button reset (5-second press) and remote reset via RESET +
+ON/OFF.
+• Programming of controls via commissioning remote.
+• Handheld remote available for on demand custom user
+preference.
+• Robust online portal for pre planning, pre & post
+programming, controls of the locations and energy data.
+• Mounting Options: 4 Square Junction Box with Double Gang
+Mudring; 4-inch Octagonal Junction Box.
+• PIR/Ultrasonic (Dual) motion detection.
+• Wide detection coverage.
+• Ultrasonic Frequency of 40kHZ
+• Office/Low-bay application ready.
+• Mounting height up to 13 ft.
+• Bluetooth Mesh connectivity.
+• 360° Coverage Pattern.
+• Technology Partner Amaya ProTM.
+BLUETOOTH
+OCCUPANCY
+SENSOR SCHEDULING
+IP20
+10 YEARS
+DAYLIGHT
+HARVESTING
+SENSOR
+Mobile App
+Desktop Friendly
+Amaya ProTM System – Web/App
+Download App
+CEILING MOUNTED
+
+### 2026 Amaya Pro Catalog, page 50
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=50
+
+From the 2026 Amaya Pro Catalog, page 50.
+
+What the page shows, read from the page image:
+**Products**
+No product name is printed on this page. It is a spec page for a ceiling-mount sensor with PIR + ultrasonic (dual-technology) coverage and Bluetooth Mesh communication. The name is probably on the previous page.
+
+**Certifications**
+No certification logos are shown on this page.
+
+**Features shown as icons**
+No feature icons are shown. Features are given as text specs, listed under Other below.
+
+**Ordering table**
+No ordering table is on this page.
+
+**Compatible sensors and controls**
+None listed.
+
+**Dimensions and mounting**
+- Mounting height: 13 FT
+- Sensor coverage diagram: PIR coverage and ultrasonic coverage, 44 FT across the coverage area
+- Wiring diagram: Hot, Neutral (two Neutral leads shown), Load (through switch), Ground (Optional)
+- Ceiling mounting using a 4-inch square junction box:
+  - Mounts to a 4" Square Wiremold V5752 box, or a 4" square junction box with double-gang mudring
+  - Parts, top to bottom: Ceiling, 4" Square Wiremold #V5752 box, CA-1 Adapter, Rear Housing, Sensor Flange, Screws, Front Cover
+- Ceiling mounting using an octagonal junction box:
+  - Uses a 4" Octagonal, 2.25" Deep Junction Box
+  - Note: "The Junction Box must be at least 2.25" deep. If it is not, an extension ring is required."
+  - Parts, top to bottom: Junction Box, Ceiling, Sensor, Screws, Front Cover
+
+**Other**
+Technical specifications:
+- Input Voltage: 120-347V
+- Max Communication Distance: 150 FT
+- Communication Protocol: Bluetooth Mesh
+- Life Span: >70,000 Hours
+- Mounting Height: 13 FT
+- Operating Temperature: 32°F to 131°F
+- IP Rating: IP20
+
+Contact:
+- Phone: (302)-391-6444
+- Email: support@amayapro.com
+- Web: www.amayapro.com
+
+The page's raw text:
+Input Voltage:
+120-347V 13 FT
+Mounting Height:
+Communication Protocol:
+Bluetooth Mesh
+IP Rating:
+IP20
+Max Communication Distance:
+150 FT
+Operating Temperature:
+32°F to 131°F
+Life Span:
+>70,000 Hours
+Wiring Diagram Sensor Coverage
+Ceiling Mounting
+44 FT
+Ultrasonic
+Coverage
+PIR Coverage
+Using a 4-inch Square Junction Box Using an Octagonal Junction Box
+Technical Specifications
+www.amayapro.com
+support@amayapro.com
+(302)-391-6444
+Contact Us:
+
+### 2026 Amaya Pro Catalog, page 51
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=51
+
+From the 2026 Amaya Pro Catalog, page 51.
+
+What the page shows, read from the page image:
+**Products**
+- DC POWERED OUTDOOR BLE CONTROLS PIR (brand: AMAYA PRO™; category tab: OUTDOOR)
+
+**Certifications**
+- DLC NLC5
+- FCC
+
+**Features shown as icons**
+- Bluetooth
+- High-End Trim (shown with a yellow bar graphic under the "BLUETOOTH" label)
+- Occupancy Sensor
+- Bi-Level Dimming
+- Scheduling
+- Photocell
+- 10 Years Warranty badge
+- A "ZSR" logo with a wireless/signal symbol appears on the left side of the page. No text explains what it means.
+
+**Ordering table**
+- Order Info: 06921
+- No other columns are printed (no DLC ID, watts, CCT, lumens, voltage, or color).
+
+**Compatible sensors and controls**
+- None listed. This page is itself the control/sensor product.
+
+**Dimensions and mounting**
+- Side view: Ø2.16" (top), Ø1.51" (bottom). Heights are 1.70", 1.68" and 1.29". The drawing lines are not visible, so it isn't clear which height goes with which part.
+- End view: Ø1.19" and Ø1.43". There are small terminal/pin markings that look like 1, 2, 3, 4, but they are too small to read with certainty.
+- Mounting height up to 40 ft (from Overview).
+
+**Other**
+- Overview:
+  - PIR motion detection
+  - Wide detection coverage
+  - High-bay application ready
+  - Mounting height up to 40 ft
+  - Bluetooth Mesh Connectivity
+  - 360° Coverage Pattern
+  - Technology Partner Amaya Pro™
+- Product Features:
+  - Wireless communication ranges up to 150 ft.
+  - PSA Level 3 security, delivering the highest-grade, military-level data protection.
+  - Clock-dial scheduling for precise time-based control and automation.
+  - Personalized remote control enabling user-specific lighting preferences.
+  - Automatic health status updates are continuously reported to the server.
+  - All luminaires on the 0–10V control line can be broadcast-controlled via a mobile application.
+  - Built-in 20mA 0–10V analog signal output for reliable dimming control.
+  - Button reset (5-second press) and remote reset via RESET + ON/OFF.
+  - Programming of controls via commissioning remote.
+  - Handheld remote available for on demand custom user preference.
+  - Robust online portal for pre planning, pre & post programming, controls of the locations and energy data.
+- Amaya Pro™ System – Web/App:
+  - Shown as "Desktop Friendly" and "Mobile App."
+  - A "Download App" QR code is printed. The link it points to is not written on the page.
+
+The page's raw text:
+Dimensions Diagram:
+Order Info:
+06921
+Product Features:
+Overview:
+• Wireless communication ranges up to 150 ft.
+• PSA Level 3 security, delivering the highest-grade,
+military-level data protection.
+• Clock-dial scheduling for precise time-based control and
+automation.
+• Personalized remote control enabling user-specific lighting
+preferences.
+• Automatic health status updates are continuously reported
+to the server.
+• All luminaires on the 0–10V control line can be
+broadcast-controlled via a mobile application.
+• Built-in 20mA 0–10V analog signal output for reliable
+dimming control.
+• Button reset (5-second press) and remote reset via RESET
++ ON/OFF.
+• Programming of controls via commissioning remote.
+• Handheld remote available for on demand custom user
+preference.
+• Robust online portal for pre planning, pre & post
+programming, controls of the locations and energy data.
+• PIR motion detection.
+• Wide detection coverage.
+• High-bay application ready.
+• Mounting height up to 40 ft.
+• Bluetooth Mesh Connectivity.
+• 360° Coverage Pattern.
+• Technology Partner Amaya ProTM.
+Ø1.43ˮØ1.19ˮØ2.16ˮ
+Ø1.51ˮ
+1.29ˮ
+1.68ˮ
+1.70ˮ
+BLUETOOTH
+BI-LEVEL
+DIMMING
+HIGH-END
+TRIM
+OCCUPANCY
+SENSOR
+SCHEDULING PHOTOCELL
+Mobile App
+Desktop Friendly
+Amaya ProTM System – Web/App
+Download App
+OUTDOOR
+DC POWERED
+OUTDOOR BLE CONTROLS PIR
+10 YEARS
+
+### 2026 Amaya Pro Catalog, page 52
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=52
+
+From the 2026 Amaya Pro Catalog, page 52.
+
+What the page shows, read from the page image:
+**Products**
+No product name is printed on this page. The specs, wiring diagram and coverage charts look like a continuation of a sensor or controller from an earlier page (the page uses Bluetooth Mesh and a 4-port connector).
+
+**Dimensions and mounting**
+- Mounting Height: Up to 50 FT
+- The wiring diagram shows a round connector with 4 numbered ports:
+  - Port 1: 12-24VDC
+  - Port 2: DIM-/GND
+  - Port 3: DIM +
+  - Port 4: DIM+
+- Note: Ports 3 and 4 are both printed as DIM+. This may be a catalog error, so confirm the port assignment with Amaya Pro before quoting wiring.
+
+**Other**
+Technical Specifications:
+- Input Voltage: 12-24V
+- Max Communication Distance: 150 FT
+- Communication Protocol: Bluetooth Mesh
+- Life Span: >70,000 Hours
+- Operating Temperature: -4°F to 140°F
+- IP Rating: IP65 (printed as text, not as an icon)
+
+Sensor Coverage:
+- **"Coverage Side View" chart:**
+  - Vertical axis: 0′, 10′, 20′, 30′, 40′
+  - Horizontal axis: 30′, 20′, 12′, 6′, 0′, 6′, 12′, 20′, 30′
+- **Second chart (untitled, likely a top view):**
+  - Both axes: 30′, 27′, 20′, 12′, 6′, 3′, 0′, 3′, 6′, 12′, 20′, 27′, 30′
+  - A "60FT" label is printed to the right.
+- Only the axis labels are visible on both charts. The coverage pattern shapes themselves do not appear on the page, so the actual detection area can't be read from it.
+
+Contact:
+- Phone: (302)-391-6444
+- Email: support@amayapro.com
+- Web: www.amayapro.com
+
+The page's raw text:
+Input Voltage:
+12-24V
+Mounting Height:
+Up to 50 FT
+Communication Protocol:
+Bluetooth Mesh
+IP Rating:
+IP65
+Max Communication Distance:
+150 FT
+Operating Temperature:
+-4°F to 140°F
+Life Span:
+>70,000 Hours
+-Port 1: 12-24VDC
+-Port 2: DIM-/GND
+-Port 3: DIM +
+-Port 4: DIM+
+Coverage Side View
+0ʼ
+10ʼ
+20ʼ
+30ʼ
+40ʼ 30ʼ
+30ʼ
+27ʼ
+30ʼ 20ʼ
+20ʼ
+12ʼ
+6ʼ
+3ʼ
+0ʼ
+3ʼ
+6ʼ
+6ʼ6ʼ 3ʼ
+12ʼ
+12ʼ12ʼ
+20ʼ
+20ʼ20ʼ
+27ʼ
+27ʼ 27ʼ
+30ʼ
+30ʼ 30ʼ
+60FT
+20ʼ 12ʼ12ʼ 6ʼ6ʼ 0ʼ 0ʼ
+Technical Specifications
+Wiring Diagram
+Sensor Coverage
+www.amayapro.com
+support@amayapro.com
+(302)-391-6444
+Contact Us:
+
+### 2026 Amaya Pro Catalog, page 53
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=53
+
+From the 2026 Amaya Pro Catalog, page 53.
+
+What the page shows, read from the page image:
+## Products
+- DC POWERED OUTDOOR BLE CONTROLS PIR (brand: AMAYA PRO™; category tab: OUTDOOR)
+
+## Certifications
+- DLC NLC5
+- FCC
+- A "3pSR" logo is shown below the product photo. The page doesn't say what it stands for.
+
+## Features shown as icons
+- Bluetooth
+- High-End Trim
+- Occupancy Sensor
+- Bi-Level Dimming
+- Scheduling
+- Photocell
+- 10 Years Warranty badge
+
+## Ordering table
+- No ordering table on this page.
+- The only code is under "Order Info:": **06922**.
+- No DLC ID, wattage, CCT, lumens, voltage or color is printed.
+
+## Compatible sensors and controls
+- None listed. This product is itself a control/sensor.
+
+## Dimensions and mounting
+- Diameter: Ø2.14"
+- Overall height of the body: 1.76"
+- Height from the base flange to the top of the dome: 1.33"
+- Thread: G1/2
+- Threaded section: 0.35"
+- Pin length: 0.22"
+- Threaded section diameter: Ø0.92"
+- Two very small labels near the pins look like 0.11" and 0.23", but they are too small to read with certainty.
+- Overview gives mounting height up to 40 ft and says it is high-bay application ready.
+
+## Other
+**Overview**
+- PIR motion detection.
+- Wide detection coverage.
+- High-bay application ready.
+- Mounting height up to 40 ft.
+- Bluetooth Mesh Connectivity.
+- 360° coverage pattern.
+- Technology Partner Amaya Pro™.
+
+**Product Features**
+- Wireless communication ranges up to 150 ft.
+- PSA Level 3 security, delivering the highest-grade, military-level data protection.
+- Clock-dial scheduling for precise time-based control and automation.
+- Personalized remote control enabling user-specific lighting preferences.
+- Automatic health status updates are continuously reported to the server.
+- All luminaires on the 0–10V control line can be broadcast-controlled via a mobile application.
+- Built-in 20mA 0–10V analog signal output for reliable dimming control.
+- Magnetic reset (5-second press) and remote reset via RESET + ON/OFF.
+- Programming of controls via commissioning remote.
+- Handheld remote available for on demand custom user preference.
+- Robust online portal for pre planning, pre & post programming, controls of the locations and energy data.
+
+**Amaya Pro™ System – Web/App**
+- A "Download App" QR code is printed. Its link can't be read from the image.
+- The system is shown as "Desktop Friendly" and as a "Mobile App". The app screenshot shows an Amaya Pro login screen.
+
+The page's raw text:
+Dimensions Diagram:
+Order Info:
+06922
+Product Features:
+Overview:
+Ø2.14ˮ
+1.76ˮ
+0.11ˮ
+0.23ˮ
+G1/2
+Ø0.92ˮ
+0.22ˮ
+1.33ˮ
+0.35ˮ
+• Wireless communication ranges up to 150 ft.
+• PSA Level 3 security, delivering the highest-grade,
+military-level data protection.
+• Clock-dial scheduling for precise time-based control and
+automation.
+• Personalized remote control enabling user-specific lighting
+preferences.
+• Automatic health status updates are continuously reported
+to the server.
+• All luminaires on the 0–10V control line can be
+broadcast-controlled via a mobile application.
+• Built-in 20mA 0–10V analog signal output for reliable
+dimming control.
+• Magnetic reset (5-second press) and remote reset via
+RESET + ON/OFF.
+• Programming of controls via commissioning remote.
+• Handheld remote available for on demand custom user
+preference.
+• Robust online portal for pre planning, pre & post
+programming, controls of the locations and energy data.
+• PIR motion detection.
+• Wide detection coverage.
+• High-bay application ready.
+• Mounting height up to 40 ft.
+• Bluetooth Mesh Connectivity.
+• 360° Coverage Pattern.
+• Technology Partner Amaya ProTM.
+BLUETOOTH
+BI-LEVEL
+DIMMING
+HIGH-END
+TRIM
+OCCUPANCY
+SENSOR
+SCHEDULING PHOTOCELL
+10 YEARS
+Mobile App
+Desktop Friendly
+Amaya ProTM System – Web/App
+Download App
+OUTDOOR
+DC POWERED
+OUTDOOR BLE CONTROLS PIR
+
+### 2026 Amaya Pro Catalog, page 54
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=54
+
+From the 2026 Amaya Pro Catalog, page 54.
+
+What the page shows, read from the page image:
+**Dimensions and mounting**
+- Drawing (Wiring Diagram) shows a dome-topped sensor with a threaded base and three leads, labeled **GND, DIM+, 12V**.
+- No numeric dimensions are printed.
+- Mounting height: Up to 40 FT.
+
+**Sensor coverage (diagrams)**
+- **Coverage Side View:** The vertical axis is height, marked 0', 10', 20', 30' and 40'. The horizontal axis runs 30' – 20' – 12' – 6' – 0' – 6' – 12' – 20' – 30' to each side. The outermost (light gray) pattern reaches about 30' each side at 40'.
+- **Top view:** Both axes run 30' – 27' – 20' – 12' – 6' – 3' – 0' – 3' – 6' – 12' – 20' – 27' – 30'. An overall dimension of **60 ft** is marked.
+
+**Other**
+- Technical Specifications:
+  - Input Voltage: 12-24V
+  - Max Communication Distance: 150 FT
+  - Communication Protocol: Bluetooth Mesh
+  - Life Span: >70,000 Hours
+  - Mounting Height: Up to 40 FT
+  - Operating Temperature: -4°F to 140°F
+  - IP Rating: IP65
+- No product name, ordering code, certification logos, feature icons or ordering table appear on this page. The product is likely named on the previous page.
+- Contact Us:
+  - (302)-391-6444
+  - support@amayapro.com
+  - www.amayapro.com
+
+The page's raw text:
+Input Voltage:
+12-24V
+Mounting Height:
+Up to 40 FT
+Communication Protocol:
+Bluetooth Mesh
+IP Rating:
+IP65
+Max Communication Distance:
+150 FT
+Operating Temperature:
+-4°F to 140°F
+Life Span:
+>70,000 Hours
+GND DIM+ 12V
+Coverage Side View
+Technical Specifications
+Wiring Diagram
+Sensor Coverage
+www.amayapro.com
+support@amayapro.com
+(302)-391-6444
+Contact Us:
+
+### 2026 Amaya Pro Catalog, page 55
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=55
+
+From the 2026 Amaya Pro Catalog, page 55.
+
+What the page shows, read from the page image:
+**Products**
+- DC POWERED OUTDOOR BLE CONTROLS PIR (category tag: OUTDOOR)
+
+**Certifications**
+- DLC NLC5
+- FCC
+- ASR logo (shown at left; no further detail printed)
+
+**Features shown as icons**
+- Bluetooth
+- High-End Trim
+- Occupancy Sensor
+- Bi-Level Dimming
+- Scheduling
+- Daylight Harvesting Sensor
+- 10 Years Warranty badge
+
+**Ordering table**
+- No full ordering table on this page. Order Info: 06923 (no DLC ID, watts, CCT, lumens or voltage columns printed)
+
+**Compatible sensors and controls**
+- None listed as separate brand or codes. The page refers to the Amaya Pro™ System – Web/App: desktop friendly, mobile app, and a "Download App" QR code.
+- Programming is done with a commissioning remote. A handheld remote is available for custom user preferences on demand. No remote model codes are printed.
+
+**Dimensions and mounting**
+- Diameter: Ø2.16"
+- Height callouts: 2.18", 1.90", 1.32", 1.03", 0.55"
+- Thread: G1/2
+- Mounting height up to 40 ft (from Overview)
+
+**Other**
+- Overview:
+  - PIR motion detection
+  - Wide detection coverage
+  - High-bay application ready
+  - Mounting height up to 40 ft
+  - Bluetooth Mesh connectivity
+  - 360° coverage pattern
+  - Technology Partner Amaya Pro™
+- Product Features:
+  - Wireless communication range up to 150 ft
+  - PSA Level 3 security (described as "highest-grade, military-level data protection")
+  - Clock-dial scheduling for time-based control and automation
+  - Personalized remote control for user-specific lighting preferences
+  - Automatic health status updates reported continuously to the server
+  - All luminaires on the 0–10V control line can be broadcast-controlled from a mobile app
+  - Built-in 20mA 0–10V analog signal output for dimming control
+  - Magnetic reset (5-second press), and remote reset via RESET + ON/OFF
+  - Programming of controls by commissioning remote
+  - Handheld remote available for on-demand custom user preference
+  - Online portal for pre-planning, pre- and post-programming, location controls and energy data
+
+The page's raw text:
+Dimensions Diagram:
+Order Info:
+06923
+Ø2.16ˮ
+2.18ˮ
+1.90ˮ
+1.32ˮ
+1.03ˮ
+0.55ˮ
+G1/2
+Product Features:
+Overview:
+• Wireless communication ranges up to 150 ft.
+• PSA Level 3 security, delivering the highest-grade,
+military-level data protection.
+• Clock-dial scheduling for precise time-based control and
+automation.
+• Personalized remote control enabling user-specific lighting
+preferences.
+• Automatic health status updates are continuously reported
+to the server.
+• All luminaires on the 0–10V control line can be
+broadcast-controlled via a mobile application.
+• Built-in 20mA 0–10V analog signal output for reliable
+dimming control.
+• Magnetic reset (5-second press) and remote reset via
+RESET + ON/OFF.
+• Programming of controls via commissioning remote.
+• Handheld remote available for on demand custom user
+preference.
+• Robust online portal for pre planning, pre & post
+programming, controls of the locations and energy data.
+• PIR motion detection.
+• Wide detection coverage.
+• High-bay application ready.
+• Mounting height up to 40 ft.
+• Bluetooth Mesh Connectivity.
+• 360° Coverage Pattern.
+• Technology Partner Amaya ProTM.
+BLUETOOTH
+BI-LEVEL
+DIMMING
+HIGH-END
+TRIM
+OCCUPANCY
+SENSOR
+DAYLIGHT
+HARVESTING
+SENSOR
+SCHEDULING
+10 YEARS
+Mobile App
+Desktop Friendly
+Amaya ProTM System – Web/App
+Download App
+OUTDOOR
+DC POWERED
+OUTDOOR BLE CONTROLS PIR
+
+### 2026 Amaya Pro Catalog, page 56
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=56
+
+From the 2026 Amaya Pro Catalog, page 56.
+
+What the page shows, read from the page image:
+**Dimensions and mounting**
+- Mounting Height: Up to 40 FT
+- Sensor Coverage, Side View: coverage cone from 0' to 40' height, spreading to 30' on each side (axis marked 30', 20', 12', 6', 0', 6', 12', 20', 30').
+- Sensor Coverage, Top View: 60 ft diameter pattern (axis marked 30', 27', 20', 12', 6', 3', 0', 3', 6', 12', 20', 27', 30').
+- A drawing of the sensor shows a threaded body with a connector plug and a dome lens. No dimensions are given.
+
+**Other**
+- No product name, certification logos, feature icons, ordering table or sensor brand/code appear on this page. The specifications appear to belong to a sensor/control continued from a previous page.
+- Technical Specifications:
+  - Input Voltage: 12-24V
+  - Max Communication Distance: 150 FT
+  - Communication Protocol: Bluetooth Mesh
+  - Life Span: >70,000 Hours
+  - Operating Temperature: -4°F to 140°F
+  - IP Rating: IP65
+- Wiring Diagram:
+  - L and N connect to the Dimming Driver.
+  - Driver – and + connect to the LED – and + (the + line is red).
+  - Sensor leads from the driver: (PURPLE) DIM+, (PINK) DIM-, (YELLOW) VCC.
+- Contact Us:
+  - (302)-391-6444
+  - support@amayapro.com
+  - www.amayapro.com
+
+The page's raw text:
+Input Voltage:
+12-24V
+Mounting Height:
+Up to 40 FT
+Communication Protocol:
+Bluetooth Mesh
+IP Rating:
+IP65
+Max Communication Distance:
+150 FT
+Operating Temperature:
+-4°F to 140°F
+Life Span:
+>70,000 Hours
+(YELLOW)VCC
+Dimming Driver
+L
+N
+LED
+(PINK)DIM-
+(PURPLE)DIM+
+Technical Specifications
+Wiring Diagram
+Sensor Coverage
+www.amayapro.com
+support@amayapro.com
+(302)-391-6444
+Contact Us:
+
+### 2026 Amaya Pro Catalog, page 57
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=57
+
+From the 2026 Amaya Pro Catalog, page 57.
+
+What the page shows, read from the page image:
+**Products**
+- AMAYA PRO™ AC POWERED BLE WALL OUTLET (category tab: WALL OUTLET)
+
+**Certifications**
+- ETL Listed (C / US), Intertek
+- DLC NLC5
+- FCC
+- "BLUETOOTH" is printed as text beside the logos, not as the Bluetooth symbol logo.
+
+**Features shown as icons**
+- 10 YEARS WARRANTY badge
+- No other feature icons (IP rating, dimming, sensor, CCT/power selectable, surge, lumen) appear on this page.
+
+**Ordering table**
+- Order Info: 06954
+- No other ordering columns (DLC ID, watts, CCT, lumens, voltage, color) are printed.
+
+**Compatible sensors and controls**
+- Amaya Pro™ System – Web/App:
+  - Desktop Friendly (web portal)
+  - Mobile App (the screen shows an AMAYA PRO login page)
+  - "Download App" QR code. The page does not say where the QR code links.
+- Commissioning remote and handheld remote are mentioned under Product Features. No brand or model codes are given for them.
+
+**Dimensions and mounting**
+- Outlet front: 1.75" wide × 4.13" high
+- Outlet side: 1.80" depth, 2.80" body height
+- Face plate: 3.3in (83.5mm) wide × 5in (127mm) high
+- Labeled callouts on the face plate diagram:
+  - Power Indicator Light 1 (top)
+  - Power Indicator Light 2 (bottom)
+  - Socket Hole 1 (Only Controlled by the APP). The upper receptacle is marked "Controlled."
+  - Socket Hole 2 (Uncontrolled)
+  - Reset Button 1 and 2 (Simultaneously press)
+  - USB Changer (printed this way; probably means "Charger")
+  - Wireless Indicator Light
+  - Face Plate
+- Both receptacles are marked "TR" (tamper-resistant).
+- Mounting: wall mount (from the Overview).
+
+**Other**
+- Overview:
+  - Wall mount ON/OFF for connected devices.
+  - Wide detection coverage.
+  - Office application ready.
+  - Bluetooth Mesh connectivity.
+  - Technology Partner Amaya Pro™.
+- Product Features:
+  - Wireless communication ranges up to 65 ft.
+  - Input Voltage: 15A 125VAC 60Hz
+  - Socket Outlet Output: Max. 15A 125VAC 60Hz Resistive
+  - USB Output: 5VDC Max. 2.1A
+  - Wireless Frequency: 2.4GHz
+  - Wireless Standard: IEEE802.11 b/g/n. This is a Wi-Fi standard, but the product is described as BLE / Bluetooth Mesh. Check with Amaya Pro before quoting it.
+  - PSA Level 3 security, delivering the highest-grade, military-level data protection.
+  - Personalized remote control enabling user-specific lighting preferences.
+  - Automatic health status updates are continuously reported to the server.
+  - Programming of controls via commissioning remote.
+  - Handheld remote available for on demand custom user preference.
+  - Robust online portal for pre planning, pre & post programming, controls of the locations and energy data.
+
+The page's raw text:
+Dimensions Diagram:
+Order Info:
+06954
+Product Features:
+Overview:
+1.80ˮ1.75ˮ
+4.13ˮ
+2.80ˮ
+• Wireless communication ranges up to 65 ft.
+• Input Voltage: 15A 125VAC 60Hz
+• Socket Outlet Output: Max. 15A 125VAC 60Hz Resistive
+• USB Output: 5VDC Max. 2.1A
+• Wireless Frequency: 2.4GHz
+• Wireless Standard: IEEE802.11 b/g/n
+• PSA Level 3 security, delivering the highest-grade, military-level
+data protection.
+• Personalized remote control enabling user-specific lighting
+preferences.
+• Automatic health status updates are continuously reported to the
+server.
+• Programming of controls via commissioning remote.
+• Handheld remote available for on demand custom user preference.
+• Robust online portal for pre planning, pre & post programming,
+controls of the locations and energy data.
+BLUETOOTH
+• Wall mount ON/OFF for connected devices.
+• Wide detection coverage.
+• Office application ready.
+• Bluetooth Mesh connectivity.
+• Technology Partner Amaya ProTM.
+Power Indicator Light 1
+Power Indicator Light 2
+3.3in(83.5mm)
+5in(127mm)
+USB Changer
+Wireless Indicator Light
+Socket Hole 1
+(Only Controlled
+by the APP)
+Socket Hole 2
+(Uncontrolled)
+Face Plate
+Reset Button 1 and 2
+(Simultaneously press)
+10 YEARS
+Mobile App
+Desktop Friendly
+Amaya ProTM System – Web/App
+Download App
+WALL OUTLET
+AC POWERED
+BLE WALL OUTLET
+
+### 2026 Amaya Pro Catalog, page 58
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=58
+
+From the 2026 Amaya Pro Catalog, page 58.
+
+What the page shows, read from the page image:
+**Products**
+No product name is printed on this page. Based on the drawings, the page covers a smart receptacle with "up"/"down" switch buttons, a USB port, a "Controlled" outlet and "TR" (tamper-resistant) markings. The page itself does not name or code the product.
+
+**Features shown as icons**
+No feature icons are shown. These ratings are printed as text in the spec list:
+- IP rating: IP20
+- Communication protocol: Bluetooth Mesh
+
+**Dimensions and mounting**
+- Mounting Height: NA
+- Wiring diagram (rear of device):
+  - (Black) Live Wire → L-IN
+  - (Green) Ground → ground terminal (marked with ground symbol)
+  - (White) Neutral Wire → N-IN
+- Reset illustration: the front of the receptacle shows:
+  - two tamper-resistant outlets marked "TR"
+  - the upper outlet labeled "Controlled"
+  - a USB port in the center
+  - "up" and "down" buttons on the left edge
+  - an indicator light next to the USB port
+- No dimensions are printed.
+
+**Other**
+- Technical specifications:
+  - Input Voltage: 120V
+  - Max Communication Distance: 65 FT
+  - Communication Protocol: Bluetooth Mesh
+  - Life Span: >70,000 Hours
+  - Mounting Height: NA
+  - Operating Temperature: -14°F to 131°F
+  - IP Rating: IP20
+- Reset instructions:
+  - Press and hold the Switch buttons "up" and "down" for 5s. This resets the switch and puts it into quick configure mode.
+  - The indicator light then blinks rapidly (2 times per second).
+  - Step 1: Make sure the indicator blinks rapidly. If it does not, hold the "up" and "down" buttons for 7-10 seconds to reset.
+- Contact Us:
+  - Phone: (302)-391-6444
+  - Email: support@amayapro.com
+  - Web: www.amayapro.com
+
+The page's raw text:
+Input Voltage: Mounting Height:
+Communication Protocol:
+Bluetooth Mesh IP20
+IP Rating:
+Max Communication Distance:
+65 FT
+120V
+-14°F to 131°F
+Operating Temperature:
+Life Span:
+>70,000 Hours
+Indicator light rapidly blinks (2 times per second)
+Step.1. Make sure the indicator blinks rapidly,
+If not, hold the " up" and "down" button for 7 -10
+seconds for reset.
+Press and hold Switch button " up" and "down" for 5s to reset the switch and get into quick configure mode.
+Reset
+NA
+Technical Specifications
+Wiring Diagram
+www.amayapro.com
+support@amayapro.com
+(302)-391-6444
+Contact Us:
+
+### 2026 Amaya Pro Catalog, page 59
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=59
+
+From the 2026 Amaya Pro Catalog, page 59.
+
+What the page shows, read from the page image:
+**Products**
+- AMAYA PRO™ — LONG RANGE EXTENDERS — DC POWERED BLE CONTROLS LONG RANGE EXTENDER
+- Order Info: 06970
+
+**Certifications**
+- DLC NLC5
+- FCC
+- ZSR logo (exact meaning is not stated on the page)
+
+**Features shown as icons**
+- Bluetooth
+- High-End Trim
+- Bi-Level Dimming
+- Scheduling
+- 10 Years Warranty (badge)
+
+**Ordering table**
+- No ordering table on this page. The only order info is code 06970.
+
+**Compatible sensors and controls**
+- Amaya Pro™ System – Web/App:
+  - Desktop Friendly (web)
+  - Mobile App
+  - "Download App" QR code
+- Commissioning remote (programming of controls)
+- Handheld remote (on-demand custom user preference)
+
+**Dimensions and mounting**
+- Top view:
+  - Ø1.19″
+  - Ø1.96″
+  - Ø0.17″
+  - Positions numbered 1, 2, 3, 4 around the center
+- Side view:
+  - Overall height 1.35″
+  - 0.23″ (lower section)
+  - Base diameter Ø1.51″
+
+**Other**
+
+Overview:
+- Long Range Extender.
+- Wide detection coverage.
+- High-bay application ready.
+- Max Bluetooth Range 328 ft. (printed as "Bluethooth")
+- Bluetooth Mesh Connectivity.
+- 360° Coverage Pattern.
+- Technology Partner Amaya Pro™.
+
+Product Features:
+- Wireless communication ranges up to 150 ft. (the Overview says max Bluetooth range is 328 ft; both are printed as shown)
+- PSA Level 3 security, delivering the highest-grade, military-level data protection.
+- Clock-dial scheduling for precise time-based control and automation.
+- Personalized remote control enabling user-specific lighting preferences.
+- Automatic health status updates are continuously reported to the server.
+- All luminaires on the 0–10V control line can be broadcast-controlled via a mobile application.
+- Built-in 20mA 0–10V analog signal output for reliable dimming control.
+- Magnetic reset (5-second press) and remote reset via RESET + ON/OFF.
+- Programming of controls via commissioning remote.
+- Handheld remote available for on demand custom user preference.
+- Robust online portal for pre planning, pre & post programming, controls of the locations and energy data.
+
+The page's raw text:
+Dimensions Diagram:
+Order Info:
+06970
+Ø1.51ˮ
+Ø1.19ˮ
+Ø1.96ˮ
+Ø0.17ˮ
+1.35ˮ
+0.23ˮ
+Product Features:
+Overview:
+• Wireless communication ranges up to 150 ft.
+• PSA Level 3 security, delivering the highest-grade,
+military-level data protection.
+• Clock-dial scheduling for precise time-based control and
+automation.
+• Personalized remote control enabling user-specific lighting
+preferences.
+• Automatic health status updates are continuously reported
+to the server.
+• All luminaires on the 0–10V control line can be
+broadcast-controlled via a mobile application.
+• Built-in 20mA 0–10V analog signal output for reliable
+dimming control.
+• Magnetic reset (5-second press) and remote reset via
+RESET + ON/OFF.
+• Programming of controls via commissioning remote.
+• Handheld remote available for on demand custom user
+preference.
+• Robust online portal for pre planning, pre & post
+programming, controls of the locations and energy data.
+• Long Range Extender.
+• Wide detection coverage.
+• High-bay application ready.
+• Max Bluethooth Range 328 ft.
+• Bluetooth Mesh Connectivity.
+• 360° Coverage Pattern.
+• Technology Partner Amaya ProTM.
+BLUETOOTH
+BI-LEVEL
+DIMMING
+HIGH-END
+TRIM SCHEDULING
+10 YEARS
+Mobile App
+Desktop Friendly
+Amaya ProTM System – Web/App
+Download App
+LONG RANGE EXTENDERS
+DC POWERED
+BLE CONTROLS LONG RANGE EXTENDER
+
+### 2026 Amaya Pro Catalog, page 60
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=60
+
+From the 2026 Amaya Pro Catalog, page 60.
+
+What the page shows, read from the page image:
+**Other**
+
+- **No product name** is printed on this page. The specs and wiring diagram likely continue from the previous page, so the product needs to be confirmed there.
+
+- **Technical Specifications**
+  - Input Voltage: 12-24V
+  - Max Communication Distance: 150 FT
+  - Communication Protocol: Bluetooth Mesh
+  - Life Span: >70,000 Hours
+  - Max Bluetooth Range: 328 FT
+  - Operating Temperature: -40°F to 158°F
+  - IP Rating: IP65 (printed as text in the spec list, not as an icon)
+
+- **Wiring Diagram** (round 4-pin connector, pins labeled 1–4)
+  - Port 1: 12-24VDC
+  - Port 2: DIM-/GND
+  - Port 3: DIM +
+  - Port 4: DIM+
+  - Ports 3 and 4 are both printed as DIM+. This may be a typo on the page and should be checked before quoting wiring to a customer.
+
+- **Contact Us**
+  - Phone: (302)-391-6444
+  - Email: support@amayapro.com
+  - Web: www.amayapro.com
+
+The page's raw text:
+Input Voltage:
+12-24V
+Max Bluetooth Range:
+328 FT
+Communication Protocol:
+Bluetooth Mesh
+IP Rating:
+IP65
+Max Communication Distance:
+150 FT
+Operating Temperature:
+-40°F to 158°F
+Life Span:
+>70,000 Hours
+-Port 1: 12-24VDC
+-Port 2: DIM-/GND
+-Port 3: DIM +
+-Port 4: DIM+
+Technical Specifications
+Wiring Diagram
+www.amayapro.com
+support@amayapro.com
+(302)-391-6444
+Contact Us:
+
+### 2026 Amaya Pro Catalog, page 61
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=61
+
+From the 2026 Amaya Pro Catalog, page 61.
+
+What the page shows, read from the page image:
+## Products
+- **DC POWERED BLE CONTROLS LONG RANGE EXTENDER**
+  - Category banner: LONG RANGE EXTENDERS
+  - Brand: AMAYA PRO™
+
+## Certifications
+- DLC NLC5
+- FCC
+
+## Features shown as icons
+- Bluetooth
+- High-End Trim
+- Bi-Level Dimming (the icon shows a person and a motion sensor)
+- Scheduling
+
+## Ordering table
+There is no full ordering table on this page. It gives only:
+- **Order Info: 06971**
+
+No DLC ID, watts, CCT, lumens, voltage or color is printed. The only power information is "DC Powered" in the product title.
+
+## Compatible sensors and controls
+- No separate sensor or control codes are listed.
+- The page shows the Amaya Pro™ System (Web/App):
+  - Desktop-friendly web portal
+  - Mobile app
+  - "Download App" QR code
+- Feature text refers to a commissioning remote and a handheld remote. No codes are given for either.
+
+## Dimensions and mounting
+- Top-view diameters: Ø1.19", Ø1.96", Ø0.17"
+- Side-view diameter: Ø1.51"
+- Total height: 1.35"
+- Lower section height: 0.23"
+- The top view has positions numbered 1, 2, 3 and 4 around the center opening. The page does not say what they mean.
+- The photo shows a stub antenna on top of the unit.
+- No mounting notes are printed.
+
+## Other
+**Warranty**
+- 10 Years Warranty badge.
+
+**Logo**
+- ZSR logo printed on the page. Its meaning is not stated.
+
+**Overview**
+- Long Range Extender
+- Wide detection coverage
+- High-bay application ready
+- Max Bluetooth Range 328 ft.
+- Bluetooth Mesh Connectivity
+- Technology Partner Amaya Pro™
+
+**Product features**
+- Wireless communication ranges up to 150 ft.
+  - **Note:** this does not match the "Max Bluetooth Range 328 ft." in the Overview. Check with the factory before quoting a range.
+- PSA Level 3 security, delivering the highest-grade, military-level data protection.
+- Personalized remote control enabling user-specific lighting preferences.
+- Automatic health status updates are continuously reported to the server.
+- All luminaires on the 0–10V control line can be broadcast-controlled via a mobile application.
+- Built-in 20mA 0–10V analog signal output for reliable dimming control.
+- Magnetic reset (5-second press) and remote reset via RESET + ON/OFF.
+- Programming of controls via commissioning remote.
+- Handheld remote available for on demand custom user preference.
+- Robust online portal for pre planning, pre & post programming, controls of the locations and energy data.
+
+The page's raw text:
+Dimensions Diagram:
+Order Info:
+06971
+Ø1.51ˮ
+Ø1.19ˮ
+Ø1.96ˮ
+Ø0.17ˮ
+1.35ˮ
+0.23ˮ
+Product Features:
+Overview:
+• Wireless communication ranges up to 150 ft.
+• PSA Level 3 security, delivering the highest-grade,
+military-level data protection.
+• Personalized remote control enabling user-specific lighting
+preferences.
+• Automatic health status updates are continuously reported
+to the server.
+• All luminaires on the 0–10V control line can be
+broadcast-controlled via a mobile application.
+• Built-in 20mA 0–10V analog signal output for reliable
+dimming control.
+• Magnetic reset (5-second press) and remote reset via
+RESET + ON/OFF.
+• Programming of controls via commissioning remote.
+• Handheld remote available for on demand custom user
+preference.
+• Robust online portal for pre planning, pre & post
+programming, controls of the locations and energy data.
+• Long Range Extender.
+• Wide detection coverage.
+• High-bay application ready.
+• Max Bluetooth Range 328 ft.
+• Bluetooth Mesh Connectivity.
+• Technology Partner Amaya ProTM.
+BLUETOOTH
+BI-LEVEL
+DIMMING
+HIGH-END
+TRIM SCHEDULING
+Mobile App
+Desktop Friendly
+Amaya ProTM System – Web/App
+Download App
+10 YEARS
+LONG RANGE EXTENDERS
+DC POWERED
+BLE CONTROLS LONG RANGE EXTENDER
+
+### 2026 Amaya Pro Catalog, page 62
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=62
+
+From the 2026 Amaya Pro Catalog, page 62.
+
+What the page shows, read from the page image:
+**Features shown as icons**
+No icons. These features appear as text in the Technical Specifications:
+- IP Rating: IP65
+- Communication Protocol: Bluetooth Mesh
+
+**Other**
+
+*Technical Specifications*
+- Input Voltage: 12-24V
+- Max Bluetooth Range: 328 FT
+- Max Communication Distance: 150 FT
+- Operating Temperature: -40°F to 158°F
+- Communication Protocol: Bluetooth Mesh
+- IP Rating: IP65
+- Life Span: >70,000 Hours
+
+*Wiring Diagram (4-pin round connector, face view, pins numbered 1–4)*
+- Port 1: 12-24VDC
+- Port 2: DIM-/GND
+- Port 3: DIM +
+- Port 4: DIM+
+
+Note: Ports 3 and 4 are both printed as DIM+. This may be a misprint, so confirm the correct assignment with Amaya Pro before quoting wiring.
+
+*Contact Us*
+- Phone: (302)-391-6444
+- Email: support@amayapro.com
+- Web: www.amayapro.com
+
+*Not on this page:* No product name, model number, certification logos, ordering table, sensor or control codes, or dimensions are printed. The specifications appear to belong to a Bluetooth Mesh control or sensor module described on an earlier page.
+
+The page's raw text:
+Input Voltage:
+12-24V
+Max Bluetooth Range:
+328 FT
+Communication Protocol:
+Bluetooth Mesh
+IP Rating:
+IP65
+Max Communication Distance:
+150 FT
+Operating Temperature:
+-40°F to 158°F
+Life Span:
+>70,000 Hours
+-Port 1: 12-24VDC
+-Port 2: DIM-/GND
+-Port 3: DIM +
+-Port 4: DIM+
+Technical Specifications
+Wiring Diagram
+www.amayapro.com
+support@amayapro.com
+(302)-391-6444
+Contact Us:
+
+### 2026 Amaya Pro Catalog, page 63
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=63
+
+From the 2026 Amaya Pro Catalog, page 63.
+
+What the page shows, read from the page image:
+**Products:**
+- AMAYA PRO™ BATTERY POWERED BLE WALL SWITCH
+- Category tab: WALL SWITCHES
+
+**Certifications:**
+- DLC NLC5
+- FCC
+
+**Features shown as icons:**
+- BLUETOOTH (text mark)
+- IP20 (shield icon)
+- 10 YEARS WARRANTY (badge)
+
+**Ordering table:**
+- No full table is printed. Order Info: 06950
+- No DLC ID, wattage, CCT, lumen, voltage or color columns are shown.
+
+**Compatible sensors and controls:**
+- None listed by brand or code.
+- System: Amaya Pro™ System – Web/App, labeled "Desktop Friendly" and "Mobile App."
+- A "Download App" QR code is printed. Its link cannot be read from the image.
+
+**Dimensions and mounting:**
+- Diagram size: 2.6″ wide × 1.3″ high.
+- The diagram shows 8 keys in 2 rows of 4, with a small circle (LED indicator) on the top-right key.
+- Magnetic wall-plate mounting. The switch can be removed for use as a remote control.
+- Easy retrofit with standard Decora wall plates.
+
+**Other:**
+- Overview:
+  - Battery operated.
+  - 8 dedicated keys: On/Off, Auto, DIM+, DIM-, CCT+, CCT-, SCN+ and SCN-.
+  - Bluetooth 5.1 mesh networking in the 2.4 GHz ISM band.
+  - Technology Partner Amaya Pro™.
+- Product Features:
+  - Wireless communication ranges up to 100 ft.
+  - PSA Level 3 security, described as highest-grade, military-level data protection.
+  - Long press any key for configuration.
+  - Ultra-low sleep current below 0.1 uA and 5-7 mA working current, enabling 7-10 years of battery life.
+  - LED feedback for button presses and low-battery warning.
+  - Powered by dual CR2032 coin cells in parallel at 3 V nominal.
+  - Up to 20 programmable scenes for lighting presets and room functions.
+  - Messages can hop through compatible powered BLE Mesh relay nodes for extended coverage.
+
+The page's raw text:
+Dimensions Diagram:
+Order Info:
+06950
+2.6ˮ
+1.3ˮ
+10 YEARS
+Product Features:
+Overview:
+• Wireless communication ranges up to 100 ft.
+• PSA Level 3 security, delivering the highest-grade,
+military-level data protection.
+• Long Press any key for configuration.
+• Ultra-low sleep current below 0.1 uA, 5-7 mA working -current
+enabling 7-10 years battery life.
+• LED feedback for button press and low-battery warning.
+• Magnetic wall-plate mounting; removable for remote-control
+use.
+• Powered by dual CR2032 coin cells in parallel at 3 V nominal.
+• Up to 20 programmable scenes control for lighting presets
+and room functions.
+• Messages can hop through compatible powered BLE Mesh
+relay nodes for extended coverage.
+• Battery operated.
+• 8 dedicated keys: On/Off, Auto, DIM+, DIM-,
+CCT+, CCT-, SCN+ and SCN-.
+• Bluetooth 5.1 mesh networking in the 2.4 GHz
+ISM band.
+• Easy retrofit with standard Decora wall plates.
+• Technology Partner Amaya ProTM.
+BLUETOOTH
+IP20
+Mobile App
+Desktop Friendly
+Amaya ProTM System – Web/App
+Download App
+WALL SWITCHES
+BATTERY POWERED
+BLE WALL SWITCH
+
+### 2026 Amaya Pro Catalog, page 64
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=64
+
+From the 2026 Amaya Pro Catalog, page 64.
+
+What the page shows, read from the page image:
+**Products**
+- 06950 Wall Switch
+
+**Features shown as icons**
+The wall switch drawing shows 8 buttons, each with its own icon and label, plus a small indicator dot at the top left:
+- On/Off
+- Auto
+- DIM +
+- CCT +
+- DIM -
+- CCT -
+- SCN +
+- SCN -
+
+**Dimensions and mounting**
+- No dimensions are printed.
+- Mounting: Magnetic Plate (commissioning step 2).
+
+**Other**
+
+*Technical Specifications*
+- Input Voltage: DC 3V
+- Operating Temperature: -4°F to 122°F
+- Max Communication Distance: 100 FT
+- IP Rating: IP20
+- Communication Protocol: Bluetooth Mesh
+- Life Span: >70,000 Hours
+
+*Dedicated Control Keys*
+- On/Off: "Dedicate lighting On/Off Control"
+- Auto: Automatic or sensor-based mode
+- DIM+/DIM-: Increase or decrease brightness
+- CCT+/CCT-: Shift correlated color temperature
+- SCN+/SCN-: "-------- programmed scenes". The first word is printed as a dashed placeholder and is missing from the page.
+- 20 Scenes: Store room and application presets
+- LED Feedback: Button press and low battery
+- Long Press: Enter app registration mode
+
+*Bluetooth Mesh Coverage (diagram)*
+- The signal path shown is: 06950 Wall Switch → BLE Mesh → Powered Relay Node → Hop 1 → Powered Relay Node → Hop 2 → Lighting Group.
+- Printed note: "The 06950 operates as a battery-powered control node. Network messages may be relayed by compatible powered Bluetooth Mesh Nodes, extending coverage a single 100 ft wireless link." This is the wording as printed. No relay node product codes or brands are given.
+
+*Quick Commissioning with the Amaya app*
+1. Install: Dual CR2032
+2. Mount: Magnetic Plate
+3. Open: Amaya App
+4. Long Press: Register
+5. Assign: Groups / Scenes
+
+*Contact Us*
+- Phone: (302)-391-6444
+- Email: support@amayapro.com
+- Web: www.amayapro.com
+
+*Not on this page*
+- No certification logos.
+- No ordering table.
+- No compatible sensor or control codes.
+
+The page's raw text:
+Input Voltage:
+DC 3V
+Communication Protocol:
+Bluetooth Mesh
+The 06950 operates as a battery-powered control node. Network messages may be relayed by compatible powered Bluetooth Mesh
+Nodes, extending coverage a single 100 ft wireless link.
+1
+Max Communication Distance:
+100 FT
+Dedicated Control Keys:
+Bluetooth Mesh Coverage:
+Quick Commissioning with the Amaya app:
+On/Off
+Dedicate lighting On/Off
+Control
+Auto
+Automatic or sensor-based
+mode
+DIM+/DIM-
+Increase or decrease
+brightness
+CCT+/CCT-
+Shift correlated color
+temperature
+IP Rating:
+Operating Temperature:
+-4°F to 122°F
+IP20
+Life Span:
+>70,000 Hours
+SCN+/SCN-
+-------- programmed
+scenes
+20 Scenes
+Store room and application
+presets
+LED Feedback
+Button press and
+low battery
+Long Press
+Enter app registration
+mode
+DIM +
+SCN +
+CCT -DIM -
+SCN -
+CCT +
+On/Off Auto
+A
+06950 Wall Switch
+Powered
+Relay Node
+Dual CR2032 Magnetic Plate Amaya App Register Groups / Scenes
+Install Mount Open Long Press Assign
+Powered
+Relay Node
+Lighting
+Group
+BLE Mesh
+Hop 1
+Hop 2
+2 3 4 5
+Technical Specifications
+www.amayapro.com
+support@amayapro.com
+(302)-391-6444
+Contact Us:
+
+### 2026 Amaya Pro Catalog, page 65
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=65
+
+From the 2026 Amaya Pro Catalog, page 65.
+
+What the page shows, read from the page image:
+**Products**
+- AC POWERED BLE CONTROLS PIR WALL SWITCH (category tab: WALL SWITCHES), brand AMAYA PRO™
+
+**Certifications**
+- UL (plain UL mark in a circle, not marked cULus)
+- DLC NLC5
+- FCC
+
+**Features shown as icons**
+- Bluetooth
+- Occupancy Sensor (PIR)
+- Scheduling
+- IP20
+
+**Ordering table**
+- Order Info: 06951. No other columns (DLC ID, watts, CCT, lumens, voltage, color) are printed.
+
+**Compatible sensors and controls**
+- Amaya Pro™ System, Web/App (desktop and mobile app). A "Download App" QR code is shown.
+- The feature list mentions a commissioning remote and a handheld remote. No brand or code is printed for either.
+
+**Dimensions and mounting**
+- Wall mount (PIR wall mount motion detection)
+- Height: 4.1"
+- Depth: 1.0" (side view)
+- 2.8" (side view, height of the rear housing)
+- Width: the drawing has a width arrow under the front view, but no value is printed.
+
+**Other**
+- Overview:
+  - PIR wall mount motion detection
+  - Wide detection coverage
+  - Office application ready
+  - Bluetooth Mesh connectivity
+  - 180° coverage pattern
+  - Technology Partner Amaya Pro™
+- Product Features:
+  - Wireless communication ranges up to 100 ft.
+  - PSA Level 3 security, delivering the highest-grade, military-level data protection
+  - Personalized remote control enabling user-specific lighting preferences
+  - Automatic health status updates are continuously reported to the server
+  - Button reset (5-second press) and remote reset via RESET + ON/OFF
+  - Programming of controls via commissioning remote
+  - Handheld remote available for on demand custom user preference
+  - Robust online portal for pre planning, pre & post programming, controls of the locations and energy data
+- Warranty: 10 Years (badge)
+- App images are labeled "Desktop Friendly" and "Mobile App".
+
+The page's raw text:
+Dimensions Diagram:
+Order Info:
+06951
+2.8ˮ
+1.0ˮ
+4.1ˮ
+Product Features:
+Overview:
+• Wireless communication ranges up to 100 ft.
+• PSA Level 3 security, delivering the highest-grade,
+military-level data protection.
+• Personalized remote control enabling user-specific lighting
+preferences.
+• Automatic health status updates are continuously reported
+to the server.
+• Button reset (5-second press) and remote reset via RESET
++ ON/OFF.
+• Programming of controls via commissioning remote.
+• Handheld remote available for on demand custom user
+preference.
+• Robust online portal for pre planning, pre & post
+programming, controls of the locations and energy data.
+• PIR wall mount motion detection.
+• Wide detection coverage.
+• Office application ready.
+• Bluetooth Mesh connectivity.
+• 180° Coverage Pattern.
+• Technology Partner Amaya ProTM.
+BLUETOOTH
+OCCUPANCY
+SENSOR SCHEDULING
+IP20
+10 YEARS
+Mobile App
+Desktop Friendly
+Amaya ProTM System – Web/App
+Download App
+WALL SWITCHES
+AC POWERED
+BLE CONTROLS PIR WALL SWITCH
+
+### 2026 Amaya Pro Catalog, page 66
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=66
+
+From the 2026 Amaya Pro Catalog, page 66.
+
+What the page shows, read from the page image:
+## Dimensions and mounting
+- Mounting height: up to 4 FT
+- The vertical beam diagram shows the sensor at 4 ft (1.2 m).
+- The device drawing labels the **Fresnel Lens**, **Time Delay** (side adjustment), and **Reset** (button).
+
+## Other
+
+**Technical Specifications**
+- Input Voltage: 120-277V
+- Max Communication Distance: 100 FT
+- Communication Protocol: Bluetooth Mesh
+- Life Span: >70,000 Hours
+- Mounting Height: Up to 4 FT
+- Operating Temperature: 32°F to 104°F
+- IP Rating: IP20
+
+**Wiring Diagram** (labeled "Occupancy Sensor /Vacancy Sensor"; supply 120~277V~ 50/60Hz)
+- Black: to Hot/Live, joined with a wire nut
+- Red: to Load, joined with a wire nut
+- White: to Neutral
+- Bare: to Ground
+- The other side of the Load connects to Neutral.
+
+**Sensor Coverage**
+- Horizontal Beam Diagram: the axis runs from 30 ft (9 m) on one side, through 0, to 30 ft (9 m) on the other side, marked every 5 ft (1.5 m). It is drawn as a fan-shaped (semicircular) pattern.
+- Vertical Beam Diagram: the sensor is at 4 ft (1.2 m), and the axis runs from 0 to 30 ft (9 m). The light upper zone reaches about 30 ft. The dark lower zone reaches about 20 ft (6 m), judging from the drawing. A human figure is shown at about 10 ft.
+
+**Contact Us**
+- Phone: (302)-391-6444
+- Email: support@amayapro.com
+- Web: www.amayapro.com
+
+**Not on this page:** No product name or ordering code is printed. There are no certification logos, no feature icons, no ordering table, and no compatible sensors or controls listed.
+
+The page's raw text:
+Input Voltage:
+120-277V
+Mounting Height:
+Communication Protocol:
+Bluetooth Mesh
+IP Rating:
+Max Communication Distance:
+100 FT
+Operating Temperature:
+32°F to 104°F
+Up to 4 FT
+IP20
+Life Span:
+>70,000 Hours
+Technical Specifications
+www.amayapro.com
+support@amayapro.com
+(302)-391-6444
+Contact Us:
+Wiring Diagram
+Sensor Coverage
+
+### 2026 Amaya Pro Catalog, page 67
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=67
+
+From the 2026 Amaya Pro Catalog, page 67.
+
+What the page shows, read from the page image:
+**Products**
+- SELF POWERED BLE WALL SWITCH (Amaya Pro™, category tab: WALL SWITCHES)
+
+**Certifications**
+- DLC NLC5
+- FCC
+- A "BLUETOOTH" wordmark is printed below the order code. It appears as text, not as a certification logo.
+
+**Features shown as icons**
+- 10 YEARS WARRANTY badge
+- No other feature icons (such as IP rating or sensor) appear on the page.
+
+**Ordering table**
+- Order Info: 06952
+- No other columns (DLC ID, watts, CCT, lumens, voltage, color) are printed.
+
+**Dimensions and mounting**
+
+Drawing set 1 (switch body, front and side views):
+- Overall height: 4.12″
+- Inner height: 3.29″
+- Width: 1.75″
+- Side depth: 0.85″ overall and 0.39″
+- Screw holes are shown at the top and bottom.
+
+Drawing set 2 (switch with wall plate, front and side views):
+- Plate height: 5.0″
+- Plate width: 3.29″
+- Rocker width: 1.16″
+- Rocker height: 2.64″
+- Side depth: 0.25″
+
+Mounting notes:
+- Wall mount
+- Standard size, compatible with existing US size frame
+
+**Other**
+
+Overview:
+- No Wire, No Battery, No Limits.
+- 2.4 GHz global operation.
+- Wall Mount ON/OFF & Dimming.
+- Wide detection coverage.
+- Office application ready.
+- Bluetooth Mesh connectivity.
+- Technology Partner Amaya Pro™.
+
+Product Features:
+- Wireless communication ranges up to 100 ft.
+- PSA Level 3 security, delivering the highest-grade, military-level data protection.
+- Self-powered wall remote, no battery replacement & re-installation costs.
+- Personalized remote control enabling user-specific lighting preferences.
+- Automatic health status updates are continuously reported to the server.
+- All luminaires on the 0–10V control line can be broadcast-controlled via a mobile application.
+- Ultra long lifespan, more than 200,000 times pushing.
+- Standard size, compatible with existing US size frame.
+- On-board Antenna.
+- Programming of controls via commissioning remote.
+- Handheld remote available for on demand custom user preference.
+- Robust online portal for pre planning, pre & post programming, controls of the locations and energy data.
+
+Amaya Pro™ System – Web/App:
+- Shown as "Desktop Friendly" and "Mobile App" (the mobile screenshot shows an Amaya Pro login screen).
+- A "Download App" QR code is printed. Its contents are not readable from the image.
+
+The page's raw text:
+Dimensions Diagram:
+Order Info:
+06952
+0.25ˮ1.16ˮ
+3.29ˮ0.85ˮ
+0.39ˮ
+1.75ˮ
+4.12ˮ
+3.29ˮ
+5.0ˮ
+2.64ˮ
+Product Features:
+Overview:
+• Wireless communication ranges up to 100 ft.
+• PSA Level 3 security, delivering the highest-grade,
+military-level data protection.
+• Self-powered wall remote, no battery replacement &
+re-installation costs.
+• Personalized remote control enabling user-specific lighting
+preferences.
+• Automatic health status updates are continuously reported
+to the server.
+• All luminaires on the 0–10V control line can be
+broadcast-controlled via a mobile application.
+• Ultra long lifespan, more than 200,000 times pushing.
+• Standard size, compatible with existing US size frame.
+• On-board Antenna.
+• Programming of controls via commissioning remote.
+• Handheld remote available for on demand custom user
+preference.
+• Robust online portal for pre planning, pre & post
+programming, controls of the locations and energy data.
+• No Wire, No Battery, No Limits.
+• 2.4 GHz global operation.
+• Wall Mount ON/OFF & Dimming.
+• Wide detection coverage.
+• Office application ready.
+• Bluetooth Mesh connectivity.
+• Technology Partner Amaya ProTM.
+BLUETOOTH
+10 YEARS
+Mobile App
+Desktop Friendly
+Amaya ProTM System – Web/App
+Download App
+WALL SWITCHES
+SELF POWERED
+BLE WALL SWITCH
+
+### 2026 Amaya Pro Catalog, page 68
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=68
+
+From the 2026 Amaya Pro Catalog, page 68.
+
+What the page shows, read from the page image:
+**Products**
+- No product name is printed on this page. The page appears to be a continuation of a product shown on the previous page. The drawings show a wall-mount rocker switch/dimmer.
+
+**Features shown as icons**
+- No feature icons are shown. Features listed in text:
+  - Self-powered by a built-in nano generator. No wiring to line voltage is noted.
+  - Bluetooth Mesh communication.
+  - IP20.
+
+**Technical Specifications** (as printed)
+- Input Voltage: Self-Powered by Built-In Nano Generator
+- Mounting Height: NA
+- Max Communication Distance: 100 FT
+- Operating Temperature: 32°F to 104°F
+- Communication Protocol: Bluetooth Mesh
+- IP Rating: IP20
+- Life Span: >70,000 Hours
+
+**Dimensions and mounting**
+- No dimensions are printed.
+- Front-view drawing: a single-gang switch with an "UP" arrow marking at the top. It has a split rocker with two zones. Zone ① is the upper half and zone ② is the lower half.
+- Exploded view: a decorator-style wall plate, then the switch, attached with two screws (top and bottom) to a standard single-gang wall box.
+- Button functions (printed notes):
+  1. Click to turn on, press and hold down to increase light intensity.
+  2. Click to turn off, press and hold down to decrease light intensity.
+
+**Other**
+- The section heading reads "Wiring Diagram," but only the mounting/exploded drawing and button functions are shown. No wire connections are drawn.
+- Contact Us: (302)-391-6444 | support@amayapro.com | www.amayapro.com
+
+The page's raw text:
+Input Voltage: Mounting Height:
+Communication Protocol:
+Bluetooth Mesh IP20
+NA
+IP Rating:
+Max Communication Distance:
+100 FT
+Self-Powered by Built-In Nano Generator
+Operating Temperature:
+Life Span:
+>70,000 Hours
+1. Click to turn on, press and hold down to increase light intensity.
+2. Click to turn off, press and hold down to decrease light intensity.
+32°F to 104°F
+Technical Specifications
+www.amayapro.com
+support@amayapro.com
+(302)-391-6444
+Contact Us:
+Wiring Diagram
+
+### 2026 Amaya Pro Catalog, page 69
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=69
+
+From the 2026 Amaya Pro Catalog, page 69.
+
+What the page shows, read from the page image:
+**Products**
+- SELF POWERED BLE WALL SWITCH (section tab: WALL SWITCHES)
+
+**Certifications**
+- DLC NLC5
+- FCC
+- "BLUETOOTH" is printed as a wordmark below the logos.
+
+**Features shown as icons**
+- 10 YEARS WARRANTY badge
+- No IP rating, 0-10V, sensor-ready, CCT/power selectable, surge or high-lumen icons are shown.
+
+**Ordering table**
+- 06953 (printed under "Order Info:"; no other columns such as DLC ID, watts, voltage or color are given)
+
+**Dimensions and mounting**
+The page has two drawings. Neither carries a printed label, so the descriptions in brackets are inferred from the shapes.
+- Left drawing [narrow switch with screw holes top and bottom]:
+  - Front view: 1.75" wide, 4.12" overall height, 3.29" inner height
+  - Side view: 0.85" overall depth, 0.39" step depth
+- Right drawing [wider plate with switch]:
+  - Front view: 3.29" wide, 5.0" height, center rocker 1.32" wide by 2.64" tall
+  - Side view: 0.25"
+- Overview lists "Wall Mount."
+- Features list: "Standard size, compatible with existing US size frame."
+
+**Overview (as printed)**
+- No Wire, No Battery, No Limits.
+- 2.4 GHz global operation.
+- Wall Mount.
+- Button 1 - ON/OFF & Dimming.
+- Button 2 - CCT Tuning & Scenes.
+- Wide detection coverage.
+- Office application ready.
+- Bluetooth Mesh connectivity.
+- Technology Partner Amaya Pro™.
+
+**Product Features (as printed)**
+- Wireless communication ranges up to 100 ft.
+- PSA Level 3 security, delivering the highest-grade, military-level data protection.
+- Self-powered wall remote, no battery replacement & re-installation costs.
+- Personalized remote control enabling user-specific lighting preferences.
+- Automatic health status updates are continuously reported to the server.
+- All luminaires on the 0–10V control line can be broadcast-controlled via a mobile application.
+- Ultra long lifespan, more than 200,000 times pushing.
+- Standard size, compatible with existing US size frame.
+- On-board Antenna.
+- Programming of controls via commissioning remote.
+- Handheld remote available for on demand custom user preference.
+- Robust online portal for pre planning, pre & post programming, controls of the locations and energy data.
+
+**Other**
+- "Amaya Pro™ System – Web/App" section:
+  - Desktop image labeled "Desktop Friendly"
+  - Phone image labeled "Mobile App" showing an Amaya Pro login screen
+  - "Download App" QR code (the encoded link can't be read from the page)
+- Catalog page 69 of the 2026 Amaya Pro Catalog.
+
+The page's raw text:
+Dimensions Diagram:
+0.25ˮ1.32ˮ
+3.29ˮ0.85ˮ
+0.39ˮ
+1.75ˮ
+4.12ˮ
+3.29ˮ
+5.0ˮ
+2.64ˮ
+Product Features:
+Overview:
+• Wireless communication ranges up to 100 ft.
+• PSA Level 3 security, delivering the highest-grade,
+military-level data protection.
+• Self-powered wall remote, no battery replacement &
+re-installation costs.
+• Personalized remote control enabling user-specific lighting
+preferences.
+• Automatic health status updates are continuously reported
+to the server.
+• All luminaires on the 0–10V control line can be
+broadcast-controlled via a mobile application.
+• Ultra long lifespan, more than 200,000 times pushing.
+• Standard size, compatible with existing US size frame.
+• On-board Antenna.
+• Programming of controls via commissioning remote.
+• Handheld remote available for on demand custom user
+preference.
+• Robust online portal for pre planning, pre & post
+programming, controls of the locations and energy data.
+• No Wire, No Battery, No Limits.
+• 2.4 GHz global operation.
+• Wall Mount.
+• Button 1 - ON/OFF & Dimming.
+• Button 2 - CCT Tuning & Scenes.
+• Wide detection coverage.
+• Office application ready.
+• Bluetooth Mesh connectivity.
+• Technology Partner Amaya ProTM.
+BLUETOOTH
+10 YEARS
+Mobile App
+Desktop Friendly
+Amaya ProTM System – Web/App
+Download App
+Order Info:
+06953
+WALL SWITCHES
+SELF POWERED
+BLE WALL SWITCH
+
+### 2026 Amaya Pro Catalog, page 70
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=70
+
+From the 2026 Amaya Pro Catalog, page 70.
+
+What the page shows, read from the page image:
+**Products**
+No product name or ordering code is printed on this page. The specs and diagram describe a self-powered, 4-button Bluetooth Mesh wall switch/controller, but the product name is not shown.
+
+**Dimensions and mounting**
+- Front-view drawing of a decorator-style switch with 4 buttons in a 2×2 grid, labeled ① top-left, ② bottom-left, ③ top-right, ④ bottom-right.
+- An "UP" arrow is marked at the top of the switch plate.
+- There is a screw slot at the top and bottom of the switch.
+- The exploded view shows the switch fixed into a single-gang wall box with 2 screws, plus a separate decorator-style wall plate.
+- No dimensions are printed.
+- Mounting Height: NA
+
+**Other**
+
+Technical Specifications:
+- Input Voltage: Self-Powered by Built-In Nano Generator
+- Max Communication Distance: 100 FT
+- Communication Protocol: Bluetooth Mesh
+- Life Span: >70,000 Hours
+- Operating Temperature: 32°F to 104°F
+- IP Rating: IP20
+
+Button functions (as printed):
+1. Click to turn on, press and hold down to increase light intensity.
+2. Click to turn off, press and hold down to decrease light intensity.
+3. CW button: click to recall the scene, press and hold to increase coolwhite.
+4. WW button: click to recall the scene, press and hold to increase warmwhite.
+
+Contact Us:
+- Phone: (302)-391-6444
+- Email: support@amayapro.com
+- Web: www.amayapro.com
+
+The page's raw text:
+Input Voltage: Mounting Height:
+Communication Protocol:
+Bluetooth Mesh IP20
+IP Rating:
+Max Communication Distance:
+100 FT
+Operating Temperature:
+Life Span:
+>70,000 Hours
+1. Click to turn on, press and hold down to increase light intensity.
+2. Click to turn off, press and hold down to decrease light intensity.
+3. CW button: click to recall the scene, press and hold to increase coolwhite.
+4. WW button: click to recall the scene, press and hold to increase warmwhite.
+NASelf-Powered by Built-In Nano Generator
+32°F to 104°F
+Technical Specifications
+www.amayapro.com
+support@amayapro.com
+(302)-391-6444
+Contact Us:
+Wiring Diagram
+
+### 2026 Amaya Pro Catalog, page 71
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=71
+
+From the 2026 Amaya Pro Catalog, page 71.
+
+What the page shows, read from the page image:
+**Products**
+- AMAYA PRO BLE DIMMER WALL SWITCH (category tab: WALL SWITCHES)
+
+**Certifications**
+- DLC NLC5
+- FCC
+- The Bluetooth logo with the word "BLUETOOTH" also appears in the same logo row. It is a technology mark, not a certification.
+
+**Features shown as icons**
+- Bluetooth logo
+- 10 Years Warranty badge
+- No IP rating, 0-10V, sensor, selectable CCT or power, surge, or high-lumen icons appear on the page.
+
+**Ordering table**
+- There is no ordering table. The page only shows "Order Info: 06956". No DLC ID, watts, CCT, lumens, voltage, or color columns are printed.
+
+**Compatible sensors and controls**
+- No specific brand or code is listed. The text mentions a "commissioning remote" for programming controls and a "Handheld remote" for custom user preference. No model codes are given for either.
+
+**Dimensions and mounting**
+- No dimension drawings are shown.
+- Mounting height: Standard wall box.
+- "Standard size, compatible with existing Wall Switch."
+
+**Other**
+
+Overview:
+- Retrofit your existing Wall Switch.
+- Wall Mount ON/OFF & Dimming.
+- Controls Upto 100 devices.
+- Rated for 50,000 Actuations.
+- Bluetooth Mesh connectivity.
+- Technology Partner Amaya Pro™.
+
+Product Features:
+- Wireless communication ranges up to 60 ft.
+- On-board Antenna.
+- PSA Level 3 security, delivering the highest-grade, military-level data protection.
+- Personalized remote control enabling user-specific lighting preferences.
+- Automatic health status updates are continuously reported to the server.
+- Standard size, compatible with existing Wall Switch.
+- Programming of controls via commissioning remote.
+- Handheld remote available for on demand custom user preference.
+- Robust online portal for pre planning, pre & post programming, controls of the locations and energy data.
+
+Technical Specifications:
+- Input Voltage: 120-277 VAC, 60Hz
+- Max Communication Distance: 60 FT
+- Communication Protocol: Bluetooth Mesh
+- Wireless Standards: IEEE 802.15.4. This is transcribed as printed. IEEE 802.15.4 is normally the Zigbee/Thread standard rather than Bluetooth, so it may be worth confirming with the manufacturer.
+- Operating Temperature: 32°F to 122°F
+- Life Span: >70,000 Hours
+
+Amaya Pro™ System – Web/App:
+- "Desktop Friendly" (desktop monitor image)
+- "Mobile App" (phone image showing the Amaya Pro login screen)
+- "Download App" QR code. The QR content cannot be read from the page.
+
+Product image area:
+- The top-left of the page is blank. No product photo is shown.
+
+Contact Us:
+- Phone: (302)-391-6444
+- Email: support@amayapro.com
+- Web: www.amayapro.com
+
+The page's raw text:
+Order Info:
+06956
+Mobile App
+Desktop Friendly
+Amaya ProTM System – Web/App
+Download App
+Overview:
+• Retrofit your existing Wall Switch.
+• Wall Mount ON/OFF & Dimming.
+• Controls Upto 100 devices.
+• Rated for 50,000 Actuations.
+• Bluetooth Mesh connectivity.
+• Technology Partner Amaya ProTM.
+Product Features:
+• Wireless communication ranges up to 60 ft.
+• On-board Antenna.
+• PSA Level 3 security, delivering the highest-grade, military-level
+data protection.
+• Personalized remote control enabling user-specific lighting
+preferences.
+• Automatic health status updates are continuously reported to the
+server.
+• Standard size, compatible with existing Wall Switch.
+• Programming of controls via commissioning remote.
+• Handheld remote available for on demand custom user preference.
+• Robust online portal for pre planning, pre & post programming,
+controls of the locations and energy data.
+BLUETOOTH
+Technical Specifications
+Input Voltage: Mounting Height:
+Communication Protocol:
+Bluetooth Mesh IEEE 802.15.4
+Standard wall box
+Wireless Standards:
+Max Communication Distance:
+60 FT
+120-277 VAC, 60Hz
+Operating Temperature:
+Life Span:
+>70,000 Hours
+32°F to 122°F
+www.amayapro.com
+support@amayapro.com
+(302)-391-6444
+Contact Us:
+WALL SWITCHES
+BLE DIMMER
+WALL SWITCH
+10 YEARS
+
+### 2026 Amaya Pro Catalog, page 72
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=72
+
+From the 2026 Amaya Pro Catalog, page 72.
+
+What the page shows, read from the page image:
+**Products**
+- AC POWERED BLE WALL MOUNT GATEWAY (category tab: GATEWAYS; brand: AMAYA PRO™)
+
+**Certifications**
+- DLC NLC5
+- FCC
+
+**Features shown as icons**
+- Bluetooth
+- IP20
+- WiFi
+- Ethernet
+- 10 Years Warranty (badge)
+
+**Ordering table**
+- Order Info: 06995. No other columns (DLC ID, watts, CCT, lumens, voltage, color) are printed.
+
+**Compatible sensors and controls**
+- None listed on the page.
+
+**Dimensions and mounting**
+- 155 mm (W) × 125 mm (H) × 35 mm (D)
+- The drawing shows the front face with the Amaya Pro logo and a small indicator or slot near the bottom right.
+- No mounting notes are printed. The title says "Wall Mount."
+
+**Other**
+- Overview:
+  - Gateway Supports Upto 500 Devices.
+  - Supports Firmware Upgrades Over-the-Air (OTA).
+  - BLE Module with Built-in Power Amplifier for Enhanced Sensitivity.
+  - Integrated Wi-Fi Gateway for Connected Smart Lighting Control.
+  - Single-Channel Dimming & Scene Control Support.
+  - Supports HTTP (SSL/TLS) and MQTT (SSL/TLS) Protocols.
+  - Technology Partner Amaya Pro™.
+- Product Features:
+  - Input Power: DC 12V, 2A. The title says "AC Powered," so this may need confirming.
+  - Wireless Standard IEEE 802.11b/g/n (Single Stream).
+  - Network Modes: Router, Repeater.
+  - Modulation OFDM, DSSS, DBPSK, DQPSK, CCK, 16/64QAM.
+  - WiFi Frequency Band 2.400–2.484 GHz / 5 GHz.
+  - 8 GB eMMC Storage and 2 GB LPDDR3 RAM.
+  - Number of Sub-Channels is 14 & Channel Bandwidth is 20 MHz.
+  - Bluetooth Scanning Capacity Upto 200 BLE Packets Per Second.
+  - Wifi Security: WPA/WPA2-PSK.
+  - Flexible FPC Antenna.
+  - WiFi Connectivity Enables Remote Power Monitoring and Wireless Controls.
+  - Maximum Transmit Power of 3 dBm for Bluetooth and 17 dBm for Wi-Fi.
+  - Receive Sensitivity of −92 dBm for Bluetooth and −98 dBm for Wi-Fi.
+  - 10/100 Ethernet with IEEE 802.3af Support.
+- Amaya Pro™ System – Web/App:
+  - "Desktop Friendly" (desktop monitor image)
+  - "Mobile App" (phone image showing a login screen)
+  - "Download App" QR code. The URL it links to is not printed and cannot be read from the image.
+
+The page's raw text:
+Dimensions Diagram:
+Order Info:
+06995
+125 mm
+155 mm
+35 mm
+10 YEARS
+Product Features:
+Overview:
+• Input Power: DC 12V, 2A.
+• Wireless Standard IEEE 802.11b/g/n (Single Stream).
+• Network Modes: Router, Repeater.
+• Modulation OFDM, DSSS, DBPSK, DQPSK, CCK, 16/64QAM.
+• WiFi Frequency Band 2.400 – 2.484 GHz / 5 GHz.
+• 8 GB eMMC Storage and 2 GB LPDDR3 RAM.
+• Number of Sub-Channels is 14 & Channel Bandwidth is 20 MHz.
+• Bluetooth Scanning Capacity Upto 200 BLE Packets Per Second.
+• Wifi Security: WPA/WPA2-PSK.
+• Flexible FPC Antenna.
+• WiFi Connectivity Enables Remote Power Monitoring and Wireless
+Controls.
+• Maximum Transmit Power of 3 dBm for Bluetooth and 17 dBm for
+Wi-Fi.
+• Receive Sensitivity of −92 dBm for Bluetooth and −98 dBm for Wi-Fi.
+• 10/100 Ethernet with IEEE 802.3af Support.
+• Gateway Supports Upto 500 Devices.
+• Supports Firmware Upgrades Over-the-Air (OTA).
+• BLE Module with Built-in Power Amplifier for
+Enhanced Sensitivity.
+• Integrated Wi-Fi Gateway for Connected Smart
+Lighting Control.
+• Single-Channel Dimming & Scene Control Support.
+• Supports HTTP (SSL/TLS) and MQTT (SSL/TLS)
+Protocols.
+• Technology Partner Amaya ProTM.
+BLUETOOTH
+IP20
+WIFI ETHERNET
+Mobile App
+Desktop Friendly
+Amaya ProTM System – Web/App
+Download App
+GATEWAYS
+AC POWERED
+BLE WALL MOUNT GATEWAY
+
+### 2026 Amaya Pro Catalog, page 73
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=73
+
+From the 2026 Amaya Pro Catalog, page 73.
+
+What the page shows, read from the page image:
+**Products**
+- AC POWERED BLE WALL MOUNT GATEWAY (Amaya Pro™). Section tab: GATEWAYS.
+
+**Certifications**
+- DLC NLC5
+- FCC
+
+**Features shown as icons**
+- BLUETOOTH (printed as a label only, with no icon graphic)
+- IP20
+- WIFI
+- ETHERNET
+- 4G
+- 10 YEARS WARRANTY badge
+
+**Ordering table**
+- There is no ordering table. The only code given is under "Order Info": **06996**. No DLC ID, wattage, CCT, lumens, voltage or color are listed.
+
+**Compatible sensors and controls**
+- None listed.
+
+**Dimensions and mounting**
+- Dimensions drawing: 155 mm (W) × 125 mm (H) × 35 mm (D).
+- The drawing shows a rectangular enclosure with the Amaya Pro logo on the front and a small indicator light or port near the lower right.
+- Mounting is "Wall Mount" (from the product name). No mounting notes or hardware are shown.
+
+**Other**
+- Product Features:
+  - Input Power: DC 12V, 2A. (The title says "AC POWERED" but this spec says DC 12V. Please confirm with the factory.)
+  - Wireless Standard IEEE 802.11b/g/n (Single Stream).
+  - Network Modes: Router, Repeater.
+  - Modulation OFDM, DSSS, DBPSK, DQPSK, CCK, 16/64QAM.
+  - WiFi Frequency Band 2.400 – 2.484 GHz / 5 GHz.
+  - 8 GB eMMC Storage and 2 GB LPDDR3 RAM.
+  - Number of Sub-Channels is 14 & Channel Bandwidth is 20 MHz.
+  - Bluetooth Scanning Capacity Upto 200 BLE Packets Per Second.
+  - Wifi Security: WPA/WPA2-PSK.
+  - Flexible FPC Antenna.
+  - WiFi Connectivity Enables Remote Power Monitoring and Wireless Controls.
+  - Maximum Transmit Power of 3 dBm for Bluetooth and 17 dBm for Wi-Fi.
+  - Receive Sensitivity of −92 dBm for Bluetooth and −98 dBm for Wi-Fi.
+  - 10/100 Ethernet with IEEE 802.3af Support.
+  - Option for 4G Mobile Network Connectivity.
+- Overview:
+  - Gateway Supports Upto 500 Devices.
+  - Supports Firmware Upgrades Over-the-Air (OTA).
+  - BLE Module with Built-in Power Amplifier for Enhanced Sensitivity.
+  - Integrated Wi-Fi Gateway for Connected Smart Lighting Control.
+  - Single-Channel Dimming & Scene Control Support.
+  - Supports HTTP (SSL/TLS) and MQTT (SSL/TLS) Protocols.
+  - Technology Partner Amaya Pro™.
+- Amaya Pro™ System – Web/App:
+  - The page shows a "Desktop Friendly" monitor graphic and a "Mobile App" phone graphic with an Amaya Pro login/"Welcome" screen.
+  - There is a "Download App" QR code. I can't decode it from the image, so the link is not given here.
+  - The small text on the phone screen (login fields) is too small to read beyond "Welcome".
+
+The page's raw text:
+Dimensions Diagram:
+Order Info:
+06996
+125 mm
+155 mm
+35 mm
+Product Features:
+Overview:
+• Input Power: DC 12V, 2A.
+• Wireless Standard IEEE 802.11b/g/n (Single Stream).
+• Network Modes: Router, Repeater.
+• Modulation OFDM, DSSS, DBPSK, DQPSK, CCK, 16/64QAM.
+• WiFi Frequency Band 2.400 – 2.484 GHz / 5 GHz.
+• 8 GB eMMC Storage and 2 GB LPDDR3 RAM.
+• Number of Sub-Channels is 14 & Channel Bandwidth is 20 MHz.
+• Bluetooth Scanning Capacity Upto 200 BLE Packets Per Second.
+• Wifi Security: WPA/WPA2-PSK.
+• Flexible FPC Antenna.
+• WiFi Connectivity Enables Remote Power Monitoring and Wireless
+Controls.
+• Maximum Transmit Power of 3 dBm for Bluetooth and 17 dBm for
+Wi-Fi.
+• Receive Sensitivity of −92 dBm for Bluetooth and −98 dBm for Wi-Fi.
+• 10/100 Ethernet with IEEE 802.3af Support.
+• Option for 4G Mobile Network Connectivity.
+• Gateway Supports Upto 500 Devices.
+• Supports Firmware Upgrades Over-the-Air (OTA).
+• BLE Module with Built-in Power Amplifier for
+Enhanced Sensitivity.
+• Integrated Wi-Fi Gateway for Connected Smart
+Lighting Control.
+• Single-Channel Dimming & Scene Control Support.
+• Supports HTTP (SSL/TLS) and MQTT (SSL/TLS)
+Protocols.
+• Technology Partner Amaya ProTM.
+BLUETOOTH
+IP20
+WIFI ETHERNET 4G
+Mobile App
+Desktop Friendly
+Amaya ProTM System – Web/App
+Download App
+10 YEARS
+GATEWAYS
+AC POWERED
+BLE WALL MOUNT GATEWAY
+
+### 2026 Amaya Pro Catalog, page 74
+
+/catalogs/2026%20Amaya%20Pro%20Catalog.pdf#page=74
+
+From the 2026 Amaya Pro Catalog, page 74.
+
+What the page shows, read from the page image:
+**Features shown as icons**
+- None. IP20 appears only as text in the spec list below.
+
+**Dimensions and mounting**
+- Labeled callouts: Input Power, Ethernet Port, HDMI Port, SD Card Port, USB Ports, Hook Holes for Hanging (two arrows, so two hook holes).
+- Mounting: hook holes for hanging.
+- No dimensions are printed.
+- The callout arrows point to blank space. The product image did not render on this page, so the port positions can't be confirmed.
+
+**Other**
+- No product name is printed on this page. The product is probably on the previous page (73).
+- Technical Specifications:
+  - Input Power: DC 12V, 2A Adaptor
+  - Max Communication Distance: 200 FT
+  - Communication Protocol: Bluetooth, WiFi, Ethernet, 4G (Optional)
+  - Operating Temperature: -13°F to 149°F
+  - IP Rating: IP20
+  - Life Span: >70,000 Hours
+- Contact Us:
+  - Phone: (302)-391-6444
+  - Email: support@amayapro.com
+  - Website: www.amayapro.com
+
+The page's raw text:
+Input Power:
+DC 12V, 2A Adaptor
+Communication Protocol:
+Bluetooth, WiFi, Ethernet, 4G (Optional)
+Input Power
+Ethernet Port HDMI Port SD Card Port USB Ports
+Max Communication Distance:
+200 FT
+IP Rating:
+IP20
+Operating Temperature:
+-13°F to 149°F
+Life Span:
+>70,000 Hours
+Hook Holes
+for Hanging
+Technical Specifications
+www.amayapro.com
+support@amayapro.com
+(302)-391-6444
+Contact Us:
 
 ### 2026 MES Catalog, page 2
 
@@ -11660,6 +18558,26 @@ Documents:
 
 From the 2026 MES Catalog, page 2.
 
+What the page shows, read from the page image:
+**Other**
+
+About Us:
+- Established in 2013.
+- Manufactures commercial LED lighting, Lighting Controls and EV Chargers.
+- Stated benefits: energy-efficient solutions that cut operating costs, unlock utility incentives and support long-term sustainability.
+- Equips channel partners with training and support.
+
+Why Choose MES?
+- **Extra-Mile Warranty:** 7-year in-house warranty, "outperforms competitors." Backed by quick support and replacements to keep sites running without downtime.
+- **Photometrics:** Photometric files delivered in 24–48 hours.
+- **Commissioning:** Integrated, end-to-end commissioning for Networked Lighting Controls (NLC) and EV chargers, optimized to project-specific requirements.
+- **Trusted Support:** Dedicated in-field technical personnel providing hands-on expertise, rapid troubleshooting and on-site installation help across all project phases.
+- **Quick Turnaround:** 200,000 sq. ft. of warehouse space and $18M in ready-to-ship inventory. The page claims "fast, reliable fulfillment with zero delays."
+- **Always-On Support:** Dedicated account managers and responsive service channels for continuous assistance and rapid issue resolution.
+
+Note: This is a company overview page. It has no products, certification logos, feature icons, ordering table, compatible sensors or dimensions. The graphics are generic icons only, including a "WARRANTY" badge seal, and none are certification marks.
+
+The page's raw text:
 Est. in 2013, we manufacture high-performance commercial LED
 lighting, Lighting Controls, EV Chargers for businesses that expect
 more. Our energy-efficient solutions cut operating costs, unlock
@@ -11729,6 +18647,39 @@ and peace of mind.
 
 From the 2026 MES Catalog, page 3.
 
+What the page shows, read from the page image:
+**Other**
+
+Page title: BUILDING'S LIFE COACH™ PHILOSOPHY
+
+Intro text (as printed):
+"Guided by the philosophy of a "Building's Life Coach," our strategic vision aims to markedly extend the building's lifespan through annual, incremental building upgrades. This tailored approach involves tapping into diverse resources-utility incentives, federal and state support, allocated budgets, and savings accrued from preceding years. The incorporation of energy-efficient technologies, fueled by utility incentives, not only curtails operational costs but also aligns the building with sustainable practices, minimizing its environmental impact."
+
+Staircase diagram, from bottom step to top, with the points attached to each step:
+
+1. **MES™ logo.** The small tagline under the logo appears to read "LIGHTING · CONTROLS · ENERGY", but the print is too small to confirm.
+2. **RESEARCH & DEVELOPMENT**
+   - Cutting-Edge Technology
+   - Hassle-free Installation
+3. **ENERGY EFFICIENCY INCENTIVE**
+   - Federal Tax Credits
+   - Utility Rebates
+   - State & Local Incentives
+4. **HELPFUL ENVIRONMENT**
+   - Low-emission Products
+   - Eco-friendly Packaging
+   - No Harmful Chemicals
+5. **PARTNERS**
+   - Technical & Sales Training
+   - Long-term Growth Support
+   - Ongoing Technical Assistance
+6. **CLIENTS**
+   - Improved Building Performance
+   - Simplified Maintenance & Operations
+
+This page has no products, certifications, feature icons, ordering table, compatible sensors or controls, or dimensions and mounting information.
+
+The page's raw text:
 BUILDINGʼS LIFE COACHTM
 PHILOSOPHYBUILDINGʼS LIFE COACHTM PHILOSOPHY
 Cutting-Edge
@@ -11762,6 +18713,33 @@ also aligns the building with sustainable practices, minimizing its environmenta
 
 From the 2026 MES Catalog, page 4.
 
+What the page shows, read from the page image:
+**Products**
+No product names are printed. The page is an overview titled "NETWORK LIGHTING CONTROL."
+
+**Certifications**
+- The DLC logo with "NLC5" appears under the heading "DLC / NLC ROLE." This is a general section graphic. The page does not link it to any specific product.
+
+**Features shown as icons**
+The page shows these system features, each with an icon and a short description:
+
+- **Bluetooth Mesh** (Bluetooth logo): A secure, low-power wireless protocol. It lets many lighting devices talk to each other. It gives scalable, reliable, and resilient control across large facilities.
+- **DLC / NLC Role** (DLC NLC5 logo): Defines system requirements for energy rebate eligibility, regulatory compliance, verified savings, and standardized networked lighting performance.
+- **Energy Monitoring** (laptop with lightning bolt icon): Real-time and historical lighting consumption data. Used for compliance verification, performance analysis, and continuous energy optimization.
+
+Under "SYSTEM FUNCTIONALITY":
+- **High-End Trim**: Sets a maximum light output limit in networked lighting controls. It prevents over-illumination, reduces energy use, and improves comfort. The printed text ends with "utility rebate requirements." The sentence appears to be missing a word.
+- **Occupancy/Vacancy**: Sensors turn lights ON when a space is occupied and OFF or dim when it is empty. Benefits listed: energy efficiency, comfort, and code compliance.
+- **Bi-Level Dimming**: Switches lighting between full and reduced levels based on occupancy. Benefits listed: energy savings and longer fixture life.
+- **Daylight Harvesting**: Adjusts artificial lighting to match available natural light. It keeps illumination targets and reduces energy use.
+- **Photocell Control**: Turns lighting on or off based on ambient light levels. Used for exterior and perimeter lighting.
+- **Scheduling**: Programs lighting by time. It supports work hours, overrides, and energy-efficient facility operation.
+
+**Other**
+- Intro text: NLC systems connect luminaires, sensors, and controls into a network. They enable automated operation, centralized management, energy optimization, code compliance, and real-time monitoring. Target markets listed: retail, commercial, and industrial facilities.
+- No sensor or control brands or codes are printed on this page.
+
+The page's raw text:
 NETWORK LIGHTING CONTROL
 SYSTEM FUNCTIONALITY
 (NLC) systems are intelligent lighting system that connect luminaires, sensors, and controls into network, enabling
@@ -11836,6 +18814,48 @@ continuous energy optimization.
 
 From the 2026 MES Catalog, page 5.
 
+What the page shows, read from the page image:
+**Certifications**
+This page is a legend of certification logos. It does not assign them to any products.
+- **UL Certified:** UL logo in a circle. "For over 100 years, UL has advanced public safety by setting standards and testing products for compliance."
+- **ETL Certified:** logo reads "c ETL us," "Listed" and "Intertek." "The ETL Mark confirms compliance with North American safety standards & is accepted by AHJs & code officials across the U.S. & Canada."
+- **DLC Listed Premium Certified:** logo reads "DLC LISTED PREMIUM." "Nonprofit advancing high-quality, energy-efficient lighting through collaboration with utilities, manufacturers, designers & government entities."
+- **DLC™ NLC5 Certified:** logo reads "DLC NLC5." Same description text as DLC Listed Premium.
+- **FCC Certified:** FCC logo. "FCC Certification confirms electronic products comply with U.S. electromagnetic interference and radio frequency regulations."
+- **Energy Star Certified:** Energy Star logo, with "ENERGY STAR" in small print below. "ENERGY STAR is a U.S. program certifying energy-efficient products that reduce energy use and operating costs."
+- **NSF:** listed under Fixture Logo, not Certificate. "NSF Certification confirms products meet strict public health and safety standards for sanitation-sensitive environments."
+- **ETL Listed For Damp Location:** listed under Fixture Logo. "ETL Listed for Damp Location means the product is certified safe for humid, moisture-prone indoor environments."
+
+**Features shown as icons**
+This is the Fixture Logo legend. No products are tied to these icons.
+- **Selectable Wattage:** icon reads "POWER SELECTABLE." "Selectable Wattage allows users to adjust a fixture's power output to fine-tune brightness."
+- **Correlated Color Temp (CCT):** icon reads "CCT TUNABLE." "CCT defines the color appearance of light, measured in Kelvin, from warm to cool."
+- **KV Surge Protection:** icon reads "KV SURGE PROTECTION." It does not state a kV value. "KV Surge Protection measures a device's ability to withstand high-voltage electrical surge events."
+- **High Lumen:** icon reads "HIGH LUMEN." "High Lumen refers to lighting with high brightness, delivering greater light output for large spaces."
+- **Photocell:** icon reads "PHOTOCELL." "A Photocell is a light sensor that automatically turns lighting on or off based on ambient daylight."
+- **Dark Sky Compliant:** icon reads "DARK SKY COMPLIANT." "Dark Sky Compliant lighting minimizes uplight and glare to reduce light pollution and protect night skies."
+- **Sensor Ready:** icon reads "SENSOR READY." "Sensor Ready means the fixture is preconfigured to easily integrate lighting controls."
+- **Dimmable:** icon reads "0-10V DIMMABLE." "Dimmable means a lighting product can adjust brightness levels to match application needs and save energy."
+- **Photocell Ready:** icon reads "PHOTOCELL READY." "Photocell Ready means the fixture is pre-wired to easily add a photocell."
+- **NEMA 4X:** icon reads "NEMA 4X." "NEMA 4X ratings indicate enclosures resist water, dust, corrosion, and harsh environmental conditions."
+- **IK Rating:** icon reads "IK 10." "IK Rating measures a product's resistance to mechanical impact and physical damage."
+- **Wet Location:** icon reads "WET LOCATION." "Wet Location means the product is safe for use where direct water exposure occurs."
+- No IP rating icon appears on this page.
+
+**Compatible sensors and controls**
+This is the Sensor Logo legend. Every icon reads "SENSOR READY TECHNOLOGY." No sensor brand or model codes are printed.
+- **QSR:** "QSR allows fast, plug-and-play connection of compatible sensors, enabling quick lighting control installation without complex wiring or setup."
+- **PQSR:** "PQSR refers to a sensor's ability to detect motion quickly and respond rapidly for immediate lighting control."
+- **ZSR:** "An industry-standard receptacle enabling fast, plug-and-play integration of occupancy sensors, photocells, and NLC for 0–10V dimming fixtures."
+- **3PSR:** "Connects through a 3Pin interface, enabling simple communication between the sensor & LED fixture for functions like occupancy detection or light control."
+
+**Other**
+Warranty legend:
+- **5 Year Warranty:** "Delivers protection for NLC controls, offering greater reliability, long-term assurance, and complete peace of mind."
+- **7 Year Warranty:** "All fixtures include a best-in-class 7-year warranty for long-term reliability and peace of mind."
+- **10 Year Warranty:** "Optional 10-year warranty available, covering both products and labor for extended protection."
+
+The page's raw text:
 FIXTURE LOGO
 SENSOR LOGO
 WARRANT Y
@@ -11967,6 +18987,37 @@ CERTIFICATE
 
 From the 2026 MES Catalog, page 6.
 
+What the page shows, read from the page image:
+**Products**
+- AMAYA PRO NLC SYSTEM
+- LED MAGNETIC STRIP RETROFIT IRIS GSR (2' | 4')
+- LED BACK-LIT FLAT PANEL BIRCH GSR+ (1'x4' | 2'x2' | 2'x4')
+- LED VOLUMETRIC TROFFER SYCAMORE GSR+ (2'x2' | 2'x4')
+- LED STRIP FIXTURE RETROFIT LILY GSR+ (4' | 8')
+
+**Certifications**
+This page has no certification logos. The certifications below appear only as text bullets.
+- IRIS GSR: ETL & DLC Premium
+- BIRCH GSR+: UL & DLC Premium
+- SYCAMORE GSR+: UL & DLC Premium
+- LILY GSR+: UL & DLC Premium
+- AMAYA PRO NLC SYSTEM: PSA Level 3 Security (no product certification listed)
+
+**Features**
+These are printed as text bullets, not icons.
+- AMAYA PRO NLC SYSTEM: PSA Level 3 Security; Clock-Dial Scheduling; Personalized Remote Control; IR Remote Based Commissioning; High Processing Gateway
+- IRIS GSR: IP20 Rated; QSR Sensor-Ready Design; Strips & Driver are Magnetized
+- BIRCH GSR+: IP20 Rated; QSR & PQSR Sensor-Ready Design; High Output Panel 50W and 72W
+- SYCAMORE GSR+: IP20 Rated; QSR & PQSR Sensor-Ready Design; High Output Panel 50W and 72W
+- LILY GSR+: IP20 Rated; QSR & PQSR Sensor-Ready Design; Snap-On Retrofit Design
+
+**Other**
+- The page is titled "NEW PRODUCTS".
+- The AMAYA PRO NLC SYSTEM entry shows the "AMAYA PRO" logo instead of a product photo.
+- Every product has a "Spec Sheet" button with a click icon. The links are not shown on the page.
+- The SYCAMORE GSR+ troffer is described as a "High Output Panel 50W and 72W", exactly as printed. This is the same wording used for the BIRCH GSR+ panel.
+
+The page's raw text:
 AMAYA PRO NLC SYSTEM
 • PSA Level 3 Security
 • Clock-Dial Scheduling
@@ -12015,6 +19066,41 @@ Sheet
 
 From the 2026 MES Catalog, page 7.
 
+What the page shows, read from the page image:
+**Products**
+1. LED VOLUMETRIC TROFFER SNAP-FIT™ LILAC GSR+ (2'x2' | 2'x4')
+2. LED BACK-LIT PANEL SNAP-FIT™ LOTUS GSR+ (2'x2' | 2'x4')
+3. LED LINEAR HIGH BAY SEQUOIA GSR
+4. LED HIGH BAY LINEAR PINE SSR (400W)
+5. LED AREA LIGHT WOLF GSR+
+
+**Certifications**
+There are no certification logos on this page. Certifications appear only as bullet text:
+- LILAC GSR+: UL & DLC Premium
+- LOTUS GSR+: UL & DLC Premium
+- SEQUOIA GSR: UL & DLC Premium
+- PINE SSR (400W): UL & DLC Premium
+- WOLF GSR+: UL & DLC Premium
+
+**Features (shown as bullet text, not icons)**
+- LILAC GSR+: IP20 Rated; QSR & PQSR Sensor-Ready Design; 150 LM/W Efficiency; Air Vent Return Option
+- LOTUS GSR+: IP20 Rated; QSR & PQSR Sensor-Ready Design; 150 LM/W Efficiency; Air Vent Return Option
+- SEQUOIA GSR: IP20 Rated; ZSR Sensor-Ready Design; 10KV Surge Protection; 6FT Cord & Aircraft Cable Included
+- PINE SSR (400W): IP20 Rated; ZSR Sensor-Ready Design; 10KV Surge Protection; 6FT Cord & Aircraft Cable Included
+- WOLF GSR+: IP65 Rated; ZSR Sensor-Ready Design; 10KV Surge Protection; ONE-BOLT Mounting System
+
+**Dimensions and mounting**
+- LILAC GSR+ and LOTUS GSR+: sizes 2'x2' and 2'x4'
+- SEQUOIA GSR and PINE SSR: 6FT cord and aircraft cable included
+- WOLF GSR+: ONE-BOLT Mounting System
+
+**Other**
+- Page heading: "NEW PRODUCTS"
+- Each product has a green "Spec Sheet" button with a click icon. These appear to be links to separate spec sheets, which are not shown on this page.
+- Only PINE SSR lists a wattage (400W). No other wattages, lumens, CCT, voltage, or ordering codes are printed on this page.
+- Each product has a photo. The WOLF GSR+ photo shows units in a dark (black or bronze) finish and a light grey finish, but no color options are listed in the text.
+
+The page's raw text:
 NEW PRODUCTS
 LED BACK-LIT PANEL SNAP-FITTM
 LOTUS GSR+ (2'x2' | 2'x4')
@@ -12068,6 +19154,24 @@ Sheet
 
 From the 2026 MES Catalog, page 8.
 
+What the page shows, read from the page image:
+**Other:**
+- This page is the catalog's table of contents. It has no products, certification logos, feature icons, ordering table, sensors, or dimensions.
+- Logo: MES™, tagline "LIGHTING. CONTROLS. ENERGY."
+- Heading: "TABLE OF CONTENT" (printed this way, singular)
+- Sections listed (numbered 01–10, no page numbers shown):
+  - 01 Emergency Drivers
+  - 02 Retrofit Kits
+  - 03 SnapFit Fixtures
+  - 04 Best Selling Products
+  - 05 Indoor Fixtures
+  - 06 High Bay Fixtures
+  - 07 Outdoor Fixtures
+  - 08 Tenons & Mount
+  - 09 Stand Alone Control
+  - 10 Energy Efficient Products
+
+The page's raw text:
 01
 02
 03
@@ -12096,6 +19200,41 @@ Retrofit Kits
 
 From the 2026 MES Catalog, page 9.
 
+What the page shows, read from the page image:
+**Products**
+- LED EMERGENCY DRIVER (HELIOS) WITH LIFE P04 BATTERY. Printed as "P04". It likely means LiFePO4.
+- LED EMERGENCY DRIVER (HELIOS) LINEAR (15W)
+- LED EMERGENCY DRIVER (HELIOS) LINEAR (20W / 25W)
+- LED EMERGENCY DRIVER (HELIOS) LINEAR (40W)
+- LED EMERGENCY DRIVER (HELIOS) ROUND
+
+Section title: LED EMERGENCY DRIVER
+
+**Certifications**
+- The page shows no certification logos.
+- The product photos have small marks printed on the labels. One looks like a UL-style mark on the linear units. They are too small to read, so I can't confirm any certification from this page.
+
+**Ordering table**
+| Product | Watts | Code |
+|---|---|---|
+| Helios with Life P04 Battery | 8W | 06759 |
+| Helios Linear | 15W | 06754 |
+| Helios Linear | 20W | 06760 |
+| Helios Linear | 25W | 06755 |
+| Helios Linear | 40W | 06756 |
+| Helios Round | 40W | 06758 |
+
+The page lists no DLC ID, CCT, lumens per watt, total lumens, voltage or color.
+
+**Dimensions and mounting**
+- There are no drawings or dimensions.
+- From the photos only: the 8W unit is a rectangular green box with end mounting tabs. The linear units are long, narrow green housings with flexible metal conduit and wire leads. The 20W/25W image also shows a small mounting plate. The Round unit is an oval green housing with a hook or eye at each end.
+
+**Other**
+- Each product has a "Spec Sheet" button, which is probably a link in the digital catalog.
+- The labels on the product photos carry the MES logo.
+
+The page's raw text:
 LED EMERGENCY DRIVER
 LED EMERGENCY DRIVER (HELIOS)
 WITH LIFE P04 BATTERY
@@ -12125,6 +19264,52 @@ Spec Sheet
 
 From the 2026 MES Catalog, page 10.
 
+What the page shows, read from the page image:
+**Products**
+- LED TUBES (GLADIOLA FAMILY)
+- T8 Type B *Dual End Bypass*
+
+**Certifications** (shown once for the family, not per product)
+- UL (circle "UL" logo with ®)
+- DLC Listed Premium
+- DLC NLC5
+- FCC
+
+**Features shown as icons**
+- CCT Tunable
+- IP20
+- 0-10V Dimmable
+- PET Coating
+
+**Ordering table** (T8 Type B Dual End Bypass)
+
+| Ordering Code | DLC ID# | Size | Watts | CCT | LM/Watt | Total LM | Voltage | Color |
+|---|---|---|---|---|---|---|---|---|
+| 09230 | PQLGVYFU | 2′ | 6W | 4000K | 180 LM/W | 1,080 LM | 120-277V | White |
+| 09231 | PRPF5H8T | 2′ | 6W | 5000K | 180 LM/W | 1,080 LM | 120-277V | White |
+| 09232 | POSNMKKG | 4′ | 9W | 4000K | 180 LM/W | 1,650 LM | 120-277V | White |
+| 09233 | P9IT03CA | 4′ | 9W | 5000K | 180 LM/W | 1,650 LM | 120-277V | White |
+
+Some DLC ID characters are hard to tell apart and should be checked against the DLC listing:
+- 09232: "POSNMKKG" may be "PQSNMKKG" (O or Q).
+- 09233: "P9IT03CA" may use 1 for I or O for 0.
+
+**Other**
+- Features listed in the text:
+  - Shatter-Resistant Design: a PET safety coating improves durability in demanding commercial environments.
+  - Flexible Line-Voltage Wiring: supports both single-ended and double-ended 120–277V installations.
+  - Dual-Mode Operation: works with compatible fluorescent ballasts or direct-wire line voltage.
+  - 4 CCT Selectable: 3500K, 4000K, 5000K or 6500K in one tube.
+  - T8 Fluorescent Replacement: direct upgrade for traditional 4 ft fluorescent T8 lamps.
+- 10 Years Warranty badge.
+- "Spec Sheet" button next to the table heading. It is likely a link in the digital catalog.
+- Points to confirm with the manufacturer:
+  - The features text says "4 CCT Selectable" and the CCT Tunable icon appears, but the table gives one fixed CCT per ordering code (4000K or 5000K). 3500K and 6500K are not listed as ordering codes.
+  - The features text describes a 4 ft replacement, but the table also lists 2′ sizes.
+  - The table heading says "Type B Dual End Bypass," but the features text also mentions single-ended wiring and ballast-compatible (dual-mode) operation.
+  - A 0-10V Dimmable icon is shown, but no dimming wiring details are printed.
+
+The page's raw text:
 LED TUBES
 (GLADIOLA FAMILY)
 CERTIFICATIONS
@@ -12168,6 +19353,57 @@ Sheet
 
 From the 2026 MES Catalog, page 11.
 
+What the page shows, read from the page image:
+**Products**
+- T8 Type B *Dual End Bypass*
+- T8 Type A+B *Dual Mode*
+- T8 U-Bend Type B *Sinlge/Double End Bypass* ("Sinlge" is misspelled on the page.)
+- T5 Type B *Dual End Bypass*
+
+**Certifications**
+- No certification logos are on this page. There are no UL, cULus, ETL, DLC, Energy Star, FCC or DarkSky marks.
+- Each table has a "DLC ID#" column, but the page does not say which DLC tier (Standard or Premium) applies.
+
+**Features shown as icons**
+- No feature icons are shown.
+- The only badges are a "7 YEARS WARRANTY" seal and a "Spec Sheet" button next to each product heading (see Other).
+
+**Ordering table**
+
+*T8 Type B Dual End Bypass*
+- 02093: DLC ID P430QK9E, 4′, 13.5W, 4000K, 150 LM/W, 2,025 LM, 120-277V, White
+- 02094: DLC ID PTLIVQRW, 4′, 13.5W, 5000K, 150 LM/W, 2,025 LM, 120-277V, White
+- 02096: DLC ID S-X64T81, 4′, 17W, 4000K, 150 LM/W, 2,550 LM, 120-277V, White
+- 02097: DLC ID S-VVXQHQ, 4′, 17W, 5000K, 150 LM/W, 2,550 LM, 120-277V, White
+- 02099: DLC ID S-GQKHYF, 4′, 24W, 4000K, 150 LM/W, 3,600 LM, 120-277V, White
+- 02112: DLC ID S-8GONL6, 4′, 24W, 5000K, 150 LM/W, 3,600 LM, 120-277V, White
+
+*T8 Type A+B Dual Mode*
+- 09234: DLC ID PRW779OB, 4′, 9W, 4000K, 180 LM/W, 1,620 LM, 120-277V, White
+- 09235: DLC ID PXPQDJHL, 4′, 9W, 5000K, 180 LM/W, 1,620 LM, 120-277V, White
+- 02092: DLC ID S-I6BS9E, 4′, 15W, 5000K, 150LM/W, 2,250 LM, 120-277V, White
+- 02096: DLC ID S-BIQ420, 4′, 15W, 4000K, 150LM/W, 2,250 LM, 120-277V, White
+
+*T8 U-Bend Type B Sinlge/Double End Bypass*
+- 02057: DLC ID S-NK5YVZ, 4′, 15W, 3500K / 4000K / 5000K, 150 LM/W, 2,250 LM, 120-277V, White
+
+*T5 Type B Dual End Bypass*
+- 02113: DLC ID S-L01BB1, 4′, 15W, 3500K / 4000K / 5000K / 6500K, 150 LM/W, 2,250 LM, 120-277V, White
+- 02114: DLC ID S-Z73M1T, 4′, 24W, 3500K / 4000K / 5000K / 6500K, 150 LM/W, 3,600 LM, 120-277V, White
+
+**Other**
+- All four product headings have a "7 YEARS WARRANTY" seal.
+- All four product headings have a "Spec Sheet" button. It looks like a link, but no URL is printed.
+- **Duplicate ordering code:** 02096 appears twice.
+  - In T8 Type B it is 17W, 4000K, DLC S-X64T81.
+  - In T8 Type A+B it is 15W, 4000K, DLC S-BIQ420.
+  - Confirm the correct code before quoting.
+- **Characters that are hard to read:** some letters in the DLC IDs could be read either way. Check these against the DLC listing before using them.
+  - "O" or "0": PRW779OB, S-8GONL6, S-L01BB1
+  - "I" or "l": S-I6BS9E, S-BIQ420, PTLIVQRW
+- The page has no compatible sensors or controls, and no dimensions or mounting drawings.
+
+The page's raw text:
 T8 Type A+B Dual Mode
 4ʼ 1,620 LM09234 PRW779OB 180 LM/W4000K 120-277V White
 4ʼ
@@ -12232,6 +19468,32 @@ Sheet
 
 From the 2026 MES Catalog, page 12.
 
+What the page shows, read from the page image:
+**Products**
+Page title: SENSOR INFORMATION
+
+BASIC LIGHTING CONTROL
+- 06247, labelled "*On/Off Sensor"
+- 06278 (no text label; the picture shows a handheld remote control)
+
+NETWORK LIGHTING CONTROL (FIXTURE MOUNTED)
+- 06269-01
+- 06296
+- 06930
+
+**Compatible sensors and controls**
+- Basic lighting control: 06247 (*On/Off Sensor) and 06278 (remote, per the picture). No brand is printed.
+- Network lighting control (fixture mounted):
+  - LiteLinQ ("Efficiency Linked"): 06269-01
+  - SILVAIR: 06296
+  - AMAYA PRO: 06930
+
+**Other**
+- The asterisk in "*On/Off Sensor" has no matching footnote on this page.
+- The page does not say which fixtures these sensors and controls work with.
+- The bottom half of the page is a photo of an open-plan office with recessed ceiling lighting. It has no text or product information.
+
+The page's raw text:
 SENSOR INFORMATION
 BASIC LIGHTING CONTROL
 06269-01
@@ -12248,6 +19510,46 @@ NETWORK LIGHTING CONTROL
 
 From the 2026 MES Catalog, page 13.
 
+What the page shows, read from the page image:
+**Products**
+- LED T8 EMERGENCY TUBE TYPE B (GLADIOLA S)
+- Table heading: T8 Type B *Dual End Bypass*
+
+**Certifications** (same for both products)
+- UL
+- DLC Listed Premium
+- DLC NLC5
+- FCC
+
+**Features shown as icons**
+- CCT Tunable
+- IP20
+- 0-10V Dimmable
+- PET Coating
+
+**Ordering table**
+- 02115 | DLC ID: LED15WT8/48/EM2S/3CCT-DBL | Size: 4′ | 15W | CCT: 3500K / 4000K / 5000K | Total LM: 380 LM | Battery: 9.6V 600mAh Lithium
+- 02116 | DLC ID: LED15WT8/48/EM5S/3CCT-DBL | Size: 4′ | 15W | CCT: 3500K / 4000K / 5000K | Total LM: 680 LM | Battery: 16V 600mAh Lithium
+
+The table does not print lumens per watt, input voltage, or color columns.
+
+**Dimensions and mounting**
+- Size: 4′. No drawings or other dimensions are shown.
+- Fixture compatibility: suitable for enclosed fixtures in dry and damp locations.
+- Wiring: Type B, dual end bypass.
+
+**Other**
+- Features listed on the page:
+  - Shatter-Resistant Design: PET safety coating improves durability in demanding commercial environments.
+  - Emergency Lighting: built-in lithium batteries provide reliable emergency illumination.
+  - Low Maintenance: extended lifespan helps reduce maintenance frequency and costs.
+  - Long Lifespan: 70,000-hour LED lifespan.
+  - Emergency Runtime: 90 minutes of light at 680 lumens. This runtime matches the 680 LM figure for 02116. The page does not separately state an emergency runtime or emergency lumen output for 02115.
+- The product photo shows an orange end cap and a CCT selector on the tube labeled 3500K / 4000K / 5000K.
+- The page has a "Spec Sheet" button, likely a link.
+- Brand: MES, with the tagline "Lighting. Controls. Energy."
+
+The page's raw text:
 LED T8 EMERGENCY TUBE TYPE B
 (GLADIOLA S)
 CERTIFICATIONS
@@ -12294,6 +19596,56 @@ T8 Type B Dual End Bypass
 
 From the 2026 MES Catalog, page 14.
 
+What the page shows, read from the page image:
+**Products**
+- LED MAGNETIC STRIP RETROFIT (IRIS SSR), sizes 2' | 4'
+
+**Certifications** (all apply to the whole page)
+- UL (the logo shows "UL" in a circle; no "c" or "us" marks are visible)
+- DLC Listed Premium
+- DLC NLC5
+- FCC
+
+**Features shown as icons**
+- Power Selectable
+- IP20
+- QSR Sensor Ready Technology
+- 0-10V Dimmable
+
+**Ordering table** (section heading: "1 Strip")
+
+| Ordering Code (No Lens) | Ordering Code (Frosted) | DLC ID# | Strips# | Size | Watts | CCT | LM/Watt | Total LM | Voltage |
+|---|---|---|---|---|---|---|---|---|---|
+| 10081 | 10237 | S-09P746 | 1 Strip | 2' | 15W | 3000K | 160 LM/W | 2,400 LM | 120-277V |
+| 10082 | 10238 | S-1US02O* | 1 Strip | 2' | 15W | 4000K | 160 LM/W | 2,400 LM | 120-277V |
+| 10083 | 10239 | S-2PB8DJ | 1 Strip | 2' | 15W | 5000K | 160 LM/W | 2,400 LM | 120-277V |
+| 10108 | 10264 | S-8EM4FL | 1 Strip | 4' | 15W | 3000K | 160 LM/W | 2,400 LM | 120-277V |
+| 10109 | 10265 | S-8FR9VZ | 1 Strip | 4' | 15W | 4000K | 160 LM/W | 2,400 LM | 120-277V |
+| 10110 | 10266 | S-AGJ04M* | 1 Strip | 4' | 15W | 5000K | 160 LM/W | 2,400 LM | 120-277V |
+
+\*In S-1US02O and S-AGJ04M, the font makes the digit zero and the letter O hard to tell apart. Check these IDs on the DLC listing.
+
+Note: the table lists 15W / 2,400 LM for both the 2' and the 4' strips. The Features text says "24W or 40W per strip." Both are printed this way on the page. The mismatch should be confirmed with MES.
+
+**Compatible sensors and controls**
+- QSR Sensor-Ready: the driver supports PIR or OcuSense controls, for basic and NLC lighting systems. No sensor model codes are printed.
+
+**Dimensions and mounting**
+- No dimension drawings are on the page.
+- Mounting: magnetic clips, or ears for self-tapping screws.
+
+**Other**
+- Features listed in the text:
+  - Available Sizes: 2' and 4', for simplified inventory management.
+  - Scalable Power: "Use one strip for 24W or 40W per strip."
+  - Quick Install: 5-minute setup with magnetic clips or ears for self-tapping screws.
+  - Plug-and-Play Design: no sockets or rewiring needed.
+  - QSR Sensor-Ready: the driver supports PIR or OcuSense controls for quick installation of basic and NLC lighting systems.
+- Two lens options: No Lens or Frosted, each with its own ordering code.
+- The page has a "Spec Sheet" button.
+- Brand: MES™, "Lighting. Controls. Energy."
+
+The page's raw text:
 LED MAGNETIC STRIP RETROFIT
 (IRIS SSR)
 CERTIFICATIONS
@@ -12356,6 +19708,48 @@ Sheet
 
 From the 2026 MES Catalog, page 15.
 
+What the page shows, read from the page image:
+## Ordering table
+
+Columns as printed: Ordering Code (No Lens) | Ordering Code (Frosted) | DLC ID# | Strips# | Size | Watts | CCT | LM/Watt | Total LM | Voltage
+
+**2 Strip**
+
+- 10093 | 10249 | S-Q5LCIP | 2 Strip | 2′ | 30W | 3000K | 160 LM/W | 4,800 LM | 120-277V
+- 10094 | 10250 | S-43AZ92 | 2 Strip | 2′ | 30W | 4000K | 160 LM/W | 4,800 LM | 120-277V
+- 10095 | 10251 | S-QJKOAD | 2 Strip | 2′ | 30W | 5000K | 160 LM/W | 4,800 LM | 120-277V
+- 10111 | 10267 | S-OMEHZ8 | 2 Strip | 4′ | 30W | 3000K | 160 LM/W | 4,800 LM | 120-277V
+- 10112 | 10268 | S-D61GE4 | 2 Strip | 4′ | 30W | 4000K | 160 LM/W | 4,800 LM | 120-277V
+- 10113 | 10269 | S-E8CVL6 | 2 Strip | 4′ | 30W | 5000K | 160 LM/W | 4,800 LM | 120-277V
+- 10132 | 10288 | S-8EM4FL | 2 Strip | 4′ | 30W | 5000K | 160 LM/W | 4,800 LM | 120-277V
+- 10122 | 10278 | S-0EX8K4 | 2 Strip | 4′ | 30W | 5000K | 160 LM/W | 4,800 LM | 120-277V
+- 10123 | 10279 | S-64EB50 | 2 Strip | 4′ | 40W | 3500K | 160 LM/W | 6,400 LM | 120-277V
+- 10124 | 10280 | S-2K7U8X | 2 Strip | 4′ | 40W | 4000K | 160 LM/W | 6,400 LM | 120-277V
+- 10125 | 10281 | S-H3IV75 | 2 Strip | 4′ | 40W | 5000K | 160 LM/W | 6,400 LM | 120-277V
+- 10126 | 10282 | S-UZWO35 | 2 Strip | 4′ | 60W | 3500K | 160 LM/W | 9,600 LM | 120-277V
+- 10127 | 10283 | S-XDUKZO | 2 Strip | 4′ | 60W | 4000K | 160 LM/W | 9,600 LM | 120-277V
+- 10128 | 10284 | S-XY04LG | 2 Strip | 4′ | 60W | 5000K | 160 LM/W | 9,600 LM | 120-277V
+- 10129 | 10285 | S-GF4VX2 | 2 Strip | 4′ | 80W | 3500K | 160 LM/W | 12,800 LM | 120-277V
+- 10130 | 10286 | S-NMAFHK | 2 Strip | 4′ | 80W | 4000K | 160 LM/W | 12,800 LM | 120-277V
+- 10131 | 10287 | S-ZKLP53 | 2 Strip | 4′ | 80W | 5000K | 160 LM/W | 12,800 LM | 120-277V
+
+**3 Strip**
+
+- 10096 | 10252 | S-4M9P8K | 3 Strip | 2′ | 30W | 3000K | 160 LM/W | 4,800 LM | 120-277V
+- 10097 | 10253 | S-47P8N9 | 3 Strip | 2′ | 30W | 4000K | 160 LM/W | 4,800 LM | 120-277V
+- 10098 | 10254 | S-54CET8 | 3 Strip | 2′ | 30W | 5000K | 160 LM/W | 4,800 LM | 120-277V
+- 10099 | 10255 | S-ZBMF8S | 3 Strip | 2′ | 40W | 3000K | 160 LM/W | 6,400 LM | 120-277V
+- 10100 | 10256 | S-0HE4GS | 3 Strip | 2′ | 40W | 4000K | 160 LM/W | 6,400 LM | 120-277V
+- 10101 | 10257 | S-FLSI09 | 3 Strip | 2′ | 40W | 5000K | 160 LM/W | 6,400 LM | 120-277V
+
+## Other
+
+- **No product name on this page.** It is a table-only page and is probably the continuation of a product from a previous page. There are no certification logos, feature icons, sensors or controls, dimensions, or mounting notes.
+- **DLC IDs with uncertain characters.** In this font, letter O and zero 0 look alike, and capital I and lowercase l look alike. Verify these on the DLC QPL before quoting them: S-Q5LCIP, S-QJKOAD, S-OMEHZ8, S-0EX8K4, S-H3IV75, S-UZWO35, S-XDUKZO, S-XY04LG, S-0HE4GS, S-FLSI09.
+- **Three identical rows.** Codes 10113/10269, 10132/10288 and 10122/10278 all show the same specs: 2 Strip, 4′, 30W, 5000K, 4,800 LM. Each has a different DLC ID. 10132 is also printed out of numerical order. Confirm with the factory which code to quote.
+- **CCT varies by group.** The 2′ and 4′ 30W 2 Strip rows and all 3 Strip rows start at 3000K. The 4′ 40W, 60W and 80W 2 Strip rows start at 3500K.
+
+The page's raw text:
 10100 S-0HE4GS
 10101
 10256
@@ -12456,6 +19850,51 @@ Ordering Code
 
 From the 2026 MES Catalog, page 16.
 
+What the page shows, read from the page image:
+**Products**
+- No product name is printed on this page. The table appears to continue from a previous page; there is no "3 Strip" heading, only a "4 Strip" subheading partway down.
+
+**Ordering table**
+Columns as printed: Ordering Code (No Lens) | Ordering Code (Frosted) | DLC ID# | Strips# | Size | Watts | CCT | LM/Watt | Total LM | Voltage
+
+*3 Strip (no section heading printed):*
+- 10133 | 10289 | S-8FR9VZ | 3 Strip | 4′ | 30W | 3000K | 160 LM/W | 4,800 LM | 120-277V
+- 10134 | 10290 | S-AGJ04M | 3 Strip | 4′ | 30W | 4000K | 160 LM/W | 4,800 LM | 120-277V
+- 10117 | 10273 | S-OMEHZ8 | 3 Strip | 4′ | 30W | 5000K | 160 LM/W | 4,800 LM | 120-277V
+- 10118 | 10274 | S-D61GE4 | 3 Strip | 4′ | 40W | 3000K | 160 LM/W | 6,400 LM | 120-277V
+- 10119 | 10275 | S-E8CVL6 | 3 Strip | 4′ | 40W | 4000K | 160 LM/W | 6,400 LM | 120-277V
+- 10120 | 10276 | S-SHN43W | 3 Strip | 4′ | 40W | 5000K | 160 LM/W | 6,400 LM | 120-277V
+- 10121 | 10277 | S-LQRCZK | 3 Strip | 4′ | 40W | 5000K | 160 LM/W | 6,400 LM | 120-277V
+- 10138 | 10294 | S-F6Y7TB | 3 Strip | 4′ | 45W | 3500K | 160 LM/W | 7,200 LM | 120-277V
+- 10139 | 10295 | S-J60LG1 | 3 Strip | 4′ | 45W | 4000K | 160 LM/W | 7,200 LM | 120-277V
+- 10140 | 10296 | S-AXVZ8B | 3 Strip | 4′ | 45W | 5000K | 160 LM/W | 7,200 LM | 120-277V
+- 10141 | 10297 | S-ZXLS4O | 3 Strip | 4′ | 60W | 3500K | 160 LM/W | 9,600 LM | 120-277V
+- 10142 | 10298 | S-YL8KT5 | 3 Strip | 4′ | 60W | 4000K | 160 LM/W | 9,600 LM | 120-277V
+- 10143 | 10299 | S-4I15OZ | 3 Strip | 4′ | 60W | 5000K | 160 LM/W | 9,600 LM | 120-277V
+
+*4 Strip:*
+- 10150 | 10306 | S-UZWO35 | 4 Strip | 4′ | 60W | 3500K | 160 LM/W | 9,600 LM | 120-277V
+- 10151 | 10307 | S-XDUKZO | 4 Strip | 4′ | 60W | 4000K | 160 LM/W | 9,600 LM | 120-277V
+- 10152 | 10308 | S-XY04LG | 4 Strip | 4′ | 60W | 5000K | 160 LM/W | 9,600 LM | 120-277V
+- 10153 | 10309 | S-GF4VX2 | 4 Strip | 4′ | 80W | 3500K | 160 LM/W | 12,800 LM | 120-277V
+- 10154 | 10310 | S-NMAFHK | 4 Strip | 4′ | 80W | 4000K | 160 LM/W | 12,800 LM | 120-277V
+- 10155 | 10311 | S-ZKLP53 | 4 Strip | 4′ | 80W | 5000K | 160 LM/W | 12,800 LM | 120-277V
+
+**Other**
+- **Uncertain characters in DLC IDs.** In the printed font, the letter O and the number 0, and the letter I and the number 1, are hard to tell apart. Please check these IDs against the DLC listing before quoting them:
+  - S-OMEHZ8
+  - S-AGJ04M
+  - S-J60LG1
+  - S-ZXLS4O
+  - S-4I15OZ
+  - S-UZWO35
+  - S-XDUKZO
+  - S-XY04LG
+- **Possible duplicate row.** 10120/10276 and 10121/10277 are printed with identical specs (3 Strip, 4′, 40W, 5000K, 6,400 LM) but different ordering codes and DLC IDs. Please confirm with the product manager; one of them may be a typo, such as a different CCT.
+- **CCT gap.** The 30W and 40W 3-strip rows list 3000K, while the 45W and 60W rows and all 4-strip rows list 3500K. No 3000K option is printed for 45W, 60W or 80W.
+- **No color column** is printed in the table.
+
+The page's raw text:
 10119 S-E8CVL6
 10120
 10275
@@ -12547,6 +19986,40 @@ Ordering Code
 
 From the 2026 MES Catalog, page 17.
 
+What the page shows, read from the page image:
+**Products:**
+Page title: SENSOR INFORMATION
+
+*Basic Lighting Control*
+- 06267-02 (sensor module with lead and connector)
+- 06278 (handheld remote control)
+
+*Network Lighting Control*
+- (OcuSense-QSR)
+  - 06274 (LiteLinQ)
+  - 06291 (SILVAIR)
+  - 06901 (AMAYA PRO)
+- (PIR-QSR)
+  - 06282 (LiteLinQ)
+  - 06294 (SILVAIR)
+  - 06902 (AMAYA PRO)
+
+**Compatible sensors and controls:**
+| Brand | OcuSense-QSR | PIR-QSR |
+|---|---|---|
+| LiteLinQ ("Efficiency Linked") | 06274 | 06282 |
+| SILVAIR | 06291 | 06294 |
+| AMAYA PRO | 06901 | 06902 |
+
+Basic lighting control (no brand shown): 06267-02 sensor, 06278 remote.
+
+**Other:**
+- The page shows the products by code only. It does not print product names, specs, wattages, certifications, feature icons, dimensions, or an ordering table.
+- The words "sensor" and "remote control" above are my descriptions based on the photos. The page does not print them.
+- The labels "OcuSense-QSR" and "PIR-QSR" are printed as group headings. The page does not explain them.
+- The bottom half of the page is a photo of an office ceiling with troffer lights. It has no product information.
+
+The page's raw text:
 SENSOR INFORMATION
 BASIC LIGHTING CONTROL
 06267-02 06278
@@ -12563,6 +20036,57 @@ NETWORK LIGHTING CONTROL
 
 From the 2026 MES Catalog, page 18.
 
+What the page shows, read from the page image:
+**Products**
+- LED MAGNETIC STRIP RETROFIT (IRIS GSR), sizes 2' | 4'
+
+**Certifications** (one set for the whole page)
+- UL. The logo has a small mark inside the circle that is hard to read, so I can't tell whether it is UL or cULus.
+- DLC Listed Premium
+- DLC NLC5
+- FCC
+
+**Features shown as icons**
+- Power Selectable
+- CCT Tunable
+- IP20
+- QSR Sensor Ready Technology
+- 0-10V Dimmable
+
+**Ordering table**
+All rows are printed as CCT 3500K / 4000K / 5000K, 160 LM/W, and 120-277V.
+
+*1 Strip*
+- 10356 | DLC ID S-2PB8DJ | 1 Strip | 2' | 15W | 2,400 LM
+- 10361 | DLC ID S-AGJ04M | 1 Strip | 4' | 15W | 2,400 LM
+- 10362 | DLC ID S-E8CVL6 | 1 Strip | 4' | 24W | 3,840 LM
+
+*2 Strip*
+- 10357 | DLC ID S-QJKOAD | 2 Strip | 2' | 30W | 4,800 LM. The character after "K" could be the letter O or the number 0.
+- 10363 | DLC ID S-AGJ04M | 2 Strip | 4' | 15W | 2,400 LM
+
+**Compatible sensors and controls**
+- QSR Sensor-Ready: the driver supports PIR or OcuSense controls, for quick installation of basic and NLC lighting systems. No brand or part codes are printed.
+
+**Dimensions and mounting**
+- Sizes are 2' and 4'.
+- Mounting is by magnetic clips, or by ears for self-tapping screws.
+- The page shows no drawings or dimensions.
+
+**Other**
+- Features text:
+  - Available sizes 2' and 4' for simplified inventory management.
+  - Scalable Power: "Use one strip for 24W or 40W per strip."
+  - CCT Tunable from 35K to 50K.
+  - Plug-and-Play Design: no sockets or rewiring needed.
+  - Quick Install: 5-minute setup.
+- Possible errors to check with MES:
+  - Code 10363 (2 Strip, 4') is printed with the same DLC ID (S-AGJ04M), wattage (15W) and lumens (2,400 LM) as 10361 (1 Strip, 4').
+  - The features text mentions 40W per strip, but no 40W row appears in the table.
+- There is a "Spec Sheet" button/link graphic on the page.
+- Brand: MES™, "Lighting. Controls. Energy."
+
+The page's raw text:
 LED MAGNETIC STRIP RETROFIT
 (IRIS GSR)
 CERTIFICATIONS
@@ -12625,6 +20149,41 @@ Sheet
 
 From the 2026 MES Catalog, page 19.
 
+What the page shows, read from the page image:
+**Products**
+- No product name is printed on this page. The table continues from a previous page. The 2-strip rows have no section heading here; the 3-strip rows are under the heading "3 Strip".
+
+**Ordering table**
+All rows: CCT 3500K / 4000K / 5000K, 160 LM/W, 120-277V.
+
+| Ordering Code | DLC ID# | Strips# | Size | Watts | Total LM |
+|---|---|---|---|---|---|
+| 10364 | S-E8CVL6 | 2 Strip | 4′ | 24W | 3,840 LM |
+| 10365 | S-0EX8K4 | 2 Strip | 4′ | 30W | 4,800 LM |
+| 10366 | S-H3IV75 | 2 Strip | 4′ | 40W | 6,400 LM |
+| 10367 | S-4I15OZ | 2 Strip | 4′ | 60W | 9,600 LM |
+| 10358 | S-54CET8 | 3 Strip | 2′ | 30W | 4,800 LM |
+| 10359 | S-FLSI09 | 3 Strip | 2′ | 40W | 6,400 LM |
+| 10368 | S-AXVZ8B | 3 Strip | 4′ | 45W | 7,200 LM |
+| 10369 | S-4I15OZ | 3 Strip | 4′ | 60W | 9,600 LM |
+
+Notes on the table:
+- In the DLC IDs, some characters could be either a letter or a digit: 0 or O, I or 1. This affects S-0EX8K4, S-H3IV75, S-4I15OZ and S-FLSI09. Check these against the DLC listings before quoting them.
+- 10367 (2 Strip) and 10369 (3 Strip) show the same DLC ID, S-4I15OZ. This may be a printing error. Confirm it before quoting either one.
+
+**Compatible sensors and controls**
+Section heading: "SENSOR INFORMATION", subheading: "NETWORK LIGHTING CONTROL"
+
+| Brand | Top row | Bottom row |
+|---|---|---|
+| LiteLinQ ("Efficiency Linked") | 06274 | 06282 |
+| SILVAIR | 06291 (OcuSense-QSR) | 06294 (PIR-QSR) |
+| AMAYA PRO | 06901 | 06902 |
+
+- The labels "(OcuSense-QSR)" and "(PIR-QSR)" are printed only above the SILVAIR logos. The page does not say whether they also describe the LiteLinQ and AMAYA PRO sensors in the same row.
+- The pictures show two different sensor bodies. The top-row sensors have a small round lens. The bottom-row sensors have a larger lens that looks like a PIR dome.
+
+The page's raw text:
 Ordering Code DLC ID# Strips# WattsSize CCT LM/Watt Total LM Voltage
 10365 S-0EX8K4 2 Strip 4ʼ 4,800 LM160 LM/W
 3500K
@@ -12680,6 +20239,59 @@ NETWORK LIGHTING CONTROL
 
 From the 2026 MES Catalog, page 20.
 
+What the page shows, read from the page image:
+**Products**
+- LED T8 TUBE TYPE C (ORCHID BSR)
+- Sizes printed under the title: 2' | 4'
+
+**Certifications**
+These apply to the whole page:
+- UL (the logo shows "UL" only; no "c" or "us" marks are visible)
+- DLC Listed Premium
+- DLC NLC5
+- FCC
+
+**Features shown as icons**
+- QSR Sensor Ready Technology
+- IP65
+- 0-10V Dimmable
+- PET Coating
+
+**Ordering table**
+All models are 120-277V and White. The DLC IDs are copied as printed. 13967 and 13968 have no "S-" prefix.
+
+*1 Tube*
+- 13937: DLC ID S-MFNTL0. 1 Tube, 2', 6W, 4000K, 180 LM/W, 1,080 LM. The last character may be a zero or the letter O; the print is unclear.
+- 13938: DLC ID S-S3CKZY. 1 Tube, 2', 6W, 5000K, 180 LM/W, 1,080 LM.
+- 13949: DLC ID S-L4MV9L. 1 Tube, 4', 9W, 4000K, 180 LM/W, 1,620 LM.
+- 13950: DLC ID S-4BYLYC. 1 Tube, 4', 9W, 5000K, 180 LM/W, 1,620 LM.
+- 13967: DLC ID PS4JC44S. 1 Tube, 4', 15W, 4000K, 140 LM/W, 2,100 LM.
+- 13968: DLC ID PBTMYMBR. 1 Tube, 4', 15W, 5000K, 140 LM/W, 2,100 LM.
+
+*2 Tube*
+- 13941: DLC ID S-J589CB. 2 Tube, 2', 12W, 4000K, 180 LM/W, 2,160 LM (printed "2,160LM").
+- 13942: DLC ID S-NK10HL. 2 Tube, 2', 12W, 5000K, 180 LM/W, 2,160 LM.
+- 13953: DLC ID S-6KM8MH. 2 Tube, 4', 18W, 4000K, 180 LM/W, 3,240 LM.
+
+**Compatible sensors and controls**
+- The page says "Driver supports PIR or OcuSense controls for quick installation of basic and NLC lighting systems."
+- No brands or model codes for specific sensors are printed.
+
+**Dimensions and mounting**
+- There are no dimension drawings on the page.
+- Install note: "Approx 5-Minute Install: Harness + magnetic clips enable tool-light setup with just a screwdriver." "tool-light" is printed this way and is probably a typo for "tool-light/tool-less."
+- The photo shows a separate driver box with a wire harness, next to the tubes.
+
+**Other**
+- Features text:
+  - "Available Sizes: 2′ and 4′ for simplified inventory management."
+  - "Multiple Wattage Options: Available in 9W, and 15W models for 1–4 lamp equivalents, with PET coating."
+- This wattage note doesn't match the table, which also lists 6W, 12W and 18W models.
+- The table has no 2 Tube 4' 18W 5000K model. The table may continue on the next page.
+- The page has a "Spec Sheet" button, which is a clickable link in the digital catalog.
+- Brand: MES, "Lighting. Controls. Energy."
+
+The page's raw text:
 LED T8 TUBE TYPE C
 (ORCHID BSR)
 CERTIFICATIONS
@@ -12738,6 +20350,57 @@ TECHNOLOGY PET COATING
 
 From the 2026 MES Catalog, page 21.
 
+What the page shows, read from the page image:
+**Products**
+- No product name is printed on this page. The ordering table appears to continue from the previous page.
+- The table has section headings "3 Tube" and "4 Tube". The first three rows (2 Tube) have no heading on this page.
+
+**Ordering table**
+Columns: Ordering Code | DLC ID# | Tubes# | Size | Watts | CCT | LM/Watt | Total LM | Voltage | Color
+
+*(2 Tube, no section heading on this page)*
+- 13954 | S-5GMYH4 | 2 Tube | 4′ | 18W | 5000K | 180 LM/W | 3,240 LM | 120-277V | White
+- 13971 | P0HF1TTU | 2 Tube | 4′ | 30W | 4000K | 140 LM/W | 1,620 LM | 120-277V | White
+- 13972 | PRJZO8M7 | 2 Tube | 4′ | 30W | 5000K | 140 LM/W | 1,620 LM | 120-277V | White
+
+*3 Tube*
+- 13945 | S-W52XNM | 3 Tube | 2′ | 18W | 4000K | 180 LM/W | 3,240 LM | 120-277V | White
+- 13946 | S-93XWMC | 3 Tube | 2′ | 18W | 5000K | 180 LM/W | 3,240 LM | 120-277V | White
+- 13957 | S-ZJFYSL | 3 Tube | 4′ | 27W | 4000K | 180 LM/W | 4,860 LM | 120-277V | White
+- 13958 | S-5H54F8 | 3 Tube | 4′ | 27W | 5000K | 180 LM/W | 4,860 LM | 120-277V | White
+- 13989 | S-KD5Z8H | 3 Tube | 4′ | 45W | 4000K | 140 LM/W | 6,300 LM | 120-277V | White
+- 13990 | S-BZB4ML | 3 Tube | 4′ | 45W | 5000K | 140 LM/W | 6,300 LM | 120-277V | White
+
+*4 Tube*
+- 13961 | S-VWWY2W | 4 Tube | 4′ | 36W | 4000K | 180 LM/W | 6,480 LM | 120-277V | White
+- 13962 | S-2NGX5W | 4 Tube | 4′ | 36W | 5000K | 180 LM/W | 6,480 LM | 120-277V | White
+- 13975 | PW5C7PIQ | 4 Tube | 4′ | 60W | 4000K | 140 LM/W | 8,400 LM | 120-277V | White
+- 13976 | PXGCBLLP | 4 Tube | 4′ | 60W | 5000K | 140 LM/W | 8,400 LM | 120-277V | White
+
+Notes on the table:
+- For 13971 and 13972, the printed total lumens do not match the other values. The page shows 30W × 140 LM/W, which would be 4,200 LM, but the printed total is 1,620 LM. Check this against the spec sheet. All other rows are consistent.
+- In the DLC IDs for 13971 ("P0HF1TTU") and 13972 ("PRJZO8M7"), the letter O and the number 0 are hard to tell apart. Confirm these on the DLC listing.
+- Some DLC IDs start with "S-" and others (13971, 13972, 13975, 13976) do not. This is printed as shown.
+
+**Compatible sensors and controls**
+Section heading: "SENSOR INFORMATION – NETWORK LIGHTING CONTROL"
+
+*(OcuSense-QSR)*
+- LiteLinQ ("Efficiency Linked"): 06274
+- SILVAIR: 06291
+- AMAYA PRO: 06901
+
+*(PIR-QSR)*
+- LiteLinQ ("Efficiency Linked"): 06282
+- SILVAIR: 06294
+- AMAYA PRO: 06902
+
+**Other**
+- Each sensor is shown as a small white module with a wire lead.
+- Sizes on this page are 2′ (codes 13945 and 13946 only) and 4′ (all others).
+- All listed models are 120-277V and White.
+
+The page's raw text:
 4ʼ 18W 3,240 LM13954 S-5GMYH4 180 LM/W5000K 120-277V White2 Tube
 4ʼ 1,620 LM13971 P0HF1TTU 140 LM/W4000K 120-277V White
 4ʼ
@@ -12792,6 +20455,44 @@ NETWORK LIGHTING CONTROL
 
 From the 2026 MES Catalog, page 22.
 
+What the page shows, read from the page image:
+**Products**
+- LED LINEAR INTEGRATED FIXTURE (ROSE G)
+
+**Certifications**
+- UL
+- DLC Listed Premium
+- DLC NLC5
+- FCC
+
+**Features shown as icons**
+- Power Selectable
+- CCT Tunable
+- IP20
+- 0-10V Dimmable
+
+**Ordering table**
+- 91006 | DLC ID# S-110RSS | 22W = 3300 LM, 30W = 4782 LM, 40W = 5928 LM | CCT 3500K / 4000K / 5000K / 5700K / 6500K | 150 LM/W | 120-277V | White
+
+**Compatible sensors and controls**
+Network Lighting Control, Fixture Mounted:
+- LiteLinQ (Efficiency Linked): 06269-01
+- SILVAIR: 06296
+- AMAYA PRO: 06930
+
+**Dimensions and mounting**
+- No dimension drawings on this page.
+- Flexible Mounting: install with screw clip-mounts or magnetic mounting "for fast, tool-light setup."
+- Linkable Design: connect up to 27 pcs at 120V and 54 pcs at 277V using a small inline adapter.
+
+**Other**
+- Classic Look: seamless design for high-end architectural aesthetics.
+- Power & Color Select: select the wattage and CCT to fine-tune brightness and tone.
+- Electrical: LED luminaire with dimmable driver, universal 120–277V.
+- A "Spec Sheet" button appears on the page, but no link or URL is printed.
+- Brand: MES (Lighting. Controls. Energy.)
+
+The page's raw text:
 LED LINEAR INTEGRATED FIXTURE
 (ROSE G)
 CERTIFICATIONS
@@ -12842,6 +20543,47 @@ FIXTURE MOUNTED
 
 From the 2026 MES Catalog, page 23.
 
+What the page shows, read from the page image:
+**Products**
+- HID OUTDOOR RETROFIT KIT (TULIP B)
+
+**Certifications**
+- UL (plain "UL" in a circle; no "c" or "US" marks visible)
+- DLC Listed Premium (the logo reads "DLC LISTED PREMIUM")
+- FCC
+
+**Features shown as icons**
+- IP40
+- 0-10V Dimmable
+
+**Ordering table**
+Ordering Code | DLC ID# | Watts | CCT | LM/Watt | Total LM | Voltage | Color
+- 06012 | S-74NG85 | 35W | 5000K | 135 LM/W | 4,725 LM | 120-277V | Silver
+- 06013 | PU9JP1EVP | 100W | 5000K | 135 LM/W | 13,500 LM | 120-277V | Silver
+- 06008 | R6J65ZR | 150W | 5000K | 135 LM/W | 20,250 LM | 120-277V | Silver
+- 06009 | PO4DZIO0 | 200W | 5000K | 135 LM/W | 27,000 LM | 120-277V | Silver
+- 06010 | PSTA2983 | 240W | 5000K | 135 LM/W | 32,400 LM | 120-277V | Silver
+
+Notes on the table:
+- The DLC IDs mix letters and digits that look alike, especially "PO4DZIO0" (O vs 0, I vs 1) and "PU9JP1EVP" (1 vs I). Check these against the DLC Qualified Products List before quoting.
+- The ordering codes are not sequential: 06011 does not appear on this page.
+
+**Dimensions and mounting**
+- No dimension drawings are on this page.
+- Multi-Angle Mounting: adjustable brackets allow flexible aiming and positioning.
+
+**Other**
+Printed feature text:
+- Electrical: LED luminaire with dimmable driver and universal 120–277V.
+- Universal Fit: installs in most fixtures using a dedicated external driver.
+- External Driver & Active Cooling: a remote driver improves reliability, and the built-in fan reduces heat buildup.
+
+From the images and page layout:
+- The product photo shows an oval LED board with finned heatsink and a separate round finned driver/fan housing with a fan on top.
+- A "Spec Sheet" button appears on the page, likely a link in the digital catalog. The link target is not shown.
+- Brand: MES ("LIGHTING. CONTROLS. ENERGY.").
+
+The page's raw text:
 HID OUTDOOR RETROFIT KIT
 (TULIP B)
 CERTIFICATIONS
@@ -12887,6 +20629,56 @@ Voltage
 
 From the 2026 MES Catalog, page 24.
 
+What the page shows, read from the page image:
+**Products**
+- LED STRIP FIXTURE SNAP-FIT™ (LILY FAMILY), 4' | 8'
+  - (GSR)
+  - (GSR+ with PIR SR Port), marked with a "NEW ARRIVAL" badge
+
+**Certifications** (one set shown for the whole family, not split by product)
+- UL (plain UL mark; no "c" or "us" markings visible)
+- DLC Listed Premium
+- DLC NLC5
+- FCC
+
+**Features shown as icons**
+- Power Selectable
+- CCT Tunable
+- IP20
+- QSR Sensor Ready Technology
+- PQSR Sensor Ready Technology
+- 0-10V Dimmable
+
+**Ordering table**
+
+The page lists the CCTs (3500K / 4000K / 5000K) as one column next to the wattages. It does not pair any CCT with a specific wattage or lumen value.
+
+*(GSR)*
+- 04008-02 | DLC ID S-74A3NL | 4′ | 34W = 4,590 LM, 38W = 5,130 LM, 45W = 6,075 LM | CCT 3500K / 4000K / 5000K | 135 LM/W | 120-277V | White
+- 04010-02 | DLC ID S-G2LU47 | 8′ | 65W = 8,775 LM, 75W = 10,125 LM, 90W = 12,150 LM | CCT 3500K / 4000K / 5000K | 135 LM/W | 120-277V | White
+
+*(GSR+ with PIR SR Port), NEW ARRIVAL*
+- 04008-03 | DLC ID S-74A3NL | 4′ | 34W = 4,590 LM, 38W = 5,130 LM, 45W = 6,075 LM | CCT 3500K / 4000K / 5000K | 135 LM/W | 120-277V | White
+- 04010-03 | DLC ID S-G2LU47 | 8′ | 65W = 8,775 LM, 75W = 10,125 LM, 90W = 12,150 LM | CCT 3500K / 4000K / 5000K | 135 LM/W | 120-277V | White
+
+The GSR and GSR+ versions share the same DLC IDs for each size.
+
+**Compatible sensors and controls**
+- "QSR & PQSR Sensor-Ready: Driver supports PIR or OcuSense controls for quick installation of basic and NLC lighting systems."
+- No sensor brand part numbers or codes are printed on this page.
+
+**Dimensions and mounting**
+- Lengths: 4 ft and 8 ft. No dimension drawings or other measurements are shown.
+- Snap-On Retrofit Design: "Updated design enables fast, tool-light installation onto existing fixtures." The word is printed as "tool-light."
+- Side Clip Mounting: "Side clips attach directly to the fixture housing for a secure fit."
+
+**Other**
+- Electrical: LED luminaire with dimmable driver and universal 120–277V.
+- Fixed Lens: "Sealed lens minimizes dust and insect intrusion."
+- Both tables have a "Spec Sheet" button (a clickable link in the digital catalog).
+- Brand: MES, "LIGHTING. CONTROLS. ENERGY."
+
+The page's raw text:
 LED STRIP FIXTURE SNAP-FITTM
 (LILY FAMILY)
 CERTIFICATIONS
@@ -12985,6 +20777,50 @@ Sheet
 
 From the 2026 MES Catalog, page 25.
 
+What the page shows, read from the page image:
+**Products**
+
+No product names are printed on this page, only codes. The page title is "SENSOR INFORMATION", and it applies to the luminaire series labeled (GSR) and (GSR+).
+
+**Compatible sensors and controls**
+
+*(GSR)*
+
+Basic Lighting Control:
+- 06267-02 (the image shows a white sensor module with a cable and connector)
+- 06278 (the image shows a handheld remote control)
+
+Network Lighting Control:
+- LiteLinQ ("Efficiency Linked"): 06274
+- SILVAIR: 06291
+- AMAYA PRO: 06901
+
+*(GSR+)*
+
+Basic Lighting Control:
+- 06267-02
+- 06278
+
+Network Lighting Control:
+- LiteLinQ ("Efficiency Linked"): 06274
+- SILVAIR: 06291
+- AMAYA PRO: 06901
+
+A "(QSR)" label is printed above the SILVAIR logo in this row. The page doesn't make clear whether it applies to the whole LiteLinQ / SILVAIR / AMAYA PRO row or only to SILVAIR.
+
+*(PQSR)*, under the AMAYA PRO logo:
+- 06904 (the image shows a round sensor with green terminal blocks)
+- 06905 (the image shows a round sensor)
+- 06913 (the image shows a round sensor)
+
+The AMAYA PRO logo appears once, centered above these three codes. The layout suggests it covers all three, but the page doesn't label each one separately.
+
+**Other**
+
+- The (PQSR) section sits inside the (GSR+) section. The page doesn't say whether the PQSR sensors also apply to GSR.
+- The same sensor codes (06267-02, 06278, 06274, 06291, 06901) are listed for both GSR and GSR+.
+
+The page's raw text:
 SENSOR INFORMATION
 BASIC LIGHTING CONTROL
 NETWORK LIGHTING CONTROL
@@ -13007,6 +20843,59 @@ NETWORK LIGHTING CONTROL
 
 From the 2026 MES Catalog, page 26.
 
+What the page shows, read from the page image:
+**Products**
+- LED VOLUMETRIC TROFFER SNAP-FIT™ (LILAC FAMILY)
+- Sizes in the header: 1'x4' | 2'x2' | 2'x4'
+- "(GSR)" is printed above the ordering table, next to a "Spec Sheet" button.
+
+**Certifications** (one set shown for the whole family)
+- UL (UL in a circle; no "c" or "US" marks are visible)
+- DLC Listed Premium
+- DLC NLC5
+- FCC
+
+**Features shown as icons**
+- Power Selectable
+- CCT Tunable
+- IP20
+- QSR Sensor Ready Technology
+- PQSR Sensor Ready Technology
+- 0-10V Dimmable
+- High Lumen
+
+**Ordering table**
+All four codes are 125 LM/W, 120-277V, White. CCT is selectable: 3500K / 4000K / 5000K.
+
+| Ordering Code | DLC ID# | Size | Watts → Total LM |
+|---|---|---|---|
+| 04064 | S-YZGL1E | 1'x4' | 20W → 2,500 LM; 25W → 3,125 LM; 30W → 3,750 LM |
+| 04065 01 | S-Z1FVQP | 2'x2' | 20W → 2,500 LM; 25W → 3,125 LM; 30W → 3,750 LM |
+| 04066 01 | S-MZI57O | 2'x4' | 25W → 3,200 LM; 30W → 3,840 LM; 35W → 4,480 LM |
+| 04067 01 | S-V0KHFY | 2'x4' | 34W → 4,250 LM; 38W → 4,750 LM; 45W → 5,625 LM |
+
+Notes on the table:
+- **04066 01 lumens don't match the efficacy.** The listed lumens work out to 128 LM/W, not the printed 125 LM/W. At 125 LM/W they would be 3,125 / 3,750 / 4,375 LM. The other three codes match 125 LM/W exactly.
+- **DLC IDs may have O/0 mix-ups.** In S-MZI57O, the last character could be the letter O or the number zero. In S-V0KHFY, the second character could be a zero or the letter O. Check these against the DLC Qualified Products List.
+- Ordering codes are printed with a space, for example "04065 01". 04064 has no suffix.
+
+**Compatible sensors and controls**
+- No specific sensor brands or part codes are printed.
+- The feature text says the driver supports "both PIR and OcuSense controls" for basic and NLC (networked lighting control) systems (QSR & PQSR sensor-ready).
+
+**Dimensions and mounting**
+- No dimension drawings are on this page.
+- Mounting brackets and beauty plates are included.
+- Low-profile, shallow-depth design that installs over existing sockets or ballasts (retrofit).
+
+**Other**
+- **Beam angle:** 120°.
+- **Efficacy claim:** the features text says "up to 150 lumens per watt." Every code in the table says 125 LM/W.
+- **Power & Color Select:** wattage and CCT can be selected in the field.
+- **Air Vent Return Option:** air return capability, which reduces the number of ceiling vents needed.
+- **Brand:** MES – Lighting. Controls. Energy.
+
+The page's raw text:
 LED VOLUMETRIC TROFFER SNAP-FITTM
 (LILAC FAMILY)
 CERTIFICATIONS
@@ -13091,6 +20980,63 @@ Sheet
 
 From the 2026 MES Catalog, page 27.
 
+What the page shows, read from the page image:
+## Products
+- No product name is printed on this page. The only series label is **(GSR+)**, shown above the ordering table.
+- The table lists two sizes: 2'x2' (04065 03) and 2'x4' (04066 03).
+
+## Certifications
+- No certification logos are shown on this page.
+- The table has a "DLC ID#" column with an ID for each code, but there is no logo saying which DLC tier (Standard or Premium) applies.
+
+## Features shown as icons
+- **NEW ARRIVAL** badge
+- **Spec Sheet** button (green circle with a pointing-hand icon)
+- **HIGH LUMEN** icon
+- No icons for IP rating, dimming, sensor-ready, selectable CCT or power, or surge protection.
+
+## Ordering table
+| Ordering Code | DLC ID# | Size | Watts → Total LM | CCT | LM/Watt | Voltage | Color |
+|---|---|---|---|---|---|---|---|
+| 04065 03 | S-VNWXDS | 2'x2' | 14W → 2,100 LM; 17W → 2,550 LM; 20W → 3,000 LM; 28W → 4,200 LM | 3000K / 3500K / 4000K / 5000K / 6500K | 150 LM/W | 120-277V | White |
+| 04066 03 | S-P7L99J | 2'x4' | 17W → 2,550 LM; 20W → 3,000 LM; 28W → 4,200 LM; 34W → 5,100 LM | 3000K / 3500K / 4000K / 5000K / 6500K | 150 LM/W | 120-277V | White |
+
+Each wattage is paired with the lumen value on the same line in the table, and every pair works out to 150 LM/W.
+
+## Compatible sensors and controls
+**SENSOR INFORMATION**
+
+**Basic Lighting Control** (no brand printed)
+- 06267-02: sensor module with a cable lead
+- 06320: oval sensor with a PIR lens
+- 06278: handheld remote
+
+**Network Lighting Control**
+
+The (QSR) row:
+- LiteLinQ ("Efficiency Linked"): 06274
+- SILVAIR: 06291
+- AMAYA PRO: 06901
+
+The (PQSR) row:
+- LiteLinQ ("Efficiency Linked"): 06275
+- SILVAIR: 06293
+- AMAYA PRO: 06903
+
+The "(QSR)" and "(PQSR)" labels are printed centered above the Silvair column. They appear to cover the whole row, but the page doesn't say so explicitly.
+
+## Dimensions and mounting
+- No drawings or dimension notes on this page. The only size information is the 2'x2' and 2'x4' in the table.
+
+## Other
+**ACCESSORIES**
+- 04076: Air Vent Bar (1'x4')
+- 04077: Air Vent Bar (2'x2')
+- 04078: Air Vent Bar (2'x4')
+
+There is a 1'x4' air vent bar, but no 1'x4' fixture appears in this page's ordering table.
+
+The page's raw text:
 Ordering Code DLC ID# WattsSize CCT LM/Watt Total LM Voltage Color
 14W
 17W
@@ -13148,6 +21094,71 @@ Sheet
 
 From the 2026 MES Catalog, page 28.
 
+What the page shows, read from the page image:
+## Products
+- LED BACK-LIT PANEL SNAP-FIT™ (LOTUS FAMILY)
+- Sizes in header: 1'x4' | 2'x2' | 2'x4'
+- "(GSR)" is printed above the ordering table, with a "Spec Sheet" button.
+
+## Certifications
+These apply to the whole page and are not split by product:
+- UL
+- DLC Listed Premium
+- DLC NLC5
+- FCC
+
+## Features shown as icons
+- Power Selectable
+- CCT Tunable
+- IP20
+- QSR Sensor Ready Technology
+- PQSR Sensor Ready Technology
+- 0-10V Dimmable
+- High Lumen
+
+## Ordering table
+CCT is listed as 3500K / 4000K / 5000K for every code. Lumen values below follow the wattages.
+
+- **02843:** DLC ID S-RQSSDR, 2'x2'
+  - 20W = 2,500 LM
+  - 25W = 3,125 LM
+  - 30W = 3,750 LM
+  - 125 LM/W, 120-277V, White
+- **02845:** DLC ID S-PY5CZJ, 2'x4'
+  - 23W = 2,875 LM
+  - 30W = 3,750 LM
+  - 36W = 4,500 LM
+  - 125 LM/W, 120-277V, White
+- **02846:** DLC ID S-RSLRFK, 2'x4'
+  - 35W = 4,375 LM
+  - 40W = 5,000 LM
+  - 46W = 5,750 LM
+  - 125 LM/W, 120-277V, White
+
+## Compatible sensors and controls
+- Text says the driver supports PIR and OcuSense controls (QSR & PQSR sensor-ready) for basic and NLC lighting systems.
+- No sensor brand codes or part numbers are printed on this page.
+
+## Other
+**Features (as printed):**
+- **Clean Look:** Includes brackets and beauty plates for a neat, finished appearance.
+- **Low Profile:** Installation of existing sockets or ballasts for faster retrofit.
+- **QSR & PQSR Sensor-Ready:** Driver supports both PIR and OcuSense controls for quick installation of basic and NLC lighting systems.
+- **Beam Angle:** A wide 120° beam angle for broad, uniform illumination.
+- **High Efficiency:** Delivers up to 150 lumens per watt (lm/W) for uniform illumination.
+- **Air Vent Return Option:** Air return capability reduces number of unsightly ceiling vents for a cleaner appearance.
+
+**Accessories:**
+- 04076: Air Vent Bar (1'x4')
+- 04077: Air Vent Bar (2'x2')
+- 04078: Air Vent Bar (2'x4')
+
+**Things to check:**
+- The header lists a 1'x4' size, but the ordering table has no 1'x4' panel. The only 1'x4' item is the 04076 Air Vent Bar accessory.
+- The features text says "up to 150 lm/W," but every code in the table shows 125 LM/W.
+- The "Low Profile" wording appears exactly as printed. It reads as though it may be a misprint.
+
+The page's raw text:
 LED BACK-LIT PANEL SNAP-FITTM
 (LOTUS FAMILY)
 CERTIFICATIONS
@@ -13226,6 +21237,61 @@ Air Vent Bar (2'x2')
 
 From the 2026 MES Catalog, page 29.
 
+What the page shows, read from the page image:
+**Products**
+- No product name is printed on this page. The only heading over the table is **"(GSR+ with PIR SR Port)"**.
+- Sizes listed: 1'x4', 2'x2', 2'x4' (see ordering table).
+
+**Certifications**
+- No certification logos are shown on this page. DLC ID numbers appear in the table, but there is no DLC logo, so the DLC tier (Standard or Premium) is not shown.
+
+**Features shown as icons**
+- **HIGH LUMEN** icon (lightbulb with a lightning bolt), top right of the table.
+- **NEW ARRIVAL** badge, top left.
+- **Spec Sheet** button (green circle with a hand cursor), top left.
+- Sensor ready: GSR+ with PIR SR Port, as stated in the heading.
+
+**Ordering table**
+
+| Ordering Code | DLC ID# | Size | Watts → Total LM | CCT | LM/Watt | Voltage | Color |
+|---|---|---|---|---|---|---|---|
+| 02842 03 | S-TH4BML | 1'x4' | 14W → 2,100 LM; 17W → 2,550 LM; 20W → 3,000 LM; 28W → 4,200 LM | 3000K / 3500K / 4000K / 5000K / 6500K | 150 LM/W | 120-277V | White |
+| 02843 03 | S-L790P0 (the last character could be a zero or the letter O) | 2'x2' | 15W → 2,250 LM; 18W → 2,700 LM; 25W → 3,750 LM; 30W → 4,500 LM | 3000K / 3500K / 4000K / 5000K / 6500K | 150 LM/W | 120-277V | White |
+| 02845 03 | S-Y0XM5Z (the third character could be a zero or the letter O) | 2'x4' | 17W → 2,550 LM; 20W → 3,000 LM; 28W → 4,200 LM; 34W → 5,100 LM | 3000K / 3500K / 4000K / 5000K / 6500K | 150 LM/W | 120-277V | White |
+
+Each wattage is paired with the lumen value in the same row. Every pair works out to 150 LM/W.
+
+**Compatible sensors and controls**
+
+The page section is titled "SENSOR INFORMATION," with the subheading "NETWORK LIGHTING CONTROL."
+
+*(GSR)*
+- LiteLinQ ("Efficiency Linked"): 06274
+- SILVAIR (QSR): 06291
+- AMAYA PRO: 06901
+
+*(GSR+)*
+- LiteLinQ: 06274
+- SILVAIR (QSR): 06291
+- AMAYA PRO: 06901
+
+*(GSR+) – (PQSR)*
+- LiteLinQ: 06275
+- SILVAIR (PQSR): 06293
+- AMAYA PRO: 06903
+
+The "(QSR)" and "(PQSR)" labels are printed above the Silvair column only. The page does not say whether they also apply to the LiteLinQ and Amaya Pro sensors in the same row.
+
+Visual note: 06274, 06291 and 06901 are pictured as inline modules with a cable lead. 06275, 06293 and 06903 are pictured as round-ended units with a visible PIR lens.
+
+**Dimensions and mounting**
+- No drawings or mounting notes on this page. Only the nominal sizes 1'x4', 2'x2' and 2'x4' are given.
+
+**Other**
+- The ordering codes are printed with a space, for example "02842 03."
+- Page 29, 2026 MES Catalog.
+
+The page's raw text:
 Ordering Code DLC ID# WattsSize CCT LM/Watt Total LM Voltage Color
 14W
 17W
@@ -13293,6 +21359,58 @@ Sheet
 
 From the 2026 MES Catalog, page 30.
 
+What the page shows, read from the page image:
+**Products**
+- LED CANOPY SOFFIT RETROFIT (JASMINE G)
+
+**Certifications**
+- UL (circular "UL" mark; no "c" or "us" markings are visible, so it appears to be plain UL, not cULus)
+- DLC Listed Premium
+- DLC NLC5
+- FCC
+
+**Features shown as icons**
+- Power Selectable
+- CCT Tunable
+- IP65
+- 0-10V Dimmable
+
+**Ordering table**
+
+Fixture:
+- 06100 - 01 | DLC ID: S-OZAKDL | 20W / 30W / 40W | 3000K / 4000K / 5000K | 140 LM/W | Voltage: 120-277V | Color: White
+  - 20W = 2,800 LM
+  - 30W = 4,200 LM
+  - 40W = 5,600 LM
+
+Plates, Bronze:
+- 06122 | 12"×12" | Bronze
+- 06123 | 15"×15" | Bronze
+- 06117 | 18"×18" | Bronze
+
+Plates, White:
+- 06118 | 12"×12" | White
+- 06119 | 15"×15" | White
+- 06120 | 18"×18" | White
+- 06121 | 22"×22" | White
+- 06124 | 24"×24" | White
+
+**Dimensions and mounting**
+- No dimension drawings on this page.
+- Mounts using a plate. Plate sizes are 12"×12", 15"×15" and 18"×18" in Bronze or White, plus 22"×22" and 24"×24" in White only.
+
+**Other**
+- How to order (printed on the page): "Choose Fixture" + "Select Plate Size/Color Needed." You need the fixture code 06100-01 plus a separate plate code.
+- Features listed:
+  - **Clean Look:** Clean design suitable for a wide range of canopy and awning spaces.
+  - **Power & Color Select:** Select the ideal wattage and CCT to fine-tune brightness and tone.
+  - **Electrical:** LED luminaire with dimmable driver and universal 120–277V.
+  - **IP65 Housing:** IP65 LED provides superior protection against dust and water.
+  - **Easy Installation:** Multiple plate sizes, colors, and housing options ensure a clean, easy fit.
+- There is a "Spec Sheet" button on the page (a link in the digital catalog).
+- Branding: MES™ – Lighting. Controls. Energy.
+
+The page's raw text:
 LED CANOPY SOFFIT RETROFIT
 (JASMINE G)
 CERTIFICATIONS
@@ -13349,6 +21467,44 @@ Select Plate Size/Color NeededChoose Fixture +
 
 From the 2026 MES Catalog, page 31.
 
+What the page shows, read from the page image:
+**Products**
+- LED DOWNLIGHT (WILLOW G+), offered in 4" | 6" | 8" | 10"
+
+**Certifications** (shown once for the whole page, not per product)
+- ETL Listed (c/us), Intertek
+- Energy Star
+- FCC
+
+**Features shown as icons**
+- Power Selectable
+- CCT Tunable
+- IP54
+- 0-10V Dimmable
+
+**Ordering table**
+The table has an Energy Star ID# column instead of a DLC ID column. The CCT column lists 2700K / 3000K / 3500K / 4000K / 5000K for every code as selectable options. It does not pair CCT with wattage. Lumens are listed against each wattage.
+
+- **02938 01**: Energy Star ID MES-DL254-4-12W-OAC3B; Size 4"; 6W = 720 LM, 8W = 960 LM, 10W = 1,200 LM, 12W = 1,200 LM, 16W = 1,920 LM; CCT 2700K/3000K/3500K/4000K/5000K; 120 LM/W; 120-277V; White
+- **02939 01**: Energy Star ID MES-DL254-6-16W-OAC3B; Size 6"; 12W = 1,200 LM, 16W = 1,920 LM, 22W = 2,640 LM, 26W = 2,640 LM, 30W = 3,600 LM; CCT 2700K/3000K/3500K/4000K/5000K; 120 LM/W; 120-277V; White
+- **02942 01**: Energy Star ID MES-DL254-8-22W-OAC3B; Size 8"; 16W = 1,920 LM, 22W = 2,640 LM, 26W = 2,640 LM, 30W = 3,600 LM, 35W = 4,200 LM; CCT 2700K/3000K/3500K/4000K/5000K; 120 LM/W; 120-277V; White
+- **02944 01**: Energy Star ID MES-DL254-10-40W-5CCT; Size 10"; 22W = 2,640 LM, 26W = 2,640 LM, 30W = 3,600 LM, 35W = 4,200 LM, 40W = 4,800 LM; CCT 2700K/3000K/3500K/4000K/5000K; 120 LM/W; 120-277V; White
+
+Note: These lumen values are as printed, but some don't match 120 LM/W. The 12W setting (4") shows 1,200 LM, the same as 10W. The 26W setting (6", 8", 10") shows 2,640 LM, the same as 22W. At 120 LM/W you would expect about 1,440 LM and 3,120 LM. Check against the spec sheet before quoting.
+
+**Dimensions and mounting**
+- Nominal sizes are 4", 6", 8" and 10". The page has no dimension drawings or cutout sizes.
+- Goof Ring Compatible: "Offer clean coverage for retrofit openings."
+- Electrical Whip Included: "Ready-to-wire connection for faster installation."
+
+**Other**
+- Power & Color Select: "Select the ideal wattage and CCT to fine-tune brightness and tone."
+- Electrical: "LED luminaire with dimmable driver and universal 120–277V."
+- Built-In Driver: "No external driver required for simplified setup."
+- The page has a "Spec Sheet" button, which suggests a linked spec sheet in the digital catalog.
+- Branding: MES, "Lighting. Controls. Energy."
+
+The page's raw text:
 LED DOWNLIGHT
 (WILLOW G+)
 CERTIFICATIONS
@@ -13448,6 +21604,42 @@ Sheet
 
 From the 2026 MES Catalog, page 32.
 
+What the page shows, read from the page image:
+**Products**
+1. LED T8 TUBE TYPE C (ORCHID BSR)
+2. LED MAGNETIC STRIP RETROFIT IRIS SSR (2' | 4')
+3. LED HIGH BAY LINEAR PINE SSR+ (FAMILY)
+4. LED BACK-LIT FLAT PANEL SPRUCE (GSR+) 2'x4'
+5. LED VOLUMETRIC TROFFER SNAP-FIT™ LILAC (GSR) 2'x4'
+
+**Certifications**
+The page shows no certification logos. Certifications appear only as bullet text:
+- ORCHID BSR: UL & DLC Premium
+- IRIS SSR: ETL & DLC Premium
+- PINE SSR+: UL & DLC Premium
+- SPRUCE (GSR+): UL & DLC Premium
+- LILAC (GSR): UL & DLC Premium
+
+**Features (shown as bullet text, not icons)**
+- ORCHID BSR: QSR Sensor-Ready Design; Harness + Magnetic Clip Installation; PET Coated
+- IRIS SSR: IP20 Rated; QSR Sensor-Ready Design; "Strips & Driver are Mangnetized" (misspelling is on the page)
+- PINE SSR+: IP20 Rated; ZSR Sensor-Ready Design; 6FT Cord & Aircraft Cable Included
+- SPRUCE (GSR+): IP20 Rated; QSR Sensor-Ready Design; PMMA Optical Lens
+- LILAC (GSR): IP20 Rated; PQSR & QSR Sensor-Ready Design; 120° Beam Angle
+
+**Dimensions and mounting**
+- IRIS SSR comes in 2' and 4' lengths.
+- SPRUCE and LILAC are 2'x4'.
+- ORCHID BSR installs with a harness and magnetic clips.
+- PINE SSR+ includes a 6FT cord and aircraft cable.
+- The page has no drawings.
+
+**Other**
+- The page header reads "BEST SELLING".
+- Each product has a green "Spec Sheet" button with a pointing-hand icon, which is likely a link to the spec sheet. The link targets are not printed.
+- Each product has a photo only. The photos carry no added information.
+
+The page's raw text:
 BEST SELLING
 Spec
 Sheet
@@ -13496,6 +21688,39 @@ PINE SSR+ (FAMILY)
 
 From the 2026 MES Catalog, page 33.
 
+What the page shows, read from the page image:
+**Products**
+- JUNIPER GSR+ LED COVERED STRIP FIXTURE (4')
+- LILY GSR LED COVERED STRIP FIXTURE (8')
+- LED CANOPY SOFFIT RETROFIT (JASMINE GSR)
+- WOLF GSR LED AREA LIGHT
+- TIGER GSR LED WALL PACK STANDARD
+
+**Certifications**
+The page has no certification logos. Each product lists "UL & DLC Premium" as a bullet in the text:
+- JUNIPER GSR+: UL & DLC Premium
+- LILY GSR: UL & DLC Premium
+- JASMINE GSR: UL & DLC Premium
+- WOLF GSR: UL & DLC Premium
+- TIGER GSR: UL & DLC Premium
+
+**Features**
+The page has no feature icons. These features are printed as text bullets:
+- JUNIPER GSR+ (4' covered strip): IP20 Rated; QSR & ZSR Sensor-Ready Design; 150 LM/W Efficiency
+- LILY GSR (8' covered strip): IP20 Rated; QSR Sensor-Ready Design; Snap-On Retrofit Design
+- JASMINE GSR (canopy soffit retrofit): IP65 Rated; Multiple Plates and Sizes are available; 3PSR Sensor Ready Design
+- WOLF GSR (area light): IP65 Rated; ZSR Sensor-Ready Design; Rotatable Arm-Mount; 10KV Surge Protection
+- TIGER GSR (wall pack standard): IP65 Rated; ZSR Sensor-Ready Design; Built-in Photocell
+
+**Dimensions and mounting**
+- WOLF GSR: Rotatable Arm-Mount (from the bullet text). The page has no drawings or dimensions.
+- The WOLF GSR photo shows several units in dark and light gray housings. The TIGER GSR photo shows units in white and dark gray housings. The page does not name the colors.
+
+**Other**
+- The page header reads "BEST SELLING".
+- Each product has a "Spec Sheet" button with a click/hand icon, which suggests a link to the spec sheet in the digital catalog. The page does not print the link targets.
+
+The page's raw text:
 BEST SELLING
 JUNIPER GSR+
 LED COVERED STRIP FIXTURE (4')
@@ -13545,6 +21770,45 @@ Sheet
 
 From the 2026 MES Catalog, page 34.
 
+What the page shows, read from the page image:
+**Products**
+- LED ARCHITECTURAL LINEAR LIGHT (ASPEN G), 4'
+- LED L Shape Architectural (Up / Down)
+
+**Certifications**
+These logos are printed once on the page and are not assigned to a specific product:
+- UL
+- DLC Listed Premium
+- DLC NLC5
+- FCC
+
+**Features shown as icons**
+- Power Selectable
+- CCT Tunable
+- 0-10V Dimmable
+- IP20
+
+**Ordering table**
+
+*LED Architectural Linear Light (Aspen G)*
+- 02565: DLC ID S-A4K532; size 4'; 30W / 3,930 LM, 40W / 5,240 LM, 50W / 6,550 LM; CCT 3500K / 4000K / 5000K; 131 LM/W; 120-277V; White
+- 02566: DLC ID S-TK53QF; size 4'; 30W / 3,930 LM, 40W / 5,240 LM, 50W / 6,550 LM; CCT 3500K / 4000K / 5000K; 131 LM/W; 120-277V; Black
+
+*LED L Shape Architectural (Up / Down)*
+This table has no DLC ID column.
+- 02567: size L; 30W / 3,930 LM; CCT 3500K / 4000K / 5000K; 131 LM/W; 120-277V; White
+- 02568: size L; 30W / 3,930 LM; CCT 3500K / 4000K / 5000K; 131 LM/W; 120-277V; Black
+
+**Other**
+- Available colors: Black and White finishes.
+- Power & color select: the wattage and CCT can be selected to adjust brightness and tone.
+- Dual-direction lighting: gives balanced light by shining both upward and downward.
+- Expandable system: up to 10 fixtures can be linked.
+- Independent power: each fixture needs its own power connection.
+- The page has a "Spec Sheet" button, which is a link not shown on the printed page.
+- Branding: MES, "Lighting. Controls. Energy."
+
+The page's raw text:
 LED ARCHITECTURAL LINEAR LIGHT
 (ASPEN G)
 CERTIFICATIONS
@@ -13611,6 +21875,50 @@ Sheet
 
 From the 2026 MES Catalog, page 35.
 
+What the page shows, read from the page image:
+**Products**
+- LED X Shape Architectural (Up / Down)
+- (Mounts)
+
+**Ordering table**
+
+LED X Shape Architectural (Up / Down). No DLC ID column is printed.
+
+- **02569**: Size X, 120-277V, White, 131 LM/W
+  - 30W: 3,930 LM
+  - 40W: 5,240 LM
+  - 50W: 6,550 LM
+  - CCT: 3500K / 4000K / 5000K
+- **02570**: Size X, 120-277V, Black, 131 LM/W
+  - 30W: 3,930 LM
+  - 40W: 5,240 LM
+  - 50W: 6,550 LM
+  - CCT: 3500K / 4000K / 5000K
+
+(Mounts)
+- **02571**: Canopy Suspension Kit, Silver
+- **02572**: Linkable Kits, Silver
+- **02573**: Wall Mount Kits, Silver
+
+**Compatible sensors and controls**
+
+The page heading is "SENSOR INFORMATION."
+
+Basic Lighting Control:
+- **06246**: PIR 3-in-1 Sensor
+- **06247**: \*On/Off Sensor. The asterisk is printed, but no matching footnote appears on this page.
+- **06278**: Shown as a picture of a handheld remote. No description is printed.
+
+Network Lighting Control (Fixture Mounted):
+- **LiteLinQ** ("Efficiency Linked"): 06269-01
+- **SILVAIR**: 06296
+- **AMAYA PRO**: 06930
+
+**Other**
+- The page does not say which sensors work with the X Shape fixtures. The sensor section is printed below the fixture tables with no direct link stated.
+- The CCT values are listed together in one cell per code. The page does not say whether CCT or wattage is field-selectable.
+
+The page's raw text:
 LED X Shape Architectural (Up / Down)
 Ordering Code WattsSize CCT LM/Watt Total LM Voltage Color
 30W
@@ -13660,6 +21968,51 @@ PIR 3-in-1 Sensor
 
 From the 2026 MES Catalog, page 36.
 
+What the page shows, read from the page image:
+**Products**
+- LED BACK-LIT FLAT PANEL (SPRUCE GSR+)
+- Sizes: 1'x4' | 2'x2' | 2'x4'
+
+**Certifications** (shown once for the whole page, not per product)
+- UL (circle "UL" mark)
+- DLC Listed Premium
+- DLC NLC5
+- FCC
+
+**Features shown as icons**
+- Power Selectable
+- CCT Tunable
+- IP20
+- QSR Sensor Ready Technology
+- 0-10V Dimmable
+
+**Ordering table**
+
+The page lists the CCT values in a column next to the wattages. They appear to be separate selectable options, not paired with specific wattages.
+
+- **02838-03**: DLC ID PLYIUCDY7TUR. Size 1'x4'. Watts/Total LM: 15W/1,965 LM, 20W/2,620 LM, 25W/3,275 LM, 30W/3,930 LM, 40W/5,240 LM. CCT 3000K/3500K/4000K/5000K/6500K. 131 LM/W. 120-277V. White.
+- **02839-03**: DLC ID S-PAFGX0 (the last character could be a zero or the letter O). Size 2'x2'. Watts/Total LM: 15W/1,965 LM, 20W/2,620 LM, 25W/3,275 LM, 30W/3,930 LM, 40W/5,240 LM. CCT 3000K/3500K/4000K/5000K/6500K. 131 LM/W. 120-277V. White.
+- **02841-03**: DLC ID S-KGZ5HN. Size 2'x4'. Watts/Total LM: 23W/3,013 LM, 30W/3,930 LM, 35W/4,585 LM, 40W/5,240 LM, 50W/6,550 LM. CCT 3000K/3500K/4000K/5000K/6500K. 131 LM/W. 120-277V. White.
+- **02841-05**: DLC ID S-DNPR2K. Size 2'x4'. Watts/Total LM: 30W/3,930 LM, 40W/5,240 LM, 50W/6,550 LM, 60W/7,860 LM, 72W/9,432 LM. CCT 3000K/3500K/4000K/5000K/6500K. 131 LM/W. 120-277V. White.
+
+**Compatible sensors and controls**
+- OcuSense controls (QSR Sensor-Ready driver). The text says this allows quick installation of basic and NLC lighting systems.
+- No specific sensor model codes are printed.
+
+**Dimensions and mounting**
+- Only the nominal sizes are given: 1'x4', 2'x2', 2'x4'.
+- There are no dimension drawings or mounting notes on this page.
+
+**Other**
+- Feature text:
+  - High-Quality Design: excellent light diffusion and optical clarity; resists yellowing and UV damage.
+  - Power & Color Select: choose wattage and CCT to fine-tune brightness and tone.
+  - Electrical: LED luminaire with dimmable driver, universal 120–277V.
+  - High Output Panel: 2x4 panel at 50W and 72W for strong, uniform illumination.
+- The page has a "Spec Sheet" button, which is likely a link in the digital catalog.
+- Branding: MES, "Lighting. Controls. Energy."
+
+The page's raw text:
 LED BACK-LIT FLAT PANEL
 (SPRUCE GSR+)
 CERTIFICATIONS
@@ -13761,6 +22114,46 @@ Sheet
 
 From the 2026 MES Catalog, page 37.
 
+What the page shows, read from the page image:
+**Products**
+
+Page sections: "SENSOR INFORMATION" and "ACCESSORIES"
+
+Accessories:
+- 02894 – Surface Mount Kit 1'x4'
+- 02895 – Surface Mount Kit 2'x2'
+- 02896 – Surface Mount Kit 2'x4'
+- 02886 – Aircraft Cable
+- 02883 – Flange Kit 1'x4'
+- 02884 – Flange Kit 2'x2'
+- 02885 – Flange Kit 2'x4'
+
+**Compatible sensors and controls**
+
+BASIC LIGHTING CONTROL
+- 06267-02: no name printed. The image shows a small sensor module with a cable lead.
+- 06278: no name printed. The image appears to be a handheld remote control. The button labels and display on the remote are too small to read.
+
+NETWORK LIGHTING CONTROL
+- LiteLinQ ("Efficiency Linked"): 06274. The small text printed on the sensor's cable is not legible.
+- SILVAIR: 06291
+- AMAYA PRO: 06901
+- "QSR" is printed in green above the brand logos, centered over the SILVAIR logo. The page does not say whether it applies only to SILVAIR or to all three network controls.
+
+**Dimensions and mounting**
+
+The mounting kits come in these sizes, as printed in the product names:
+- Surface mount kits: 1'x4', 2'x2' and 2'x4'
+- Flange kits: 1'x4', 2'x2' and 2'x4'
+- Aircraft cable: 02886
+
+No drawings, dimensions or mounting notes are printed beyond these.
+
+**Other**
+
+The page shows no certifications, feature icons, ordering table, wattages, lumens, voltages or colors.
+
+The page's raw text:
 SENSOR INFORMATION
 BASIC LIGHTING CONTROL
 06267-02 06278
@@ -13792,6 +22185,52 @@ Mount Kit 2'x4'
 
 From the 2026 MES Catalog, page 38.
 
+What the page shows, read from the page image:
+**Products**
+- LED BACK-LIT FLAT PANEL (BIRCH GSR+)
+- Sizes: 1'x4' | 2'x2' | 2'x4'
+
+**Certifications** (shown once for the whole page, not per product)
+- UL (the logo is the plain circled UL mark, not marked cULus)
+- DLC Listed Premium
+- DLC NLC5
+- FCC
+
+**Features shown as icons**
+- Power Selectable
+- CCT Tunable
+- IP20
+- QSR Sensor Ready Technology
+- PQSR Sensor Ready Technology
+- 0-10V Dimmable
+
+**Ordering table**
+All four codes have these values: CCT 3500K / 4000K / 5000K, 131 LM/W, 120-277V, White.
+
+- **02850**: DLC ID S-VXCG57, 1'x4'. 15W = 1,965 LM; 20W = 2,620 LM; 25W = 3,275 LM; 30W = 3,930 LM; 40W = 5,240 LM.
+- **02851**: DLC ID S-07BNK0, 2'x2'. 15W = 1,965 LM; 20W = 2,620 LM; 25W = 3,275 LM; 30W = 3,930 LM; 40W = 5,240 LM.
+- **02852**: DLC ID S-5NRHF2, 2'x4'. 23W = 3,013 LM; 30W = 3,930 LM; 35W = 4,585 LM; 40W = 5,240 LM; 50W = 6,550 LM.
+- **02853**: DLC ID S-5BQDDX, 2'x4'. 30W = 3,930 LM; 40W = 5,240 LM; 50W = 6,550 LM; 60W = 7,860 LM; 72W = 9,432 LM.
+
+Note on the DLC ID for 02851: the last character of "S-07BNK0" is most likely a zero, but it could be the letter O. Check it against the DLC listing.
+
+**Compatible sensors and controls**
+- The page names no sensor brands or part codes.
+- The feature text says: "QSR & PQSR Sensor-Ready: Driver supports both PIR and OcuSense controls for quick installation of basic and NLC lighting systems."
+
+**Other**
+- Features as printed:
+  - High-Quality Design: Provides excellent light diffusion, optical clarity, and resists yellowing or UV damage.
+  - Power & Color Select: Select the ideal wattage and CCT to fine-tune brightness and tone.
+  - Electrical: LED luminaire with dimmable driver and universal 120–277V.
+  - High Output Panel: 2×4 panel 50W and 72W for strong, uniform illumination.
+- There are two 2'x4' codes:
+  - 02852 is the standard version (23–50W).
+  - 02853 is the high-output version (30–72W).
+- The page has a "Spec Sheet" button/link.
+- Brand: MES, "Lighting. Controls. Energy."
+
+The page's raw text:
 LED BACK-LIT FLAT PANEL
 (BIRCH GSR+)
 Features:
@@ -13891,6 +22330,57 @@ S-5BQDDX
 
 From the 2026 MES Catalog, page 39.
 
+What the page shows, read from the page image:
+## Products
+
+**Accessories** (names as printed):
+- 02894: Surface Mount Kit 1'x4'
+- 02895: Surface Mount Kit 2'x2'
+- 02896: Surface Mount Kit 2'x4'
+- 02886: Aircraft Cable
+- 02883: Flange Kit 1'x4'
+- 02884: Flange Kit 2'x2'
+- 02885: Flange Kit 2'x4'
+
+The sensors below have codes only. No product names or descriptions are printed for them.
+
+## Compatible sensors and controls
+
+**Section heading: SENSOR INFORMATION**
+
+**BASIC LIGHTING CONTROL** (no brand shown)
+- 06267-02: The image shows a small rectangular module with a cable and connector plug.
+- 06320: The image shows an oval surface sensor with a round PIR lens. There is faint text on the housing that is too small to read.
+- 06278: The image shows a handheld remote with an LCD screen and keypad.
+
+**NETWORK LIGHTING CONTROL**
+
+The "(QSR)" and "(PQSR)" labels are printed above the center (SILVAIR) column. They appear to head the whole row, but the page doesn't state this explicitly.
+
+(QSR) row: each image shows a rectangular module with a cable.
+- LiteLinQ ("Efficiency Linked"): 06274. There is small printed text on the cable that is too small to read.
+- SILVAIR: 06291
+- AMAYA PRO: 06901
+
+(PQSR) row: each image shows an oval sensor with a round PIR lens.
+- LiteLinQ ("Efficiency Linked"): 06275
+- SILVAIR: 06293
+- AMAYA PRO: 06903
+
+## Dimensions and mounting
+
+- Surface mount kits come in 1'x4' (02894), 2'x2' (02895) and 2'x4' (02896).
+- Flange kits come in 1'x4' (02883), 2'x2' (02884) and 2'x4' (02885).
+- Aircraft cable (02886): the image shows two coiled cables with end fittings and small hardware pieces.
+- No dimensional drawings or mounting notes are printed.
+
+## Other
+
+- The page has two sections: "SENSOR INFORMATION" and "ACCESSORIES."
+- The page does not say which fixtures these sensors or accessories work with.
+- No certifications, feature icons, ordering table, specs or pricing appear on this page.
+
+The page's raw text:
 SENSOR INFORMATION
 BASIC LIGHTING CONTROL
 06320 06278
@@ -13922,6 +22412,53 @@ Mount Kit 2'x4'
 
 From the 2026 MES Catalog, page 40.
 
+What the page shows, read from the page image:
+**Products**
+- LED VOLUMETRIC TROFFER (REDWOOD GSR+), 2'x2' | 2'x4'
+
+**Certifications** (one set shown for the whole page)
+- UL (plain circled UL mark; no "c" or "US" marks visible)
+- DLC Listed Premium
+- FCC
+
+**Features shown as icons**
+- Power Selectable
+- CCT Tunable
+- IP20
+- QSR Sensor Ready Technology
+- 0-10V Dimmable
+
+**Ordering table**
+
+All three codes share these values:
+- 131 LM/W
+- 3500K / 4000K / 5000K
+- 120-277V
+- White
+
+| Ordering Code | DLC ID# | Size | Watts and Total LM |
+|---|---|---|---|
+| 02675 03 | S-D2VX7R | 2'x2' | 15W = 1,965 LM; 20W = 2,620 LM; 25W = 3,275 LM; 30W = 3,930 LM; 40W = 5,240 LM |
+| 02676 03 | S-J9QRG7 | 2'x4' | 23W = 3,013 LM; 30W = 3,930 LM; 35W = 4,585 LM; 40W = 5,240 LM; 50W = 6,550 LM |
+| 02676 05 | S-R1N2QG | 2'x4' | 30W = 3,930 LM; 40W = 5,240 LM; 50W = 6,550 LM; 60W = 7,860 LM; 72W = 9,432 LM |
+
+**Compatible sensors and controls**
+- OcuSense controls: "QSR Sensor-Ready: Driver supports OcuSense controls for quick installation of basic and NLC lighting systems."
+- No sensor or control part codes are printed on this page.
+
+**Dimensions and mounting**
+- Sizes only: 2'x2' and 2'x4'. No drawings, dimensions or mounting notes are printed.
+
+**Other**
+- Feature bullets as printed:
+  - Illumination: Delivers soft, flicker-free lighting ideal for workspaces and indoor areas.
+  - Power & Color Select: Select the ideal wattage and CCT to fine-tune brightness and tone.
+  - Electrical: LED luminaire with dimmable driver and universal 120–277V.
+  - High Output Panel: 2×4 panel 50W and 72W for strong, uniform illumination. (50W is the top setting of 02676 03; 72W is the top setting of 02676 05.)
+- The page has a "Spec Sheet" button (a link in the original), but no spec sheet details are printed here.
+- Brand: MES, "LIGHTING. CONTROLS. ENERGY."
+
+The page's raw text:
 LED VOLUMETRIC TROFFER
 (REDWOOD GSR+)
 Features:
@@ -14000,6 +22537,40 @@ Sheet
 
 From the 2026 MES Catalog, page 41.
 
+What the page shows, read from the page image:
+**Products**
+
+Sensor Information – Basic Lighting Control
+- 06267-02 (no name printed; the image shows a white sensor module with a lead and connector)
+- 06278 (no name printed; the image shows a handheld remote)
+
+Sensor Information – Network Lighting Control
+- 06274 (shown under the LiteLinQ logo)
+- 06291 (shown under the SILVAIR logo)
+- 06901 (shown under the AMAYA PRO logo)
+
+Accessories
+- 02895 Surface Mount Kit 2'x2'
+- 02896 Surface Mount Kit 2'x4'
+- 02886 Aircraft Cable
+
+**Compatible sensors and controls**
+
+Basic Lighting Control
+- 06267-02 (no brand printed)
+- 06278 (no brand printed)
+
+Network Lighting Control
+- LiteLinQ ("Efficiency Linked"): 06274
+- SILVAIR: 06291
+- AMAYA PRO: 06901
+- "QSR" is printed in green above the SILVAIR logo. The page does not say whether it applies only to SILVAIR or to the whole network section.
+
+**Other**
+- The page has no product-to-fixture compatibility, wattages, specs or certifications for these items. Check the fixture pages for which sensor or accessory fits which product.
+- The 02886 Aircraft Cable image shows two cable loops with end fittings. The quantity per kit is not printed.
+
+The page's raw text:
 ACCESSORIES
 02886
 Aircraft Cable
@@ -14022,6 +22593,59 @@ QSR
 
 From the 2026 MES Catalog, page 42.
 
+What the page shows, read from the page image:
+**Products**
+- LED VOLUMETRIC TROFFER (SYCAMORE GSR+), offered in 2'x2' and 2'x4'
+
+**Certifications** (shown once for the whole page)
+- UL
+- DLC Listed Premium
+- FCC
+
+**Features shown as icons**
+- Power Selectable
+- CCT Tunable
+- IP20
+- QSR Sensor Ready Technology
+- PQSR Sensor Ready Technology
+- 0-10V Dimmable
+
+**Ordering table**
+
+02677 | DLC ID S-D2VX7R | 2'x2' | CCT 3500K/4000K/5000K | 131 LM/W | 120-277V | White
+- 15W = 1,965 LM
+- 20W = 2,620 LM
+- 25W = 3,275 LM
+- 30W = 3,930 LM
+- 40W = 5,240 LM
+
+02678 | DLC ID S-J9QRG7 | 2'x4' | CCT 3500K/4000K/5000K | 131 LM/W | 120-277V | White
+- 23W = 3,013 LM
+- 30W = 3,930 LM
+- 35W = 4,585 LM
+- 40W = 5,240 LM
+- 50W = 6,550 LM
+
+02679 | DLC ID S-R1N2QG | 2'x4' | CCT 3500K/4000K/5000K | 131 LM/W | 120-277V | White
+- 30W = 3,930 LM
+- 40W = 5,240 LM
+- 50W = 6,550 LM
+- 60W = 7,860 LM
+- 72W = 9,432 LM
+
+**Compatible sensors and controls**
+- The page names no specific sensor brands or codes. The features text says the driver supports both PIR and OcuSense controls for quick installation of basic and NLC lighting systems (QSR & PQSR Sensor-Ready).
+
+**Other**
+- Features text:
+  - Illumination: soft, flicker-free lighting for workspaces and indoor areas.
+  - Power & Color Select: wattage and CCT can be selected.
+  - Electrical: dimmable driver, universal 120–277V.
+  - High Output Panel: 2×4 panel at 50W and 72W.
+- There is a "Spec Sheet" button on the page, which is likely a link in the digital catalog.
+- Brand: MES, "Lighting. Controls. Energy."
+
+The page's raw text:
 LED VOLUMETRIC TROFFER
 (SYCAMORE GSR+)
 Features:
@@ -14102,6 +22726,59 @@ Sheet
 
 From the 2026 MES Catalog, page 43.
 
+What the page shows, read from the page image:
+**Products**
+
+SENSOR INFORMATION
+
+Basic Lighting Control:
+- 06267-02
+- 06320
+- 06278 (pictured as a handheld remote)
+
+Network Lighting Control, (QSR):
+- 06274 (LiteLinQ)
+- 06291 (SILVAIR)
+- 06901 (AMAYA PRO)
+
+Network Lighting Control, (PQSR):
+- 06275 (LiteLinQ)
+- 06293 (SILVAIR)
+- 06903 (AMAYA PRO)
+
+ACCESSORIES
+- 02895 Surface Mount Kit 2'x2'
+- 02896 Surface Mount Kit 2'x4'
+- 02886 Aircraft Cable
+
+No product names are printed for the sensors. Only codes are shown.
+
+**Compatible sensors and controls**
+
+| Category | Brand | Code |
+|---|---|---|
+| Basic Lighting Control | None shown | 06267-02 |
+| Basic Lighting Control | None shown | 06320 |
+| Basic Lighting Control | None shown | 06278 |
+| Network, QSR | LiteLinQ ("Efficiency Linked") | 06274 |
+| Network, QSR | SILVAIR | 06291 |
+| Network, QSR | AMAYA PRO | 06901 |
+| Network, PQSR | LiteLinQ ("Efficiency Linked") | 06275 |
+| Network, PQSR | SILVAIR | 06293 |
+| Network, PQSR | AMAYA PRO | 06903 |
+
+The page does not say which luminaires these sensors and accessories work with.
+
+**Dimensions and mounting**
+- Mounting accessories: Surface Mount Kit 2'x2' (02895), Surface Mount Kit 2'x4' (02896), Aircraft Cable (02886).
+- No drawings or measurements are shown.
+
+**Other**
+- Page sections: "SENSOR INFORMATION" and "ACCESSORIES."
+- "QSR" and "PQSR" are not explained on the page. From the photos, the QSR units look like cable-attached sensor modules and the PQSR units look like round sensor heads.
+- Small text is printed along the cable of 06274, but it is too small to read.
+
+The page's raw text:
 SENSOR INFORMATION
 BASIC LIGHTING CONTROL
 06267-02 06320 06278
@@ -14126,6 +22803,56 @@ Mount Kit 2'x4'
 
 From the 2026 MES Catalog, page 44.
 
+What the page shows, read from the page image:
+**Products**
+- LED COVERED STRIP FIXTURE (JUNIPER GSR+), 4′ | 8′
+
+**Certifications** (one set shown for all products)
+- UL
+- DLC Listed Premium
+- DLC NLC5
+- FCC
+
+**Features shown as icons**
+- Power Selectable
+- CCT Tunable
+- IP20
+- QSR Sensor Ready Technology
+- PQSR Sensor Ready Technology
+- 0-10V Dimmable
+
+**Ordering table**
+All rows: 150 LM/W, 120-277V, White. CCT is the same five options for every code: 3000K, 3500K, 4000K, 5000K, 6500K. Each wattage is listed with its lumen value.
+- 02381 04: DLC ID S-0LBWFG, 4′, 21W = 3,150 LM, 26W = 3,900 LM, 34W = 5,100 LM, 40W = 6,000 LM
+- 02381 05: DLC ID S-7GZ1QP, 4′, 40W = 6,000 LM, 47W = 7,050 LM, 52W = 7,800 LM, 68W = 10,200 LM
+- 02382 04: DLC ID S-RMHHJZ, 8′, 34W = 5,100 LM, 42W = 6,300 LM, 52W = 7,800 LM, 68W = 10,200 LM
+- 02382 05: DLC ID S-BHJRLR, 8′, 40W = 6,000 LM, 53W = 7,950 LM, 68W = 10,200 LM, 80W = 12,000 LM
+- 02382 06: DLC ID S-32DLZX, 8′, 80W = 12,000 LM, 94W = 14,100 LM, 106W = 15,900 LM, 136W = 20,400 LM
+
+Notes on the ordering table:
+- Ordering codes are printed with a space (for example "02381 04").
+- In DLC ID S-0LBWFG, the second character could be a zero or the letter O. Check it against the DLC listing.
+
+**Compatible sensors and controls**
+- No specific sensor brand or code is printed.
+- The page says the driver supports both PIR and OcuSense controls for basic and NLC lighting systems (QSR and PQSR sensor-ready).
+
+**Dimensions and mounting**
+- No drawings or dimensions on this page. Only the lengths 4 ft and 8 ft are given.
+
+**Other**
+- Features listed in the text:
+  - Available Sizes: comes in 4 ft and 8 ft length configurations.
+  - Power & Color Select: select the ideal wattage and CCT to fine-tune brightness and tone.
+  - Electrical: LED luminaire with dimmable driver and universal 120–277V.
+  - Easy Wiring: simple, quick connection for fast installation.
+  - QSR & PQSR Sensor-Ready: driver supports both PIR and OcuSense controls for quick installation of basic and NLC lighting systems.
+  - Secure Lens: two-hand press design ensures stable lens attachment.
+- "NEW ARRIVAL" badge.
+- "Spec Sheet" button (link).
+- Brand: MES, "Lighting. Controls. Energy."
+
+The page's raw text:
 LED COVERED STRIP FIXTURE
 (JUNIPER GSR+)
 Features:
@@ -14236,6 +22963,49 @@ Sheet
 
 From the 2026 MES Catalog, page 45.
 
+What the page shows, read from the page image:
+**Products**
+Page title: SENSOR INFORMATION
+
+BASIC LIGHTING CONTROL
+- 06267-02
+- 06320
+- 06278 (shown as a handheld remote)
+
+NETWORK LIGHTING CONTROL
+
+(QSR)
+- LiteLinQ ("Efficiency Linked"): 06274
+- SILVAIR: 06291
+- AMAYA PRO: 06901
+
+(PQSR)
+- LiteLinQ ("Efficiency Linked"): 06275
+- SILVAIR: 06293
+- AMAYA PRO: 06903
+
+No product names or descriptions are printed beyond these codes, brand logos and section headings.
+
+**Compatible sensors and controls**
+| Category | Brand | Code |
+|---|---|---|
+| Basic Lighting Control | None printed | 06267-02 |
+| Basic Lighting Control | None printed | 06320 |
+| Basic Lighting Control | None printed | 06278 |
+| Network – QSR | LiteLinQ | 06274 |
+| Network – QSR | SILVAIR | 06291 |
+| Network – QSR | AMAYA PRO | 06901 |
+| Network – PQSR | LiteLinQ | 06275 |
+| Network – PQSR | SILVAIR | 06293 |
+| Network – PQSR | AMAYA PRO | 06903 |
+
+**Other**
+- The page does not spell out the abbreviations "QSR" and "PQSR."
+- The 06320 sensor shows small text on its housing that appears to read "RESET." It is too small to confirm.
+- 06274 has small printed text along its cable. It is not legible.
+- The lower part of the page is a photo of a grocery store aisle. It contains no product information.
+
+The page's raw text:
 SENSOR INFORMATION
 BASIC LIGHTING CONTROL
 06267-02 06320 06278
@@ -14251,6 +23021,69 @@ NETWORK LIGHTING CONTROL
 
 From the 2026 MES Catalog, page 46.
 
+What the page shows, read from the page image:
+## Products
+- LED WRAPAROUND CLASSIC (LAUREL FAMILY), 2′ | 4′
+  - (GSR) version: ordering code 19489 02
+  - (GSR+) version: ordering codes 19488 03 and 19490 03
+
+## Certifications
+The certification logos appear once on the page, not per product:
+- UL (UL logo in a circle, with no "c" or "us" markings visible)
+- DLC Listed Premium
+- DLC NLC5
+- FCC
+
+## Features shown as icons
+- Power Selectable
+- CCT Tunable
+- IP20
+- QSR Sensor Ready Technology
+- PQSR Sensor Ready Technology
+- 0-10V Dimmable
+- High Lumen. This icon also appears again above the (GSR+) table only.
+
+## Ordering table
+
+**(GSR)**
+- **19489 02**: DLC ID S-8G8WHC | 4′ | 120-277V | White | 125 LM/W
+  - 24W = 3,000 LM
+  - 31W = 3,875 LM
+  - 38W = 4,750 LM
+  - 46W = 5,750 LM
+  - CCT: 3000K / 3500K / 4000K / 5000K / 6500K
+
+**(GSR+)**, marked with the High Lumen icon
+- **19488 03**: DLC ID S-BJZ8Z5 | 2′ | 120-277V | White | 145 LM/W
+  - 12W = 1,740 LM
+  - 16W = 2,320 LM
+  - 20W = 2,900 LM
+  - 25W = 3,625 LM
+  - CCT: 3000K / 3500K / 4000K / 5000K / 6500K
+- **19490 03**: DLC ID S-KSG5P2 | 4′ | 120-277V | White | 145 LM/W
+  - 17W = 2,465 LM
+  - 24W = 3,480 LM
+  - 31W = 4,495 LM
+  - 38W = 5,510 LM
+  - CCT: 3000K / 3500K / 4000K / 5000K / 6500K
+
+## Compatible sensors and controls
+- No specific sensor brands or codes are printed.
+- The page says the driver supports both PIR and OcuSense controls (QSR & PQSR) for basic and NLC lighting systems.
+
+## Other
+- Brand: MES ("Lighting. Controls. Energy.")
+- "NEW ARRIVAL" badge.
+- Features text:
+  - **Modern Look:** Sleek, modern design available in 2ft and 4ft lengths for versatile applications.
+  - **Power & Color Select:** Select the ideal wattage and CCT to fine-tune brightness and tone.
+  - **Electrical:** LED luminaire with dimmable driver and universal 120–277V.
+  - **Easy Wiring:** Simple, quick electrical connection for fast installation.
+  - **QSR & PQSR Sensor-Ready:** Driver supports both PIR and OcuSense controls for quick installation of basic and NLC lighting systems.
+  - **High Efficiency:** Delivers up to 150 lumens per watt (lm/W) for uniform illumination. Note that the table shows a maximum of 145 LM/W.
+- There are "Spec Sheet" buttons next to the (GSR) and (GSR+) headings, but no link addresses are printed.
+
+The page's raw text:
 LED WRAPAROUND CLASSIC
 (LAUREL FAMILY)
 Features:
@@ -14338,6 +23171,37 @@ Sheet
 
 From the 2026 MES Catalog, page 47.
 
+What the page shows, read from the page image:
+**Products**
+Page title: SENSOR INFORMATION. No product names are printed. Only codes appear, grouped as follows.
+
+BASIC LIGHTING CONTROL
+- 06267-02 (rectangular sensor module with a lead and connector)
+- 06320 (oval PIR sensor; "RESET" appears faintly printed on the housing)
+- 06278 (handheld remote with LCD screen)
+
+NETWORK LIGHTING CONTROL
+- (QSR)
+  - LiteLinQ "Efficiency Linked": 06274
+  - SILVAIR: 06291
+  - AMAYA PRO: 06901
+- (PQSR)
+  - LiteLinQ "Efficiency Linked": 06275
+  - SILVAIR: 06293
+  - AMAYA PRO: 06903
+
+**Compatible sensors and controls**
+- Basic (no brand shown): 06267-02, 06320, 06278 (remote)
+- LiteLinQ: 06274 (QSR), 06275 (PQSR)
+- Silvair: 06291 (QSR), 06293 (PQSR)
+- Amaya Pro: 06901 (QSR), 06903 (PQSR)
+
+**Other**
+- The page does not define QSR or PQSR. They are printed only as section labels.
+- Small text on the 06274 sensor lead is too small to read.
+- The background shows a photo of a lecture hall or classroom. It is decorative only.
+
+The page's raw text:
 SENSOR INFORMATION
 BASIC LIGHTING CONTROL
 06267-02 06320 06278
@@ -14353,6 +23217,61 @@ NETWORK LIGHTING CONTROL
 
 From the 2026 MES Catalog, page 48.
 
+What the page shows, read from the page image:
+## Products
+- LED WRAPAROUND CURVED (OLIVE FAMILY), 4′
+  - (GSR 14-inch Profile)
+  - (GSR+ 10-inch Profile), marked with a "NEW ARRIVAL" badge
+
+## Certifications
+These logos are shown once for the whole page. The page does not say whether they differ between GSR and GSR+.
+- UL
+- DLC Listed Premium
+- DLC NLC5
+- FCC
+
+## Features shown as icons
+Page-level icons:
+- Power Selectable
+- CCT Tunable
+- IP20
+- QSR Sensor Ready Technology
+- ZSR Sensor Ready Technology
+- 0-10V Dimmable
+- High Lumen
+
+A separate "High Lumen" icon also appears next to the GSR+ 10-inch Profile section.
+
+## Ordering table
+**GSR 14-inch Profile**
+- 02472 | DLC ID: S-A4K532 | Size: 4′ | 30W / 3,900 LM; 40W / 5,200 LM; 50W / 6,500 LM | CCT: 3500K, 4000K, 5000K | 130 LM/W | 120-277V | White
+
+**GSR+ 10-inch Profile**
+- 02471 01 (printed with a space) | DLC ID: S-96Z91V | Size: 4′ | 21W / 3,150 LM; 26W / 3,900 LM; 34W / 5,100 LM; 40W / 6,000 LM | CCT: 3000K, 3500K, 4000K, 5000K, 6500K | 150 LM/W | 120-277V | White
+
+The wattages and lumens are listed in matching order in the table. Each pairing works out to the stated LM/W.
+
+## Compatible sensors and controls
+- No sensor codes are printed.
+- Feature text: "QSR & ZSR Sensor-Ready: Driver supports OcuSense & PIR with L-Adaptor controls for quick installation of basic and NLC lighting systems."
+
+## Dimensions and mounting
+- No drawings or mounting notes are shown.
+- Size is 4′. Curved profile comes in 10-inch and 14-inch widths.
+
+## Other
+Feature bullets:
+- Standardized Width Design: Featuring a unique modern curved profile in 10-inch and 14-inch.
+- Power & Color Select: Select the ideal wattage and CCT to fine-tune brightness and tone.
+- Electrical: LED luminaire with dimmable driver and universal 120–277V.
+- Easy Wiring: Simple, quick electrical connection for fast installation.
+- High Efficiency: Delivers up to 150 lumens per watt (lm/W) for uniform illumination.
+
+Also printed:
+- A "Spec Sheet" button appears next to each profile heading.
+- Branding: MES™ "LIGHTING. CONTROLS. ENERGY."
+
+The page's raw text:
 LED WRAPAROUND CURVED
 (OLIVE FAMILY)
 Features:
@@ -14421,6 +23340,51 @@ Sheet
 
 From the 2026 MES Catalog, page 49.
 
+What the page shows, read from the page image:
+**Products**
+
+The page is titled "SENSOR INFORMATION." Products are shown by code only; no product names are printed.
+
+*BASIC LIGHTING CONTROL*
+- 06267-02
+- 06301-01 + 06251-02 (shown as a pair joined by "+")
+- 06278 (pictured as a handheld remote; no description is printed)
+
+*NETWORK LIGHTING CONTROL*
+- (QSR)
+  - 06274
+  - 06291
+  - 06901
+- (ZSR)
+  - 06301-01 + 06270-02
+  - 06301-01 + 06290-01
+  - 06301-01 + 06906
+
+**Compatible sensors and controls**
+
+*Basic Lighting Control (no brand shown)*
+- 06267-02
+- 06301-01 + 06251-02
+- 06278
+
+*Network Lighting Control, (QSR)*
+- LiteLinQ ("Efficiency Linked"): 06274
+- SILVAIR: 06291
+- AMAYA PRO: 06901
+
+*Network Lighting Control, (ZSR)*
+- LiteLinQ ("Efficiency Linked"): 06301-01 + 06270-02
+- SILVAIR: 06301-01 + 06290-01
+- AMAYA PRO: 06301-01 + 06906
+
+**Other**
+- 06301-01 appears in four pairings: Basic with 06251-02, LiteLinQ ZSR with 06270-02, SILVAIR ZSR with 06290-01, and AMAYA PRO ZSR with 06906.
+- The page does not explain what "QSR" and "ZSR" mean.
+- The small text printed on the cable of 06274 is too small to read.
+- The marking on the 06301-01 body may say "MES," but it is too faint to confirm.
+- The page has no certification logos, feature icons, ordering table, specifications, dimensions, or mounting information.
+
+The page's raw text:
 SENSOR INFORMATION
 BASIC LIGHTING CONTROL
 +
@@ -14442,6 +23406,54 @@ NETWORK LIGHTING CONTROL
 
 From the 2026 MES Catalog, page 50.
 
+What the page shows, read from the page image:
+**Products**
+- LED STAIRWELL LINEAR FIXTURE (CHERRY GSR+), sizes 2′ | 4′
+
+**Certifications** (shown once for the page, not split by product)
+- UL (circled UL mark; no "C"/"US" markings visible)
+- DLC Listed Premium
+- DLC NLC5
+- FCC
+
+**Features shown as icons**
+- Power Selectable
+- CCT Tunable
+- IP20
+- PQSR Sensor Ready Technology
+- 0-10V Dimmable
+- High Lumen
+
+**Ordering table**
+- **02361**: DLC ID S-400BX6, size 2′, CCT 2700K/3000K/3500K/4000K/5000K, 150 LM/W, 120-277V, White
+  - 13W: 1,950 LM
+  - 17W: 2,550 LM
+  - 21W: 3,150 LM
+  - 26W: 3,900 LM
+- **02362**: DLC ID S-72YM6G, size 4′, CCT 2700K/3000K/3500K/4000K/5000K, 150 LM/W, 120-277V, White
+  - 21W: 3,150 LM
+  - 26W: 3,900 LM
+  - 34W: 5,100 LM
+  - 40W: 6,000 LM
+
+(The table lists wattages and lumens in matching order. Each pair works out to 150 lm/W.)
+
+**Compatible sensors and controls**
+- PQSR Sensor-Ready. The text says the "Driver supports both PIR controls for quick installation of basic and NLC lighting systems."
+- No sensor or control brands or part codes are printed on this page.
+
+**Other**
+- Features text:
+  - Available Sizes: Comes in 2 ft and 4 ft length configurations.
+  - Power & Color Select: Select the ideal wattage and CCT to fine-tune brightness and tone.
+  - Electrical: LED luminaire with dimmable driver and universal 120–277V.
+  - Easy Wiring: Simple, quick electrical connection for fast installation.
+  - High Efficiency: Delivers up to 150 lumens per watt (lm/W) for uniform illumination.
+- "NEW ARRIVAL" badge on the product image.
+- "Spec Sheet" button with a click icon.
+- Brand: MES™, "Lighting. Controls. Energy."
+
+The page's raw text:
 LED STAIRWELL LINEAR FIXTURE
 (CHERRY GSR+)
 Features:
@@ -14508,6 +23520,38 @@ S-72YM6G
 
 From the 2026 MES Catalog, page 51.
 
+What the page shows, read from the page image:
+**Products**
+
+Page title: SENSOR INFORMATION
+
+The page prints only codes, not product names:
+
+- 06267-02
+- 06320
+- 06278
+- 06275
+- 06293
+- 06903
+
+**Compatible sensors and controls**
+
+BASIC LIGHTING CONTROL (no brand printed):
+- 06267-02 (pictured: small sensor module with attached cable and connector)
+- 06320 (pictured: oval sensor with a center lens; small text on the unit, possibly "RESET", is too faint to read)
+- 06278 (pictured: handheld remote control)
+
+NETWORK LIGHTING CONTROL:
+- LiteLinQ ("Efficiency Linked"): 06275
+- SILVAIR, labeled "(PQSR)" in green above the logo: 06293
+- AMAYA PRO: 06903
+
+**Other**
+
+- The page does not say which luminaires these sensors and controls work with.
+- The page shows no certifications, feature icons, ordering table, dimensions or mounting details.
+
+The page's raw text:
 SENSOR INFORMATION
 BASIC LIGHTING CONTROL
 06267-02 06320 06278
@@ -14521,6 +23565,53 @@ NETWORK LIGHTING CONTROL
 
 From the 2026 MES Catalog, page 52.
 
+What the page shows, read from the page image:
+**Products**
+- LED VAPOR TIGHT FIXTURE (HAZEL GSR), 4′ | 8′
+
+**Certifications** (one set shown for the page; not split by product)
+- ETL Listed, c/US (Intertek)
+- DLC Listed Premium
+- DLC NLC5
+- FCC
+
+**Features shown as icons**
+- Power Selectable
+- CCT Tunable
+- IP67
+- QSR Sensor Ready Technology
+- ZSR Sensor Ready Technology
+- 0-10V Dimmable
+- NSF
+- IK10
+- NEMA 4X
+
+**Ordering table**
+- 02508: DLC ID S-TF1SHN, 4′, CCT 3500K/4000K/5000K, 140 LM/W, 120-277V, Gray. Wattage and lumens:
+  - 35W = 4,900 LM
+  - 45W = 6,300 LM
+  - 60W = 8,400 LM
+- 02509: DLC ID S-68O7H1, 8′, CCT 3500K/4000K/5000K, 140 LM/W, 120-277V, Gray. Wattage and lumens:
+  - 55W = 7,700 LM
+  - 65W = 9,100 LM
+  - 75W = 10,500 LM
+  - 90W = 12,600 LM
+  - Note: the third character after "S-68" in this DLC ID could be the letter "O" or the number "0". It cannot be told apart in this font. Check it against the DLC listing.
+
+**Compatible sensors and controls**
+- The page says: "Driver supports OcuSense and PIR with L-Adaptor controls for quick installation of basic and NLC lighting systems." No sensor or control ordering codes are printed.
+
+**Other**
+- Features text:
+  - Available Sizes: 4 ft and 8 ft lengths.
+  - Power & Color Select: choose the wattage and CCT to fine-tune brightness and tone.
+  - Rugged & Certified: NSF and IK10 certified for impact resistance and safety.
+  - QSR & ZSR Sensor-Ready.
+  - High Output Performance: enhanced lumen output for brighter, energy-efficient lighting.
+- The page has a "Spec Sheet" button (link).
+- Brand line: MES™, "Lighting. Controls. Energy."
+
+The page's raw text:
 LED VAPOR TIGHT FIXTURE
 (HAZEL GSR)
 Features:
@@ -14583,6 +23674,35 @@ Sheet
 
 From the 2026 MES Catalog, page 53.
 
+What the page shows, read from the page image:
+**Products**
+
+The page is titled "SENSOR INFORMATION." It shows sensor and control accessories identified only by code. No descriptive product names are printed.
+
+**Compatible sensors and controls**
+
+*BASIC LIGHTING CONTROL*
+- 06267-02
+- 06301-01 + 06251-02 (printed as a pair joined by "+")
+- 06278 (pictured as a handheld remote)
+
+*NETWORK LIGHTING CONTROL – (QSR)*
+- LiteLinQ ("Efficiency Linked"): 06274
+- SILVAIR: 06291
+- AMAYA PRO: 06901
+
+*NETWORK LIGHTING CONTROL – (ZSR)*
+- LiteLinQ ("Efficiency Linked"): 06301-01 + 06270-02
+- SILVAIR: 06301-01 + 06290-01
+- AMAYA PRO: 06301-01 + 06906
+
+**Other**
+- Page 53 of the 2026 MES Catalog.
+- Code 06301-01 is the same in all four "+" pairings: once under Basic, and once each under LiteLinQ, SILVAIR and AMAYA PRO for ZSR.
+- The page does not explain "QSR" or "ZSR."
+- Small markings appear on some product images, such as on the 06301-01 housing and along the 06274 cable. They are too small to read reliably.
+
+The page's raw text:
 SENSOR INFORMATION
 BASIC LIGHTING CONTROL
 +
@@ -14604,6 +23724,57 @@ NETWORK LIGHTING CONTROL
 
 From the 2026 MES Catalog, page 54.
 
+What the page shows, read from the page image:
+**Products**
+- LED ROUND HIGH BAY (ASH GSR+)
+
+**Certifications**
+The page shows one set of logos and doesn't say whether they differ by product:
+- UL
+- DLC Listed Premium
+- DLC NLC5
+- FCC
+
+**Features shown as icons**
+- Power Selectable
+- CCT Tunable
+- IP65
+- ZSR Sensor Ready Technology
+- 0-10V Dimmable
+- 6KV Surge Protection
+- High Lumen
+
+**Ordering table**
+All rows: 155 LM/W, 120-277V.
+
+- **03065-02** | DLC ID S-VEMO4W | CCT 3500K / 4000K / 5000K | 60W = 9,300 LM; 80W = 12,400 LM; 100W = 15,500 LM | Black
+  - The character after "VEM" could be the letter O or the number 0.
+- **03066-02** | DLC ID S-BIV8AP | CCT 3500K / 4000K / 5000K | 110W = 17,050 LM; 130W = 20,150 LM; 150W = 23,250 LM | Black
+- **03068-02** | DLC ID S-KCLWZG | CCT 3500K / 4000K / 5000K | 200W = 31,000 LM; 220W = 34,100 LM; 240W = 37,200 LM | Black
+- **03083** | DLC ID S-SWWLNG | CCT 3500K / 4000K / 5000K | 200W = 31,000 LM; 240W = 34,100 LM; 300W = 37,200 LM | Black
+  - These lumen values are as printed but don't match 155 LM/W. At that rate, 240W would be about 37,200 LM and 300W about 46,500 LM. Please confirm with MES.
+  - This is the only code printed without a "-02" suffix.
+- **03081-02** | DLC ID S-BIV8AP | CCT 3500K / 4000K / 5000K | 110W = 17,050 LM; 130W = 20,150 LM; 150W = 23,250 LM | White
+- **03082-02** | DLC ID S-KCLWZG | CCT 3500K / 4000K / 5000K | 200W = 31,000 LM; 220W = 34,100 LM; 240W = 37,200 LM | White
+
+**Compatible sensors and controls**
+- No sensor brands or codes are printed.
+- The text says: "ZSR Sensor-Ready: Driver supports PIR controls for quick installation of basic and NLC lighting systems."
+- Dimming is 0-10V (icon).
+
+**Dimensions and mounting**
+- There are no dimension drawings on the page.
+- Mounting: hook, pendant, and surface mount options.
+- 6-foot cord.
+
+**Other**
+- Efficiency: the features text says "155–160 lumens per watt," but every row in the table lists 155 LM/W.
+- IP65 housing: "Waterproof Design for outdoor and harsh environments."
+- 6KV surge protection: "Protects the fixture against voltage spikes and electrical surges."
+- The page has a "Spec Sheet" button graphic. No link or URL is printed.
+- Brand: MES™, tagline "LIGHTING. CONTROLS. ENERGY."
+
+The page's raw text:
 LED ROUND HIGH BAY
 (ASH GSR+)
 Features:
@@ -14705,6 +23876,45 @@ Sheet
 
 From the 2026 MES Catalog, page 55.
 
+What the page shows, read from the page image:
+**Products**
+No product name is printed on this page. The ordering table continues from the previous page and only shows ordering codes.
+
+**Certifications**
+No certification logos are shown on this page. The ordering table has a "DLC ID#" column, but no DLC Standard or Premium logo appears.
+
+**Features shown as icons**
+None shown on this page.
+
+**Ordering table**
+- 03079-02 | DLC ID: S-BIV8AP | 110W = 17,050 LM; 130W = 20,150 LM; 150W = 23,250 LM | CCT: 3500K / 4000K / 5000K | 155 LM/W | 277-480V | Black
+- 03080-02 | DLC ID: S-KCLWZG | 200W = 31,000 LM; 220W = 34,100 LM; 240W = 37,200 LM | CCT: 3500K / 4000K / 5000K | 155 LM/W | 277-480V | Black
+
+**Compatible sensors and controls**
+Under the "Sensor Information" heading:
+
+Basic Lighting Control:
+- 06251: dome-style sensor (no brand shown)
+- 06278: handheld remote (no brand shown)
+
+Network Lighting Control:
+- LiteLinQ ("Efficiency Linked"): 06270-02
+- SILVAIR: 06290-01
+- AMAYA PRO: 06906
+
+**Dimensions and mounting**
+No dimension drawings are on this page. The mounting accessories are listed below.
+
+**Other**
+Accessories:
+- Arcylic Reflector (spelled this way on the page): 110W-150W = 03045; 200W-240W = 03044
+- Surface Mount: 110W-150W = 03047; 200W-240W = 03046
+- Wireguard: 110W-150W = 03049; 200W-240W = 03048
+- Pendant Mount: 09458 (one code, no wattage range given)
+
+In the accessories, 110W-150W matches the 03079-02 range and 200W-240W matches the 03080-02 range.
+
+The page's raw text:
 110W
 130W
 150W
@@ -14752,6 +23962,63 @@ Ordering Code DLC ID# Watts CCT LM/Watt Total LM Voltage Color
 
 From the 2026 MES Catalog, page 56.
 
+What the page shows, read from the page image:
+**Products**
+- LED HIGH BAY LINEAR (PINE FAMILY)
+  - (SSR), marked with a "NEW ARRIVAL" badge
+  - (GSR)
+
+**Certifications**
+- UL
+- DLC LISTED PREMIUM
+- DLC NLC5
+- FCC
+
+The logos appear once for the whole family. The page does not say which certifications apply to SSR and which to GSR. The SSR DLC ID# is listed as "TBD".
+
+**Features shown as icons**
+- Power Selectable
+- CCT Tunable
+- IP20
+- ZSR Sensor Ready Technology
+- 0-10V Dimmable
+- 10KV Surge Protection
+
+**Ordering table**
+
+(SSR)
+- 09249 | DLC ID# TBD | 4′ | 5000K | 140 LM/W | 120-277V | White
+  - 220W / 30,800 LM
+  - 280W / 39,200 LM
+  - 320W / 44,800 LM
+  - 360W / 50,400 LM
+  - 400W / 56,000 LM
+
+(GSR)
+- 09247 - 01 | DLC ID# PALLZTQ9 | 3′ | 3000K / 4000K / 5000K | 158 LM/W | 120-277V | White
+  - 110W / 17,380 LM
+  - 165W / 26,070 LM
+  - 220W / 34,760 LM
+  - 300W / 47,400 LM
+
+**Compatible sensors and controls**
+- No sensor brand or code is listed.
+- Feature text: "ZSR Sensor-Ready: Driver supports PIR controls for quick installation of basic and NLC lighting systems."
+
+**Dimensions and mounting**
+- No dimensional drawings are on the page.
+- Available sizes: 3 ft and 4 ft length.
+- Aircraft cable mounting: "Enables quick, secure, and easy installation."
+- 6-foot power cord: "Provides extended reach and added flexibility during installation."
+
+**Other**
+- Brand: MES, "LIGHTING. CONTROLS. ENERGY."
+- High efficiency: "Delivers 140-160 lumens per watt (lm/W) for uniform illumination."
+- 10KV surge protection: "Protects the fixture against voltage spikes and electrical surges."
+- Each table has a "Spec Sheet" button, likely a link in the digital catalog.
+- The CCT Tunable icon applies to the family. The SSR table lists only 5000K.
+
+The page's raw text:
 Ordering Code DLC ID# WattsSize CCT LM/Watt Total LM Voltage Color
 Ordering Code DLC ID# WattsSize CCT LM/Watt Total LM Voltage Color
 220W
@@ -14814,6 +24081,49 @@ Sheet
 
 From the 2026 MES Catalog, page 57.
 
+What the page shows, read from the page image:
+**Products**
+
+Sensor Information – Basic Lighting Control
+- 06251
+- 06278
+
+Sensor Information – Network Lighting Control
+- 06270-02
+- 06290-01
+- 06906
+
+Accessories – PINE (GSR)
+- 03497 Pendant Mount
+- 03489 Surface Mount
+- 03498 Wireguard
+
+**Compatible sensors and controls**
+
+Basic Lighting Control (no brand printed):
+- 06251: dome-style sensor, shown in a picture
+- 06278: handheld remote, shown in a picture
+
+Network Lighting Control:
+- LiteLinQ ("Efficiency Linked"): 06270-02
+- SILVAIR: 06290-01
+- AMAYA PRO: 06906
+
+**Dimensions and mounting**
+
+These mounting accessories are for PINE (GSR):
+- 03497 Pendant Mount: bracket, shown with small screws
+- 03489 Surface Mount: a pair of brackets
+- 03498 Wireguard: wire cage
+
+No dimensions are printed on this page.
+
+**Other**
+
+- The page has two section headings: "SENSOR INFORMATION" and "ACCESSORIES."
+- The page does not name the fixture families that the sensors work with. It also gives no specs for the sensors or the remote.
+
+The page's raw text:
 SENSOR INFORMATION
 BASIC LIGHTING CONTROL
 0627806251
@@ -14834,6 +24144,47 @@ Wireguard
 
 From the 2026 MES Catalog, page 58.
 
+What the page shows, read from the page image:
+**Products**
+- LED HIGH BAY LINEAR (PINE SSR+)
+
+**Certifications** (same for all three ordering codes)
+- UL (circled UL mark; no "c" or "US" visible, so not shown as cULus)
+- DLC Listed Premium
+- DLC NLC5
+- FCC
+
+**Features shown as icons**
+- Power Selectable
+- IP20
+- ZSR Sensor Ready Technology
+- 0-10V Dimmable
+- 10KV Surge Protection
+- High Lumen
+
+**Ordering table**
+All three codes: Size 2′, CCT 5000K, 162 LM/W, Voltage 120-277V, Color White.
+- **09240-03**, DLC ID# S-BXIQWY: 50W = 8,100 LM; 60W = 9,720 LM; 70W = 11,340 LM; 90W = 14,580 LM; 110W = 17,820 LM
+- **09241-03**, DLC ID# S-GNIPZJ: 90W = 14,580 LM; 110W = 17,820 LM; 130W = 21,060 LM; 150W = 24,300 LM; 165W = 26,730 LM
+- **09242-03**, DLC ID# S-DSX36M: 150W = 24,300 LM; 165W = 26,730 LM; 180W = 29,160 LM; 200W = 32,400 LM; 220W = 35,640 LM
+
+**Dimensions and mounting**
+- Size: 2′ (all codes)
+- Mounting: aircraft cable mounting ("Enables quick, secure, and easy installation")
+- 6-foot power cord ("Provides extended reach and added flexibility during installation")
+- Rotatable wings ("Adjustable wing design allows customized light direction and coverage")
+- No dimensional drawings are on the page.
+
+**Other**
+- Written features list:
+  - High Efficiency: "Delivers 160 lumens per watt (lm/W) for uniform illumination." The table lists 162 LM/W, so the page contradicts itself.
+  - 10KV Surge Protection: "Protects the fixture against voltage spikes and electrical surges."
+  - ZSR Sensor-Ready: "Driver supports PIR controls for quick installation of basic and NLC lighting systems." No specific sensor brand or code is listed.
+- CCT is fixed at 5000K in every row. No CCT-selectable option is shown.
+- A "Spec Sheet" button appears on the page, which is likely a link to the spec sheet.
+- Branding: MES, "LIGHTING. CONTROLS. ENERGY."
+
+The page's raw text:
 Ordering Code DLC ID# WattsSize CCT LM/Watt Total LM Voltage Color
 50W
 60W
@@ -14900,6 +24251,48 @@ Sheet
 
 From the 2026 MES Catalog, page 59.
 
+What the page shows, read from the page image:
+## Products
+- No fixture name is printed on this page. The fixtures appear only by ordering code (09245, 09246) in the table. The product name is probably on the preceding page.
+
+## Ordering table
+| Ordering Code | DLC ID# | Size | Watts | CCT | LM/Watt | Total LM | Voltage | Color |
+|---|---|---|---|---|---|---|---|---|
+| 09245 | S-TICMN7 | 2′ | 90W | 5000K | 162 LM/W | 14,580 LM | 277-480V | White |
+| | | | 110W | | | 17,820 LM | | |
+| | | | 130W | | | 21,060 LM | | |
+| | | | 150W | | | 24,300 LM | | |
+| | | | 165W | | | 26,730 LM | | |
+| 09246 | S-VCNHUF | 2′ | 150W | 5000K | 162 LM/W | 24,300 LM | 277-480V | White |
+| | | | 165W | | | 26,730 LM | | |
+| | | | 180W | | | 29,160 LM | | |
+| | | | 200W | | | 32,400 LM | | |
+| | | | 220W | | | 35,640 LM | | |
+
+## Compatible sensors and controls
+Under the heading "SENSOR INFORMATION":
+
+**Basic Lighting Control** (no brand printed)
+- 06251: sensor (pictured)
+- 06278: handheld remote (pictured)
+
+**Network Lighting Control**
+- LiteLinQ ("Efficiency Linked"): 06270-02
+- SILVAIR: 06290-01
+- AMAYA PRO: 06906
+
+## Dimensions and mounting
+Under the heading "ACCESSORIES":
+- 03484: Pendant Mount
+- 03485: Surface Mount
+- 03486: Wireguard, 110W | 165W
+- 03487: Wireguard, 220W
+
+## Other
+- The 03486 and 03487 wireguards are labeled only by wattage. The page does not tie them to ordering codes 09245 or 09246.
+- No certification logos or feature icons appear on this page. DLC IDs are listed in the table, but no DLC logo or tier (Standard/Premium) is shown.
+
+The page's raw text:
 90W
 110W
 130W
@@ -14939,6 +24332,57 @@ Ordering Code DLC ID# WattsSize CCT LM/Watt Total LM Voltage Color
 
 From the 2026 MES Catalog, page 60.
 
+What the page shows, read from the page image:
+**Products**
+- LED HIGH BAY LINEAR (SEQUOIA GSR)
+- Table title: (Sequoia GSR)
+
+**Certifications** (one set for all four ordering codes)
+- UL
+- DLC Listed Premium
+- DLC NLC5
+- FCC
+
+**Features shown as icons**
+- 10KV Surge Protection
+- Power Selectable
+- CCT Tunable
+- IP20
+- ZSR Sensor Ready Technology
+- 0-10V Dimmable
+- High Lumen
+
+**Ordering table**
+All four codes are 3500K / 4000K / 5000K, 160 LM/W, 120-347V, White.
+
+- **09646**, DLC ID S-TL57P4: 50W = 8,000 LM; 60W = 9,600 LM; 70W = 11,200 LM; 90W = 14,400 LM; 105W = 16,800 LM
+- **09647**, DLC ID S-7RF0YG: 90W = 11,200 LM; 110W = 17,600 LM; 130W = 20,800 LM; 150W = 24,000 LM; 165W = 26,400 LM
+- **09648**, DLC ID S-MD10F1: 90W = 26,400 LM; 110W = 28,800 LM; 130W = 32,000 LM; 150W = 35,200 LM; 165W = 38,400 LM
+- **09649**, DLC ID S-DXS3W1: 240W = 38,400 LM; 260W = 41,600 LM; 280W = 44,800 LM; 300W = 48,000 LM; 320W = 51,200 LM
+
+Possible errors in the printed table (please check against the spec sheet):
+- 09647 at 90W: printed as 11,200 LM. At 160 LM/W, 90W would give 14,400 LM.
+- 09648: the printed wattages (90-165W) are the same as 09647's. They don't match the printed lumens at 160 LM/W, which would need about 165-240W.
+
+**Dimensions and mounting**
+- No dimension drawings on this page.
+- Aircraft Cable Mounting: "Enables quick, secure, and easy installation."
+- 6-Foot Power Cord: "Provides extended reach and added flexibility during installation."
+
+**Other**
+Feature bullets as printed:
+- Die-Cast Aluminum Housing: heavy-duty construction with robust heat dissipation for long-term performance.
+- High Efficiency: delivers 160 lumens per watt (lm/W) for uniform illumination.
+- 10KV Surge Protection: safeguards the fixture against voltage spikes and electrical surges.
+- ZSR Sensor-Ready: driver supports PIR controls for quick installation of basic and NLC lighting systems.
+
+The page does not name a specific compatible sensor brand or code.
+
+There is a "Spec Sheet" button next to the table title, which is probably a link.
+
+Brand on the page: MES™, "Lighting. Controls. Energy."
+
+The page's raw text:
 Ordering Code DLC ID# Watts CCT LM/Watt Total LM Voltage Color
 50W
 60W
@@ -15034,6 +24478,33 @@ Sheet
 
 From the 2026 MES Catalog, page 61.
 
+What the page shows, read from the page image:
+**Products**
+- Sequoia GSR (printed in parentheses as "(Sequoia GSR)", with a green "Spec Sheet" button next to it)
+
+**Ordering table**
+- 09650 | DLC ID#: S-X2M63V | CCT: 3000K / 4000K / 5000K | LM/Watt: 166 LM/W | Voltage: 120-277V | Color: White
+  - 280W: 46,480 LM
+  - 320W: 53,120 LM
+  - 360W: 59,760 LM
+  - 400W: 66,400 LM
+
+**Compatible sensors and controls**
+Under the heading "SENSOR INFORMATION":
+
+Basic Lighting Control
+- 06251: sensor (dome-style unit, pictured)
+- 06278: handheld remote (pictured)
+
+Network Lighting Control
+- LiteLinQ ("Efficiency Linked"): 06270-02
+- SILVAIR: 06290-01
+- AMAYA PRO: 06906
+
+**Other**
+- The bottom of the page has a background photo of a warehouse or industrial interior with high-bay fixtures. No other text is printed there.
+
+The page's raw text:
 (Sequoia GSR)
 280W
 320W
@@ -15063,6 +24534,58 @@ Sheet
 
 From the 2026 MES Catalog, page 62.
 
+What the page shows, read from the page image:
+**Products**
+- LED VAPOR TIGHT HIGH BAY (HAZEL GSR), size 4′
+
+**Certifications**
+- ETL Listed (Intertek, c/us)
+- DLC Listed Premium
+- DLC NLC5
+- FCC
+
+**Features shown as icons**
+- Power Selectable
+- CCT Tunable
+- IP67
+- ZSR Sensor Ready Technology
+- NSF
+- 0-10V Dimmable
+- IK10
+- NEMA 4X
+
+**Ordering table**
+- **02510 02** (printed with a space between "02510" and "02")
+  - DLC ID: S-E47LDJ
+  - Size: 4′
+  - CCT: 3500K / 4000K / 5000K
+  - Efficacy: 150 LM/W
+  - Voltage: 120-277V
+  - Color: White
+  - Wattage and lumens:
+    - 105W: 15,750 LM
+    - 135W: 20,250 LM
+    - 155W: 23,250 LM
+    - 180W: 27,000 LM
+
+**Compatible sensors and controls (Network Lighting Control)**
+- LiteLinQ: 06301-01 + 06270-02
+- Silvair: 06301-01 + 06290-01
+- Amaya Pro: 06301-01 + 06906
+
+**Dimensions and mounting**
+- No dimensions, drawings or mounting notes are printed on this page.
+
+**Other**
+- Features text:
+  - **Multiple Size Options:** Available in 4 ft and 8 ft configurations. Only the 4′ version appears in the ordering table on this page.
+  - **Power & Color Select:** Select the ideal wattage and CCT to fine-tune brightness and tone.
+  - **Rugged & Certified:** NSF and IK10 certified for impact resistance and safety.
+  - **ZSR Sensor-Ready:** Driver supports PIR with L-Adaptor controls for quick installation of basic and NLC lighting systems.
+  - **High Output Performance:** Enhanced lumen output delivers brighter, energy-efficient illumination.
+- A "Spec Sheet" button is shown. No link or URL is printed.
+
+The page's raw text:
 LED VAPOR TIGHT HIGH BAY
 (HAZEL GSR)
 Features:
@@ -15120,6 +24643,44 @@ NETWORK LIGHTING CONTROL
 
 From the 2026 MES Catalog, page 63.
 
+What the page shows, read from the page image:
+**Products:**
+- LED BACK-LIT PANEL HIGH BAY (ELM GSR+)
+
+**Certifications:**
+- UL (the UL logo in a circle; the page doesn't show whether it is UL or cULus)
+- DLC Listed Premium
+- DLC NLC5
+- FCC
+
+**Features shown as icons:**
+- Power Selectable
+- CCT Tunable
+- IP20
+- ZSR Sensor Ready Technology
+- 0-10V Dimmable
+
+**Ordering table:**
+- 02861: DLC ID S-2F9672, 2'x2', 100W = 16,000 LM, 150W = 24,000 LM, 210W = 33,600 LM, CCT 4000K/5000K, 160 LM/W, 120-277V, White
+- 02862: DLC ID S-6TCJ9V, 2'x4', 180W = 28,800 LM, 260W = 41,600 LM, 325W = 52,000 LM, CCT 4000K/5000K, 160 LM/W, 120-277V, White
+
+**Compatible sensors and controls (Network Lighting Control):**
+- LiteLinQ (Efficiency Linked): 06270-02
+- Silvair: 06290-01
+- Amaya Pro: 06906
+
+**Dimensions and mounting:**
+- Sizes are 2'x2' and 2'x4'. No dimension drawings are on the page.
+- Surface Mount Kit options for ceiling installation without recessed infrastructure.
+- Optional Aircraft Cable Kit for suspended mounting.
+
+**Other:**
+- Marked "NEW ARRIVAL".
+- There is a "Spec Sheet" button on the page (a link, no details printed).
+- High-Quality Lens: gives good light diffusion and optical clarity, and resists yellowing and UV damage.
+- ZSR Sensor Ready: the driver supports PIR controls for quick installation of basic and NLC lighting systems.
+
+The page's raw text:
 LED BACK-LIT PANEL HIGH BAY
 (ELM GSR+)
 Features:
@@ -15174,6 +24735,54 @@ NETWORK LIGHTING CONTROL
 
 From the 2026 MES Catalog, page 64.
 
+What the page shows, read from the page image:
+**Products**
+- LED WALL PACK SECURITY (CHEETAH G/FOX G)
+- (CHEETAH G)
+- (FOX G)
+
+**Certifications**
+These are shown once for the page and are not assigned to either product:
+- UL
+- DLC Listed Premium
+- DLC NLC5
+- FCC
+
+**Features shown as icons**
+These are shown once for the page and are not assigned to either product:
+- Power Selectable
+- CCT Tunable
+- IP65
+- Photocell
+- 0-10V Dimmable
+
+**Ordering table**
+The page lists wattages and CCTs side by side in each row. Wattage and CCT are separate selectable options, so the three CCT values are not tied to the three wattages. Lumen values are paired with wattage in the order printed.
+
+CHEETAH G
+- **05059**: DLC ID S-0L6ZV8; 10W / 1,470 LM, 15W / 2,205 LM, 20W / 2,940 LM; CCT 3500K / 4000K / 5000K; 147 LM/W; 120-277V; Bronze
+- **05058**: DLC ID S-0L6ZV8; 10W / 1,470 LM, 15W / 2,205 LM, 20W / 2,940 LM; CCT 3500K / 4000K / 5000K; 147 LM/W; 120-277V; White
+
+FOX G
+- **05060**: DLC ID S-N32S34; 10W / 1,950 LM, 15W / 2,600 LM, 30W / 3,900 LM; CCT 3000K / 4000K / 5000K; 130 LM/W; 120-277V; Bronze
+  - Please verify the 05060 figures with MES. The printed values do not match the stated 130 LM/W. For example, 1,950 LM at 10W would be 195 LM/W. The lumens would match 130 LM/W at 15W / 20W / 30W, so one of the wattage or lumen values may be misprinted.
+
+**Compatible sensors and controls**
+- Built-in photocell, which turns the fixture on or off based on daylight conditions. No brand or code is given.
+- No other sensors or controls are listed.
+
+**Other**
+- Features text:
+  - Available Colors: offered in Elegant Bronze and White finish.
+  - Power & Color Select: select the wattage and CCT to fine-tune brightness and tone.
+  - Electrical: LED luminaire with dimmable driver and universal 120–277V.
+  - Built-In Photocell: automatically turns the fixture on or off based on daylight conditions.
+- Both Cheetah G codes (05059 Bronze and 05058 White) share the same DLC ID, S-0L6ZV8.
+- Fox G is listed in Bronze only.
+- Each product section has a "Spec Sheet" button, which is likely a link in the digital catalog.
+- The page shows the brand tagline "MES – LIGHTING. CONTROLS. ENERGY."
+
+The page's raw text:
 LED WALL PACK SECURITY
 (CHEETAH G/FOX G)
 Features:
@@ -15240,6 +24849,42 @@ Sheet
 
 From the 2026 MES Catalog, page 65.
 
+What the page shows, read from the page image:
+**Products**
+- LED WALL PACK SLIM CUTOFF (VIPER GSR)
+
+**Certifications** (one set shown for the page, applies to both ordering codes)
+- UL
+- DLC Listed Premium
+- DLC NLC5
+- FCC
+
+**Features shown as icons**
+- Power Selectable
+- CCT Tunable
+- IP65
+- ZSR Sensor Ready Technology
+- Dark Sky Compliant
+- Photocell
+
+**Ordering table**
+- 05108-01: DLC ID S-FX4BF9. Watts and lumens are 10W/1,400 LM, 20W/2,800 LM, 30W/4,200 LM and 40W/5,600 LM. CCT is 3000K/4000K/5000K. Efficacy is 140 LM/W. Voltage is 120-277V. Color is Bronze.
+- 05109-01: DLC ID S-RXTXGT. Watts and lumens are 20W/2,800 LM, 40W/5,600 LM, 60W/8,400 LM and 80W/11,200 LM. CCT is 3000K/4000K/5000K. Efficacy is 140 LM/W. Voltage is 120-277V. Color is Bronze.
+
+**Compatible sensors and controls**
+- The page gives no specific sensor brand or code. It only says ZSR Sensor-Ready: "Driver supports PIR with L-Adaptor controls for quick installation of basic and NLC lighting systems."
+
+**Dimensions and mounting**
+- The page has no dimension drawings. It mentions a rotatable head: "Adjustable up-and-down design allows precise light direction and coverage."
+
+**Other**
+- Power & Color Select: "Select the ideal wattage and CCT to fine-tune brightness and tone."
+- Electrical: "LED luminaire with dimmable driver and universal 120–277V." The dimming type, such as 0-10V, is not stated.
+- Built-In Photocell: "Provides automatic dusk-to-dawn operation for improved energy efficiency."
+- The page has a "Spec Sheet" button, which is likely a link in the digital catalog.
+- Branding: MES – Lighting. Controls. Energy.
+
+The page's raw text:
 Ordering Code DLC ID# Watts CCT LM/Watt Total LM Voltage Color
 10W
 20W
@@ -15301,6 +24946,55 @@ Sheet
 
 From the 2026 MES Catalog, page 66.
 
+What the page shows, read from the page image:
+**Products**
+- LED WALL PACK STANDARD (TIGER GSR)
+
+**Certifications**
+These apply to all products on the page.
+- UL (circle UL logo; no "c" or "US" marks visible)
+- DLC Listed Premium
+- DLC NLC5
+- FCC
+
+**Features shown as icons**
+- Power Selectable
+- CCT Tunable
+- IP65
+- ZSR Sensor Ready Technology
+- Dark Sky Compliant (shown as a feature icon, not a DarkSky certification logo)
+- Photocell
+
+**Ordering table**
+- 05252-01 | DLC ID S-PLWIQ3 | 10W = 1,300 LM, 20W = 2,600 LM, 30W = 3,900 LM, 40W = 5,200 LM | CCT 3000K/4000K/5000K | 130 LM/W | 120-277V | Bronze
+- 05255-01 | DLC ID S-LKJEUV | 20W = 2,700 LM, 40W = 5,400 LM, 60W = 8,100 LM, 80W = 10,800 LM | CCT 3000K/4000K/5000K | 135 LM/W | 120-277V | Bronze
+- 05256-01 | DLC ID S-SWFBX3 | 30W = 4,050 LM, 60W = 8,100 LM, 90W = 12,150 LM, 120W = 16,200 LM | CCT 3000K/4000K/5000K | 135 LM/W | 120-277V | Bronze
+- 05260-01 | DLC ID S-LKJEUV | 20W = 2,700 LM, 40W = 5,400 LM, 60W = 8,100 LM, 80W = 10,800 LM | CCT 3000K/4000K/5000K | 135 LM/W | 120-277V | White
+- 05259-01 | DLC ID S-SWFBX3 | 30W = 4,050 LM, 60W = 8,100 LM, 90W = 12,150 LM, 120W = 16,200 LM | CCT 3000K/4000K/5000K | 135 LM/W | 120-277V | White
+
+Notes on the table:
+- The table prints 05260-01 before 05259-01.
+- Each White model shares its DLC ID with the Bronze model of the same wattage range.
+
+**Compatible sensors and controls**
+- No sensor brand or part code is printed.
+- The page says: "ZSR Sensor-Ready: Driver supports PIR with L-Adaptor controls for quick installation of basic and NLC lighting systems."
+
+**Dimensions and mounting**
+- None shown. There are no drawings or dimension notes. The product images show a wall-mounted unit.
+
+**Other**
+Feature text as printed:
+- Optics: Features durable, high-quality glass for clear and uniform illumination.
+- Available Colors: Offered in elegant Bronze and White finishes.
+- Power & Color Select: Select the ideal wattage and CCT to fine-tune brightness and tone.
+- Built-In Photocell: Provides automatic dusk-to-dawn operation for improved energy efficiency.
+
+Also printed:
+- A "Spec Sheet" button, likely a link in the digital catalog.
+- Brand: MES™, tagline "LIGHTING. CONTROLS. ENERGY."
+
+The page's raw text:
 Ordering Code DLC ID# Watts CCT LM/Watt Total LM Voltage Color
 10W
 20W
@@ -15401,6 +25095,51 @@ Sheet
 
 From the 2026 MES Catalog, page 67.
 
+What the page shows, read from the page image:
+**Products**
+- LED WALL PACK SLIM STANDARD (RAPTOR GSR)
+
+**Certifications** (same for all ordering codes; no per-product breakdown is shown)
+- UL
+- DLC Listed Premium
+- DLC NLC5
+- FCC
+
+**Features shown as icons**
+- Power Selectable
+- CCT Tunable
+- IP65
+- ZSR Sensor Ready Technology
+- Dark Sky Compliant (shown as a feature icon, not in the certifications row)
+- Photocell
+
+**Features (text)**
+- Optics: Features durable, high-quality glass for clear and uniform illumination.
+- Available Colors: Offered in elegant Bronze and White finishes.
+- Power & Color Select: Select the ideal wattage and CCT to fine-tune brightness and tone.
+- ZSR Sensor-Ready: Driver supports PIR with L-Adaptor controls for quick installation of basic and NLC lighting systems.
+- Built-In Photocell: Provides automatic dusk-to-dawn operation for improved energy efficiency.
+
+**Ordering table**
+- 05265 | DLC ID S-76ZVOK | 10W = 1,350 LM, 20W = 2,700 LM, 30W = 4,050 LM, 40W = 5,400 LM | CCT 3000K / 4000K / 5000K | 130 LM/W | 120-277V | Bronze
+- 05261 | DLC ID S-INHY9M | 20W = 2,700 LM, 40W = 5,400 LM, 60W = 8,100 LM, 80W = 10,800 LM | CCT 3000K / 4000K / 5000K | 135 LM/W | 120-277V | Bronze
+- 05263 | DLC ID S-NT8Q0O | 30W = 4,050 LM, 60W = 8,100 LM, 90W = 12,150 LM, 120W = 16,200 LM | CCT 3000K / 4000K / 5000K | 135 LM/W | 120-277V | Bronze
+- 05262 | DLC ID S-INHY9M | 20W = 2,700 LM, 40W = 5,400 LM, 60W = 8,100 LM, 80W = 10,800 LM | CCT 3000K / 4000K / 5000K | 135 LM/W | 120-277V | White
+- 05264 | DLC ID S-NT8Q0O | 30W = 4,050 LM, 60W = 8,100 LM, 90W = 12,150 LM, 120W = 16,200 LM | CCT 3000K / 4000K / 5000K | 135 LM/W | 120-277V | White
+
+Notes on the table:
+- In the DLC IDs, the letter O and the digit 0, and the letter I and the digit 1, are hard to tell apart in this font. Check them against the DLC listing before quoting. The uncertain characters are the "O" at the end of S-76ZVOK, the "I" in S-INHY9M, and the "0O" in S-NT8Q0O.
+- For 05265, the printed efficacy is 130 LM/W. However, the printed lumen values work out to 135 LM/W (for example, 1,350 LM ÷ 10W). The page is inconsistent here.
+- Units sharing a DLC ID: 05261 and 05262 (Bronze and White) both use S-INHY9M. 05263 and 05264 both use S-NT8Q0O.
+
+**Compatible sensors and controls**
+- The page names no specific sensor brand or code. It only says the driver supports PIR with L-Adaptor controls (ZSR Sensor-Ready).
+
+**Other**
+- Brand: MES, tagline "Lighting. Controls. Energy."
+- There is a "Spec Sheet" button on the page, which suggests a linked spec sheet in the digital catalog.
+
+The page's raw text:
 Ordering Code DLC ID# Watts CCT LM/Watt Total LM Voltage Color
 10W
 20W
@@ -15501,6 +25240,44 @@ Sheet
 
 From the 2026 MES Catalog, page 68.
 
+What the page shows, read from the page image:
+**Products**
+- LED WALL PACK FULL CUTOFF (JAGUAR GSR)
+
+**Certifications** (one set shown for the whole page, not by product)
+- UL (circled UL mark with ®. No "c" or "US" marks are visible, so it is not shown as cULus)
+- DLC Listed Premium
+- DLC NLC5
+- FCC
+
+**Features shown as icons**
+- Power Selectable
+- CCT Tunable
+- IP65
+- ZSR Sensor Ready Technology
+- Dark Sky Compliant
+- Photocell
+
+**Ordering table**
+- 05126-02 | DLC ID S-MITGPO | 20W = 1,350 LM, 40W = 2,700 LM, 60W = 4,050 LM, 80W = 5,400 LM | 3000K/4000K/5000K | 135 LM/W | 120-277V | Bronze
+- 05129-02 | DLC ID S-6L81FM | 30W = 2,700 LM, 60W = 5,400 LM, 90W = 8,100 LM, 120W = 10,800 LM | 3000K/4000K/5000K | 135 LM/W | 120-277V | Bronze
+- 05128-02 | DLC ID S-MITGPO | 20W = 4,050 LM, 40W = 8,100 LM, 60W = 12,150 LM, 80W = 16,200 LM | 3000K/4000K/5000K | 135 LM/W | 120-277V | White
+- 05130-02 | DLC ID S-6L81FM | 30W = 4,050 LM, 60W = 8,100 LM, 90W = 12,150 LM, 120W = 16,200 LM | 3000K/4000K/5000K | 135 LM/W | 120-277V | White
+
+Note: these lines are exactly as printed, but some lumen values look wrong. The printed lumens for 05128-02 and 05130-02 don't match 135 LM/W times the watts. They also don't match their Bronze versions (05126-02 and 05129-02), which have the same DLC IDs. In addition, 05129-02 lists 2,700 LM at 30W, which works out to 90 LM/W. Please check these against the spec sheet before quoting.
+
+**Compatible sensors and controls**
+- No sensor brand or code is printed. The feature text says: "ZSR Sensor-Ready: Driver supports PIR with L-Adaptor controls for quick installation of basic and NLC lighting systems."
+
+**Other**
+- Optics: Durable PC lens maintains long-term clarity and resists fading.
+- Available Colors: Offered in elegant Bronze and White finishes.
+- Power & Color Select: Select the ideal wattage and CCT to fine-tune brightness and tone.
+- Built-In Photocell: Provides automatic dusk-to-dawn operation for improved energy efficiency.
+- The page has a "Spec Sheet" button, which links to a separate spec sheet.
+- Brand: MES – Lighting. Controls. Energy.
+
+The page's raw text:
 Ordering Code DLC ID# Watts CCT LM/Watt Total LM Voltage Color
 20W
 40W
@@ -15588,6 +25365,67 @@ Sheet
 
 From the 2026 MES Catalog, page 69.
 
+What the page shows, read from the page image:
+**Products**
+- LED WALL PACK FULL CUTOFF UP/DOWN (JAGUAR GSR+)
+
+**Certifications** (same for all ordering codes)
+- UL (circle UL logo; no "c" or "US" marks visible)
+- DLC Listed Premium
+- DLC NLC5
+- FCC
+- Dark Sky Compliant appears as a feature icon, not in the certifications row. The features text calls it "Dark Sky Compliant Certification."
+
+**Features shown as icons**
+- Power Selectable
+- CCT Tunable
+- IP65
+- ZSR Sensor Ready Technology
+- Dark Sky Compliant
+- Photocell
+
+**Ordering table**
+- **05126 03**
+  - DLC ID: PLWNWFZSS7JT
+  - Wattage and lumens: 10W / 1,500 LM; 20W / 3,000 LM; 30W / 4,500 LM; 40W / 6,000 LM
+  - CCT: 3000K / 4000K / 5000K
+  - Efficacy: 150 LM/W
+  - Voltage: 120-277V
+  - Color: Bronze
+- **05126 04**
+  - DLC ID: S-MITGPO
+  - Wattage and lumens: 20W / 3,000 LM; 40W / 6,000 LM; 60W / 9,000 LM; 80W / 12,000 LM
+  - CCT: 3000K / 4000K / 5000K
+  - Efficacy: 150 LM/W
+  - Voltage: 120-277V
+  - Color: Bronze
+- **05126 05**
+  - DLC ID: S-6L81FM
+  - Wattage and lumens: 30W / 4,500 LM; 60W / 9,000 LM; 90W / 13,500 LM; 120W / 18,000 LM
+  - CCT: 3000K / 4000K / 5000K
+  - Efficacy: 150 LM/W
+  - Voltage: 120-277V
+  - Color: Bronze
+
+**Compatible sensors and controls**
+- No specific sensor brand or part code is printed.
+- The features text says: "ZSR Sensor-Ready: Driver supports PIR with L-Adaptor controls for quick installation of basic and NLC lighting systems."
+
+**Dimensions and mounting**
+- No dimensions or mounting drawings are on this page.
+
+**Other**
+- Features text:
+  - **Dark Sky Compliant Certification:** Certified Dark Sky Compliant to minimize light pollution and ensure eco-friendly.
+  - **Dual-Direction Lighting:** Provides balanced illumination by directing light both upward and downward.
+  - **Power & Color Select:** Select the ideal wattage and CCT to fine-tune brightness and tone.
+  - **ZSR Sensor-Ready:** Driver supports PIR with L-Adaptor controls for quick installation of basic and NLC lighting systems.
+  - **Built-In Photocell:** Provides automatic dusk-to-dawn operation for improved energy efficiency.
+- The page has a "NEW ARRIVAL" badge and a "Spec Sheet" button. The button is probably a link in the digital catalog, but no URL is printed.
+- The product photo shows both a bronze and a white fixture. The table lists only Bronze, and no white ordering code is printed.
+- The MES logo carries the tagline "LIGHTING. CONTROLS. ENERGY."
+
+The page's raw text:
 Ordering Code DLC ID# Watts CCT LM/Watt Total LM Voltage Color
 10W
 20W
@@ -15662,6 +25500,45 @@ Sheet
 
 From the 2026 MES Catalog, page 70.
 
+What the page shows, read from the page image:
+**Products**
+- LED WALL PACK HALF MOON (HYENA GSR)
+
+**Certifications** (the same for all three ordering codes)
+- UL
+- DLC Listed Premium
+- DLC NLC5
+- FCC
+
+**Features shown as icons**
+- Power Selectable
+- CCT Tunable
+- IP65
+- ZSR Sensor Ready Technology
+- Dark Sky Compliant
+- Photocell
+
+**Ordering table**
+- 05131 | DLC ID: PLWNWFZSS7JT | 10W = 1,500 LM, 20W = 3,000 LM, 30W = 4,500 LM, 40W = 6,000 LM | CCT: 3000K / 4000K / 5000K | 150 LM/W | 120-277V | Bronze
+- 05132 | DLC ID: S-MITGPO | 20W = 3,000 LM, 40W = 6,000 LM, 60W = 9,000 LM, 80W = 12,000 LM | CCT: 3000K / 4000K / 5000K | 150 LM/W | 120-277V | Bronze
+- 05133 | DLC ID: S-6L81FM | 30W = 4,500 LM, 60W = 9,000 LM, 90W = 13,500 LM, 120W = 18,000 LM | CCT: 3000K / 4000K / 5000K | 150 LM/W | 120-277V | Bronze
+
+**Compatible sensors and controls**
+- The page does not list a sensor brand or code. It only says: "ZSR Sensor-Ready: Driver supports PIR with L-Adaptor controls for quick installation of basic and NLC lighting systems."
+
+**Other**
+- "NEW ARRIVAL" badge.
+- "Spec Sheet" button. The link target is not shown on the page.
+- Features text:
+  - Dark Sky Compliant Certification: Certified Dark Sky Compliant to minimize light pollution and ensure eco-friendly.
+  - Versatile Performance: Ideal for exterior walls, pathways, and architectural lighting.
+  - Power & Color Select: Select the ideal wattage and CCT to fine-tune brightness and tone.
+  - ZSR Sensor-Ready: Driver supports PIR with L-Adaptor controls for quick installation of basic and NLC lighting systems.
+  - Built-In Photocell: Provides automatic dusk-to-dawn operation for improved energy efficiency.
+- The table lists only Bronze. The product photo also shows a white unit, but no white ordering code is printed.
+- Brand: MES, "Lighting. Controls. Energy."
+
+The page's raw text:
 Ordering Code DLC ID# Watts CCT LM/Watt Total LM Voltage Color
 10W
 20W
@@ -15736,6 +25613,27 @@ Sheet
 
 From the 2026 MES Catalog, page 71.
 
+What the page shows, read from the page image:
+**Products**
+- Page title: NLC FOR WALLPACKS
+- No product names are printed. The page shows six wallpack fixture photos without labels. Each has a sensor/twist-lock adapter attached on the side or bottom:
+  - Row 1: a small cutoff wallpack with an angled top and a visible LED array; a traditional-style wallpack with a prismatic lens; a traditional-style wallpack with a prismatic lens and a yellow LED strip at the top edge.
+  - Row 2: a large flat-panel wallpack with a slim bottom light opening; a bronze rounded wallpack with a light opening on the top and bottom; a bronze quarter-sphere wallpack with an LED board on the bottom.
+
+**Certifications**
+- None shown.
+
+**Compatible sensors and controls**
+The page shows three NLC kits. Each kit is an adapter assembly plus a sensor.
+- LiteLinQ ("Efficiency Linked"): 06301-01 + 06302-01 + 06270-04. The 06270-04 sensor is black with a white dome.
+- SILVAIR: 06301-01 + 06302-01 + 06290-04. The 06290-04 sensor is bronze with a light blue dome.
+- AMAYA PRO: 06301-01 + 06302-01 + 06921. The 06921 sensor is bronze with a light blue dome.
+- 06301-01 and 06302-01 are shared by all three kits. They are pictured together as one adapter assembly: a dark gray elbow with a threaded fitting, white wire leads and a white base. The page does not say which code is which part.
+
+**Other**
+- The page does not say which wallpack fixtures each NLC kit fits. It only shows the kits and the fixture photos together.
+
+The page's raw text:
 NLC FOR WALLPACKS
 06301-01 06302-0106270-04
 + +
@@ -15750,6 +25648,42 @@ NLC FOR WALLPACKS
 
 From the 2026 MES Catalog, page 72.
 
+What the page shows, read from the page image:
+**Products**
+- LED CANOPY SOFFIT FIXTURE (BOBCAT G)
+
+**Certifications** (same for all products on the page)
+- UL (circular UL logo with ®; no "c" or "US" marks are visible, so it does not appear to be cULus)
+- DLC Listed Premium
+- DLC NLC5
+- FCC
+
+**Features shown as icons**
+- Power Selectable
+- CCT Tunable
+- IP65
+- 0-10V Dimmable
+
+**Ordering table**
+Each code has selectable wattage and selectable CCT (3500K / 4000K / 5000K). Lumens per watt is 133 LM/W at every wattage.
+- 06104: DLC ID S-MNXDUL | 13W = 1,729 LM, 15W = 1,995 LM, 20W = 2,660 LM | 3500K / 4000K / 5000K | 133 LM/W | 120-277V | Bronze
+- 06105: DLC ID S-DQVRCW | 36W = 4,788 LM, 45W = 5,985 LM, 55W = 7,315 LM | 3500K / 4000K / 5000K | 133 LM/W | 120-277V | Bronze
+- 06102: DLC ID S-MNXDUL | 13W = 1,729 LM, 15W = 1,995 LM, 20W = 2,660 LM | 3500K / 4000K / 5000K | 133 LM/W | 120-277V | White
+- 06103: DLC ID S-DQVRCW | 36W = 4,788 LM, 45W = 5,985 LM, 55W = 7,315 LM | 3500K / 4000K / 5000K | 133 LM/W | 120-277V | White
+
+**Dimensions and mounting**
+- No dimension drawings are on the page.
+- Mounting note: "Universal Mounting: Installs on virtually any surface; box or hole size is not a limitation."
+
+**Other**
+- Feature bullets:
+  - Classic Look: Clean, timeless design suitable for a wide range of spaces.
+  - Power & Color Select: Select the ideal wattage and CCT to fine-tune brightness and tone.
+  - Electrical: LED luminaire with dimmable driver and universal 120–277V.
+- The page has a "Spec Sheet" button, which is likely a link in the digital catalog.
+- Brand: MES™, "Lighting. Controls. Energy."
+
+The page's raw text:
 Ordering Code DLC ID# Watts CCT LM/Watt Total LM Voltage Color
 13W
 15W
@@ -15823,6 +25757,32 @@ Sheet
 
 From the 2026 MES Catalog, page 73.
 
+What the page shows, read from the page image:
+**Products**
+Page title: SENSOR INFORMATION
+
+BASIC LIGHTING CONTROL
+- 06246: PIR 3-in-1 Sensor
+- 06247: *On/Off Sensor (the asterisk is printed, but this page has no matching footnote)
+- 06278: no description printed; the picture shows a handheld remote control with an LCD screen
+
+NETWORK LIGHTING CONTROL
+- 06269-01: under the LiteLinQ logo ("LiteLinQ Efficiency Linked")
+- 06296: under the SILVAIR logo
+- 06930: under the AMAYA PRO logo
+
+**Compatible sensors and controls**
+- Basic: 06246 (PIR 3-in-1 Sensor), 06247 (*On/Off Sensor), 06278 (remote control)
+- LiteLinQ: 06269-01
+- Silvair: 06296
+- Amaya Pro: 06930
+
+**Other**
+- The page does not name which fixtures these sensors work with.
+- The bottom of the page is a photo of a square, recessed fixture lit up in the ceiling of a covered drive-through or canopy. The fixture has no label or code.
+- The remote 06278 is printed too small to read its button labels.
+
+The page's raw text:
 SENSOR INFORMATION
 NETWORK LIGHTING CONTROL
 BASIC LIGHTING CONTROL
@@ -15839,6 +25799,49 @@ PIR 3-in-1 Sensor
 
 From the 2026 MES Catalog, page 74.
 
+What the page shows, read from the page image:
+**Products**
+- LED CANOPY GARAGE (LEO GSR)
+
+**Certifications**
+Shown once for the whole page, not per ordering code:
+- UL (circled UL mark)
+- DLC Listed Premium
+- DLC NLC5
+- FCC
+
+**Features shown as icons**
+- Power Selectable
+- CCT Tunable
+- IP65
+- ZSR Sensor Ready Technology
+- 0-10V Dimmable
+
+**Ordering table**
+All codes are 135 LM/W and 120-277V. CCT for every code is 3500K / 4000K / 5000K.
+- 05825-02: DLC ID S-5EL7F8, Bronze. 20W = 2,700 LM; 30W = 4,050 LM; 40W = 5,400 LM.
+- 05823-02: DLC ID S-2Y7V9U, Bronze. 20W = 2,700 LM; 40W = 5,400 LM; 60W = 8,100 LM; 80W = 10,800 LM.
+- 05826-02: DLC ID S-5EL7F8, White. 20W = 2,700 LM; 30W = 4,050 LM; 40W = 5,400 LM.
+- 05824-02: DLC ID S-2Y7V9U, White. 20W = 2,700 LM; 40W = 5,400 LM; 60W = 8,100 LM; 80W = 10,800 LM.
+
+**Compatible sensors and controls**
+- No specific sensor brand or code is printed on this page.
+- The feature text says: "ZSR Sensor-Ready: Driver supports PIR controls for quick installation of basic and NLC lighting systems."
+
+**Dimensions and mounting**
+- No dimension drawings on this page.
+- Mounting note: "Easy Installation: A simple mounting bracket allows quick and hassle-free setup."
+- Wiring note: "Knockouts: Piping knockouts on all four sides provide flexible wiring options."
+
+**Other**
+- Available colors: Bronze and White finishes.
+- Power & Color Select: wattage and CCT are selectable.
+- Electrical: LED luminaire with dimmable driver, universal 120–277V.
+- The Bronze and White versions of each wattage range share the same DLC ID. 05825-02 and 05826-02 are both S-5EL7F8. 05823-02 and 05824-02 are both S-2Y7V9U.
+- The page has a "Spec Sheet" button, which looks like a link to the spec sheet. The link address is not printed.
+- Brand: MES, "LIGHTING. CONTROLS. ENERGY."
+
+The page's raw text:
 Ordering Code DLC ID# Watts CCT LM/Watt Total LM Voltage Color
 20W
 30W
@@ -15921,6 +25924,19 @@ Sheet
 
 From the 2026 MES Catalog, page 75.
 
+What the page shows, read from the page image:
+**Products:**
+No luminaire product names are printed on this page. The page heading is "SENSOR INFORMATION" with the subheading "NETWORK LIGHTING CONTROL."
+
+**Compatible sensors and controls:**
+- LiteLinQ ("Efficiency Linked"): 06270-04 (black sensor with white lens)
+- SILVAIR: 06290-04 (bronze/brown sensor with light-blue lens)
+- AMAYA PRO: 06921 (bronze/brown sensor with light-blue lens)
+
+**Other:**
+- The photo shows a parking garage with square, ceiling-mounted canopy-style fixtures. Each fixture has a center-mounted sensor. No product name or code is printed for these fixtures.
+
+The page's raw text:
 SENSOR INFORMATION
 NETWORK LIGHTING CONTROL
 06270-04 06290-04 06921
@@ -15931,6 +25947,47 @@ NETWORK LIGHTING CONTROL
 
 From the 2026 MES Catalog, page 76.
 
+What the page shows, read from the page image:
+**Products**
+- LED CANOPY PETROLEUM LIGHT (LYNX GSR)
+- Brand: MES ("LIGHTING. CONTROLS. ENERGY.")
+
+**Certifications**
+- UL (plain UL mark in a circle; no "c" or "US" marks shown)
+- DLC Listed Premium
+- DLC NLC5
+- FCC
+
+**Features shown as icons**
+- Power Selectable
+- CCT Tunable
+- IP65
+- ZSR Sensor Ready Technology
+- 0-10V Dimmable
+
+**Features (text)**
+- Optics: Crafted from high-grade material that resists blackening and maintains long-term clarity.
+- Power & Color Select: Select the ideal wattage and CCT to fine-tune brightness and tone.
+- Electrical: LED luminaire with dimmable driver and universal 120–277V.
+- ZSR Sensor-Ready: Driver supports PIR controls for quick installation of basic and NLC lighting systems.
+- Extended Wiring: Comes with a long, flexible wire for quick and easy installation.
+
+**Ordering table**
+- 05858: DLC ID S-MG8GJJ | 100W = 14,000 LM, 120W = 16,800 LM, 150W = 21,000 LM | CCT 4000K / 5000K / 5700K | 140 LM/W | 120-277V | Bronze
+
+**Compatible sensors and controls (Network Lighting Control)**
+- LiteLinQ ("Efficiency Linked"): 06270-04
+- SILVAIR: 06290-04
+- AMAYA PRO: 06921
+
+**Dimensions and mounting**
+- None shown on this page.
+
+**Other**
+- The page has a "Spec Sheet" button, so a separate spec sheet exists.
+- The table lists the color as Bronze, but the product photos show a white housing. Confirm the color before quoting.
+
+The page's raw text:
 Ordering Code DLC ID# Watts CCT LM/Watt Total LM Voltage Color
 100W
 120W
@@ -15978,6 +26035,53 @@ Sheet
 
 From the 2026 MES Catalog, page 77.
 
+What the page shows, read from the page image:
+**Products**
+- LED CANOPY FIXTURE (HERCULES GSR)
+
+**Certifications**
+- UL
+- DLC Listed Premium
+- DLC NLC5
+- FCC
+
+**Features shown as icons**
+- Power Selectable
+- CCT Tunable
+- IP69K
+- ZSR Sensor Ready Technology
+- 0-10V Dimmable
+- NSF
+- IK10
+- NEMA 4X
+
+**Ordering table**
+- 05822 | DLC ID# PL2F6ZV4HPJ4 | 100W / 120W / 150W | 3000K / 4000K / 5000K | 130 LM/W | Voltage 120-277V | Color White
+  - 100W: 13,000 LM
+  - 120W: 15,600 LM
+  - 150W: 19,500 LM
+  - The three CCTs are listed in the same cell but are not tied to specific wattages.
+
+**Compatible sensors and controls**
+Listed under "Sensor Information – Network Lighting Control." Each brand is shown as two parts joined by "+".
+- LiteLinQ (Efficiency Linked): 06302-01 + 06270-04
+- Silvair: 06302-01 + 06290-04
+- Amaya Pro: 06302-01 + 06921
+
+**Dimensions and mounting**
+- None shown on this page.
+
+**Other**
+- Heavy-Duty Design: Built with robust materials to ensure dependable operation in demanding environments.
+- Power Wash Fixture: Built to withstand high-pressure washing, ensuring long-lasting durability and performance.
+- Rugged & Certified: NSF and IK10 certified for impact resistance and safety.
+- Electrical: LED luminaire with dimmable driver and universal 120–277V.
+- ZSR Sensor-Ready: Driver supports PIR controls for quick installation of basic and NLC lighting systems.
+- Knockouts: Piping knockouts on all four sides provide flexible wiring options.
+- A "Spec Sheet" button is printed on the page, likely a link in the digital version.
+- Brand: MES – Lighting. Controls. Energy.
+
+The page's raw text:
 Ordering Code DLC ID# Watts CCT LM/Watt Total LM Voltage Color
 100W
 120W
@@ -16029,6 +26133,41 @@ NETWORK LIGHTING CONTROL
 
 From the 2026 MES Catalog, page 78.
 
+What the page shows, read from the page image:
+**Products**
+- LED DUSK-TO-DAWN LIGHT (BENGAL G)
+
+**Certifications**
+- UL (UL in a circle; no "c" or "US" marks are visible)
+- DLC Listed Premium
+- DLC NLC5
+- FCC
+
+**Features shown as icons**
+- Power Selectable
+- CCT Tunable
+- IP65
+- Photocell
+- 0-10V Dimmable
+
+**Ordering table**
+- 05005: DLC ID S-Y5J3G7; 40W / 6,040 LM, 50W / 7,550 LM, 60W / 9,060 LM; CCT 3000K / 4000K / 5000K; 151 LM/W; 120-277V; Silver
+
+**Compatible sensors and controls**
+Section heading: "Sensor Information – Basic Lighting Control"
+- 05714: The picture shows a blue twist-lock photocell. No brand or description is printed next to it.
+- 05030: The picture shows what looks like a curved grey arm or bracket. The image is cropped, and no brand or description is printed, so its function can't be confirmed from this page.
+
+**Other**
+- Features text:
+  - Power & Color Select: Select the ideal wattage and CCT to fine-tune brightness and tone.
+  - Electrical: LED luminaire with dimmable driver and universal 120–277V.
+  - Wide Beam Coverage: Delivers a 140° x 140° beam angle, ensuring broad, even light distribution for different areas.
+  - Photocell Ready: Comes with Pre-Installed Shorting Cap to add on-demand Photocell.
+- A "Spec Sheet" button is shown on the page, likely a link to the spec sheet.
+- Brand: MES™, "Lighting. Controls. Energy."
+
+The page's raw text:
 Ordering Code DLC ID# Watts CCT LM/Watt Total LM Voltage Color
 40W
 50W
@@ -16073,6 +26212,45 @@ Sheet
 
 From the 2026 MES Catalog, page 79.
 
+What the page shows, read from the page image:
+**Products**
+- LED FLOOD LIGHT (PUMA G)
+
+**Certifications**
+- UL (UL in a circle; no "c" or "US" marks visible)
+- DLC Listed Premium
+- FCC
+
+**Features shown as icons**
+- Power Selectable
+- CCT Tunable
+- IP65
+- Photocell
+- 0-10V Dimmable
+- High Lumen
+
+**Ordering table**
+05346 has one row in the table, with three wattages listed in that row:
+- 05346 | DLC ID S-XYQ8PV | 25W | 3,875 LM | 3000K / 4000K / 5000K | 155 LM/W | 120-277V | Bronze
+- 05346 | DLC ID S-XYQ8PV | 45W | 6,975 LM | 3000K / 4000K / 5000K | 155 LM/W | 120-277V | Bronze
+- 05346 | DLC ID S-XYQ8PV | 60W | 9,300 LM | 3000K / 4000K / 5000K | 155 LM/W | 120-277V | Bronze
+
+**Dimensions and mounting**
+- No dimension drawings on this page.
+- Mounting: comes with a pre-installed knuckle mount (from the "Easy Installation" feature text; the product photo also shows a knuckle mount).
+
+**Other**
+- Features listed on the page:
+  - Modern Look: Clean design suitable for a wide range of spaces.
+  - Power & Color Select: Select the ideal wattage and CCT to fine-tune brightness and tone.
+  - High Efficiency: Delivers 155 lumens per watt (lm/W) for uniform illumination.
+  - Electrical: LED luminaire with dimmable driver and universal 120–277V.
+  - Built-In Photocell: Provides automatic dusk-to-dawn operation for improved energy efficiency.
+  - Easy Installation: Comes with pre-install Knuckle mount for fast, hassle-free setup.
+- There is a "Spec Sheet" button on the page (a link to the spec sheet; no URL is printed).
+- Brand: MES, "Lighting. Controls. Energy."
+
+The page's raw text:
 Ordering Code DLC ID# Watts CCT LM/Watt Total LM Voltage Color
 25W
 45W
@@ -16119,6 +26297,48 @@ Sheet
 
 From the 2026 MES Catalog, page 80.
 
+What the page shows, read from the page image:
+**Products**
+- LED BOLLARD LIGHT (GIRAFFE G)
+
+**Certifications** (shown once for the whole page, not per product)
+- UL (circle logo; no "c" or "US" marks visible)
+- DLC Listed Premium
+- DLC NLC5
+- FCC
+
+**Features shown as icons**
+- Power Selectable
+- CCT Tunable
+- IP65
+- 0-10V Dimmable
+- IK10
+- Photocell
+
+**Ordering table**
+All three codes have the same specs except DLC ID and color. All are 140 LM/W and 120-277V. Wattage, CCT and lumens are printed as selectable lists in each row.
+
+- **04800**: DLC ID PGPGZOIT; 12W / 1,680 LM, 16W / 2,240 LM, 22W / 3,080 LM; CCT 3000K / 4000K / 5000K; 140 LM/W; 120-277V; Bronze
+- **04801**: DLC ID P2LKOUDL; 12W / 1,680 LM, 16W / 2,240 LM, 22W / 3,080 LM; CCT 3000K / 4000K / 5000K; 140 LM/W; 120-277V; Bronze
+- **04802 01** (printed with a space): DLC ID PQZ6T5N4; 12W / 1,680 LM, 16W / 2,240 LM, 22W / 3,080 LM; CCT 3000K / 4000K / 5000K; 140 LM/W; 120-277V; White
+
+**Other**
+- Features text, as printed:
+  - Classic Look: Clean, timeless design suitable for a wide range of spaces.
+  - Available Colors: Offered in elegant Bronze and White finishes.
+  - Power & Color Select: Select the ideal wattage and CCT to fine-tune brightness and tone.
+  - Unique Two-Piece Design: Distinctive look with interchangeable components for customizable styling.
+  - Electrical: LED luminaire with dimmable driver and universal 120–277V.
+  - Built-In Photocell: Provides automatic dusk-to-dawn operation for improved energy efficiency.
+- Three head styles are pictured:
+  - Bronze with a flat louvered top
+  - Bronze with a dome top
+  - White with a dome top
+- The page does not say which pictured style goes with which ordering code. Both bronze codes (04800 and 04801) could match either bronze style, so this needs to be confirmed.
+- There is a "Spec Sheet" button (a clickable link in the digital version).
+- Brand: MES, "Lighting. Controls. Energy."
+
+The page's raw text:
 Ordering Code DLC ID# Watts CCT LM/Watt Total LM Voltage Color
 12W
 16W
@@ -16185,6 +26405,21 @@ Sheet
 
 From the 2026 MES Catalog, page 81.
 
+What the page shows, read from the page image:
+**Products:**
+- Bollard Base: Bronze - 04803 01
+- Mounting Hardware: 04805
+
+**Dimensions and mounting:**
+- The diagram has three bollard head styles (no names or codes printed for them) that fit onto the bronze cylindrical Bollard Base.
+- Green arrows show that the Bollard Base (04803 01) and the Mounting Hardware (04805) both go with the assembled bollard.
+- The Mounting Hardware illustration shows a triangular tool or wrench, washers or nuts (about 15 small circles), 3 L-shaped anchor bolts and 1 hex (Allen) key. These counts come from the drawing; no quantities are printed.
+- No dimensions are printed.
+
+**Other:**
+- The bottom half of the page is a photo of two lit bollards beside a curved walkway on a lawn at night.
+
+The page's raw text:
 Bollard Base
 Bronze - 04803 01
 Mounting Hardware
@@ -16196,6 +26431,60 @@ Mounting Hardware
 
 From the 2026 MES Catalog, page 82.
 
+What the page shows, read from the page image:
+**Products**
+- LED AREA LIGHT (LION FAMILY)
+  - (SSR)
+  - (GSR)
+
+**Certifications**
+These are shown once for the whole page, not per product:
+- UL (circled UL logo; no "c" or "US" marks visible)
+- DLC Listed Premium
+- DLC NLC5
+- FCC
+
+**Features shown as icons**
+- Power Selectable
+- IP65
+- Photocell
+- 0-10V Dimmable
+- 20KV Surge Protection (the text below says 10KV; see Other)
+- ZSR Sensor Ready Technology
+
+**Ordering table**
+
+(SSR)
+- 10400: DLC ID S-Y1QJFC; 380W = 53,200 LM, 400W = 56,000 LM, 450W = 63,000 LM; 5000K; 140 LM/W; 120-277V; Bronze
+- 10402: DLC ID S-Y1QJFC; 380W = 53,200 LM, 400W = 56,000 LM, 450W = 63,000 LM; 5000K; 140 LM/W; 120-277V; White
+- 10401: DLC ID S-Y1QJFC; 380W = 53,200 LM, 400W = 56,000 LM, 450W = 63,000 LM; 5000K; 140 LM/W; 277-480V; Bronze
+- 10403: DLC ID S-Y1QJFC; 380W = 53,200 LM, 400W = 56,000 LM, 450W = 63,000 LM; 5000K; 140 LM/W; 277-480V; White
+
+(GSR)
+- 05376: DLC ID S-Z2HJBK; 60W = 9,600 LM, 75W = 12,000 LM, 90W = 14,400 LM; CCT 3000K / 4000K / 5000K; 160 LM/W; 120-277V; Bronze
+- 05377: DLC ID S-7970YD; 120W = 19,200 LM, 135W = 21,600 LM, 150W = 24,000 LM; CCT 3000K / 4000K / 5000K; 160 LM/W; 120-277V; Bronze
+
+**Compatible sensors and controls**
+- No sensor brand or code is printed.
+- The text says: "ZSR Sensor-Ready: Driver supports PIR controls for quick installation of basic and NLC lighting systems."
+- A photocell and 0-10V dimming are shown as icons only, with no part codes.
+
+**Dimensions and mounting**
+- No dimensions or drawings are shown.
+- "Easy Installation: Features a ONE-BOLT mounting system for fast, hassle-free setup."
+- "Rotatable ARM-Mount: Adjustable up-and-down rotation for precise light direction."
+- The photos show a white and a bronze fixture on an arm-type mount.
+
+**Other**
+- Features text:
+  - "Available Colors: Offered in elegant Bronze, Black, White, and Silver finishes." The table only lists Bronze and White.
+  - "Power & Color Select: Select the ideal wattage and CCT to fine-tune brightness and tone." The icons show Power Selectable only, with no CCT-selectable icon. The SSR rows list 5000K only.
+  - "High Efficiency: Delivers 155 lumens per watt (lm/W) for uniform illumination." The table shows 140 LM/W (SSR) and 160 LM/W (GSR).
+  - "10KV Surge Protection: Protects the fixture against voltage spikes and electrical surges." The icon reads 20KV.
+- There are "Spec Sheet" buttons next to both the SSR and GSR headings.
+- Brand: MES™, "Lighting. Controls. Energy."
+
+The page's raw text:
 Ordering Code DLC ID# Watts CCT LM/Watt Total LM Voltage Color
 380W
 400W
@@ -16285,6 +26574,56 @@ Sheet
 
 From the 2026 MES Catalog, page 83.
 
+What the page shows, read from the page image:
+## Ordering table
+
+| Ordering Code | DLC ID# | Watts → Total LM | CCT | LM/Watt | Voltage | Color |
+|---|---|---|---|---|---|---|
+| 05378 | S-B340XQ | 200W → 32,000 LM; 220W → 35,200 LM; 240W → 38,400 LM | 3000K / 4000K / 5000K | 160 LM/W | 120-277V | Bronze |
+| 05379 | S-TDR8LR | 260W → 41,600 LM; 280W → 44,800 LM; 300W → 48,000 LM | 3000K / 4000K / 5000K | 160 LM/W | 120-277V | Bronze |
+| 05380 | S-7970YD | 120W → 19,200 LM; 135W → 21,600 LM; 150W → 24,000 LM | 3000K / 4000K / 5000K | 160 LM/W | 120-277V | White |
+| 05382 | S-TDR8LR | 260W → 41,600 LM; 280W → 44,800 LM; 300W → 48,000 LM | 3000K / 4000K / 5000K | 160 LM/W | 120-277V | White |
+| 05397 | S-7970YD | 120W → 19,200 LM; 135W → 21,600 LM; 150W → 24,000 LM | 3000K / 4000K / 5000K | 160 LM/W | 120-277V | Silver |
+| 05390 | S-6MG5X6 | 120W → 19,200 LM; 135W → 21,600 LM; 150W → 24,000 LM | 3000K / 4000K / 5000K | 160 LM/W | 277V-480V | Bronze |
+| 05391 | S-6NZL6V | 200W → 32,000 LM; 220W → 35,200 LM; 240W → 38,400 LM | 3000K / 4000K / 5000K | 160 LM/W | 277V-480V | Bronze |
+| 05393 | S-6MG5X6 | 120W → 19,200 LM; 135W → 21,600 LM; 150W → 24,000 LM | 3000K / 4000K / 5000K | 160 LM/W | 277V-480V | White |
+| 05394 | S-6NZL6V | 200W → 32,000 LM; 220W → 35,200 LM; 240W → 38,400 LM | 3000K / 4000K / 5000K | 160 LM/W | 277V-480V | White |
+| 05395 | S-99T51X | 260W → 41,600 LM; 280W → 44,800 LM; 300W → 48,000 LM | 3000K / 4000K / 5000K | 160 LM/W | 277V-480V | White |
+
+Notes:
+- The table lists the codes in the order shown above. 05397 is printed between 05382 and 05390.
+- Three DLC IDs repeat across codes with different colors:
+  - S-TDR8LR: 05379 and 05382
+  - S-7970YD: 05380 and 05397
+  - S-6MG5X6: 05390 and 05393
+- The three CCTs are listed in a separate column. The table does not tie any CCT to a particular wattage.
+
+## Compatible sensors and controls
+
+Section headings: "SENSOR INFORMATION" and "NETWORK LIGHTING CONTROL"
+
+- LiteLinQ ("Efficiency Linked"): **06270-04**. The photo shows a black sensor with a white dome lens.
+- SILVAIR: **06290-04**. The photo shows a bronze/brown sensor with a light blue lens.
+- AMAYA PRO: **06921**. The photo shows a bronze/brown sensor with a light blue lens.
+
+## Dimensions and mounting
+
+Section heading: "ACCESSORIES"
+
+- **Slipfitter Mount:** Bronze 05703, White 05704, Silver 05793
+- **Universal Arm Mount:** Bronze 05700, White 05701, Silver 05792
+- **Trunnion Mount:** Bronze 05706, White 05707, Silver 05794
+
+The page has no dimension drawings or measurements.
+
+## Other
+
+- **No product name** is printed on this page. The table appears to continue from a previous page, so the product name is probably there.
+- **No certification logos** are shown. DLC appears only as the "DLC ID#" column header, with no DLC Standard or Premium marking.
+- **No feature icons** are shown, such as IP rating, dimming or surge protection.
+- The background photo shows a parking lot with pole lights. It suggests an area or parking lot application, but no application text is printed.
+
+The page's raw text:
 Ordering Code DLC ID# Watts CCT LM/Watt Total LM Voltage Color
 200W
 220W
@@ -16417,6 +26756,58 @@ ACCESSORIES
 
 From the 2026 MES Catalog, page 84.
 
+What the page shows, read from the page image:
+**Products**
+- LED AREA LIGHT (WOLF GSR)
+
+**Certifications**
+- UL (circled "UL" mark with ®)
+- DLC Listed Premium
+- DLC NLC5
+- FCC
+
+**Features shown as icons**
+- Power Selectable
+- IP65
+- Photocell
+- CCT Tunable
+- 10KV Surge Protection
+- ZSR Sensor Ready Technology
+
+**Ordering table**
+
+| Ordering Code | DLC ID# | Watts → Total LM | CCT | LM/Watt | Voltage | Color |
+|---|---|---|---|---|---|---|
+| 05970 | S-G5836R | 60W → 9,600 LM; 80W → 12,800 LM; 100W → 16,000 LM | 3000K / 4000K / 5000K | 160 LM/W | 120-277V | Bronze |
+| 05971 | S-WGK601 | 120W → 19,200 LM; 135W → 21,600 LM; 150W → 24,000 LM | 3000K / 4000K / 5000K | 160 LM/W | 120-277V | Bronze |
+| 05972 | S-ERNBKM | 200W → 32,000 LM; 220W → 35,200 LM; 240W → 38,400 LM | 3000K / 4000K / 5000K | 160 LM/W | 120-277V | Bronze |
+| 05973 | S-AW6CQF | 260W → 41,600 LM; 280W → 44,800 LM; 300W → 48,000 LM | 3000K / 4000K / 5000K | 160 LM/W | 120-277V | Bronze |
+| 05980 | S-WGK601 | 120W → 19,200 LM; 135W → 21,600 LM; 150W → 24,000 LM | 3000K / 4000K / 5000K | 160 LM/W | 120-277V | Black |
+| 05981 | S-ERNBKM | 200W → 32,000 LM; 220W → 35,200 LM; 240W → 38,400 LM | 3000K / 4000K / 5000K | 160 LM/W | 120-277V | Black |
+
+**Compatible sensors and controls**
+- No sensor brand or ordering code is printed.
+- The page says only: "ZSR Sensor-Ready: Driver supports PIR controls for quick installation of basic and NLC lighting systems."
+
+**Dimensions and mounting**
+- No dimension drawings are shown.
+- Easy Installation: ONE-BOLT mounting system.
+- Rotatable ARM-Mount: up-and-down rotation for aiming the light.
+
+**Other**
+- Brand: MES™, "Lighting. Controls. Energy."
+- Features text:
+  - Available Colors: Bronze, Black, White and Silver finishes.
+  - Power & Color Select: selectable wattage and CCT.
+  - High Efficiency: 155 lm/W.
+  - 10KV Surge Protection: protects against voltage spikes and electrical surges.
+- Points to check with MES:
+  - The features text says 155 lm/W, but the ordering table lists 160 LM/W for every model. The table's lumen values match 160 lm/W.
+  - White and Silver are listed in the features text, but the ordering table has no codes for them. The table shows only Bronze and Black.
+- Shared DLC IDs: 05971 and 05980 both use S-WGK601. 05972 and 05981 both use S-ERNBKM.
+- The page has a "Spec Sheet" button (a link in the digital catalog).
+
+The page's raw text:
 Ordering Code DLC ID# Watts CCT LM/Watt Total LM Voltage Color
 60W
 80W
@@ -16519,6 +26910,43 @@ Sheet
 
 From the 2026 MES Catalog, page 85.
 
+What the page shows, read from the page image:
+**Ordering table**
+
+- **05982**: DLC ID S-AW6CQF | 260W = 41,600 LM, 280W = 44,800 LM, 300W = 48,000 LM | CCT 3000K / 4000K / 5000K | 160 LM/W | 120-277V | Black
+- **05985**: DLC ID S-WGK601 | 120W = 18,600 LM, 135W = 20,925 LM, 150W = 23,250 LM | CCT 3000K / 4000K / 5000K | 160 LM/W | 120-277V | Silver
+- **05983**: DLC ID S-ERNBKM | 200W = 31,000 LM, 220W = 34,100 LM, 240W = 37,200 LM | CCT 3000K / 4000K / 5000K | 160 LM/W | 120-277V | Silver
+- **05984**: DLC ID S-AW6CQF | 260W = 41,600 LM, 280W = 44,800 LM, 300W = 48,000 LM | CCT 3000K / 4000K / 5000K | 160 LM/W | 120-277V | Silver
+- **05974**: DLC ID S-JZOFTS | 120W = 19,200 LM, 135W = 21,600 LM, 150W = 24,000 LM | CCT 3000K / 4000K / 5000K | 160 LM/W | 277V-480V | Bronze
+- **05975**: DLC ID S-FE2JLN | 260W = 41,600 LM, 280W = 44,800 LM, 300W = 48,000 LM | CCT 3000K / 4000K / 5000K | 160 LM/W | 277V-480V | Bronze
+
+**Compatible sensors and controls**
+
+These are printed under "Sensor Information – Network Lighting Control":
+- LiteLinQ (tagline "Efficiency Linked"): **06270-04**
+- Silvair: **06290-04**
+- Amaya Pro: **06921**
+
+**Dimensions and mounting**
+
+The page shows these accessories. Colors and codes are copied as printed, including the spelling "Sliver":
+- **Slipfitter Mount**: Bronze 05755, Black 05761, Sliver 05764
+- **Universal Arm Mount**: Bronze 05756, Black 05762, Sliver 05765
+- **Trunnion Mount**: Bronze 05764, Black 05765, Sliver 05766
+
+No dimension drawings are shown.
+
+**Other**
+
+- The page does not print a product name. The table appears to continue from the previous page, so check that page for the fixture name.
+- No certification logos or feature icons appear on this page. The only certification information is the DLC ID column.
+- 05982 and 05984 share DLC ID S-AW6CQF and have the same specs. Only the color is different (Black vs. Silver).
+- **Possible catalog errors to confirm before quoting:**
+  - Accessory codes repeat across products. 05764 is listed as both Slipfitter Sliver and Trunnion Bronze. 05765 is listed as both Universal Arm Sliver and Trunnion Black.
+  - For 05985 and 05983, the printed lumens work out to 155 LM/W, not the 160 LM/W shown. For example, 18,600 ÷ 120 = 155. The other four codes do work out to 160 LM/W.
+  - "Sliver" is probably a typo for "Silver."
+
+The page's raw text:
 120W
 135W
 150W
@@ -16607,6 +27035,56 @@ Ordering Code DLC ID# Watts CCT LM/Watt Total LM Voltage Color
 
 From the 2026 MES Catalog, page 86.
 
+What the page shows, read from the page image:
+**Products**
+- LED ROUND AREA (EAGLE GSR)
+
+**Certifications**
+- UL
+- DLC Listed Premium
+- DLC NLC5
+- FCC
+
+**Features shown as icons**
+- Power Selectable
+- CCT Tunable
+- IP65
+- ZSR Sensor Ready Technology
+- Photocell
+- 0-10V Dimmable
+
+**Ordering table**
+- **05905:** DLC ID S-GC34QQ. CCT 3000K / 4000K / 5000K. 150 LM/W. 120-277V. Bronze. Wattage and lumens:
+  - 60W = 9,000 LM
+  - 80W = 12,000 LM
+  - 100W = 15,000 LM
+  - 135W = 20,250 LM
+
+The wattage-to-lumen pairing follows the row order in the table and matches 150 LM/W for each.
+
+**Compatible sensors and controls**
+These are listed under "Sensor Information" and "Network Lighting Control."
+- LiteLinQ (Efficiency Linked): 06270-04
+- Silvair: 06290-04
+- Amaya Pro: 06921
+
+**Dimensions and mounting**
+- No dimensions or mounting details are printed on this page.
+
+**Other**
+- Text features:
+  - **Power & Color Select:** Select the ideal Wattage and CCT to fine-tune brightness and tone.
+  - **High Efficiency:** Delivers 150 Lumens per watt (LM/W) for uniform illumination.
+  - **Electrical:** LED luminaire with Dimmable Driver and Universal 120–277V.
+  - **ZSR Sensor Ready:** Driver supports PIR controls for quick installation of basic and NLC Lighting Systems.
+  - **Photocell Ready:** Comes with Pre-Installed Shorting Cap to add on-demand Photocell.
+  - **Built for Outdoor Durability:** Rugged construction withstands harsh weather and daily wear, ideal for long-term use.
+- Product image callouts: "ZSR Sensor (Optional)" and "Built-In Photocell."
+- Possible conflict: the image callout says "Built-In Photocell," but the feature text says the fixture ships with a shorting cap and a photocell can be added. Check with MES before quoting whether the photocell is included.
+- The page shows a "NEW ARRIVAL" badge and a "Spec Sheet" button (link).
+- Branding: MES – Lighting. Controls. Energy.
+
+The page's raw text:
 LED ROUND AREA
 (EAGLE GSR)
 Features:
@@ -16656,12 +27134,89 @@ PHOTOCELL
 SENSOR READY
 TECHNOLOGY
 
+### 2026 MES Catalog, page 87
+
+/catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=86
+
+From the 2026 MES Catalog, page 87.
+
+What the page shows, read from the page image:
+**Products**
+- Section heading: ACCESSORIES
+- Subheading: MOUNTS
+- Arm Mount, code 05773
+
+**Dimensions and mounting**
+- The arm mount is shown as a product image. It is a curved arm with a flat plate at one end that attaches to a pole or wall. No dimensions are printed.
+- A large photo shows a round area/street light fixture on this arm mount, attached to the side of a square pole. The fixture in the photo has no name or code printed with it.
+
+**Other**
+- No certifications, feature icons, ordering table, specifications or compatible sensors/controls are printed on this page.
+
+The page's raw text:
+ACCESSORIES
+Arm Mount
+MOUNTS
+05773
+
 ### 2026 MES Catalog, page 88: LED POST TOP (EAGLE GSR)
 
 /catalogs/2026%20MES%20Catalog%20-%20Master_Inner%20Pages_2-99.pdf#page=87
 
 From the 2026 MES Catalog, page 88.
 
+What the page shows, read from the page image:
+## Products
+- LED POST TOP (EAGLE GSR)
+
+## Certifications
+- UL (circle logo; no "c" or "US" marks visible)
+- DLC Listed Premium
+- DLC NLC5
+- FCC
+
+## Features shown as icons
+- Power Selectable
+- CCT Tunable
+- IP65
+- ZSR Sensor Ready Technology
+- Photocell
+- 0-10V Dimmable
+
+## Ordering table
+| Ordering Code | DLC ID# | Watts | CCT | LM/Watt | Total LM | Voltage | Color |
+|---|---|---|---|---|---|---|---|
+| 05905 | S-GC34QQ | 60W / 80W / 100W / 135W (selectable) | 3000K / 4000K / 5000K (selectable) | 150 LM/W | 9,000 / 12,000 / 15,000 / 20,250 LM | 120-277V | Bronze |
+
+Wattage and lumen pairs:
+- 60W: 9,000 LM
+- 80W: 12,000 LM
+- 100W: 15,000 LM
+- 135W: 20,250 LM
+
+## Compatible sensors and controls
+These are listed under "Sensor Information – Network Lighting Control":
+- LiteLinQ ("Efficiency Linked"): 06270-04
+- Silvair: 06290-04
+- Amaya Pro: 06921
+
+## Dimensions and mounting
+- No dimensions or mounting drawings are printed on this page.
+- The product image has two callouts: "ZSR Sensor (Optional)" on top of the head and "Built-In Photocell" on the head.
+
+## Other
+- The page has a "NEW ARRIVAL" badge.
+- There is a "Spec Sheet" button. It looks like a clickable link in the digital catalog.
+- Feature text:
+  - **Power & Color Select:** Select the ideal Wattage and CCT to fine-tune brightness and tone.
+  - **High Efficiency:** Delivers 150 Lumens per watt (LM/W) for uniform illumination.
+  - **Electrical:** LED luminaire with Dimmable Driver and Universal 120–277V.
+  - **ZSR Sensor Ready:** Driver supports PIR controls for quick installation of basic and NLC Lighting Systems.
+  - **Photocell Ready:** Comes with Pre-Installed Shorting Cap to add on-demand Photocell.
+  - **Built for Outdoor Durability:** Rugged construction withstands harsh weather and daily wear, ideal for long-term use.
+- Note the conflict on the page: the image callout says "Built-In Photocell," but the feature text says "Photocell Ready" with a pre-installed shorting cap. Confirm with MES which one applies to ordering code 05905.
+
+The page's raw text:
 Ordering Code DLC ID# Watts CCT LM/Watt Total LM Voltage Color
 60W
 80W
@@ -16717,6 +27272,51 @@ Built-In Photocell
 
 From the 2026 MES Catalog, page 89.
 
+What the page shows, read from the page image:
+**Products**
+- LED STREET LIGHT (COUGAR SSR)
+
+**Certifications**
+- UL
+- DLC Listed Premium
+- DLC NLC5
+- FCC
+
+**Features shown as icons**
+- Power Selectable
+- IP65
+- Photocell
+- 0-10V Dimmable
+- 10KV Surge Protection
+- ZSR Sensor Ready Technology
+
+**Ordering table**
+- 05372 | DLC ID S-E7IM91 | 5000K | 137 LM/W | 120-277V | Silver
+  - 150W: 20,550 LM
+  - 200W: 27,400 LM
+  - 240W: 32,880 LM
+
+**Compatible sensors and controls**
+Network Lighting Control:
+- LiteLinQ ("Efficiency Linked"): 06288 + 06270-04
+- SILVAIR: 06288 + 06290-04
+- AMAYA PRO: 06288 + 06921
+
+**Dimensions and mounting**
+- Not shown on this page.
+
+**Other**
+- Features listed in text:
+  - Versatile Application: Can be used effectively as an area light for wide coverage.
+  - Power & Color Select: Select the ideal wattage and CCT to fine-tune brightness and tone.
+  - Electrical: LED luminaire with dimmable driver and universal 120–277V.
+  - ZSR Sensor-Ready: Driver supports PIR controls for quick installation of basic and NLC lighting systems.
+  - Photocell Ready: Comes with Pre-Installed Shorting Cap to add on-demand Photocell.
+- The table lists only 5000K for CCT, but the "Power & Color Select" text says CCT is selectable. The page does not list any other CCT options.
+- There is a "Spec Sheet" button on the page (link not visible).
+- The brand is MES ("Lighting. Controls. Energy.").
+
+The page's raw text:
 Ordering Code DLC ID# Watts CCT LM/Watt Total LM Voltage Color
 150W
 200W
@@ -16765,6 +27365,62 @@ Sheet
 
 From the 2026 MES Catalog, page 90.
 
+What the page shows, read from the page image:
+**Products**
+- LED SPORTS LIGHT (COYOTE SSR)
+- LED Stadium Light (Coyote SSR) Driver (sold separately; see Drivers table)
+
+**Certifications** (one set shown for the whole page)
+- UL
+- DLC Listed Premium
+- DLC NLC5
+- FCC
+
+**Features shown as icons**
+- Power Selectable
+- IP65
+- Photocell
+- 0-10V Dimmable
+- 10KV Surge Protection (the body text says 20KV; see Other)
+- ZSR Sensor Ready Technology
+
+**Features (text list)**
+- High Efficiency: Delivers 155-160 lumens per watt (lm/W) for uniform illumination.
+- Lens Options: Multiple lens choices for customized lighting coverage.
+- 20KV Surge Protection: Protects the fixture against voltage spikes and electrical surges.
+- Universal Voltage: Supports 120V–480V with compatible 120–277V or 277–480V drivers for flexible installation.
+- Adjustable Mounting: Flexible design allows easy positioning for optimal light distribution.
+- ZSR Sensor-Ready: Driver supports PIR controls for quick installation of basic and NLC lighting systems.
+
+**Ordering table: Fixtures ("Choose Fixture")**
+- 05954: DLC ID S-EO1WFH. 300W / 46,500 LM; 400W / 62,000 LM; 500W / 77,500 LM. 5000K, 155 LM/W, 120-480V, Black.
+- 05955: DLC ID S-6FPQGT. 500W / 77,500 LM; 600W / 93,000 LM; 750W / 116,250 LM. 5000K, 155 LM/W, 120-480V, Black.
+- 05956: DLC ID S-WKONP7. 800W / 124,000 LM; 1000W / 155,000 LM; 1200W / 186,000 LM. 5000K, 155 LM/W, 120-480V, Black.
+
+**Ordering table: Drivers ("Select Driver")**
+- 05957: LED Stadium Light (Coyote SSR) Driver. 300W / 400W / 600W, 120 - 277V, Black.
+- 05959: LED Stadium Light (Coyote SSR) Driver. 500W / 600W / 750W, 120 - 277V, Black.
+- 05961: LED Stadium Light (Coyote SSR) Driver. 800W / 1000W / 1200W, 120 - 277V, Black.
+
+**Compatible sensors and controls**
+- No specific sensor brand or code is printed. The page says only "ZSR Sensor-Ready: Driver supports PIR controls."
+
+**Dimensions and mounting**
+- No dimensions or drawings are shown. Mounting is described only as "Adjustable Mounting." The product photos show a yoke/trunnion-style bracket with a top visor.
+
+**Other**
+- To order, choose a fixture code and add a driver code ("Choose Fixture + Select Driver").
+- The page has a "Spec Sheet" button/link.
+- Discrepancies printed on the page:
+  - The surge icon says 10KV, but the features text says 20KV.
+  - Driver 05957 lists 600W as its top wattage, but its matching fixture 05954 tops out at 500W.
+- Voltage gap: the text mentions 277–480V drivers, but only 120–277V drivers are listed, even though the fixtures are rated 120-480V.
+- Efficacy: the text says 155-160 lm/W, but the table lists 155 LM/W for every code.
+- Driver codes skip 05958 and 05960. None are printed on this page.
+- DLC IDs "S-EO1WFH" and "S-WKONP7" could be read with either the letter O or the number 0. Please verify against the DLC listing.
+- Branding: MES – Lighting. Controls. Energy.
+
+The page's raw text:
 Ordering Code DLC ID# Watts CCT LM/Watt Total LM Voltage Color
 300W
 400W
@@ -16836,6 +27492,48 @@ Select DriverChoose Fixture +
 
 From the 2026 MES Catalog, page 91.
 
+What the page shows, read from the page image:
+**Products**
+- LED Stadium Light (Coyote SSR) Driver
+- LED Stadium Light (Coyote SSR) 20 degree lens
+- LED Stadium Light (Coyote SSR) 40 degree lens
+- LED Stadium Light (Coyote SSR) 60 degree lens
+- LED Stadium Light (Coyote SSR) 80 degree lens
+- LED Stadium Light (Coyote SSR) 120 degree lens
+- Slipfitter Mount (accessory)
+- Laser (accessory)
+
+**Ordering table**
+
+*Drivers* (the table has no column headings on this page; the columns appear to be code, description, watts, voltage, color)
+- 05958 | LED Stadium Light (Coyote SSR) Driver | 300W / 400W / 600W | 277 - 480V | Black
+- 05960 | LED Stadium Light (Coyote SSR) Driver | 500W / 600W / 750W | 277 - 480V | Black
+- 05962 | LED Stadium Light (Coyote SSR) Driver | 800W / 1000W / 1200W | 277 - 480V | Black
+
+*(Lenses)* (columns: Ordering Code | Description | Watts)
+- 05969 | LED Stadium Light (Coyote SSR) 20 degree lens | 600W / 750W
+- 05978 | LED Stadium Light (Coyote SSR) 20 degree lens | 1000W / 1200W
+- 05979 | LED Stadium Light (Coyote SSR) 40 degree lens | 1000W / 1200W
+- 05966 | LED Stadium Light (Coyote SSR) 60 degree lens | 400W / 500W
+- 05976 | LED Stadium Light (Coyote SSR) 60 degree lens | 600W / 750W
+- 05967 | LED Stadium Light (Coyote SSR) 80 degree lens | 400W / 500W
+- 05976 | LED Stadium Light (Coyote SSR) 80 degree lens | 600W / 750W
+- 05968 | LED Stadium Light (Coyote SSR) 120 degree lens | 400W / 500W
+
+Note: Code 05976 is printed twice, once for the 60 degree lens (600W/750W) and once for the 80 degree lens (600W/750W). One of them is probably a misprint. Check with the manufacturer before ordering.
+
+**Compatible sensors and controls**
+Section heading: "SENSOR INFORMATION", with the subheading "NETWORK LIGHTING CONTROL"
+- LiteLinQ ("Efficiency Linked"): 06270-04
+- SILVAIR: 06290-04
+- AMAYA PRO: 06921
+
+**Other**
+Accessories, with codes listed by wattage:
+- Slipfitter Mount: 400W-500W = 05963; 600W-750W = 05964; 1000W-1200W = 05965
+- Laser: 400W-500W = 05944; 600W-750W = 05945; 1000W-1200W = 05946
+
+The page's raw text:
 300W
 400W
 600W
@@ -16895,6 +27593,56 @@ SENSOR INFORMATIONSENSOR INFORMATION
 
 From the 2026 MES Catalog, page 92.
 
+What the page shows, read from the page image:
+**Products**
+- L-SHAPE WALL MOUNT BRACKET
+- STRAIGHT WALL MOUNT BRACKET
+- SIDE TENON MOUNT FOR SQUARE POLE
+- 4″ VERTICAL TENON ADAPTER
+- 4" SQUARE HORIZONTAL TENON ADAPTOR
+
+**Dimensions and mounting**
+
+L-SHAPE WALL MOUNT BRACKET
+- Construction: Carbon steel with powder coat finish
+- Installation: Wall, L Bracket
+- Weight: 3.4 lbs
+- Available Colors: Bronze, Black
+
+STRAIGHT WALL MOUNT BRACKET
+- Construction: Carbon steel with powder coat finish
+- Installation: Square Pole
+- Weight: 2.2 lbs
+- Available Colors: Bronze, Black
+
+SIDE TENON MOUNT FOR SQUARE POLE
+- Construction: Carbon steel with powder coat finish
+- Installation: Square Pole
+- Weight: 3.2 lbs
+- Available Colors: Bronze
+
+4″ VERTICAL TENON ADAPTER
+- Construction: Carbon steel with powder coat finish
+- Installation: Square Pole (Inside of pole), Round Pole (outside of pole)
+- Weight: 7.2 lbs
+- Available Colors: Bronze, Black
+
+4" SQUARE HORIZONTAL TENON ADAPTOR
+- Construction: Carbon steel with powder coat finish
+- Installation: Square Pole
+- Weight: not printed
+- Available Colors: Bronze, White
+
+No dimensional drawings appear on the page.
+
+**Other**
+- Page section title: TENONS & MOUNTS.
+- Each product has a green "Spec Sheet" button, which is a clickable link in the digital catalog.
+- The page does not print any ordering codes, part numbers, or prices for these accessories.
+- The header photos show a flood light on an L-shape wall bracket on a brick building, two area lights on a pole with a T-shaped crossarm, and four area lights on a single pole at night in a parking lot.
+- The page uses both spellings "ADAPTER" and "ADAPTOR".
+
+The page's raw text:
 TENONS & MOUNTS
 L-SHAPE WALL MOUNT BRACKET
 • Construction: Carbon steel with powder coat finish
@@ -16938,6 +27686,65 @@ Sheet
 
 From the 2026 MES Catalog, page 93.
 
+What the page shows, read from the page image:
+**Products**
+
+Page title: TENONS & MOUNTS
+
+1. 4″ SQUARE SHORT 180° TWIN TENON
+   - Construction: Carbon steel with powder coat finish
+   - Installation: Square Pole (inside of pole), Round Pole (outside of pole)
+   - Weight: 6.4 lbs
+   - Available Colors: Bronze, Black
+
+2. 4″ SQUARE SHORT 90° TWIN TENON
+   - Construction: Carbon steel with powder coat finish
+   - Installation: Square Pole (inside of pole), Round Pole (outside of pole)
+   - Weight: 7.5 lbs
+   - Available Colors: Bronze, Black
+
+3. 4″ SQUARE SHORT 90° TRIPLE TENON
+   - Construction: Carbon steel with powder coat finish
+   - Installation: Square Pole (Inside of pole), Round Pole (outside of pole)
+   - Weight: 7.9 lbs
+   - Available Colors: Bronze, Black
+
+4. 4″ SHORT SQUARE 90° QUAD TENON
+   - Construction: Carbon steel with powder coat finish
+   - Installation: Square Pole (inside of pole), Round Pole (outside of pole)
+   - Weight: 8.8 lbs
+   - Available Colors: Bronze, Black
+
+5. 4″ SQUARE LOW PROFILE 180° DUAL TENON
+   - Construction: Carbon steel with powder coat finish
+   - Installation: Square Pole
+   - Weight: 24 lbs
+   - Available Colors: Bronze
+
+6. 4″ SQUARE LOW PROFILE 180° TRIPLE TENON
+   - Construction: Carbon steel with powder coat finish
+   - Installation: Square Pole
+   - Weight: 56 lbs
+   - Available Colors: Bronze
+
+7. 4″ SQUARE LOW PROFILE 180° QUAD TENON
+   - Construction: Carbon steel with powder coat finish
+   - Installation: Square Pole
+   - Weight: 56.6 lbs
+   - Available Colors: Bronze
+
+**Dimensions and mounting**
+- The only size printed is the 4″ in each product name. No dimension drawings are shown.
+- The four "Short" tenons (products 1–4) install inside a square pole or outside a round pole.
+- The three "Low Profile" tenons (products 5–7) are listed for square poles only.
+
+**Other**
+- Each product has a "Spec Sheet" button, which is probably a link in the digital catalog. No URLs or part numbers are printed.
+- Products 1–4 are each pictured as two versions: a square-base unit (shown in black) and a round-base unit (shown in bronze/brown).
+- Products 5–7 are pictured as single horizontal crossarm-style units. Products 5 and 6 appear dark (black/dark bronze) and product 7 appears lighter (bronze).
+- No ordering codes, certifications, feature icons or sensor/control information appear on this page.
+
+The page's raw text:
 4ˮ SQUARE SHORT 90º TRIPLE TENON
 • Construction: Carbon steel with powder coat finish
 • Installation: Square Pole (Inside of pole),
@@ -16999,6 +27806,29 @@ Sheet
 
 From the 2026 MES Catalog, page 94.
 
+What the page shows, read from the page image:
+**Products**
+- BUTTON PHOTOCELL
+- SWIVEL PHOTOCELL
+- WALL OCCUPANCY SENSOR WITH NEUTRAL
+- TWIST LOCK PHOTOCELL (120-277 V)
+- TWIST LOCK PHOTOCELL (277-480 V)
+
+**Ordering table**
+- 06451: Button Photocell
+- 09172: Swivel Photocell
+- 06504: Wall Occupancy Sensor with Neutral
+- 05714: Twist Lock Photocell, 120-277 V (blue unit in photo)
+- 05715: Twist Lock Photocell, 277-480 V (yellow unit in photo)
+
+No wattage, lumen, CCT, DLC ID or color columns are printed.
+
+**Other**
+- Page section title: STAND ALONE CONTROLS.
+- Each product has a "Spec Sheet" button. These are likely links in the digital catalog, but the link targets don't appear on the page.
+- The header photo shows a hand holding a handheld remote with an LCD screen and buttons labeled M/PR, Scene, Start, Memory and Apply, plus smaller labels too small to read. The remote has no product name or ordering code on this page.
+
+The page's raw text:
 STAND ALONE CONTROLS
 SWIVEL PHOTOCELL
 09172
@@ -17027,6 +27857,45 @@ Spec Sheet
 
 From the 2026 MES Catalog, page 95.
 
+What the page shows, read from the page image:
+**Products**
+
+Page section header: STAND ALONE CONTROLS
+
+1. PIR ON/OFF OCC SENSOR. Codes: 19FT: 06245, 39FT: 06247
+2. PIR 3-IN-1 OCC SENSOR. Code: 06246
+3. DC POWERED PIR 3-IN-1 MOTION SENSOR. Code: 06251
+4. DC POWERED OCUSENSE 3-IN-1 MOTION SENSOR. Code: 06243-01
+5. DC POWERED OCUSENSE 3-IN-1 MOTION SENSOR. Code: 06267
+6. DC POWERED PIR 3-IN-1 MOTION SENSOR. Code: 06254
+
+Note: Two products share the name "DC POWERED OCUSENSE 3-IN-1 MOTION SENSOR" (06243-01 and 06267). Two others share the name "DC POWERED PIR 3-IN-1 MOTION SENSOR" (06251 and 06254). The photos show different housings for each, but the page has no text that tells them apart.
+
+**Ordering table**
+
+| Code | Product | Note |
+|---|---|---|
+| 06245 | PIR ON/OFF OCC SENSOR | 19FT |
+| 06247 | PIR ON/OFF OCC SENSOR | 39FT |
+| 06246 | PIR 3-IN-1 OCC SENSOR | |
+| 06251 | DC POWERED PIR 3-IN-1 MOTION SENSOR | |
+| 06243-01 | DC POWERED OCUSENSE 3-IN-1 MOTION SENSOR | |
+| 06267 | DC POWERED OCUSENSE 3-IN-1 MOTION SENSOR | |
+| 06254 | DC POWERED PIR 3-IN-1 MOTION SENSOR | |
+
+The page does not say what 19FT/39FT refers to. It may be the mounting height or detection range, but that is not stated.
+
+**Other**
+
+- Each product has a "Spec Sheet" button, which is a link in the digital catalog. More details are probably on the linked spec sheets.
+- Product photos as shown:
+  - 06245/06247 and 06246: white square housing with a dome lens and a threaded side fitting.
+  - 06251: round white housing with a dark dome lens.
+  - 06243-01: small rectangular module on a long lead with a connector.
+  - 06267: rectangular module with a short cable and a plug.
+  - 06254: elongated bar-style housing with a dome lens.
+
+The page's raw text:
 STAND ALONE CONTROLS
 PIR ON/OFF
 OCC SENSOR
@@ -17060,6 +27929,34 @@ Spec Sheet
 
 From the 2026 MES Catalog, page 96.
 
+What the page shows, read from the page image:
+**Products**
+
+Page heading: EXIT/ EMERGENCY LIGHTS
+
+- EXIT SIGN RETROFIT KIT (CITY OF CHICAGO APPROVED), code 06106
+- EMERGENCY BUG EYE 2 HEADS, code 06654
+- EMERGENCY BUG EYE 2 HEADS (CITY OF CHICAGO APPROVED), code 06651
+- EXIT SIGN WITH BATTERY BACKUP 90 MIN, code 19455
+- EXIT SIGN WITH BATTERY BACKUP 90 MIN (CITY OF CHICAGO APPROVED), code 06600
+
+**Certifications**
+
+- No certification logos are on this page.
+- "City of Chicago Approved" is printed as text in the names of 06106, 06651 and 06600. It is not shown as a logo.
+
+**Other**
+
+- Each product has a green "Spec Sheet" button with a pointing-hand icon. It is probably a link to the full spec sheet.
+- Product photos show the following:
+  - 06106: an exit sign housing with red "EXIT" lettering, shown with a separate LED strip/bar component.
+  - 06654: a white unit with two square LED heads.
+  - 06651: a long white rectangular housing with two round lamp heads.
+  - 19455: a white exit sign with red "EXIT" lettering and left and right chevron arrows.
+  - 06600: two signs, one reading "EXIT" and one reading "STAIRS", both in red lettering.
+- The battery backup duration of 90 MIN is printed only in the names of 19455 and 06600.
+
+The page's raw text:
 EXIT/ EMERGENCY LIGHTS
 EMERGENCY BUG
 EYE 2 HEADS
@@ -17088,6 +27985,33 @@ Spec Sheet
 
 From the 2026 MES Catalog, page 97.
 
+What the page shows, read from the page image:
+**Products**
+- EXIT SIGN RECESSED EDGELIT (06702)
+- EXIT SIGN COMBO (06721)
+- EXIT SIGN COMBO (CITY OF CHICAGO APPROVED) (06700)
+
+Section heading: EXIT/ EMERGENCY LIGHTS
+
+**Certifications**
+- None shown as logos on this page.
+- In text only: 06700 is labeled "(CITY OF CHICAGO APPROVED)" as part of its product name.
+
+**Ordering table**
+No ordering table is printed. Only the product codes are shown:
+- 06702: EXIT SIGN RECESSED EDGELIT
+- 06721: EXIT SIGN COMBO
+- 06700: EXIT SIGN COMBO (CITY OF CHICAGO APPROVED)
+
+**Other**
+- Each product has a "Spec Sheet" button. In the original file this is probably a link to that product's spec sheet.
+- The product photos show the following:
+  - 06702: edge-lit panels with red lettering. One reads "EXIT" and one reads "STAIRS," each hanging from a recessed housing.
+  - 06721: white housing with red "EXIT" lettering and chevron arrows on both sides, plus two adjustable lamp heads.
+  - 06700: box-style "EXIT" sign with red lettering and two round lamp heads mounted on top.
+- No wattage, lumens, voltage, color options, features or dimensions are printed. A sales rep would need the spec sheets for those details.
+
+The page's raw text:
 EXIT/ EMERGENCY LIGHTS
 EXIT SIGN
 RECESSED EDGELIT
@@ -17106,6 +28030,26 @@ Spec Sheet
 
 From the 2026 MES Catalog, page 98.
 
+What the page shows, read from the page image:
+**Products**
+- SMART STRIP – 06555
+- SMART THERMOSTAT – 12050
+- ZERO LOSS CONDENSATE DRAIN – 08240
+- AIR NOZZLE – 08200
+- HAND DRYERS – 19974
+
+(The page doesn't label these 5-digit numbers. They appear to be item or ordering codes.)
+
+**Other**
+- Page title: ENERGY EFFICIENT PRODUCTS
+- Each product has a "Spec Sheet" button. These are likely links to spec sheets in the digital catalog.
+- Smart Strip: The photo shows a white power strip with a cord and several outlets. There is a small logo that looks like "MES", but it's too small to confirm. The outlet labels can't be read.
+- Smart Thermostat: The photo shows a unit branded "VENSTAR" with "EXPLORER" on the display. The display reads "72°" and "70 COOL". The buttons are labeled "MODE" and "OVERRIDE".
+- Zero Loss Condensate Drain: The photo shows a black unit with a green label. The label text can't be read.
+- Air Nozzle: The photo shows a black blow-gun style nozzle with a metal tip. There is a brand mark on the handle, but it can't be read.
+- Hand Dryers: The photo shows a white unit with a blue base, marked "WORLD DRYER" and "HEPA". The model name isn't shown.
+
+The page's raw text:
 ENERGY EFFICIENT PRODUCTS
 SMART STRIP
 06555
@@ -17130,6 +28074,42 @@ Spec Sheet
 
 From the 2026 MES Catalog, page 99.
 
+What the page shows, read from the page image:
+**Products**
+Page header: ENERGY EFFICIENT PRODUCTS
+- DOOR SWEEPS
+- SHOWER HEAD
+- DUAL THREAD FAUCET AERATOR
+- PRE-RINSE SPRAY VALVE
+
+**Ordering table**
+DOOR SWEEPS (codes printed by finish):
+- SILVER, 2-1/4 36IN: 09206
+- SILVER, 1-1/4 48IN: 09204
+- BRONZE, 2-1/4 36IN: 09207
+- BRONZE, 1-1/4 48IN: 09205
+
+SHOWER HEAD: 08226
+
+DUAL THREAD FAUCET AERATOR: 08225
+
+PRE-RINSE SPRAY VALVE: 08227
+
+No DLC ID, watts, CCT, lumens, voltage or other columns are printed for any of these products.
+
+**Dimensions and mounting**
+- DOOR SWEEPS: sizes are printed only as part of the ordering codes (2-1/4 36IN and 1-1/4 48IN). The photo shows two sweep strips with mounting screws: one dark (bronze) and one silver.
+
+**Other**
+- Each product has a green "Spec Sheet" button with a click icon. It appears to be a link to a spec sheet, but no URL or spec content is printed on the page.
+- Photos show:
+  - Door sweeps: a dark strip and a silver strip, each with screws.
+  - Shower head: chrome.
+  - Faucet aerator: chrome faucet spout with the aerator shown separately.
+  - Pre-rinse spray valve: chrome valve with a dark blue handle and head. Small text is printed on the handle but is too small to read.
+- No certification logos, feature icons, or compatible sensors and controls appear on this page.
+
+The page's raw text:
 ENERGY EFFICIENT PRODUCTS
 DOOR SWEEPS
 08225

@@ -10,11 +10,13 @@
   "scripts": {
     "crawl": "node src/crawl.ts",
     "add-catalogs": "node src/add-catalogs.ts",
+    "describe-catalogs": "node src/describe-catalogs.ts",
     "start": "node src/server.ts",
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.137.0",
+    "@napi-rs/canvas": "^1.0.13",
     "cheerio": "^1.2.0",
     "dompurify": "^3.4.17",
     "marked": "^18.1.1",
